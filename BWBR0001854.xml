@@ -2367,13 +2367,7 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
     </lid>
 </artikel>
 </titeldeel>
-    <titeldeel>
-    <kop>
-        <label>Titel</label>
-        <nr>IIA</nr>
-        <titel status="officieel">Maatregelen</titel>
-    </kop>
-    <afdeling>
+    <titeldeel><kop><label>Titel</label><nr>IIA</nr><titel status="officieel">Maatregelen</titel></kop><afdeling>
     <kop>
         <nr>Eerste</nr>
         <label>afdeling</label>
@@ -2627,8 +2621,7 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
             het slachtoffer niet opheft.</al>
     </lid>
 </artikel>
-</afdeling>
-    <afdeling>
+</afdeling><afdeling>
     <kop>
         <nr>Tweede</nr>
         <label>afdeling</label>
@@ -3219,144 +3212,49 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
 		is gegeven.</al> 
   </lid>
 </artikel>
-</afdeling>
-    <afdeling>
-    <kop>
-        <nr>Derde</nr>
-        <label>afdeling</label>
-        <titel status="officieel">Plaatsing in een inrichting voor de
-            opvang van verslaafden</titel>
-    </kop>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>38m</nr>
-    </kop>
-    
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De rechter kan op vordering van het openbaar ministerie de
-            maatregel opleggen tot plaatsing van een verdachte in een
-            inrichting voor de opvang van verslaafden, indien:</al>
-        <lijst>
-            <li>
-                <li.nr>1&#xB0;.</li.nr>
-                <al>het door de verdachte begane feit een misdrijf
-                    betreft waarvoor voorlopige hechtenis is toegelaten;</al>
-            </li>
-            <li>
-                <li.nr>2&#xB0;.</li.nr>
-                <al>de verdachte in de vijf jaren voorafgaand aan het
-                    door hem begane feit ten minste driemaal wegens een
-                    misdrijf onherroepelijk tot een vrijheidsbenemende
-                    straf of maatregel, een vrijheidsbeperkende
-                    maatregel of tot een taakstraf is veroordeeld, het
-                    feit is begaan na tenuitvoerlegging van deze
-                    straffen of maatregelen en er voorts ernstig
-                    rekening mede moet worden gehouden dat de verdachte
-                    wederom een misdrijf zal begaan; </al>
-            </li>
-            <li>
-                <li.nr>3&#xB0;.</li.nr>
-                <al>de verdachte verslaafde is, en het onder 2&#xB0; vermelde
-                    misdrijf, het door hem begane feit en de
-                    omstandigheid dat er ernstig rekening mede moet
-                    worden gehouden dat hij wederom een misdrijf zal
-                    begaan, samenhangen met zijn verslaving, en</al>
-            </li>
-            <li>
-                <li.nr>4&#xB0;.</li.nr>
-                <al>de veiligheid van personen of goederen het opleggen
-                    van de maatregel eist.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>De maatregel strekt er mede toe een bijdrage te leveren aan
-            de oplossing van de verslavingsproblematiek van de verdachte
-            ten behoeve van zijn terugkeer in de maatschappij en de
-            be&#xEB;indiging van zijn recidive.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Onder verslaafde als bedoeld in het eerste lid wordt
-            verstaan een persoon ten aanzien van wie uit feiten en
-            omstandigheden blijkt van lichamelijke of psychische
-            afhankelijkheid van een of meer middelen, vermeld op de bij
-            de <extref status="actief" doc="1.0:v:BWBR0001941" compleet="nee">Opiumwet behorende lijst I</extref>.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>De rechter legt de maatregel slechts op, nadat hij zich een
-            met redenen omkleed, gedagtekend en ondertekend advies heeft
-            doen overleggen van een gedragsdeskundige. Indien dit advies
-            eerder dan een jaar voor de aanvang van de terechtzitting is
-            gedagtekend, kan de rechter hiervan slechts gebruik maken
-            met instemming van het openbaar ministerie en de verdachte.</al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al>Het vierde lid blijft buiten toepassing indien de verdachte
+</afdeling><afdeling><kop><nr>Derde</nr><label>afdeling</label><titel status="officieel">Plaatsing in een inrichting voor stelselmatige daders</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>38m</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De rechter kan op vordering van het openbaar ministerie de maatregel opleggen
+tot plaatsing van een verdachte in een inrichting voor stelselmatige daders,
+indien:</al><lijst><li><li.nr>1&#xB0;.</li.nr><al>het door de verdachte begane feit een misdrijf betreft waarvoor
+voorlopige hechtenis is toegelaten;</al></li><li><li.nr>2&#xB0;.</li.nr><al>de verdachte in de vijf jaren voorafgaand aan het door hem begane
+feit ten minste driemaal wegens een misdrijf onherroepelijk tot een vrijheidsbenemende
+straf of maatregel, een vrijheidsbeperkende maatregel of een taakstraf is
+veroordeeld, het feit is begaan na tenuitvoerlegging van deze
+straffen of maatregelen en er voorts ernstig rekening mede moet worden gehouden
+dat de verdachte wederom een misdrijf zal begaan, en</al></li><li><li.nr>3&#xB0;.</li.nr><al>de veiligheid van personen of goederen het opleggen van de maatregel
+eist.</al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>De maatregel strekt tot beveiliging van de maatschappij en de be&#xEB;indiging
+van de recidive van de verdachte.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien de verdachte verslaafde is dan wel ten aanzien van hem andere specifieke
+problematiek bestaat waarmee het plegen van strafbare feiten samenhangt, strekt
+de maatregel er mede toe een bijdrage te leveren aan de oplossing van zijn
+verslavingsproblematiek dan wel van die andere problematiek.</al></lid><lid><lidnr status="officieel">4</lidnr><al>De rechter legt de maatregel slechts op, nadat hij een met redenen omkleed,
+gedagtekend en ondertekend advies over de wenselijkheid of noodzakelijkheid
+van de maatregel heeft doen overleggen. Indien dit advies eerder dan een jaar
+voor de aanvang van de terechtzitting is gedagtekend, kan de rechter hiervan
+slechts gebruik maken met instemming van het openbaar ministerie en de verdachte.</al></lid><lid><lidnr>5</lidnr><al>Het vierde lid blijft buiten toepassing indien de verdachte
             weigert medewerking te verlenen aan het onderzoek dat ten
-            behoeve van het advies moet worden verricht. Voor zover
-            mogelijk maakt de deskundige over de reden van de weigering
-            rapport op. De rechter doet zich zo veel mogelijk een ander
+            behoeve van het advies moet worden verricht. Voor zover mogelijk wordt over de reden van de weigering rapport opgemaakt. De rechter doet zich zo veel mogelijk een ander
             advies of rapport dat hem over de wenselijkheid of
             noodzakelijkheid van de maatregel kan voorlichten en aan de
             totstandkoming waarvan de verdachte wel bereid is om
-            medewerking te verlenen, overleggen.</al>
-    </lid>
-    <lid>
-        <lidnr>6</lidnr>
-        <al>Bij het opleggen van de maatregel neemt de rechter de inhoud
+            medewerking te verlenen, overleggen.</al></lid><lid><lidnr>6</lidnr><al>Bij het opleggen van de maatregel neemt de rechter de inhoud
             van de overige adviezen en rapporten die over de verdachte
             zijn uitgebracht, alsmede de veelheid van misdrijven
-            waarvoor deze eerder is veroordeeld in aanmerking.</al>
-    </lid>
-</artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>38n</nr></kop><lid><lidnr>1</lidnr><al>De maatregel geldt voor de tijd van ten hoogste twee jaren,
+            waarvoor deze eerder is veroordeeld in aanmerking.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>38n</nr></kop><lid><lidnr>1</lidnr><al>De maatregel geldt voor de tijd van ten hoogste twee jaren,
             te rekenen van de dag waarop de rechterlijke uitspraak
             waarbij hij is opgelegd, onherroepelijk is geworden.</al></lid><lid><lidnr>2</lidnr><al>Bij het bepalen van de duur van de maatregel kan de rechter
             rekening houden met de tijd die door de veroordeelde v&#xF3;&#xF3;r
             de tenuitvoerlegging van de uitspraak in verzekering, in
             voorlopige hechtenis, in een psychiatrisch ziekenhuis of een
             inrichting voor klinische observatie bestemd ingevolge een
-            bevel tot observatie, is doorgebracht.</al></lid></artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>38o</nr>
-    </kop>
-    
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De plaatsing geschiedt in een door onze Minister van
-            Justitie aangewezen inrichting voor de opvang van verslaafden.</al>
-    </lid>
-    
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Bij of krachtens de wet worden regels gesteld ten aanzien
+            bevel tot observatie, is doorgebracht.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>38o</nr></kop><lid><lidnr>1</lidnr><al>De plaatsing geschiedt in een door onze Minister van
+            Justitie aangewezen inrichting voor stelselmatige daders.</al></lid><lid><lidnr>2</lidnr><al>Bij of krachtens de wet worden regels gesteld ten aanzien
             van de tenuitvoerlegging van de maatregel in en buiten de
             inrichting en de rechtspositie van degene aan wie de
-            maatregel is opgelegd.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>3</lidnr>
-        <al>De kosten van de tenuitvoerlegging van de maatregel komen
+            maatregel is opgelegd.</al></lid><lid><lidnr>3</lidnr><al>De kosten van de tenuitvoerlegging van de maatregel komen
             ten laste van de Staat. De kosten van de tenuitvoerlegging
             van de laatste fase van de maatregel komen overeenkomstig
             bij of krachtens algemene maatregel van bestuur te stellen
             regels ten laste van gemeenten die deelnemen aan de
-            tenuitvoerlegging daarvan.</al>
-    </lid>
-</artikel>
-    <artikel status="goed">
+            tenuitvoerlegging daarvan.</al></lid></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>38p</nr>
@@ -3416,8 +3314,7 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
         <al>Het openbaar ministerie houdt toezicht op de naleving van de
             gestelde voorwaarden.</al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>38q</nr>
@@ -3439,8 +3336,7 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
                 steun bij de naleving van de voorwaarden opdragen.</al>
         </li>
     </lijst>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>38r</nr>
@@ -3450,36 +3346,23 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
     <al>De rechter kan, op vordering van het openbaar ministerie, indien
         een voorwaarde niet wordt nageleefd, bevelen dat de maatregel
         alsnog zal worden tenuitvoergelegd.</al>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>38s</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De rechter kan, op vordering van het openbaar ministerie, op
-            verzoek van de verdachte of diens raadsman dan wel
-            ambtshalve, bij het opleggen van de maatregel en nadien
-            eenmaal op vordering van het openbaar ministerie, op verzoek
-            van de veroordeelde of zijn raadsman of ambtshalve, bepalen
-            dat het openbaar ministerie hem binnen een bepaalde termijn
-            bericht over de wenselijkheid of noodzakelijkheid van de
-            voortzetting van de tenuitvoerlegging van de maatregel. Bij
-            het bericht is gevoegd een verklaring van de directeur van
-            de inrichting omtrent de stand van uitvoering van het plan
-            van opvang van de veroordeelde.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Indien de rechter naar aanleiding van de in het eerste lid
-            bedoelde inlichtingen van oordeel is dat de verdere
-            tenuitvoerlegging van de maatregel niet langer is vereist,
-            be&#xEB;indigt hij deze. </al>
-    </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr>38s</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De rechter kan, op vordering van het openbaar ministerie, op verzoek van
+de verdachte of diens raadsman dan wel ambtshalve, bij of na het opleggen
+van de maatregel beslissen tot een tussentijdse beoordeling van de noodzaak
+van de voortzetting van de tenuitvoerlegging van de maatregel. Het openbaar
+ministerie bericht hem daarover binnen een door hem te bepalen termijn. Bij
+het bericht is gevoegd een verklaring van de directeur van de inrichting omtrent
+de stand van de uitvoering van het verblijfsplan van de veroordeelde.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien de rechter bij het opleggen van de maatregel niet beslist tot een
+tussentijdse beoordeling dan wel beslist tot een beoordeling na een jaar na
+aanvang van de tenuitvoerlegging van de maatregel, kan een verzoek als bedoeld
+in het eerste lid worden gedaan na zes maanden na aanvang van de tenuitvoerlegging
+van de maatregel. In de overige gevallen kan een verzoek worden gedaan na
+zes maanden na het onherroepelijk worden van de beslissing om niet tussentijds
+te beoordelen of van de beslissing dat voortzetting van de tenuitvoerlegging
+van de maatregel is vereist.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien de rechter naar aanleiding van de in het eerste lid bedoelde inlichtingen
+beslist dat de voortzetting van de tenuitvoerlegging van de maatregel niet
+langer is vereist, be&#xEB;indigt hij deze met ingang van een door hem te
+bepalen tijdstip.</al></lid></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>38t</nr>
@@ -3491,26 +3374,23 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
             <li.nr>a.</li.nr>
             <al>gedurende de tijd dat aan degene aan wie deze is
                 opgelegd, uit anderen hoofde zijn vrijheid is ontnomen
-                en gedurende de tijd dat hij zich aan zodanige
-                vrijheidsbeneming heeft onttrokken;</al>
+                en gedurende de tijd
+dat hij ongeoorloofd afwezig is;</al>
         </li>
         <li>
             <li.nr>b.</li.nr>
-            <al>wanneer hij zich langer dan een dag achtereen
-                ongeoorloofd ophoudt buiten de inrichting waarin hij is geplaatst.</al>
+            <al>zodra degene die in een inrichting geplaatst is, langer dan een dag
+ongeoorloofd afwezig is.</al>
         </li>
     </lijst>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>38u</nr>
     </kop>
     
     <al>Onze Minister van Justitie kan de maatregel te allen tijde be&#xEB;indigen.</al>
-</artikel>
-</afdeling>
-</titeldeel>
+</artikel></afdeling></titeldeel>
     <titeldeel>
     <kop>
         <label>Titel</label>
