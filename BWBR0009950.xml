@@ -1191,23 +1191,30 @@
         <label>Artikel</label>
         <nr>3.10</nr>
     </kop>
+    
     <lid>
         <lidnr>1</lidnr>
         <al>Onze Minister kan, in overeenstemming met Onze Minister van
             Justitie, toestemming geven tot een gebruik van de
             frequentieruimte dat afwijkt van het bepaalde bij of
-            krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">dit hoofdstuk</intref>,
-            wanneer dit noodzakelijk is ter be&#xEB;indiging van strafbaar
-            gedrag jegens een persoon. </al>
+            krachtens dit hoofdstuk, wanneer dit noodzakelijk is ter
+            be&#xEB;indiging van strafbaar gedrag jegens een persoon. </al>
     </lid>
     <lid>
         <lidnr>2</lidnr>
         <al>Onze Minister kan, in overeenstemming met Onze Minister van
-            Binnenlandse Zaken en Koninkrijksrelaties, toestemming geven
-            tot een gebruik van de frequentieruimte dat afwijkt van het
-            bepaalde bij of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">dit hoofdstuk</intref>,
-            wanneer dit noodzakelijk is in het belang van de veiligheid
-            van de staat. </al>
+            Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk
+            Onze Minister van Defensie, toestemming geven tot een
+            gebruik van de frequentieruimte dat afwijkt van het bepaalde
+            bij of krachtens dit hoofdstuk, wanneer dit noodzakelijk is
+            ter uitvoering van de aan de Algemene Inlichtingen- en
+            Veiligheidsdienst onderscheidenlijk Militaire Inlichtingen-
+            en Veiligheidsdienst opgedragen taken in de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en
+                veiligheidsdiensten 2002</extref>. De
+                <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet
+            bestuursrecht</extref> is niet van toepassing op de
+            voorbereiding, totstandkoming en tenuitvoerlegging van een
+            besluit als bedoeld in de eerste volzin.</al>
     </lid>
     <lid>
         <lidnr>3</lidnr>
@@ -1222,10 +1229,10 @@
         <lidnr>4</lidnr>
         <al>In afwijking van het eerste lid is gebruik van
             frequentieruimte dat afwijkt van het bepaalde bij of
-            krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">dit hoofdstuk</intref>
-            eveneens mogelijk wanneer dit nodig is teneinde toepassing
-            te kunnen geven aan de strafvorderlijke bevoegdheden tot het
-            onderzoek van telecommunicatie, mits: </al>
+            krachtens dit hoofdstuk eveneens mogelijk wanneer dit nodig
+            is teneinde toepassing te kunnen geven aan de
+            strafvorderlijke bevoegdheden tot het onderzoek van
+            telecommunicatie, mits: </al>
         <lijst>
             <li>
                 <li.nr>a.</li.nr>
@@ -4896,20 +4903,25 @@
         <label>Artikel</label>
         <nr>13.2</nr>
     </kop>
+    
     <lid>
         <lidnr>1</lidnr>
         <al>Aanbieders van openbare telecommunicatienetwerken zijn
             verplicht medewerking te verlenen aan de uitvoering van een
-            bevoegd gegeven bijzondere last tot het aftappen of opnemen
-            van telecommunicatie die over hun telecommunicatienetwerken
-            wordt afgewikkeld. </al>
+            bevoegd gegeven bijzondere last dan wel een toestemming op
+            grond van de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en
+                veiligheidsdiensten 2002</extref> tot het
+            aftappen of opnemen van telecommunicatie die over hun
+            telecommunicatienetwerken wordt afgewikkeld. </al>
     </lid>
     <lid>
         <lidnr>2</lidnr>
         <al>Aanbieders van openbare telecommunicatiediensten zijn
             verplicht medewerking te verlenen aan de uitvoering van een
-            bevoegd gegeven bijzondere last tot het aftappen of opnemen
-            van door hen verzorgde telecommunicatie. </al>
+            bevoegd gegeven bijzondere last dan wel een toestemming op
+            grond van de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en
+                veiligheidsdiensten 2002</extref> tot het
+            aftappen of opnemen van door hen verzorgde telecommunicatie. </al>
     </lid>
     <lid>
         <lidnr>3</lidnr>
@@ -4981,11 +4993,14 @@
         <label>Artikel</label>
         <nr>13.5</nr>
     </kop>
+    
     <lid>
         <lidnr>1</lidnr>
         <al>Aanbieders van openbare telecommunicatienetwerken en
             openbare telecommunicatiediensten zijn verplicht gegevens
-            met betrekking tot een bijzondere last als bedoeld in
+            met betrekking tot een bijzondere last dan wel een
+            toestemming op grond van de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en
+                veiligheidsdiensten 2002</extref> als bedoeld in
                 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2">artikel 13.2</intref> en
             informatieverstrekkingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">artikel 13.4</intref> te
             beveiligen tegen kennisneming door onbevoegden alsmede
@@ -5004,14 +5019,15 @@
         <label>Artikel</label>
         <nr>13.6</nr>
     </kop>
+    
     <lid>
         <lidnr>1</lidnr>
         <al>De investerings-, exploitatie- en onderhoudskosten voor de
             technische voorzieningen die door aanbieders van openbare
             telecommunicatienetwerken en openbare
             telecommunicatiediensten zijn of worden gemaakt teneinde te
-            kunnen voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.1">de artikelen
-            13.1</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">13.4</intref>, en
+            kunnen voldoen aan de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.1">artikelen 13.1</intref>,
+                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">13.4</intref>, en
                 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.5">13.5</intref> komen te
             hunnen laste. </al>
     </lid>
@@ -5021,8 +5037,10 @@
             openbare telecommunicatiediensten hebben aanspraak op
             vergoeding uit 's Rijks kas van de door hen gemaakte
             administratiekosten en personeelskosten rechtstreeks
-            voortvloeiend uit het voldoen aan een bijzondere last als
-            bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2">artikel 13.2, eerste en tweede
+            voortvloeiend uit het voldoen aan een bijzondere last dan
+            wel een toestemming op grond van de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en
+                veiligheidsdiensten 2002</extref> als bedoeld in
+                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2">artikel 13.2, eerste en tweede
             lid</intref>, onderscheidenlijk het verstrekken van
             informatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">artikel 13.4</intref>. </al>
     </lid>
@@ -5067,14 +5085,15 @@
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>13.8</nr>
+        <nr status="officieel">13.8</nr>
     </kop>
-    <al>Van de verplichtingen die voortvloeien uit <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=13">dit hoofdstuk</intref> kan
+    <al>Van de verplichtingen die voortvloeien uit dit hoofdstuk kan
         Onze Minister in overeenstemming met Onze Minister van
-        Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van
-        Justitie in bijzondere gevallen ontheffing verlenen. Een
-        ontheffing kan onder beperkingen worden verleend. Aan een
-        ontheffing kunnen voorschriften worden verbonden. </al>
+        Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van
+        Defensie en Onze Minister van Justitie in bijzondere gevallen
+        ontheffing verlenen. Een ontheffing kan onder beperkingen worden
+        verleend. Aan een ontheffing kunnen voorschriften worden
+        verbonden. </al>
 </artikel>
 </hoofdstuk>
             <hoofdstuk>
