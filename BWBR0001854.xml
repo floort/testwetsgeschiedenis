@@ -366,43 +366,31 @@ tweede lid, onder 5&#xB0;</intref>, is afgewezen.</al></lid></artikel>
 		<li> 
 		  <li.nr>3&#xB0;.</li.nr> 
 		  <al>aan een der misdrijven omschreven in de
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref> en
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250a</intref>, voor zover het
-			 feit is gepleegd ten aanzien van een minderjarige.</al> 
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">273a</intref>, voor zover het
+			 feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet
+heeft bereikt.</al> 
 		</li>
 	 </lijst> 
   </lid>
     
-  <lid> 
-	 <lidnr>2</lidnr> 
-	 <al> In de gevallen, bedoeld in het eerste lid, onder 2&#xB0;, kan de vervolging
-		ook plaatshebben, indien de verdachte eerst na het begaan van het feit
-		Nederlander wordt.</al> 
-  </lid>
+  <lid> <lidnr>2</lidnr><al>In de
+gevallen, omschreven in het eerste lid, onderdelen 2&#xB0; en
+3&#xB0;, kan de vervolging ook plaatshebben, als de verdachte eerst
+na het feit Nederlander
+wordt.</al></lid>
 </artikel>
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr>5a</nr> 
-  </kop> 
-  <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>De Nederlandse strafwet is toepasselijk op de vreemdeling die in
+    <artikel status="goed"><kop><label>Artikel</label><nr>5a</nr></kop><lid><lidnr>1</lidnr><al>De Nederlandse strafwet is toepasselijk op de vreemdeling die in
 		Nederland een vaste woon- of verblijfplaats heeft en zich buiten Nederland
 		schuldig maakt aan een der misdrijven omschreven in de
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref> en
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250a</intref>, voor zover het
-		feit is gepleegd ten aanzien van een minderjarige, een terroristisch misdrijf, dan wel een der misdrijven omschreven
+		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">273a</intref>, voor zover het
+		feit is gepleegd ten aanzien van een persoon die de
+leeftijd van achttien jaren nog niet heeft
+bereikt, een terroristisch misdrijf, dan wel een der misdrijven omschreven
 in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 225, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=311">311, eerste lid, onder 6&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede
-lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317, derde lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>.</al> 
-  </lid> 
-  <lid> 
-	 <lidnr>2</lidnr> 
-	 <al>De vervolging kan ook plaatshebben, indien de verdachte eerst na het
+lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317, derde lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>.</al></lid><lid><lidnr>2</lidnr><al>De vervolging kan ook plaatshebben, indien de verdachte eerst na het
 		begaan van het feit een vaste woon- of verblijfplaats in Nederland heeft
-		gekregen.</al> 
-  </lid>
-</artikel>
+		gekregen.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -1041,34 +1029,13 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
             Strafvordering</extref> is van overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>14i</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Het onderzoek vindt plaats ter openbare terechtzitting.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Het openbaar ministerie is bij het onderzoek tegenwoordig
-            en wordt terzake gehoord.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al> De veroordeelde en degene die met het verlenen van hulp en
+    <artikel status="goed"><kop><label>Artikel</label><nr>14i</nr></kop><lid><lidnr>1</lidnr><al>Het onderzoek vindt plaats ter openbare terechtzitting.</al></lid><lid><lidnr>2</lidnr><al> Het openbaar ministerie is bij het onderzoek tegenwoordig
+            en wordt terzake gehoord.</al></lid><lid><lidnr>3</lidnr><al> De veroordeelde en degene die met het verlenen van hulp en
             steun is belast kunnen bij het onderzoek tegenwoordig zijn
             en worden alsdan gehoord. De veroordeelde kan zich door een
             raadsman of, indien de zaak bij de kantonrechter wordt
             behandeld, door een bijzonder daartoe door de veroordeelde
-            gemachtigde, doen bijstaan.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>4</lidnr>
-        <al> In gevallen waarin de behandeling van de zaak niet
+            gemachtigde, doen bijstaan.</al></lid><lid><lidnr>4</lidnr><al> In gevallen waarin de behandeling van de zaak niet
             gelijktijdig geschiedt met de behandeling van een feit
             waarvoor de veroordeelde wordt vervolgd, vinden de
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=260" compleet="nee">artikelen 260, eerste
@@ -1093,28 +1060,17 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=318" compleet="nee">318</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=319" compleet="nee">319</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=320" compleet="nee">320, eerste en tweede
-            lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=321" compleet="nee">321</extref>,
-                <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=322" compleet="nee">322</extref>,
+            lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=322" compleet="nee">322</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=324" compleet="nee">324</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=326" compleet="nee">326 tot en met
             329</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=331" compleet="nee">331</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=345" compleet="nee">345, eerste en derde
             lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=346" compleet="nee">346 van het Wetboek van
-            Strafvordering</extref> overeenkomstige toepassing.</al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al> De in het vierde lid genoemde artikelen vinden geen
+            Strafvordering</extref> overeenkomstige toepassing.</al></lid><lid><lidnr>5</lidnr><al> De in het vierde lid genoemde artikelen vinden geen
             toepassing voor zover deze betrekking hebben op een getuige
-            wiens identiteit niet of slechts ten dele blijkt.</al>
-    </lid>
-    <lid>
-        <lidnr>6</lidnr>
-        <al> Gedurende het onderzoek kan het openbaar ministerie zijn
+            wiens identiteit niet of slechts ten dele blijkt.</al></lid><lid><lidnr>6</lidnr><al> Gedurende het onderzoek kan het openbaar ministerie zijn
             ingediende vordering of conclusie en de veroordeelde zijn
-            verzoek wijzigen.</al>
-    </lid>
-</artikel>
+            verzoek wijzigen.</al></lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -1321,15 +1277,7 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
             wordt gebracht.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>15b</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Bij zijn vordering zendt het openbaar ministerie de daarop
+    <artikel status="goed"><kop><label>Artikel</label><nr>15b</nr></kop><lid><lidnr>1</lidnr><al>Bij zijn vordering zendt het openbaar ministerie de daarop
             betrekking hebbende stukken aan het gerechtshof toe. De
             voorzitter van het gerechtshof bepaalt daarop onverwijld een
             dag voor het onderzoek van de zaak, tenzij hij vaststelt dat
@@ -1337,46 +1285,25 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
             ontvangen. Indien zulks niet wordt vastgesteld, stelt de
             griffier een afschrift van de vordering en van de daarop
             betrekking hebbende stukken de advocaat-generaal bij het
-            gerechtshof ter hand.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Hangende de beslissing van het gerechtshof op de vordering
-            wordt de veroordeelde niet vervroegd in vrijheid gesteld.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Indien niet blijkt dat de veroordeelde een raadsman heeft,
+            gerechtshof ter hand.</al></lid><lid><lidnr>2</lidnr><al> Hangende de beslissing van het gerechtshof op de vordering
+            wordt de veroordeelde niet vervroegd in vrijheid gesteld.</al></lid><lid><lidnr>3</lidnr><al> Indien niet blijkt dat de veroordeelde een raadsman heeft,
             geeft de voorzitter op verzoek van de veroordeelde aan het
             bureau rechtsbijstandvoorziening last tot toevoeging van een
             raadsman. De veroordeelde en zijn raadsman kunnen voor de
             aanvang van het onderzoek van de stukken kennis nemen. Het
             bepaalde bij en krachtens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=34" compleet="nee">artikel 34 van het Wetboek van
-            Strafvordering</extref> is van overeenkomstige toepassing.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al> Zowel de advocaat-generaal als de veroordeelde is bevoegd
+            Strafvordering</extref> is van overeenkomstige toepassing.</al></lid><lid><lidnr>4</lidnr><al> Zowel de advocaat-generaal als de veroordeelde is bevoegd
             getuigen en deskundigen te doen dagvaarden of schriftelijk
             te doen oproepen om bij het onderzoek tegenwoordig te zijn.
             De <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=260" compleet="nee">artikelen 260</extref>
             en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=263" compleet="nee">263 van het Wetboek van
             Strafvordering</extref> vinden overeenkomstige
             toepassing. Het gerechtshof kan ambtshalve ook andere
-            personen horen.</al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al> Het onderzoek vindt plaats ter openbare terechtzitting. De
+            personen horen.</al></lid><lid><lidnr>5</lidnr><al> Het onderzoek vindt plaats ter openbare terechtzitting. De
             veroordeelde wordt in de gelegenheid gesteld bij de
             behandeling van zijn zaak tegenwoordig te zijn en zich door
             zijn raadsman te doen bijstaan. De advocaat-generaal is bij
-            het onderzoek aanwezig en wordt terzake gehoord.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>6</lidnr>
-        <al> De <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=268" compleet="nee">artikelen 268, tweede
+            het onderzoek aanwezig en wordt terzake gehoord.</al></lid><lid><lidnr>6</lidnr><al> De <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=268" compleet="nee">artikelen 268, tweede
             lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=269" compleet="nee">269</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=270" compleet="nee">270</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=271" compleet="nee">271, eerste
@@ -1392,21 +1319,14 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
             297</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=315" compleet="nee">315</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=319" compleet="nee">319</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=320" compleet="nee">320, eerste en tweede
-            lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=321" compleet="nee">321</extref>,
-                <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=322" compleet="nee">322</extref>,
+            lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=322" compleet="nee">322</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=324" compleet="nee">324</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=326" compleet="nee">326 tot en met
             331</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=345" compleet="nee">345, eerste en derde
             lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=346" compleet="nee">346 van het Wetboek van
-            Strafvordering</extref> vinden overeenkomstige toepassing.</al>
-    </lid>
-    <lid>
-        <lidnr>7</lidnr>
-        <al> De in het zesde lid genoemde artikelen vinden geen
+            Strafvordering</extref> vinden overeenkomstige toepassing.</al></lid><lid><lidnr>7</lidnr><al> De in het zesde lid genoemde artikelen vinden geen
             toepassing voor zover deze betrekking hebben op een getuige
-            wiens identiteit niet of slechts ten dele blijkt.</al>
-    </lid>
-</artikel>
+            wiens identiteit niet of slechts ten dele blijkt.</al></lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -4199,53 +4119,29 @@ te maken.</al></artikel></titeldeel>
         </li>
     </lijst>
 </artikel>
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr>71</nr> 
-  </kop> 
-   
-  <al>De termijn van verjaring vangt aan op de dag na die waarop het feit is
-	 gepleegd, behoudens in de volgende gevallen: </al> 
-  <lijst> 
-	 <li> 
-		<li.nr>1&#xB0;.</li.nr> 
-		<al>bij de misdrijven omschreven in de
+    <artikel status="goed"><kop><label>Artikel</label><nr>71</nr></kop><al>De termijn van verjaring vangt aan op de dag na die waarop het feit is
+	 gepleegd, behoudens in de volgende gevallen: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>bij de misdrijven omschreven in de
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=172">artikelen 172, eerste lid</intref>,
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173">173, eerste lid</intref>,
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173<nadruk type="cur">a</nadruk></intref> en
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173b">173<nadruk type="cur">b</nadruk></intref>,
 		  vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen
-		  van een ambtenaar belast met de opsporing van strafbare feiten;</al> 
-	 </li> 
-	  
-	 <li> 
-		<li.nr>2&#xB0;.</li.nr> 
-		<al>bij valsheid of muntschennis op de dag na die waarop gebruik is
+		  van een ambtenaar belast met de opsporing van strafbare feiten;</al></li><li><li.nr>2&#xB0;.</li.nr><al>bij valsheid of muntschennis op de dag na die waarop gebruik is
 		  gemaakt van het voorwerp ten opzichte waarvan de valsheid of muntschennis
-		  gepleegd is;</al> 
-	 </li> 
-	 <li> 
-		<li.nr>3&#xB0;.</li.nr> 
-		<al>bij de misdrijven omschreven in de
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240<nadruk type="cur">b</nadruk></intref> en
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250<nadruk type="cur">a</nadruk></intref>, en gepleegd ten aanzien van een
-		  minderjarige, op de dag na die waarop die persoon achttien jaren is
-		  geworden;</al> 
-	 </li> 
-	 <li> 
-		<li.nr>4&#xB0;.</li.nr> 
-		<al>bij de misdrijven omschreven in de
+		  gepleegd is;</al></li><li><li.nr>3&#xB0;.</li.nr><al>bij de misdrijven omschreven in de
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>,
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">273a</intref>, en gepleegd ten aanzien van een
+		  persoon die de
+leeftijd van achttien jaren nog niet heeft
+bereikt, op de dag na die waarop die persoon achttien jaren is
+		  geworden;</al></li><li><li.nr>4&#xB0;.</li.nr><al>bij de misdrijven omschreven in de
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=278">artikelen 278</intref>,
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=279">279</intref>,
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282">282</intref> en
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282a">282<nadruk type="cur">a</nadruk></intref> op de
 		  dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het
-		  misdrijf gepleegd is;</al> 
-	 </li> 
-	 <li> 
-		<li.nr>5&#xB0;.</li.nr> 
-		<al>bij de overtredingen omschreven in de
+		  misdrijf gepleegd is;</al></li><li><li.nr>5&#xB0;.</li.nr><al>bij de overtredingen omschreven in de
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=465">artikelen 465</intref>,
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=466">466</intref> en
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=467">467</intref>, op de dag na die waarop ingevolge
@@ -4254,10 +4150,7 @@ te maken.</al></artikel></titeldeel>
 		  Wetboek</extref>, de aldaar bedoelde registers waaruit zodanige
 		  overtreding blijkt, naar de centrale bewaarplaats, bedoeld in
 		  <extref status="actief" doc="1.0:v:BWBR0006493&amp;afdeling=Achtste" compleet="nee">afdeling 8 van hoofdstuk 1 van het Besluit burgerlijke
-		  stand 1994</extref> zijn overgebracht.</al> 
-	 </li> 
-  </lijst>
-</artikel>
+		  stand 1994</extref> zijn overgebracht.</al></li></lijst></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4615,29 +4508,17 @@ te maken.</al></artikel></titeldeel>
         plaatsing in een inrichting voor jeugdigen vindt dan plaats
         overeenkomstig <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37c">artikel 37c</intref>.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>77d</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De verjaringstermijn van het recht tot strafvordering,
+    <artikel status="goed"><kop><label>Artikel</label><nr>77d</nr></kop><lid><lidnr>1</lidnr><al>De verjaringstermijn van het recht tot strafvordering,
             genoemd in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=70">artikel 70</intref>,
             wordt ten aanzien van misdrijven tot de helft van de daar
-            bedoelde duur ingekort.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Het eerste lid is niet van toepassing op misdrijven
-            omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>
-            en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met
-            250a</intref>, gepleegd door een persoon die ten
+            bedoelde duur ingekort.</al></lid><lid><lidnr>2</lidnr><al>Het eerste lid is niet van toepassing op misdrijven
+            omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met
+            250</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">273a</intref>, gepleegd door een persoon die ten
             tijde van het begaan van het strafbaar feit de leeftijd van
-            zestien jaren heeft bereikt, ten aanzien van een minderjarige.</al>
-    </lid>
-</artikel>
+            zestien jaren heeft bereikt, ten aanzien van een persoon die de
+leeftijd van achttien jaren nog niet heeft
+bereikt.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4719,10 +4600,8 @@ te maken.</al></artikel></titeldeel>
         <lijst>
             <li>
                 <li.nr>a.</li.nr>
-                <al>zich zal richten naar de aanwijzingen van een
-                    instelling als bedoeld in <extref status="actief" doc="1.0:v:BWBR0004608&amp;artikel=60" compleet="nee">artikel 60, eerste lid,
-                        onder <nadruk type="cur">b</nadruk>, van de Wet
-                        op de jeugdhulpverlening</extref>, voor
+                <al>zich zal richten naar de aanwijzingen van een stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet
+op de jeugdzorg</extref>, voor
                     een daarbij te bepalen termijn van ten hoogste zes maanden;</al>
             </li>
             <li>
@@ -5143,7 +5022,11 @@ te maken.</al></artikel></titeldeel>
             taakstraf uitvoert, kan het openbaar ministerie inlichtingen
             inwinnen bij de raad voor de kinderbescherming. Het openbaar
             ministerie kan diens medewerking inroepen en hem de nodige
-            opdrachten geven.</al>
+            opdrachten geven. De
+raad voor de kinderbescherming is bevoegd aanwijzingen te geven aan de stichting,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet op de jeugdzorg</extref>, wanneer het de
+tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel
+1, onder f, van de Wet op de jeugdzorg</extref> betreft.</al>
     </lid>
     
     <lid>
@@ -5586,10 +5469,7 @@ te maken.</al></artikel></titeldeel>
     </lid>
     <lid>
         <lidnr>2</lidnr>
-        <al> De rechter kan aan een rechtspersoon als bedoeld in
-                <extref status="actief" doc="1.0:v:BWBR0004608&amp;artikel=60" compleet="nee">artikel 60, eerste lid, onder
-                    <nadruk type="cur">b</nadruk>, van de Wet op de
-            jeugdhulpverlening</extref>, of, in bijzondere
+        <al> De rechter kan aan een stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet op de jeugdzorg</extref>, of, in bijzondere
             gevallen en na overleg met een dergelijke rechtspersoon, aan
             een particulier persoon, opdragen aan de veroordeelde ter
             zake van de naleving der bijzondere voorwaarden hulp en
@@ -5598,9 +5478,9 @@ te maken.</al></artikel></titeldeel>
     <lid>
         <lidnr>3</lidnr>
         <al> De rechter kan, indien de veroordeelde ingevolge
-                <extref status="slapend" doc="" compleet="nee">artikel 254 van Boek 1 van het
+                <extref status="actief" doc="1.0:v:BWBR0002656&amp;artikel=254" compleet="nee">artikel 254 van Boek 1 van het
                 Burgerlijk Wetboek</extref> onder toezicht is
-            gesteld, aan de gezinsvoogdij-instelling opdragen aan de
+            gesteld, aan een stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet op de jeugdzorg</extref> opdragen aan de
             veroordeelde ter zake van de naleving der bijzondere
             voorwaarden hulp en steun te verlenen.</al>
     </lid>
@@ -5609,7 +5489,13 @@ te maken.</al></artikel></titeldeel>
         <al> Is de veroordeelde meerderjarig dan is <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14d">artikel 14<nadruk type="cur">d</nadruk>, tweede lid</intref>, van
             overeenkomstige toepassing.</al>
     </lid>
-</artikel>
+<lid>
+                    <lidnr status="officieel">5</lidnr>
+                    <al>Bij algemene maatregel van bestuur, op de voordracht van Onze Ministers
+van Justitie en van Volksgezondheid, Welzijn en Sport, kunnen regels worden
+gesteld omtrent de aard en de omvang van de hulp en steun, bedoeld in het
+tweede en derde lid.</al>
+                  </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -5788,7 +5674,17 @@ te maken.</al></artikel></titeldeel>
             met betrekking tot straffen van toepassing.</al>
     </lid>
 </artikel>
-    
+    <artikel status="goed"><kop><label>Artikel</label><nr>77hh</nr></kop><lid><lidnr>1</lidnr><al>De raad voor de kinderbescherming heeft tot taak toezicht te houden op
+de uitvoering van reclasseringswerkzaamheden als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77f">artikel 77f, eerste
+lid, onder a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77j">artikel 77j, vierde en vijfde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s, achtste lid</intref>,
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77aa">artikel 77aa, tweede en derde lid</intref>, van het Wetboek van Strafrecht, en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=493" compleet="nee">artikel
+493 van het Wetboek van Strafvordering</extref>, en is in dat kader bevoegd de stichting,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet op de jeugdzorg</extref> aanwijzingen te
+geven.</al></lid><lid><lidnr>2</lidnr><al>In door Onze
+Minister van Justitie aan te wijzen gevallen kan de raad voor de
+kinderbescherming de stichting inschakelen voor vrijwillige begeleiding
+van een
+jeugdige.</al></lid></artikel>
     
     
     
@@ -9370,33 +9266,15 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
         </lijst>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>183</nr>
-    </kop>
-    
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Met ambtenaren worden ten aanzien van de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=179">artikelen
-            179-182</intref> gelijkgesteld de bestuurders
-            benevens de be&#xEB;digde beambten en bedienden van spoorwegdiensten.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Voorts worden ten aanzien van die artikelen met ambtenaren
-            gelijkgesteld de schipper of gezagvoerder van een
+    <artikel status="goed"><kop><label>Artikel</label><nr>183</nr></kop><al> Met ambtenaren worden ten aanzien van
+					 de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=179">artikelen 179 tot en met 182</intref> gelijkgesteld de schipper of gezagvoerder van een
             luchtvaartuig die een bevoegdheid uitoefent of een
             verplichting vervult welke hem als zodanig is toegekend of
             opgelegd bij een bepaling van het <extref status="actief" doc="1.0:v:BWBR0001903" compleet="nee">Wetboek van
             Strafvordering</extref>. Onder schipper wordt
             begrepen hij die het hoogste gezag uitoefent op een
             overeenkomstig <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=136a" compleet="nee">artikel 136<nadruk type="cur">a</nadruk>, tweede lid, van het Wetboek van
-            Strafvordering</extref> aangewezen installatie.</al>
-    </lid>
-</artikel>
+            Strafvordering</extref> aangewezen installatie.</al></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -9730,37 +9608,43 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
         wordt gestraft met een gevangenisstraf van ten hoogste zes
         maanden of geldboete van de derde categorie.</al>
 </artikel>
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr>197a</nr> 
-  </kop> 
-  <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>Hij die een ander uit winstbejag behulpzaam is bij het zich verschaffen
-		van toegang tot of verblijven in Nederland of enige staat welke gehouden is
-		mede ten behoeve van Nederland grenscontrole uit te oefenen, of hem daartoe uit
-		winstbejag gelegenheid, middelen of inlichtingen verschaft terwijl hij weet of
-		ernstige redenen heeft te vermoeden dat de toegang of dat verblijf
-		wederrechtelijk is, wordt gestraft met een gevangenisstraf van ten hoogste vier
-		jaren of geldboete van de vijfde categorie.</al> 
-  </lid> 
-  <lid> 
-	 <lidnr>2</lidnr> 
-	 <al> Indien het feit wordt begaan in de uitoefening van enig ambt of beroep
+    <artikel status="goed"><kop><label>Artikel</label><nr>197a</nr></kop><lid><lidnr>1</lidnr><al>Hij die een ander
+behulpzaam is bij het zich verschaffen van toegang tot of doorreis door
+Nederland, een andere lidstaat van de Europese Unie, IJsland, Noorwegen
+of een staat die is toegetreden tot het op 15&#xA0;november 2000 te
+New York totstandgekomen Protocol tegen de smokkel van migranten over
+land, over de zee en in de lucht, tot aanvulling van het op 15 november
+2000 te New York totstandgekomen Verdrag tegen transnationale
+georganiseerde misdaad, of hem daartoe gelegenheid, middelen of
+inlichtingen verschaft, terwijl hij weet of ernstige redenen heeft te
+vermoeden dat die toegang of doorreis wederrechtelijk is, wordt als
+schuldig aan mensensmokkel gestraft met gevangenisstraf van ten hoogste
+vier jaren of geldboete van de vijfde
+categorie.</al></lid><lid><lidnr>2</lidnr><al>Hij die een
+ander uit winstbejag behulpzaam is bij het zich verschaffen van
+verblijf in Nederland, een andere lidstaat van de Europese Unie,
+IJsland, Noorwegen of een staat die is toegetreden tot het in het
+eerste lid genoemde protocol, of hem daartoe gelegenheid, middelen of
+inlichtingen verschaft, terwijl hij weet of ernstige redenen heeft te
+vermoeden dat dat verblijf wederrechtelijk is, wordt gestraft met een
+gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde
+categorie.</al></lid><lid><lidnr>3</lidnr><al> Indien een van
+de feiten, omschreven in het eerste en derde lid, wordt begaan in de uitoefening van enig ambt of beroep
 		wordt gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde
 		categorie opgelegd en kan ontzetting worden uitgesproken van de uitoefening van
 		het recht het ambt te bekleden of het beroep uit te oefenen en kan de rechter
-		openbaarmaking van zijn uitspraak gelasten.</al> 
-  </lid> 
-  <lid> 
-	 <lidnr>3</lidnr> 
-	 <al>Indien het feit wordt begaan door een persoon die daarvan een beroep of
+		openbaarmaking van zijn uitspraak gelasten.</al></lid><lid><lidnr>4</lidnr><al>Indien een van de feiten, omschreven in het
+eerste en derde lid, wordt begaan door een persoon die daarvan een beroep of
 		gewoonte maakt of in vereniging wordt begaan door meerdere personen wordt
 		gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie
-		opgelegd.</al> 
-  </lid>
-</artikel>
+		opgelegd.</al></lid><lid><lidnr>6</lidnr><al>Indien een van
+de feiten, omschreven in het eerste en derde lid, zwaar lichamelijk
+letsel ten gevolge heeft of daarvan levensgevaar voor een ander te
+duchten is, wordt gevangenisstraf van ten hoogste twaalf jaren of
+geldboete van de vijfde categorie opgelegd.</al></lid><lid><lidnr>7</lidnr><al>Indien een van de feiten, omschreven in het eerste
+en derde lid, de dood ten gevolge heeft, wordt gevangenisstraf van ten
+hoogste vijftien jaren of geldboete van de vijfde categorie
+opgelegd.</al></lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -10981,68 +10865,46 @@ van de vierde categorie.</al>
         gevangenisstraf van ten hoogste zes jaren of geldboete van de
         vierde categorie.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>248</nr>
-    </kop>
-    
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">artikelen 243</intref>
-            en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=245">245</intref>-<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=247">247</intref> omschreven
-            misdrijven zwaar lichamelijk letsel ten gevolge heeft, wordt
+    <artikel status="goed"><kop><label>Artikel</label><nr>248</nr></kop><lid><lidnr>1</lidnr><al>Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=245">245 tot en met 247</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248b">248b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=249">249</intref> omschreven
+            misdrijven zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander
+te duchten is, wordt
             gevangenisstraf van ten hoogste twaalf jaren of geldboete
-            van de vijfde categorie opgelegd.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">artikelen
-            242-247</intref> omschreven misdrijven de dood ten
+            van de vijfde categorie opgelegd.</al></lid><lid><lidnr>2</lidnr><al> Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen
+            240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243
+tot en met 247</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248b">248b</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=249">249</intref> omschreven misdrijven de dood ten
             gevolge heeft, wordt gevangenisstraf van ten hoogste
-            vijftien jaren of geldboete van de vijfde categorie opgelegd.</al>
-    </lid>
-</artikel>
+            vijftien jaren of geldboete van de vijfde categorie opgelegd.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>248a</nr>
+        <nr status="officieel">248a</nr>
     </kop>
     
     
     <al>Hij die door giften of beloften van geld of goed, misbruik van
         uit feitelijke verhoudingen voortvloeiend overwicht of
-        misleiding een minderjarige, wiens minderjarigheid hij kent of
-        redelijkerwijs moet vermoeden, opzettelijk beweegt ontuchtige
+        misleiding een persoon
+waarvan hij weet of redelijkerwijs moet vermoeden dat deze de leeftijd
+van achttien jaren nog niet heeft
+bereikt, opzettelijk beweegt ontuchtige
         handelingen te plegen of zodanige handelingen van hem te dulden,
         wordt gestraft met gevangenisstraf van ten hoogste vier jaren of
         geldboete van de vierde categorie.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>248b</nr>
-    </kop>
-    
-    <al>Hij die ontucht pleegt met iemand die zich beschikbaar stelt tot
+    <artikel status="goed"><kop><label>Artikel</label><nr>248b</nr></kop><al>Hij die ontucht pleegt met iemand die zich beschikbaar stelt tot
         het verrichten van seksuele handelingen met een derde tegen
         betaling en die de leeftijd van zestien jaren maar nog niet de
-        leeftijd van 18 jaren heeft bereikt, wordt gestraft met een
+        leeftijd van achttien jaren heeft bereikt, wordt gestraft met een
         gevangenisstraf van ten hoogste vier jaren of geldboete van de
-        vierde categorie.</al>
-</artikel>
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr>248c</nr> 
-  </kop> 
-  <al>Hij die opzettelijk aanwezig is bij het plegen van ontuchtige handelingen
-	 door een minderjarige wiens minderjarigheid hij kent of redelijkerwijs moet
-	 vermoeden dan wel bij het vertonen van afbeeldingen van dergelijke handelingen
+        vierde categorie.</al></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>248c</nr></kop><al>Hij die opzettelijk aanwezig is bij het plegen van ontuchtige handelingen
+	 door een persoon
+waarvan hij weet of redelijkerwijs moet vermoeden dat deze de leeftijd
+van achttien jaren nog niet heeft
+bereikt dan wel bij het vertonen van afbeeldingen van dergelijke handelingen
 	 in een daarvoor bestemde gelegenheid, wordt gestraft met gevangenisstraf van
-	 ten hoogste vier jaren of geldboete van de vierde categorie.</al>
-</artikel>
+	 ten hoogste vier jaren of geldboete van de vierde categorie.</al></artikel>
     
     
     <artikel status="goed">
@@ -11132,134 +10994,19 @@ van de vierde categorie.</al>
             worden verhoogd.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>250a</nr>
-    </kop>
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Met gevangenisstraf van ten hoogste zes jaren of geldboete
-            van de vijfde categorie wordt gestraft:</al>
-        <lijst>
-            <li>
-                <li.nr>1&#xB0;.</li.nr>
-                <al>degene die een ander door geweld of een andere
-                    feitelijkheid of door bedreiging met geweld of een
-                    andere feitelijkheid dwingt dan wel door misbruik
-                    van uit feitelijke verhoudingen voortvloeiend
-                    overwicht of door misleiding beweegt zich
-                    beschikbaar te stellen tot het verrichten van
-                    seksuele handelingen met of voor een derde tegen
-                    betaling, dan wel onder voornoemde omstandigheden
-                    enige handeling onderneemt waarvan hij of zij weet
-                    of redelijkerwijs moet vermoeden dat die ander zich
-                    daardoor tot het verrichten van die handelingen
-                    beschikbaar stelt;</al>
-            </li>
-            <li>
-                <li.nr>2&#xB0;.</li.nr>
-                <al>degene die een persoon aanwerft, medeneemt of
-                    ontvoert met het oogmerk die persoon in een ander
-                    land ertoe te brengen zich beschikbaar te stellen
-                    tot het verrichten van seksuele handelingen met of
-                    voor een derde tegen betaling;</al>
-            </li>
-            <li>
-                <li.nr>3&#xB0;.</li.nr>
-                <al>degene die een ander ertoe brengt zich beschikbaar
-                    te stellen tot het verrichten van seksuele
-                    handelingen met of voor een derde tegen betaling,
-                    dan wel ten aanzien van een ander enige handeling
-                    onderneemt waarvan hij of zij weet of redelijkerwijs
-                    moet vermoeden dat die ander zich daardoor tot het
-                    verrichten van die handelingen beschikbaar stelt,
-                    terwijl die ander minderjarig is;</al>
-            </li>
-            <li>
-                <li.nr>4&#xB0;.</li.nr>
-                <al>degene die opzettelijk voordeel trekt uit seksuele
-                    handelingen van een ander met of voor een derde
-                    tegen betaling, terwijl hij weet of redelijkerwijs
-                    moet vermoeden dat die ander zich onder de onder 1&#xB0;
-                    genoemde omstandigheden beschikbaar stelt tot het
-                    plegen van die handelingen;</al>
-            </li>
-            <li>
-                <li.nr>5&#xB0;.</li.nr>
-                <al>degene die opzettelijk voordeel trekt uit seksuele
-                    handelingen van een ander met of voor een derde
-                    tegen betaling, indien die ander minderjarig is;</al>
-            </li>
-            <li>
-                <li.nr>6&#xB0;.</li.nr>
-                <al>degene die een ander door geweld of een andere
-                    feitelijkheid of door bedreiging met geweld of een
-                    andere feitelijkheid dwingt dan wel door misbruik
-                    van uit feitelijke verhoudingen voortvloeiend
-                    overwicht of door misleiding beweegt hem of haar uit
-                    de opbrengst van zijn of haar seksuele handelingen
-                    met of voor een derde te bevoordelen.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>De schuldige wordt gestraft met een gevangenisstraf van ten
-            hoogste acht jaren of geldboete van de vijfde categorie, indien:</al>
-        <lijst>
-            <li>
-                <li.nr>1&#xB0;.</li.nr>
-                <al>de feiten, omschreven in het eerste lid, worden
-                    gepleegd door twee of meer verenigde personen;</al>
-            </li>
-            <li>
-                <li.nr>2&#xB0;.</li.nr>
-                <al>de minderjarige de leeftijd van zestien jaren nog
-                    niet heeft bereikt;</al>
-            </li>
-            <li>
-                <li.nr>3&#xB0;.</li.nr>
-                <al>geweld of een andere feitelijkheid als bedoeld in
-                    het eerste lid zwaar lichamelijk letsel ten gevolge heeft.</al>
-            </li>
-        </lijst>
-    </lid>
-    
-    <lid>
-        <lidnr>3</lidnr>
-        <al>De feiten, omschreven in het eerste lid, gepleegd door twee
-            of meer verenigde personen onder de omstandigheden, bedoeld
-            in het tweede lid, onder 2&#xB0; en 3&#xB0;, worden gestraft met
-            gevangenisstraf van ten hoogste tien jaren of geldboete van
-            de vijfde categorie.</al>
-    </lid>
-</artikel>
     
     
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>251</nr>
-    </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Bij veroordeling wegens een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">artikelen 242 tot en met
+    <artikel status="goed"><kop><label>Artikel</label><nr>251</nr></kop><lid><lidnr>1</lidnr><al>Bij veroordeling wegens een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b tot en met
             247</intref> onderscheidenlijk <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a tot en met
-            250a</intref> omschreven misdrijven, kan ontzetting
+            250</intref> omschreven misdrijven, kan ontzetting
             van de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=28">artikel 28, eerste lid, onder
-                1&#xB0;, 2&#xB0; en 4&#xB0;</intref>, vermelde rechten worden uitgesproken.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Indien de schuldige aan een der misdrijven in de
-                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">artikelen 248a tot en met
-            250a</intref> omschreven, het misdrijf in zijn
+                1&#xB0;, 2&#xB0; en 4&#xB0;</intref>, vermelde rechten worden uitgesproken.</al></lid><lid><lidnr>2</lidnr><al> Indien de schuldige aan een der misdrijven in de
+                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b tot en met
+247</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a tot en met
+            250</intref> omschreven, het misdrijf in zijn
             beroep begaat, kan hij van de uitoefening van dat beroep
-            worden ontzet.</al>
-    </lid>
-</artikel>
+            worden ontzet.</al></lid></artikel>
     
     <artikel status="goed">
     <kop>
@@ -11730,7 +11477,7 @@ van de vierde categorie.</al>
     </lid>
 </artikel>
 </titeldeel>
-    <titeldeel><kop><label>Titel</label><nr>XVIII</nr><titel status="officieel">Misdrijven tegen de persoonlijke vrijheid</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>273a</nr><al><redactie type="extra">Treedt in werking per 01-01-2005</redactie></al></kop><lid><lidnr>1</lidnr><al>Als schuldig aan mensenhandel wordt met
+    <titeldeel><kop><label>Titel</label><nr>XVIII</nr><titel status="officieel">Misdrijven tegen de persoonlijke vrijheid</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>273a</nr></kop><lid><lidnr>1</lidnr><al>Als schuldig aan mensenhandel wordt met
 gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde
 categorie
 gestraft:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1&#xB0;.</li.nr><al>degene die een ander door dwang, geweld of
@@ -11904,25 +11651,22 @@ toepassing.</al></lid></artikel><artikel status="goed">
     </lid>
     <lid>
         <lidnr>2</lidnr>
-        <al> Het voorgaande is niet van toepassing op hem die </al>
+        <al> Het voorgaande is niet van toepassing op</al>
         <lijst>
             <li>
                 <li.nr>a.</li.nr>
-                <al>de raad voor de kinderbescherming onverwijld de
+                <al>hem die de raad voor de kinderbescherming onverwijld de
                     verblijfplaats van de minderjarige meedeelt; of</al>
             </li>
             <li>
                 <li.nr>b.</li.nr>
-                <al>op grond van de <extref status="actief" doc="1.0:v:BWBR0004608" compleet="nee">Wet op de
-                    jeugdhulpverlening</extref> voor bekostiging
-                    in aanmerking is gebracht en handelt overeenkomstig
-                    de <extref status="actief" doc="1.0:v:BWBR0004608&amp;artikel=25" compleet="nee">artikelen
-                    25</extref> en <extref status="actief" doc="1.0:v:BWBR0004608&amp;artikel=26" compleet="nee">26 van die
-                    wet</extref>; of</al>
+                <al>de zorgaanbieder, bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder g, van de Wet op de jeugdzorg</extref>,
+die op grond van <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=41" compleet="nee">artikel 41 van die wet</extref> van de provincie subsidie ontvangt
+en handelt overeenkomstig de krachtens <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=3">artikel 3, vijfde lid</intref> gestelde regels;</al>
             </li>
             <li>
                 <li.nr>c.</li.nr>
-                <al>handelt in het kader van zorgvuldige hulpverlening
+                <al>hem die handelt in het kader van zorgvuldige hulpverlening
                     aan de minderjarige.</al>
             </li>
         </lijst>
@@ -16203,29 +15947,7 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
         opbrengst geheel of ten dele voor een liefdadig of ide&#xEB;el doel
         is bestemd, wordt gestraft met geldboete van de derde categorie.</al>
 </artikel>
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr>435f</nr> 
-  </kop> 
-  <al>Hij die bij gelegenheid van een voetbalwedstrijd waaraan een club uit het
-	 betaald voetbal of een vertegenwoordigend voetbalelftal deelneemt, niet
-	 terstond voldoet aan een vordering tot inzage van een document als bedoeld in
-	 <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de
-	 identificatieplicht</extref> (<nadruk type="cur">Stb.</nadruk> 1993,
-	 660) of van een geldig rijbewijs dat is afgegeven op basis van de
-	 <extref status="actief" doc="" compleet="nee">Wegenverkeerswet</extref> dan wel een geldig
-	 rijbewijs als bedoeld in
-	 <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=107" compleet="nee">artikel 107 van de Wegenverkeerswet
-	 1994</extref>, welke vordering wordt gedaan door bij of krachtens
-	 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=141" compleet="nee">artikel 141 van het Wetboek van
-	 Strafvordering</extref> aangewezen ambtenaren of door bepaalde door
-	 Onze Minister van Justitie aangewezen categorie&#xEB;n van andere personen, met de
-	 opsporing van strafbare feiten belast, voor zover dit redelijkerwijs voor de
-	 vervulling van hun taak nodig is bij de handhaving van de openbare orde en bij
-	 de opsporing van strafbare feiten, wordt gestraft met hechtenis van ten hoogste
-	 twee maanden of geldboete van de tweede categorie.</al>
-</artikel>
+    
     
     <artikel status="goed">
     <kop>
@@ -16745,7 +16467,7 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
         hechtenis van ten hoogste zes maanden of geldboete van de derde
         categorie. </al>
 </artikel>
-<artikel status="goed"><kop><label>Artikel</label><nr>447e</nr><al><redactie type="extra">Treedt in werking per 01-01-2005</redactie></al></kop><al>Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter
+<artikel status="goed"><kop><label>Artikel</label><nr>447e</nr></kop><al>Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter
 inzage aan te bieden, hem opgelegd bij <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=2" compleet="nee">artikel 2 van de Wet op de identificatieplicht</extref>,
 wordt gestraft met geldboete van de tweede categorie.</al></artikel></titeldeel>
     <titeldeel>
