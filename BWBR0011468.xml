@@ -2010,13 +2010,13 @@ nadelen verband houdende met de grond ras op te heffen of te verminderen en slec
     
     <lid>
         <lidnr>1</lidnr>
-        <al>Indien een beslissing als bedoeld in artikel 45 is genomen
+        <al>Indien een beslissing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=45">artikel 45</intref> is genomen
             door een ander dan een bestuursorgaan, kan de belanghebbende
-            zich tot de arrondissementsrechtbank wenden met het
+            zich tot de rechtbank wenden met het
             schriftelijk verzoek, de verantwoordelijke te bevelen alsnog
-            een verzoek als bedoeld in de artikelen 30, derde lid, 35,
-            36 of&#xA0;38, tweede lid, toe of af te wijzen dan wel een verzet
-            als bedoeld in de artikelen 40 of&#xA0;41 al dan niet te honoreren.</al>
+            een verzoek als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=30">artikelen 30, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=35">35</intref>,
+            <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=36">36</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=38">38, tweede lid</intref>, toe of af te wijzen dan wel een verzet
+            als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=40">artikelen 40</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=41">41</intref> al dan niet te honoreren.</al>
     </lid>
     <lid>
         <lidnr>2</lidnr>
@@ -2230,7 +2230,7 @@ nadelen verband houdende met de grond ras op te heffen of te verminderen en slec
     <lid>
         <lidnr>2</lidnr>
         <al>De voorzitter moet voldoen aan de bij of krachtens
-                <extref status="slapend" doc="" compleet="nee">artikel 1d van de Wet
+                <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=1d" compleet="nee">artikel 1d van de Wet
                 rechtspositie rechterlijke ambtenaren</extref>
             gestelde vereisten voor benoembaarheid tot rechter in een arrondissementsrechtbank.</al>
     </lid>
