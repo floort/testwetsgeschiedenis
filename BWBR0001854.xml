@@ -7523,13 +7523,18 @@
     </kop>
     
     
-    <al>Hij die zich in het openbaar, mondeling of bij geschrift of
+    <lid><lidnr>1</lidnr><al>Hij die zich in het openbaar, mondeling of bij geschrift of
         afbeelding, opzettelijk beledigend uitlaat over een groep mensen
         wegens hun ras, hun godsdienst of levensovertuiging of hun
         hetero- of homoseksuele gerichtheid, wordt gestraft met
         gevangenisstraf van ten hoogste een jaar of geldboete van de
-        derde categorie.</al>
-</artikel>
+        derde categorie.</al></lid>
+<lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
+of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf
+van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.</al>
+              </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -7537,14 +7542,19 @@
     </kop>
     
     
-    <al>Hij die in het openbaar, mondeling of bij geschrift of
+    <lid><lidnr>1</lidnr><al>Hij die in het openbaar, mondeling of bij geschrift of
         afbeelding, aanzet tot haat tegen of discriminatie van mensen of
         gewelddadig optreden tegen persoon of goed van mensen wegens hun
         ras, hun godsdienst of levensovertuiging, hun geslacht of hun
         hetero- of homoseksuele gerichtheid, wordt gestraft met
         gevangenisstraf van ten hoogste een jaar of geldboete van de
-        derde categorie.</al>
-</artikel>
+        derde categorie.</al></lid>
+<lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
+of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf
+van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.</al>
+              </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -7581,7 +7591,12 @@
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+                <lidnr status="officieel">2</lidnr>
+                <al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
+of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf
+van ten hoogste een jaar of geldboete van de vierde categorie opgelegd.</al>
+              </lid><lid>
+        <lidnr>3</lidnr>
         <al> Indien de schuldige een van de strafbare feiten, omschreven
             in dit artikel, in zijn beroep begaat en er, tijdens het
             plegen van het feit, nog geen vijf jaren zijn verlopen
@@ -7611,11 +7626,16 @@
     </kop>
     
     
-    <al>Hij die, in de uitoefening van een ambt, beroep of bedrijf
+    <lid><lidnr>1</lidnr><al>Hij die, in de uitoefening van een ambt, beroep of bedrijf
         personen opzettelijk discrimineert wegens hun ras, wordt
         gestraft met gevangenisstraf van ten hoogste zes maanden of
-        geldboete van de derde categorie.</al>
-</artikel>
+        geldboete van de derde categorie.</al></lid>
+<lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Indien het feit wordt gepleegd door een persoon die daarvan een gewoonte
+maakt of door twee of meer verenigde personen wordt gevangenisstraf van ten
+hoogste een jaar of geldboete van de vierde categorie opgelegd.</al>
+              </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
