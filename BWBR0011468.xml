@@ -134,70 +134,68 @@
         </li>
     </lijst>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>2</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Deze wet is van toepassing op de geheel of gedeeltelijk
-            geautomatiseerde verwerking van persoonsgegevens, alsmede de
-            niet geautomatiseerde verwerking van persoonsgegevens die in
-            een bestand zijn opgenomen of die bestemd zijn om daarin te
-            worden opgenomen.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Deze wet is niet van toepassing op verwerking van persoonsgegevens:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>ten behoeve van activiteiten met uitsluitend
-                    persoonlijke of huishoudelijke doeleinden;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>door of ten behoeve van de inlichtingen- en
-                    veiligheidsdiensten, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen-
-                        en veiligheidsdiensten 2002</extref>;</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>ten behoeve van de uitvoering van de politietaak,
-                    omschreven in <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=2" compleet="nee">artikel 2 van de
-                        Politiewet 1993</extref>;</al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>die is geregeld bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0006723" compleet="nee">Wet gemeentelijke
-                        basisadministratie persoonsgegevens</extref>;</al>
-            </li>
-            <li>
-                <li.nr>e.</li.nr>
-                <al>ten behoeve van de uitvoering van de <extref status="actief" doc="1.0:v:BWBR0002195" compleet="nee">Wet op de justiti&#xEB;le
-                        documentatie en op de verklaringen omtrent het
-                    gedrag</extref> en</al>
-            </li>
-            <li>
-                <li.nr>f.</li.nr>
-                <al>ten behoeve van de uitvoering van de <extref status="actief" doc="1.0:v:BWBR0004627" compleet="nee">Kieswet</extref>.</al>
-            </li>
-        </lijst>
-    </lid>
-    
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Deze wet is niet van toepassing op verwerking van
-            persoonsgegevens door de krijgsmacht indien Onze Minister
-            van Defensie daartoe beslist met het oog op de inzet of het
-            ter beschikking stellen van de krijgsmacht ter handhaving of
-            bevordering van de internationale rechtsorde. Van de
-            beslissing wordt zo spoedig mogelijk mededeling gedaan aan
-            het College.</al>
-    </lid>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>2</nr> 
+  </kop> 
+   
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>Deze wet is van toepassing op de geheel of gedeeltelijk
+		geautomatiseerde verwerking van persoonsgegevens, alsmede de niet
+		geautomatiseerde verwerking van persoonsgegevens die in een bestand zijn
+		opgenomen of die bestemd zijn om daarin te worden opgenomen.</al> 
+  </lid> 
+   
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al>Deze wet is niet van toepassing op verwerking van
+		persoonsgegevens:</al> 
+	 <lijst> 
+		<li> 
+		  <li.nr>a.</li.nr> 
+		  <al>ten behoeve van activiteiten met uitsluitend persoonlijke of
+			 huishoudelijke doeleinden;</al> 
+		</li> 
+		<li> 
+		  <li.nr>b.</li.nr> 
+		  <al>door of ten behoeve van de inlichtingen- en veiligheidsdiensten,
+			 bedoeld in de
+			 <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en veiligheidsdiensten
+			 2002</extref>;</al> 
+		</li> 
+		<li> 
+		  <li.nr>c.</li.nr> 
+		  <al>ten behoeve van de uitvoering van de politietaak, omschreven in
+			 <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=2" compleet="nee">artikel 2 van de Politiewet 1993</extref>;</al> 
+		</li> 
+		<li> 
+		  <li.nr>d.</li.nr> 
+		  <al>die is geregeld bij of krachtens de
+			 <extref status="actief" doc="1.0:v:BWBR0006723" compleet="nee">Wet gemeentelijke basisadministratie
+			 persoonsgegevens</extref>;</al> 
+		</li> 
+		<li> 
+		  <li.nr>e.</li.nr> 
+		  <al>ten behoeve van de uitvoering van de <extref status="actief" doc="1.0:v:BWBR0014194" compleet="nee">Wet justiti&#xEB;le gegevens</extref> en</al> 
+		</li> 
+		<li> 
+		  <li.nr>f.</li.nr> 
+		  <al>ten behoeve van de uitvoering van de
+			 <extref status="actief" doc="1.0:v:BWBR0004627" compleet="nee">Kieswet</extref>.</al> 
+		</li> 
+	 </lijst> 
+  </lid> 
+   
+  <lid> 
+	 <lidnr>3</lidnr> 
+	 <al>Deze wet is niet van toepassing op verwerking van persoonsgegevens door
+		de krijgsmacht indien Onze Minister van Defensie daartoe beslist met het oog op
+		de inzet of het ter beschikking stellen van de krijgsmacht ter handhaving of
+		bevordering van de internationale rechtsorde. Van de beslissing wordt zo
+		spoedig mogelijk mededeling gedaan aan het College.</al> 
+  </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -656,7 +654,7 @@
     </kop>
     
     <al>Het verbod om persoonsgegevens betreffende iemands ras te
-        verwerken als bedoeld in artikel 16, is niet van toepassing
+        verwerken als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=16">artikel 16</intref>, is niet van toepassing
         indien de verwerking geschiedt:</al>
     <lijst>
         <li>
@@ -668,8 +666,8 @@
             <li.nr>b.</li.nr>
             <al>met het doel personen van een bepaalde etnische of
                 culturele minderheidsgroep een bevoorrechte positie toe
-                te kennen teneinde feitelijke ongelijkheden op te heffen
-                of te verminderen slechts indien:</al>
+                te kennen ten einde feitelijke
+nadelen verband houdende met de grond ras op te heffen of te verminderen en slechts indien:</al>
             <lijst>
                 <li>
                     <li.nr>1&#xB0;.</li.nr>
@@ -906,13 +904,12 @@
     <lid>
         <lidnr>1</lidnr>
         <al>Het verbod om strafrechtelijke persoonsgegevens te verwerken
-            als bedoeld in artikel 16, is niet van toepassing indien de
+            als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=16">artikel 16</intref>, is niet van toepassing indien de
             verwerking geschiedt door organen die krachtens de wet zijn
             belast met de toepassing van het strafrecht, alsmede door
             verantwoordelijken die deze hebben verkregen krachtens de
                 <extref status="actief" doc="1.0:v:BWBR0004798" compleet="nee">Wet
-            politieregisters</extref> of de <extref status="actief" doc="1.0:v:BWBR0002195" compleet="nee">Wet op de justiti&#xEB;le documentatie
-                en op de verklaringen omtrent het gedrag</extref>.</al>
+            politieregisters</extref> of de <extref status="actief" doc="1.0:v:BWBR0014194" compleet="nee">Wet justiti&#xEB;le gegevens</extref>.</al>
     </lid>
     <lid>
         <lidnr>2</lidnr>
@@ -965,14 +962,14 @@
                 <li.nr>c.</li.nr>
                 <al>indien passende en specifieke waarborgen zijn
                     getroffen en de procedure is gevolgd, bedoeld in
-                    artikel 31.</al>
+                    <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=31">artikel 31</intref>.</al>
             </li>
         </lijst>
     </lid>
     <lid>
         <lidnr>5</lidnr>
-        <al>Het verbod om andere persoonsgegevens als bedoeld in artikel
-            16, te verwerken, is niet van toepassing voor zover dit
+        <al>Het verbod om andere persoonsgegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=16">artikel
+            16</intref>, te verwerken, is niet van toepassing voor zover dit
             noodzakelijk is in aanvulling op de verwerking van
             strafrechtelijke gegevens voor de doeleinden waarvoor deze
             gegevens worden verwerkt.</al>
