@@ -222,9 +222,7 @@
         </li>
         <li>
             <li.nr>13&#xB0;.</li.nr>
-            <al>aan een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92 tot en met
-                96</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=108">108</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">115</intref>,
+            <al>aan een terroristisch misdrijf dan wel een der misdrijven, omschreven in de artikelen <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">115</intref>,
                     <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">117</intref>,
                     <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117b">117b</intref>,
                     <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=121">121</intref> tot en met
@@ -261,9 +259,7 @@
         </li>
         <li>
             <li.nr>14&#xB0;.</li.nr>
-            <al>aan een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92 tot en met
-                96</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=108">108</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">115</intref>,
+            <al>aan een terroristisch misdrijf dan wel een der misdrijven, omschreven in de artikelen <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">115</intref>,
                     <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">117</intref>,
                     <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117b">117b</intref>,
                     <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=121">121 tot en met
@@ -298,22 +294,28 @@
                 Internationaal Verdrag ter bestrijding van de
                 financiering van terrorisme (Trb. 2000, 12) en hetzij
                 het feit is gericht tegen een Nederlander hetzij de
-                verdachte zich in Nederland bevindt.</al>
+                verdachte zich in Nederland bevindt;</al>
         </li>
-    </lijst>
+    <li><li.nr>15&#xB0;.</li.nr><al>aan een terroristisch misdrijf, indien het misdrijf is gepleegd
+met het oogmerk de bevolking of een deel der bevolking van Nederland vrees
+aan te jagen, een Nederlandse overheid of een in Nederland gevestigde instelling
+of organisatie van de Europese Unie te dwingen iets te doen, niet te doen
+of te dulden, of de fundamentele politieke, constitutionele, economische of
+sociale structuren van Nederland of een in Nederland gevestigde instelling
+of organisatie van de Europese Unie ernstig te ontwrichten of te vernietigen;</al></li><li><li.nr>16&#xB0;.</li.nr><al>aan een der misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 225, derde
+lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=311">311, eerste lid, onder 6&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>, alsmede
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317, derde lid, jo. 312, tweede lid, onder 5&#xB0;</intref>, indien het misdrijf is
+gepleegd met het oogmerk een terroristisch misdrijf als in onderdeel
+15&#xB0; omschreven voor te bereiden of gemakkelijk te maken.</al></li></lijst>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>4a</nr>
-    </kop>
-    
-    
-    <al>De Nederlandse strafwet is toepasselijk op ieder tegen wie de
+    <artikel status="goed"><kop><label>Artikel</label><nr>4a</nr></kop><lid><lidnr>1</lidnr><al>De Nederlandse strafwet is toepasselijk op ieder tegen wie de
         strafvervolging door Nederland van een vreemde staat is
         overgenomen op grond van een verdrag waaruit de bevoegdheid tot
-        strafvervolging voor Nederland volgt.</al>
-</artikel>
+        strafvervolging voor Nederland volgt.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De Nederlandse strafwet is voorts toepasselijk op ieder tegen wie een
+verzoek om uitlevering ter zake van een terroristisch misdrijf dan wel een
+der misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 225, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=311">311, eerste lid,
+onder 6&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317, derde lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312,
+tweede lid, onder 5&#xB0;</intref>, is afgewezen.</al></lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -390,7 +392,9 @@
 		schuldig maakt aan een der misdrijven omschreven in de
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref> en
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250a</intref>, voor zover het
-		feit is gepleegd ten aanzien van een minderjarige.</al> 
+		feit is gepleegd ten aanzien van een minderjarige, een terroristisch misdrijf, dan wel een der misdrijven omschreven
+in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 225, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=311">311, eerste lid, onder 6&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede
+lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317, derde lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>.</al> 
   </lid> 
   <lid> 
 	 <lidnr>2</lidnr> 
@@ -579,7 +583,7 @@
             worden opgelegd in de gevallen waarin op het misdrijf
             levenslange en tijdelijke gevangenisstraf ter keuze van de
             rechter zijn gesteld, en in die waarin wegens strafverhoging
-            ter zake van samenloop van misdrijven, herhaling van
+            ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van
             misdrijf of het bepaalde bij <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=44">artikel 44</intref>, de
             tijd van vijftien jaren wordt overschreden.</al>
     </lid>
@@ -6078,8 +6082,18 @@ te maken.</al></artikel></titeldeel>
         redelijkerwijs verwacht mag worden in staat is buiten het
         moederlichaam in leven te blijven.</al>
 </artikel>
-    
-    <artikel status="goed"><kop><label>Artikel</label><nr>83a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><al>Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking
+    <artikel status="goed"><kop><label>Artikel</label><nr>83</nr></kop><al>Onder terroristisch misdrijf wordt verstaan:</al><lijst nr-sluiting=""><li><li.nr>1&#xBA;.</li.nr><al>elk van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92 tot en met
+96</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=108">108, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">115, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">117, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=121">121</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=122">122</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=157">157, onderdeel
+3&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161quater">161quater, onderdeel 2&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=164">164, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">166, onderdeel 3&#xB0;</intref>,
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=168">168, onderdeel 2&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=170">170, onderdeel 3&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=174">174, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=289">289</intref>, alsmede
+in <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80" compleet="nee">artikel 80, tweede lid, Kernenergiewet</extref>, indien het misdrijf is begaan met
+een terroristisch oogmerk;</al></li><li><li.nr>2&#xBA;.</li.nr><al>elk van de misdrijven waarop ingevolge de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=114a">artikelen 114a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=114b">114b</intref>,
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=120a">120a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=120b">120b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=130a">130a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=176a">176a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=176b">176b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282c">282c</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=289a">289a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=304a">304a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=304b">304b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=415a">415a</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=415b">415b</intref>, alsmede
+<extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80" compleet="nee">artikel 80, derde lid, van de Kernenergiewet</extref> gevangenisstraf is gesteld;</al></li><li><li.nr>3&#xBA;.</li.nr><al>elk van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=140a">artikelen 140a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282b">282b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285,
+derde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=288a">288a</intref>, alsmede in <extref status="actief" doc="1.0:v:BWBR0008804&amp;artikel=55" compleet="nee">artikel 55, vijfde lid, van de Wet wapens en
+munitie</extref>, <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=6" compleet="nee">artikel 6, vierde lid, van de Wet op de economische delicten</extref>, <extref status="actief" doc="1.0:v:BWBR0006803&amp;artikel=33a" compleet="nee">artikel
+33a van de Wet explosieven voor civiel gebruik</extref> en <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79" compleet="nee">artikel 79 van de Kernenergiewet</extref>.</al></li></lijst></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>83a</nr></kop><al>Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking
 of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel
 een overheid of internationale organisatie wederrechtelijk te dwingen iets
 te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele,
@@ -6488,24 +6502,22 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>96</nr>
+        <nr status="officieel">96</nr>
     </kop>
     
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>De samenspanning tot een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92-95<nadruk type="cur">a</nadruk>
-            </intref> omschreven misdrijven wordt gestraft met
+        <lidnr status="officieel">1</lidnr>
+        <al>De samenspanning tot een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92-95a</intref> omschreven misdrijven wordt gestraft met
             gevangenisstraf van ten hoogste tien jaren of geldboete van
             de vijfde categorie.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Dezelfde straf is toepasselijk op hem die, met het oogmerk
-            om een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92-95<nadruk type="cur">a</nadruk>
-            </intref> omschreven misdrijven voor te bereiden of
+            om een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92-95a</intref> omschreven misdrijven voor te bereiden of
             te bevorderen: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>een ander tracht te bewegen om het misdrijf te
@@ -6538,14 +6550,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
             </li>
         </lijst>
     </lid>
-    
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Niet strafbaar is hij van wie blijkt, dat zijn oogmerk
-            enkel gericht is op het voorbereiden of bevorderen van
-            staatkundige veranderingen in algemene zin.</al>
-    </lid>
-</artikel>
+    </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -7059,12 +7064,12 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
             1&#xB0;-3&#xB0;</intref>, vermelde rechten worden uitgesproken.</al>
     </lid>
 </artikel>
-<artikel status="goed"><kop><label>Artikel</label><nr>114a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=108">artikel 108, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=109">109</intref>
+<artikel status="goed"><kop><label>Artikel</label><nr>114a</nr></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=108">artikel 108, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=109">109</intref>
 of&#xA0;<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=110">110</intref>, is begaan met een terroristisch oogmerk, wordt de in dat artikel
 bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien
 op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren
 is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste twintig
-jaren opgelegd.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>114b</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=108">artikel 108</intref> omschreven misdrijven, te begaan
+jaren opgelegd.</al></artikel><artikel status="goed"><kop><label>Artikel</label><nr>114b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=108">artikel 108</intref> omschreven misdrijven, te begaan
 met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten
 hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel></titeldeel>
     <titeldeel>
@@ -7202,13 +7207,13 @@ hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr s
         misdrijven, kan ontzetting van de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=28">artikel 28, eerste lid, onder
         1&#xB0;-4&#xB0;</intref>, vermelde rechten worden uitgesproken.</al>
 </artikel>
-<artikel status="goed"><kop><label>Artikel</label><nr>120a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">artikel 115, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=116">116</intref>,
+<artikel status="goed"><kop><label>Artikel</label><nr>120a</nr></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">artikel 115, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=116">116</intref>,
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">117, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117a">117a</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117b">117b</intref>, is begaan met een terroristisch oogmerk,
 wordt de in dat artikel bepaalde tijdelijke gevangenisstraf met de helft verhoogd
 en wordt, indien op het misdrijf een tijdelijke gevangenisstraf van ten hoogste
 vijftien jaren is gesteld, levenslange gevangenisstraf of tijdelijke van ten
 hoogste twintig jaren opgelegd.</al></artikel>
-            <artikel status="goed"><kop><label>Artikel</label><nr>120b</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot de in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">artikelen 115</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">117</intref> omschreven misdrijven,
+            <artikel status="goed"><kop><label>Artikel</label><nr>120b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot de in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">artikelen 115</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">117</intref> omschreven misdrijven,
 te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf
 van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel></titeldeel>
     <titeldeel>
@@ -7226,25 +7231,9 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
         en onbelemmerd zijn plicht te vervullen, wordt gestraft met
         levenslange gevangenisstraf of tijdelijke van ten hoogste
         twintig jaren of geldboete van de vijfde categorie.</al></artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>122</nr>
-    </kop>
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=121">artikel 121</intref>
+    <artikel status="goed"><kop><label>Artikel</label><nr>122</nr></kop><lid><lidnr>1</lidnr><al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=121">artikel 121</intref>
             omschreven misdrijf wordt gestraft met gevangenisstraf van
-            ten hoogste tien jaren of geldboete van de vijfde categorie.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al>
-            <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede en derde
-            lid</intref>, is van overeenkomstige toepassing.</al>
-    </lid>
-</artikel>
+            ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr>2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -7369,7 +7358,7 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
             3&#xB0;</intref>, vermelde rechten worden uitgesproken.</al>
     </lid>
 </artikel>
-<artikel status="goed"><kop><label>Artikel</label><nr>130a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=123">artikel 123</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=124">124</intref>, is
+<artikel status="goed"><kop><label>Artikel</label><nr>130a</nr></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=123">artikel 123</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=124">124</intref>, is
 begaan met een terroristisch oogmerk, wordt de in deze artikelen bepaalde
 tijdelijke gevangenisstraf met de helft verhoogd.</al></artikel></titeldeel>
     <titeldeel>
@@ -8053,8 +8042,13 @@ hoogste een jaar of geldboete van de vierde categorie opgelegd.</al>
         <al> Ten aanzien van de oprichters, leiders of bestuurders
             kunnen de gevangenisstraffen met een derde worden verhoogd.</al>
     </lid>
-</artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>140a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>Deelneming aan een organisatie die tot oogmerk heeft het plegen van terroristische
+<lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>Onder deelneming als omschreven in het eerste lid wordt mede begrepen
+het verlenen van geldelijke of andere stoffelijke steun aan alsmede
+het werven van gelden of personen ten behoeve van de daar omschreven organisatie.</al>
+              </lid></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>140a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Deelneming aan een organisatie die tot oogmerk heeft het plegen van terroristische
 misdrijven, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren
 of geldboete van de vijfde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Oprichters, leiders of bestuurders worden gestraft met levenslange gevangenisstraf
 of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Het <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=140">vierde lid van artikel 140</intref> is van overeenkomstige toepassing.</al></lid></artikel><artikel status="goed">
@@ -8608,19 +8602,15 @@ of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie
         met gevangenisstraf van ten hoogste zes jaren of geldboete van
         de vijfde categorie.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>161</nr>
-    </kop>
-    
-    
-    <al>Hij die opzettelijk enig werk dienende tot waterkering of
-        waterlozing vernielt, onbruikbaar maakt of beschadigt, wordt,
-        indien daarvan gevaar voor overstroming te duchten is, gestraft
-        met gevangenisstraf van ten hoogste zes jaren of geldboete van
-        de vijfde categorie.</al>
-</artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>161</nr></kop><al>Hij die opzettelijk enig werk dienend tot waterkering, waterlozing, gas-
+of waterleiding of riolering vernielt, onbruikbaar maakt of beschadigt, wordt
+gestraft:</al><lijst nr-sluiting=""><li><li.nr>1&#xBA;.</li.nr><al>met gevangenisstraf van ten hoogste zes jaren of geldboete van
+de vijfde categorie, indien daarvan gevaar voor een overstroming of gemeen
+gevaar voor goederen te duchten is;</al></li><li><li.nr>2&#xBA;.</li.nr><al>met gevangenisstraf van ten hoogste negen jaren of geldboete van
+de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten
+is;</al></li><li><li.nr>3&#xBA;.</li.nr><al>met gevangenisstraf van ten hoogste vijften jaren of geldboete
+van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten
+is en het feit iemands dood ten gevolge heeft.</al></li></lijst></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -8974,38 +8964,20 @@ of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie
         </li>
     </lijst>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>168</nr>
-    </kop>
-    
-    <al>Hij die enig vaartuig of luchtvaartuig opzettelijk en
+    <artikel status="goed"><kop><label>Artikel</label><nr>168</nr></kop><al>Hij die enig vaartuig, voertuig of luchtvaartuig opzettelijk en
         wederrechtelijk doet zinken, stranden of verongelukken,
-        vernielt, onbruikbaar maakt of beschadigt, wordt gestraft: </al>
-    <lijst>
-        <li>
-            <li.nr>1&#xB0;.</li.nr>
-            <al>met gevangenisstraf van ten hoogste vijftien jaren of
+        vernielt, onbruikbaar maakt of beschadigt, wordt gestraft: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>met gevangenisstraf van ten hoogste vijftien jaren of
                 geldboete van de vijfde categorie, indien daarvan
-                levensgevaar voor een ander te duchten is;</al>
-        </li>
-        
-        <li>
-            <li.nr>2&#xB0;.</li.nr>
-            <al>met levenslange gevangenisstraf of tijdelijke van ten
+                levensgevaar voor een ander te duchten is;</al></li><li><li.nr>2&#xB0;.</li.nr><al>met levenslange gevangenisstraf of tijdelijke van ten
                 hoogste twintig jaren of geldboete van de vijfde
                 categorie, indien daarvan levensgevaar voor een ander te
-                duchten is en het feit iemands dood ten gevolge heeft.</al>
-        </li>
-    </lijst>
-</artikel>
+                duchten is en het feit iemands dood ten gevolge heeft.</al></li></lijst></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>169</nr>
     </kop>
-    <al>Hij aan wiens schuld te wijten is dat enig vaartuig of
+    <al>Hij aan wiens schuld te wijten is dat enig vaartuig, voertuig of
         luchtvaartuig zinkt, strandt of verongelukt, vernield,
         onbruikbaar gemaakt of beschadigd wordt, wordt gestraft: </al>
     <lijst>
@@ -9024,66 +8996,25 @@ of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie
         </li>
     </lijst>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>170</nr>
-    </kop>
-    
-    <al>Hij die enig gebouw of getimmerte opzettelijk vernielt of
-        beschadigt, wordt gestraft: </al>
-    <lijst>
-        <li>
-            <li.nr>1&#xB0;.</li.nr>
-            <al>met gevangenisstraf van ten hoogste twaalf jaren of
+    <artikel status="goed"><kop><label>Artikel</label><nr>170</nr></kop><al>Hij die enig gebouw, getimmerte, installatie ter zee of voor het publiek toegankelijke
+plaats opzettelijk vernielt of
+        beschadigt, wordt gestraft: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>met gevangenisstraf van ten hoogste twaalf jaren of
                 geldboete van de vijfde categorie, indien daarvan gemeen
-                gevaar voor goederen te duchten is;</al>
-        </li>
-        <li>
-            <li.nr>2&#xB0;.</li.nr>
-            <al>met gevangenisstraf van ten hoogste vijftien jaren of
+                gevaar voor goederen te duchten is;</al></li><li><li.nr>2&#xB0;.</li.nr><al>met gevangenisstraf van ten hoogste vijftien jaren of
                 geldboete van de vijfde categorie, indien daarvan
-                levensgevaar voor een ander te duchten is;</al>
-        </li>
-        
-        <li>
-            <li.nr>3&#xB0;.</li.nr>
-            <al>met levenslange gevangenisstraf of tijdelijke van ten
+                levensgevaar voor een ander te duchten is;</al></li><li><li.nr>3&#xB0;.</li.nr><al>met levenslange gevangenisstraf of tijdelijke van ten
                 hoogste twintig jaren of geldboete van de vijfde
                 categorie, indien daarvan levensgevaar voor een ander te
-                duchten is en het feit iemands dood ten gevolge heeft.</al>
-        </li>
-    </lijst>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>171</nr>
-    </kop>
-    <al>Hij aan wiens schuld de vernieling of beschadiging van enig
-        gebouw of getimmerte te wijten is, wordt gestraft: </al>
-    <lijst>
-        <li>
-            <li.nr>1&#xB0;.</li.nr>
-            <al>met gevangenisstraf of hechtenis van ten hoogste drie
+                duchten is en het feit iemands dood ten gevolge heeft.</al></li></lijst></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>171</nr></kop><al>Hij aan wiens schuld de vernieling of beschadiging van enig
+        gebouw, getimmerte, installatie ter zee of voor het publiek toegankelijke
+plaats te wijten is, wordt gestraft: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>met gevangenisstraf of hechtenis van ten hoogste drie
                 maanden of geldboete van de vierde categorie, indien
-                daardoor gemeen gevaar voor goederen ontstaat;</al>
-        </li>
-        <li>
-            <li.nr>2&#xB0;.</li.nr>
-            <al>met gevangenisstraf of hechtenis van ten hoogste zes
+                daardoor gemeen gevaar voor goederen ontstaat;</al></li><li><li.nr>2&#xB0;.</li.nr><al>met gevangenisstraf of hechtenis van ten hoogste zes
                 maanden of geldboete van de vierde categorie, indien
-                daardoor levensgevaar voor een ander ontstaat;</al>
-        </li>
-        
-        <li>
-            <li.nr>3&#xB0;.</li.nr>
-            <al>met gevangenisstraf of hechtenis van ten hoogste een
+                daardoor levensgevaar voor een ander ontstaat;</al></li><li><li.nr>3&#xB0;.</li.nr><al>met gevangenisstraf of hechtenis van ten hoogste een
                 jaar of geldboete van de vierde categorie, indien het
-                feit iemands dood ten gevolge heeft.</al>
-        </li>
-    </lijst>
-</artikel>
+                feit iemands dood ten gevolge heeft.</al></li></lijst></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -9102,18 +9033,14 @@ of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>met gevangenisstraf van ten hoogste twaalf jaren of
-                    geldboete van de vijfde categorie, indien de
-                    schuldige weet of ernstige reden heeft om te
-                    vermoeden dat daarvan gevaar voor een ander te
+                    geldboete van de vijfde categorie, indien daarvan gevaar voor een ander te
                     duchten is;</al>
             </li>
             
             <li>
                 <li.nr>2&#xB0;.</li.nr>
                 <al>met gevangenisstraf van ten hoogste vijftien jaren
-                    of geldboete van de vijfde categorie, indien de
-                    schuldige weet of ernstige reden heeft om te
-                    vermoeden dat daarvan levensgevaar voor een ander te
+                    of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te
                     duchten is en het feit iemands dood ten gevolg heeft.</al>
             </li>
         </lijst>
@@ -9148,18 +9075,14 @@ of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>met gevangenisstraf of hechtenis van ten hoogste een
-                    jaar of geldboete van de vierde categorie, indien de
-                    schuldige weet of ernstige reden heeft om te
-                    vermoeden dat daarvan gevaar voor de openbare
+                    jaar of geldboete van de vierde categorie, indien daarvan gevaar voor de openbare
                     gezondheid of levensgevaar voor een ander te duchten is;</al>
             </li>
             
             <li>
                 <li.nr>2&#xB0;.</li.nr>
                 <al>met gevangenisstraf van ten hoogste twee jaren of
-                    geldboete van de vierde categorie, indien de
-                    schuldige weet of ernstige reden heeft om te
-                    vermoeden dat daarvan levensgevaar voor een ander te
+                    geldboete van de vierde categorie, indien daarvan levensgevaar voor een ander te
                     duchten is en het feit iemands dood ten gevolge heeft.</al>
             </li>
         </lijst>
@@ -9191,17 +9114,14 @@ of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie
         <li>
             <li.nr>1&#xB0;.</li.nr>
             <al>met gevangenisstraf van ten hoogste twaalf jaren of
-                geldboete van de vijfde categorie, indien de schuldige
-                weet of ernstige redenen heeft om te vermoeden dat
-                daarvan gevaar voor de openbare gezondheid of
+                geldboete van de vijfde categorie, indien daarvan gevaar voor de openbare gezondheid of
                 levensgevaar voor een ander te duchten is;</al>
         </li>
         
         <li>
             <li.nr>2&#xB0;.</li.nr>
             <al>met gevangenisstraf van ten hoogste vijftien jaren of
-                geldboete van de vijfde categorie, indien de schuldige
-                weet of ernstige reden heeft om te vermoeden dat daarvan
+                geldboete van de vijfde categorie, indien daarvan
                 levensgevaar voor een ander te duchten is en het feit
                 iemands dood ten gevolge heeft.</al>
         </li>
@@ -9219,17 +9139,14 @@ of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie
         <li>
             <li.nr>1&#xB0;.</li.nr>
             <al>met gevangenisstraf of hechtenis van ten hoogste een
-                jaar of geldboete van de vierde categorie, indien de
-                schuldige weet of ernstige reden heeft om te vermoeden
-                dat daarvan gevaar voor de openbare gezondheid of
+                jaar of geldboete van de vierde categorie, indien daarvan gevaar voor de openbare gezondheid of
                 levensgevaar voor een ander te duchten is;</al>
         </li>
         
         <li>
             <li.nr>2&#xB0;.</li.nr>
             <al>met gevangenisstraf van ten hoogste twee jaren of
-                geldboete van de vierde categorie, indien de schuldige
-                weet of ernstige reden heeft om te vermoeden dat daarvan
+                geldboete van de vierde categorie, indien daarvan
                 levensgevaar voor een ander te duchten is en het feit
                 iemands dood ten gevolge heeft.</al>
         </li>
@@ -9358,13 +9275,13 @@ of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie
             uitspraak gelasten.</al>
     </lid>
 </artikel>
-<artikel status="goed"><kop><label>Artikel</label><nr>176a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=157">artikel 157</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=159">159</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=160">160</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161">161</intref>,
+<artikel status="goed"><kop><label>Artikel</label><nr>176a</nr></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=157">artikel 157</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=159">159</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=160">160</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161">161</intref>,
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161bis">161bis</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161quater">161quater</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161sexies">161sexies</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=162">162</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=162a">162a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=164">164</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">166</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=168">168</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=170">170</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=172">172</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173a</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=174">174</intref>,
 is begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde
 tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf
 een tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld,
 levenslange gevangenisstraf of tijdelijke van ten hoogste twintig jaren opgelegd.</al></artikel>
-            <artikel status="goed"><kop><label>Artikel</label><nr>176b</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot de in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=157">artikelen 157</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161">161, onderdelen 2&#xB0; en
+            <artikel status="goed"><kop><label>Artikel</label><nr>176b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot de in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=157">artikelen 157</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161">161, onderdelen 2&#xB0; en
 3&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161bis">161bis, onderdelen 3&#xB0; en 4&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161quater">161quater</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161sexies">161 sexies, onderdelen
 3&#xB0; en 4&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=162">162</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=164">164</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">166</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=168">168</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=170">170</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=172">172</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173a</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=174">174</intref> omschreven misdrijven,
 te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf
@@ -10190,8 +10107,9 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
     </kop>
     
     <al>Hij die, zonder toestemming van de Koning, iemand voor vreemde
-        krijgsdienst aanwerft, wordt gestraft met gevangenisstraf van
-        ten hoogste een jaar of geldboete van de vierde categorie.</al>
+        krijgsdienst of gewapende
+strijd werft, wordt gestraft met gevangenisstraf van
+        ten hoogste vier jaren of geldboete van de vijfde categorie.</al>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -10670,32 +10588,19 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
         <titel status="officieel">Valsheid in geschriften, opgave van
             onware gegevens en schending van de verplichting gegevens te verstrekken</titel>
     </kop>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>225</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Hij die een geschrift dat bestemd is om tot bewijs van enig
+    <artikel status="goed"><kop><label>Artikel</label><nr>225</nr></kop><lid><lidnr>1</lidnr><al>Hij die een geschrift dat bestemd is om tot bewijs van enig
             feit te dienen, valselijk opmaakt of vervalst, met het
             oogmerk om het als echt en onvervalst te gebruiken of door
             anderen te doen gebruiken, wordt als schuldig aan valsheid
             in geschrift gestraft, met gevangenisstraf van ten hoogste
-            zes jaren of geldboete van de vijfde categorie.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Met dezelfde straf wordt gestraft hij die opzettelijk
+            zes jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr>2</lidnr><al> Met dezelfde straf wordt gestraft hij die opzettelijk
             gebruik maakt van het valse of vervalste geschrift als ware
             het echt en onvervalst dan wel opzettelijk zodanig geschrift
             aflevert of voorhanden heeft, terwijl hij weet of
             redelijkerwijs moet vermoeden dat dit geschrift bestemd is
-            voor zodanig gebruik.</al>
-    </lid>
-</artikel>
+            voor zodanig gebruik.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien een feit, omschreven in het eerste of tweede lid, wordt gepleegd
+met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk
+te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -12266,11 +12171,11 @@ van de vierde categorie.</al>
             282</intref> is toepasselijk.</al>
     </lid>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>282b</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of
+    <artikel status="goed"><kop><label>Artikel</label><nr>282b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of
 beroofd houdt met een terroristisch oogmerk, wordt gestraft met levenslange
 gevangenisstraf of tijdelijke van ten hoogste twintig jaren of geldboete van
 de vijfde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282">Artikel 282, vierde lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel>
-            <artikel status="goed"><kop><label>Artikel</label><nr>282c</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282b">artikel 282b</intref> omschreven misdrijf wordt gestraft
+            <artikel status="goed"><kop><label>Artikel</label><nr>282c</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282b">artikel 282b</intref> omschreven misdrijf wordt gestraft
 met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde
 categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel><artikel status="goed">
     <kop>
@@ -12347,16 +12252,7 @@ categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status=
         of te dulden, wordt gestraft met gevangenisstraf van ten hoogste
         een jaar en zes maanden of geldboete van de vierde categorie.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>285</nr>
-    </kop>
-    
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Bedreiging met openlijk geweld met verenigde krachten tegen
+    <artikel status="goed"><kop><label>Artikel</label><nr>285</nr></kop><lid><lidnr>1</lidnr><al>Bedreiging met openlijk geweld met verenigde krachten tegen
             personen of goederen, met geweld tegen een internationaal
             beschermd persoon of diens beschermde goederen, met enig
             misdrijf waardoor de algemene veiligheid van personen of
@@ -12365,16 +12261,10 @@ categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status=
             tegen het leven gericht, met gijzeling, met zware
             mishandeling of met brandstichting, wordt gestraft met
             gevangenisstraf van ten hoogste twee jaren of geldboete van
-            de vierde categorie.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Indien deze bedreiging schriftelijk en onder een bepaalde
+            de vierde categorie.</al></lid><lid><lidnr>2</lidnr><al> Indien deze bedreiging schriftelijk en onder een bepaalde
             voorwaarde geschiedt, wordt ze gestraft met gevangenisstraf
-            van ten hoogste vier jaren of geldboete van de vierde categorie.</al>
-    </lid>
-</artikel>
+            van ten hoogste vier jaren of geldboete van de vierde categorie.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Bedreiging met een terroristisch misdrijf wordt gestraft met gevangenisstraf
+van ten hoogste zes jaren of geldboete van de vijfde categorie.</al></lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -12467,7 +12357,7 @@ categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status=
         gevangenisstraf of tijdelijke van ten hoogste twintig jaren of
         geldboete van de vijfde categorie.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>288a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><al>Doodslag, gepleegd met een terroristisch oogmerk, wordt gestraft met levenslange
+    <artikel status="goed"><kop><label>Artikel</label><nr>288a</nr></kop><al>Doodslag, gepleegd met een terroristisch oogmerk, wordt gestraft met levenslange
 gevangenisstraf of tijdelijke van ten hoogste twintig jaren of geldboete van
 de vijfde categorie.</al></artikel><artikel status="goed">
     <kop>
@@ -12481,7 +12371,7 @@ de vijfde categorie.</al></artikel><artikel status="goed">
         levenslange gevangenisstraf of tijdelijke van ten hoogste
         twintig jaren of geldboete van de vijfde categorie.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>289a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=289">artikel 289</intref> omschreven misdrijf, te begaan
+    <artikel status="goed"><kop><label>Artikel</label><nr>289a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=289">artikel 289</intref> omschreven misdrijf, te begaan
 met een terroristisch oogmerk, alsmede het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=288a">artikel 288a</intref> omschreven misdrijf,
 wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete
 van de vijfde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel><artikel status="goed">
@@ -12777,12 +12667,12 @@ van de vijfde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><
         </li>
     </lijst>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>304a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=302">artikel 302</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=303">303</intref>, is
+    <artikel status="goed"><kop><label>Artikel</label><nr>304a</nr></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=302">artikel 302</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=303">303</intref>, is
 begaan met een terroristisch oogmerk, wordt de in dat artikel bepaalde tijdelijke
 gevangenisstraf met de helft verhoogd en wordt, indien op het misdrijf een
 tijdelijke gevangenisstraf van ten hoogste vijftien jaren is gesteld, levenslange
 gevangenisstraf of tijdelijke van ten hoogste twintig jaren opgelegd.</al></artikel>
-            <artikel status="goed"><kop><label>Artikel</label><nr>304b</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=303">artikel 303</intref> omschreven misdrijf, te begaan
+            <artikel status="goed"><kop><label>Artikel</label><nr>304b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=303">artikel 303</intref> omschreven misdrijf, te begaan
 met een terroristisch oogmerk, wordt gestraft met gevangenisstraf van ten
 hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel><artikel status="goed">
     <kop>
@@ -12888,115 +12778,41 @@ hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr s
         gevangenisstraf van ten hoogste vier jaren of geldboete van de
         vierde categorie.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>311</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Met gevangenisstraf van ten hoogste zes jaren of geldboete
-            van de vierde categorie wordt gestraft: </al>
-        <lijst>
-            <li>
-                <li.nr>1&#xB0;.</li.nr>
-                <al>diefstal van vee uit de weide;</al>
-            </li>
-            
-            <li>
-                <li.nr>2&#xB0;.</li.nr>
-                <al>diefstal bij gelegenheid van brand, ontploffing,
+    <artikel status="goed"><kop><label>Artikel</label><nr>311</nr></kop><lid><lidnr>1</lidnr><al>Met gevangenisstraf van ten hoogste zes jaren of geldboete
+            van de vierde categorie wordt gestraft: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>diefstal van vee uit de weide;</al></li><li><li.nr>2&#xB0;.</li.nr><al>diefstal bij gelegenheid van brand, ontploffing,
                     watersnood, schipbreuk, stranding, spoorwegongeval,
-                    oproer, muiterij of oorlogsnood;</al>
-            </li>
-            <li>
-                <li.nr>3&#xB0;.</li.nr>
-                <al>diefstal gedurende de voor de nachtrust bestemde
+                    oproer, muiterij of oorlogsnood;</al></li><li><li.nr>3&#xB0;.</li.nr><al>diefstal gedurende de voor de nachtrust bestemde
                     tijd, in een woning of op een besloten erf waarop
                     een woning staat, door iemand die zich aldaar buiten
-                    weten of tegen de wil van de rechthebbende bevindt;</al>
-            </li>
-            <li>
-                <li.nr>4&#xB0;.</li.nr>
-                <al>diefstal door twee of meer verenigde personen;</al>
-            </li>
-            
-            <li>
-                <li.nr>5&#xB0;.</li.nr>
-                <al>diefstal waarbij de schuldige zich de toegang tot de
+                    weten of tegen de wil van de rechthebbende bevindt;</al></li><li><li.nr>4&#xB0;.</li.nr><al>diefstal door twee of meer verenigde personen;</al></li><li><li.nr>5&#xB0;.</li.nr><al>diefstal waarbij de schuldige zich de toegang tot de
                     plaats van het misdrijf heeft verschaft of het weg
                     te nemen goed onder zijn bereik heeft gebracht door
                     middel van braak, verbreking of inklimming, van
-                    valse sleutels, van een valse order of een vals kostuum.</al>
-            </li>
-        </lijst>
-    </lid>
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Indien de onder 3&#xB0; omschreven diefstal vergezeld gaat van
+                    valse sleutels, van een valse order of een vals kostuum;</al></li><li><li.nr>6&#xB0;.</li.nr><al>diefstal met het oogmerk om een terroristisch misdrijf voor te
+bereiden of gemakkelijk te maken.</al></li></lijst></lid><lid><lidnr>2</lidnr><al> Indien de onder 3&#xB0; omschreven diefstal vergezeld gaat van
             een der in onder 4&#xB0; en 5&#xB0; vermelde omstandigheden, wordt
             gevangenisstraf van ten hoogste negen jaren of geldboete van
-            de vijfde categorie opgelegd.</al>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>312</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Met gevangenisstraf van ten hoogste negen jaren of geldboete
+            de vijfde categorie opgelegd.</al></lid></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>312</nr></kop><lid><lidnr>1</lidnr><al>Met gevangenisstraf van ten hoogste negen jaren of geldboete
             van de vijfde categorie wordt gestraft diefstal,
             voorafgegaan, vergezeld of gevolgd van geweld of bedreiging
             met geweld tegen personen, gepleegd met het oogmerk om die
             diefstal voor te bereiden of gemakkelijk te maken, of om,
             bij betrapping op heter daad, aan zichzelf of andere
             deelnemers aan het misdrijf hetzij de vlucht mogelijk te
-            maken, hetzij het bezit van het gestolene te verzekeren.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Gevangenisstraf van ten hoogste twaalf jaren of geldboete
-            van de vijfde categorie wordt opgelegd: </al>
-        <lijst>
-            <li>
-                <li.nr>1&#xB0;.</li.nr>
-                <al>indien het feit wordt gepleegd hetzij gedurende de
+            maken, hetzij het bezit van het gestolene te verzekeren.</al></lid><lid><lidnr>2</lidnr><al> Gevangenisstraf van ten hoogste twaalf jaren of geldboete
+            van de vijfde categorie wordt opgelegd: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>indien het feit wordt gepleegd hetzij gedurende de
                     voor de nachtrust bestemde tijd in een woning of op
                     een besloten erf waarop een woning staat; hetzij op
                     de openbare weg; hetzij in een spoortrein die in
-                    beweging is;</al>
-            </li>
-            <li>
-                <li.nr>2&#xB0;.</li.nr>
-                <al>indien het feit wordt gepleegd door twee of meer
-                    verenigde personen;</al>
-            </li>
-            <li>
-                <li.nr>3&#xB0;.</li.nr>
-                <al>indien de schuldige zich de toegang tot de plaats
+                    beweging is;</al></li><li><li.nr>2&#xB0;.</li.nr><al>indien het feit wordt gepleegd door twee of meer
+                    verenigde personen;</al></li><li><li.nr>3&#xB0;.</li.nr><al>indien de schuldige zich de toegang tot de plaats
                     van het misdrijf heeft verschaft door middel van
                     braak of inklimming, van valse sleutels, van een
-                    valse order of een vals kostuum;</al>
-            </li>
-            <li>
-                <li.nr>4&#xB0;.</li.nr>
-                <al>indien het feit zwaar lichamelijk letsel ten gevolge heeft.</al>
-            </li>
-        </lijst>
-    </lid>
-    
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Gevangenisstraf van ten hoogste vijftien jaren of geldboete
+                    valse order of een vals kostuum;</al></li><li><li.nr>4&#xB0;.</li.nr><al>indien het feit zwaar lichamelijk letsel ten gevolge heeft;</al></li><li><li.nr>5&#xB0;.</li.nr><al>indien het feit wordt gepleegd met het oogmerk om een terroristisch
+misdrijf voor te bereiden of gemakkelijk te maken.</al></li></lijst></lid><lid><lidnr>3</lidnr><al> Gevangenisstraf van ten hoogste vijftien jaren of geldboete
             van de vijfde categorie wordt opgelegd, indien het feit de
-            dood ten gevolge heeft.</al>
-    </lid>
-</artikel>
+            dood ten gevolge heeft.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -15133,43 +14949,21 @@ hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr s
         </li>
     </lijst>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>385a</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Hij die een luchtvaartuig door geweld, bedreiging met geweld
+    <artikel status="goed"><kop><label>Artikel</label><nr>385a</nr></kop><lid><lidnr>1</lidnr><al>Hij die een luchtvaartuig door geweld, bedreiging met geweld
             of vreesaanjaging in zijn macht brengt of houdt dan wel van
             zijn route doet afwijken, wordt gestraft met gevangenisstraf
-            van ten hoogste twaalf jaren of geldboete van de vijfde categorie.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Indien twee of meer personen gezamenlijk of ten gevolge van
+            van ten hoogste twaalf jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr>2</lidnr><al> Indien twee of meer personen gezamenlijk of ten gevolge van
             samenspanning het feit plegen, of indien het feit zwaar
             lichamelijk letsel ten gevolge heeft, dan wel het feit is
             gepleegd met het oogmerk iemand wederrechtelijk van zijn
             vrijheid te beroven of beroofd te houden, wordt
             gevangenisstraf van ten hoogste vijftien jaren of geldboete
-            van de vijfde categorie opgelegd.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Indien het feit de dood ten gevolge heeft, wordt
+            van de vijfde categorie opgelegd.</al></lid><lid><lidnr>3</lidnr><al> Indien het feit de dood ten gevolge heeft, wordt
             levenslange gevangenisstraf of tijdelijke van ten hoogste
-            twintig jaren of geldboete van de vijfde categorie opgelegd.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>4</lidnr>
-        <al> De straffen in het eerste lid bepaald, zijn toepasselijk op
+            twintig jaren of geldboete van de vijfde categorie opgelegd.</al></lid><lid><lidnr>4</lidnr><al> De straffen in het eerste lid bepaald, zijn toepasselijk op
             degene die de in dit lid omschreven misdrijven pleegt ten
-            aanzien van een vaartuig en een installatie ter zee.</al>
-    </lid>
-</artikel>
+            aanzien van een vaartuig, een installatie ter zee, een autobus, een trein of een ander
+middel van openbaar vervoer dan wel een vrachtwagen met een gevaarlijke lading.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -15732,13 +15526,13 @@ hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr s
         misdrijven kan ontzetting van de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=28">artikel 28, eerste lid, onder 1&#xB0;, 2&#xB0;
             en 4&#xB0;</intref>, vermelde rechten worden uitgesproken.</al>
 </artikel>
-<artikel status="goed"><kop><label>Artikel</label><nr>415a</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><al>Indien een misdrijf, strafbaar gesteld in een der <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">artikelen 385a tot en
+<artikel status="goed"><kop><label>Artikel</label><nr>415a</nr></kop><al>Indien een misdrijf, strafbaar gesteld in een der <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">artikelen 385a tot en
 met 385d</intref>, is begaan met een terroristisch oogmerk, wordt de in dat artikel
 bepaalde tijdelijke gevangenisstraf met de helft verhoogd en wordt, indien
 op het misdrijf een tijdelijke gevangenisstraf van ten hoogste vijftien jaren
 is gesteld, levenslange gevangenisstraf of tijdelijke van ten hoogste twintig
 jaren opgelegd.</al></artikel>
-            <artikel status="goed"><kop><label>Artikel</label><nr>415b</nr><al><redactie type="extra">Treedt in werking per 10-08-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot de in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">artikelen 385a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385b">385b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385d">385d</intref> omschreven
+            <artikel status="goed"><kop><label>Artikel</label><nr>415b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot de in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">artikelen 385a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385b">385b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385d">385d</intref> omschreven
 misdrijven, te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf
 van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel></titeldeel>
     <titeldeel>
