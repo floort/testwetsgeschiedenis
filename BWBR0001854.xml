@@ -4312,63 +4312,60 @@
   <kop> 
 	 <label>Artikel</label> 
 	 <nr>71</nr> 
-  </kop>
-    
-  <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>De termijn van verjaring vangt aan op de dag na die waarop het feit is
-		gepleegd, behoudens in de volgende gevallen: </al> 
-	 <lijst> 
-		<li> 
-		  <li.nr>1&#xB0;.</li.nr> 
-		  <al>bij de misdrijven omschreven in de
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=172">artikelen 172, eerste lid</intref>,
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173">173, eerste lid</intref>,
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173<nadruk type="cur">a</nadruk></intref> en
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173b">173<nadruk type="cur">b</nadruk></intref>,
-			 vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen
-			 van een ambtenaar belast met de opsporing van strafbare feiten;</al> 
-		</li>
-            
-		<li> 
-		  <li.nr>2&#xB0;.</li.nr> 
-		  <al>bij valsheid of muntschennis op de dag na die waarop gebruik is
-			 gemaakt van het voorwerp ten opzichte waarvan de valsheid of muntschennis
-			 gepleegd is;</al> 
-		</li> 
-		<li> 
-		  <li.nr>3&#xB0;.</li.nr> 
-		  <al>bij de misdrijven omschreven in de
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240<nadruk type="cur">b</nadruk></intref> en
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250<nadruk type="cur">a</nadruk></intref>, en gepleegd ten aanzien van een
-			 minderjarige, op de dag na die waarop die persoon achttien jaren is
-			 geworden;</al> 
-		</li> 
-		<li> 
-		  <li.nr>4&#xB0;.</li.nr> 
-		  <al>bij de misdrijven omschreven in de
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=278">artikelen 278</intref>,
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=279">279</intref>,
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282">282</intref> en
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282a">282<nadruk type="cur">a</nadruk></intref> op de
-			 dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het
-			 misdrijf gepleegd is;</al> 
-		</li> 
-		<li> 
-		  <li.nr>5&#xB0;.</li.nr> 
-		  <al>bij de overtredingen omschreven in de
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=465">artikelen 465</intref>,
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=466">466</intref> en
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=467">467</intref>, op de dag na die waarop ingevolge
-			 de voorschriften gegeven in of ter uitvoering van
-			 <extref status="slapend" doc="" compleet="nee">artikel 18c van Boek 1 van het Burgerlijk
-			 Wetboek</extref>, de aldaar bedoelde registers waaruit zodanige
-			 overtreding blijkt, naar de centrale bewaarplaats, bedoeld in
-			 <extref status="slapend" doc="" compleet="nee">afdeling 8 van hoofdstuk 1 van het Besluit burgerlijke
-			 stand 1994</extref> zijn overgebracht.</al> 
-		</li> 
-	 </lijst> 
-  </lid>
+  </kop> 
+   
+  <al>De termijn van verjaring vangt aan op de dag na die waarop het feit is
+	 gepleegd, behoudens in de volgende gevallen: </al> 
+  <lijst> 
+	 <li> 
+		<li.nr>1&#xB0;.</li.nr> 
+		<al>bij de misdrijven omschreven in de
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=172">artikelen 172, eerste lid</intref>,
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173">173, eerste lid</intref>,
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173<nadruk type="cur">a</nadruk></intref> en
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173b">173<nadruk type="cur">b</nadruk></intref>,
+		  vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen
+		  van een ambtenaar belast met de opsporing van strafbare feiten;</al> 
+	 </li> 
+	  
+	 <li> 
+		<li.nr>2&#xB0;.</li.nr> 
+		<al>bij valsheid of muntschennis op de dag na die waarop gebruik is
+		  gemaakt van het voorwerp ten opzichte waarvan de valsheid of muntschennis
+		  gepleegd is;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>3&#xB0;.</li.nr> 
+		<al>bij de misdrijven omschreven in de
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240<nadruk type="cur">b</nadruk></intref> en
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250<nadruk type="cur">a</nadruk></intref>, en gepleegd ten aanzien van een
+		  minderjarige, op de dag na die waarop die persoon achttien jaren is
+		  geworden;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>4&#xB0;.</li.nr> 
+		<al>bij de misdrijven omschreven in de
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=278">artikelen 278</intref>,
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=279">279</intref>,
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282">282</intref> en
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282a">282<nadruk type="cur">a</nadruk></intref> op de
+		  dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het
+		  misdrijf gepleegd is;</al> 
+	 </li> 
+	 <li> 
+		<li.nr>5&#xB0;.</li.nr> 
+		<al>bij de overtredingen omschreven in de
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=465">artikelen 465</intref>,
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=466">466</intref> en
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=467">467</intref>, op de dag na die waarop ingevolge
+		  de voorschriften gegeven in of ter uitvoering van
+		  <extref status="actief" doc="1.0:v:BWBR0002656&amp;artikel=18c" compleet="nee">artikel 18c van Boek 1 van het Burgerlijk
+		  Wetboek</extref>, de aldaar bedoelde registers waaruit zodanige
+		  overtreding blijkt, naar de centrale bewaarplaats, bedoeld in
+		  <extref status="actief" doc="1.0:v:BWBR0006493&amp;afdeling=Achtste" compleet="nee">afdeling 8 van hoofdstuk 1 van het Besluit burgerlijke
+		  stand 1994</extref> zijn overgebracht.</al> 
+	 </li> 
+  </lijst>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -11084,37 +11081,29 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
         vertoont aan een minderjarige van wie hij weet of redelijkerwijs
         moet vermoeden, dat deze jonger is dan zestien jaar.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>240b</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Met gevangenisstraf van ten hoogste vier jaren of geldboete
-            van de vijfde categorie wordt gestraft degene die een
-            afbeelding - of een gegevensdrager, bevattende een
-            afbeelding - van een seksuele gedraging, waarbij iemand die
-            kennelijk de leeftijd van achttien jaar nog niet heeft
-            bereikt, is betrokken of schijnbaar is betrokken,
-            verspreidt, openlijk tentoonstelt, vervaardigt, invoert,
-            doorvoert, uitvoert of in bezit heeft.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>
-            <redactie type="vervanging">Vervallen.</redactie>
-        </al>
-    </lid>
-    
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Met gevangenisstraf van ten hoogste zes jaren of geldboete
-            van de vijfde categorie wordt gestraft degene die van het
-            plegen van een van de misdrijven, omschreven in het eerste
-            lid, een beroep of een gewoonte maakt.</al>
-    </lid>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>240b</nr> 
+  </kop> 
+   
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>Met gevangenisstraf van ten hoogste vier jaren of geldboete van de
+		vijfde categorie wordt gestraft degene die een afbeelding - of een
+		gegevensdrager, bevattende een afbeelding - van een seksuele gedraging, waarbij
+		iemand die kennelijk de leeftijd van achttien jaar nog niet heeft bereikt, is
+		betrokken of schijnbaar is betrokken, verspreidt, openlijk tentoonstelt,
+		vervaardigt, invoert, doorvoert, uitvoert of in bezit heeft.</al> 
+  </lid> 
+   
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al> Met gevangenisstraf van ten hoogste zes jaren of geldboete van de
+		vijfde categorie wordt gestraft degene die van het plegen van een van de
+		misdrijven, omschreven in het eerste lid, een beroep of een gewoonte
+		maakt.</al> 
+  </lid>
 </artikel>
     
     
