@@ -328,17 +328,33 @@
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>aan een der misdrijven omschreven in
-                        de<intref status="slapend" verwijzing-id="1517812"> Titels
-                    I</intref> en <intref status="slapend" verwijzing-id="1517813">II van het Tweede
-                    Boek</intref>, en in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197a">artikelen 197<nadruk type="cur">a</nadruk>
-                    </intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197b">197<nadruk type="cur">b</nadruk>
-                    </intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197c">197<nadruk type="cur">c</nadruk>
-                    </intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=206">206</intref>,
+                        de<intref status="slapend" verwijzing-id="1520134"> Titels
+                    I</intref> en <intref status="slapend" verwijzing-id="1520135">II van het Tweede
+                    Boek</intref>, en in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197a">artikelen
+                    197a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197b">197b</intref>,
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197c">197c</intref>,
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=206">206</intref>,
                         <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=237">237</intref>,
                         <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=272">272</intref>,
                         <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273">273</intref>,
                         <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=388">388</intref> en
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=389">389</intref>;</al>
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=389">389</intref> alsmede
+                    &#x2013; voor
+                    zover het betreft een misdrijf, gericht tegen de
+                    rechtspleging van het Internationaal Strafhof, als
+                    bedoeld in artikel 70, eerste lid, van het op 17
+                    juli 1998 te Rome tot stand gekomen Statuut van Rome
+                    inzake het Internationale Strafhof (Trb. 2000, 120)
+                    &#x2013; in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177">artikelen
+                    177</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177a">177a</intref>,
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=178">178</intref>,
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=179">179</intref>,
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=180">180</intref>,
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=189">189</intref>,
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=200">200</intref>,
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=207a">207a</intref>,
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285a">285a</intref> en
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=361">361</intref>;</al>
             </li>
             <li>
                 <li.nr>2&#xB0;.</li.nr>
@@ -9676,64 +9692,64 @@
         gevangenisstraf van ten hoogste een jaar of geldboete van de
         derde categorie.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>189</nr>
-    </kop>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>189</nr> 
+  </kop>
     
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Met gevangenisstraf van ten hoogste zes maanden of geldboete
-            van de derde categorie wordt gestraft: </al>
-        <lijst>
-            <li>
-                <li.nr>1&#xB0;.</li.nr>
-                <al>hij die opzettelijk iemand die schuldig is aan of
-                    vervolgd wordt ter zake van enig misdrijf, verbergt
-                    of hem behulpzaam is in het ontkomen aan de
-                    nasporing van of aanhouding door de ambtenaren van
-                    de justitie of politie;</al>
-            </li>
+
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>Met gevangenisstraf van ten hoogste zes maanden of geldboete van de
+		derde categorie wordt gestraft: </al> 
+	 <lijst> 
+		<li> 
+		  <li.nr>1&#xB0;.</li.nr> 
+		  <al>hij die opzettelijk iemand die schuldig is aan of vervolgd wordt
+			 ter zake van enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan
+			 de nasporing van of aanhouding door de ambtenaren van de justitie of
+			 politie;</al> 
+		</li>
             
-            <li>
-                <li.nr>2&#xB0;.</li.nr>
-                <al>hij die nadat enig misdrijf is gepleegd, met het
-                    oogmerk om het te bedekken of de nasporing of
-                    vervolging te beletten of te bemoeilijken,
-                    voorwerpen waarop of waarmede het misdrijf gepleegd
-                    is of andere sporen van het misdrijf vernietigt,
-                    wegmaakt, verbergt of aan het onderzoek van de
-                    ambtenaren van de justitie of politie onttrekt;</al>
-            </li>
-            <li>
-                <li.nr>3&#xB0;.</li.nr>
-                <al>hij die opzettelijk voorwerpen die kunnen dienen om
-                    de waarheid aan de dag te brengen of om
-                    wederrechtelijk verkregen voordeel als bedoeld in
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=36e">artikel 36<nadruk type="cur">e</nadruk>
-                    </intref> aan te tonen, met het oogmerk om
-                    de inbeslagneming daarvan te beletten, te belemmeren
-                    of te verijdelen, verbergt, vernietigt, wegmaakt of
-                    aan het onderzoek van de ambtenaren van de justitie
-                    of politie onttrekt, dan wel door het opzettelijk
-                    verstrekken van gegevens of inlichtingen aan derden
-                    die inbeslagneming belet, belemmert of verijdelt.</al>
-            </li>
-        </lijst>
-    </lid>
+		<li> 
+		  <li.nr>2&#xB0;.</li.nr> 
+		  <al>hij die nadat enig misdrijf is gepleegd, met het oogmerk om het te
+			 bedekken of de nasporing of vervolging te beletten of te bemoeilijken,
+			 voorwerpen waarop of waarmede het misdrijf gepleegd is of andere sporen van het
+			 misdrijf vernietigt, wegmaakt, verbergt of aan het onderzoek van de ambtenaren
+			 van de justitie of politie onttrekt;</al> 
+		</li> 
+		<li> 
+		  <li.nr>3&#xB0;.</li.nr> 
+		  <al>hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan
+			 de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=36e">artikel 36<nadruk type="cur">e</nadruk>
+			 </intref> aan te tonen, met het oogmerk om de inbeslagneming daarvan te
+			 beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan
+			 het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel
+			 door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die
+			 inbeslagneming belet, belemmert of verijdelt.</al> 
+		</li> 
+	 </lijst> 
+  </lid>
     
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al> Deze bepalingen zijn niet van toepassing op hem die de daarin vermelde
+		handelingen verricht ten einde gevaar van vervolging te ontgaan of af te wenden
+		van een van zijn bloedverwanten of aangehuwden in de rechte linie of in de
+		tweede of derde graad van de zijlinie of van zijn echtgenoot of gewezen
+		echtgenoot.</al> 
+  </lid>
     
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Deze bepalingen zijn niet van toepassing op hem die de
-            daarin vermelde handelingen verricht ten einde gevaar van
-            vervolging te ontgaan of af te wenden van een van zijn
-            bloedverwanten of aangehuwden in de rechte linie of in de
-            tweede of derde graad van de zijlinie of van zijn echtgenoot
-            of gewezen echtgenoot.</al>
-    </lid>
+  <lid> 
+	 <lidnr>3</lidnr> 
+	 <al>Met ambtenaren van de justitie of politie worden gelijkgesteld:
+		personen in de openbare dienst van een internationaal gerecht dat zijn
+		rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is, die
+		belast zijn met de opsporing of vervolging van enig misdrijf.</al> 
+  </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -10017,21 +10033,29 @@
             ten hoogste een maand of geldboete van de tweede categorie.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>200</nr>
-    </kop>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>200</nr> 
+  </kop>
     
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>Hij die opzettelijk zaken, bestemd om voor de bevoegde macht tot
+		overtuiging of bewijs te dienen, akten, bescheiden of registers die voortdurend
+		of tijdelijk op openbaar gezag bewaard worden, of hetzij aan een ambtenaar,
+		hetzij aan een ander in het belang van de openbare dienst zijn ter hand
+		gesteld, vernielt, beschadigt, onbruikbaar maakt of wegmaakt, wordt gestraft
+		met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde
+		categorie.</al> 
+  </lid>
     
-    <al>Hij die opzettelijk zaken, bestemd om voor de bevoegde macht tot
-        overtuiging of bewijs te dienen, akten, bescheiden of registers
-        die voortdurend of tijdelijk op openbaar gezag bewaard worden,
-        of hetzij aan een ambtenaar, hetzij aan een ander in het belang
-        van de openbare dienst zijn ter hand gesteld, vernielt,
-        beschadigt, onbruikbaar maakt of wegmaakt, wordt gestraft met
-        gevangenisstraf van ten hoogste drie jaren of geldboete van de
-        vierde categorie.</al>
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al>Onder bevoegde macht wordt mede verstaan: een internationaal gerecht
+		dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij
+		is.</al> 
+  </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -10182,28 +10206,20 @@
     
     <lid>
         <lidnr>1</lidnr>
-        <al>Hij die in de gevallen waarin door of krachtens een
-            internationale overeenkomst waarbij het Koninkrijk partij
-            is, een verklaring onder ede of onder een daarvoor in de
-            plaats tredende bevestiging of belofte wordt gevorderd, voor
-            een internationaal gerecht mondeling of schriftelijk,
-            persoonlijk of door een bijzonder daartoe gemachtigde,
-            opzettelijk een valse verklaring in die vorm aflegt, wordt
-            gestraft met gevangenisstraf van ten hoogste zes jaren of
-            geldboete van de vierde categorie.</al>
+        <al>Hij die in de gevallen waarin door of krachtens een verdrag
+            waarbij het Koninkrijk partij is, een verklaring onder ede
+            of onder een daarvoor in de plaats tredende bevestiging of
+            belofte wordt gevorderd, voor een internationaal gerecht
+            mondeling of schriftelijk, persoonlijk of door een bijzonder
+            daartoe gemachtigde, opzettelijk een valse verklaring in die
+            vorm aflegt, wordt gestraft met gevangenisstraf van ten
+            hoogste zes jaren of geldboete van de vierde categorie.</al>
     </lid>
+    
     <lid>
         <lidnr>2</lidnr>
         <al> De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=207">leden 2 en 4 van artikel
             207</intref> zijn van toepassing.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Geen vervolging vindt plaats dan op klacht van het
-            internationale gerecht voor hetwelk de valse verklaring werd
-            afgelegd. Artikel 66 blijft met betrekking tot de in dit lid
-            bedoelde klacht buiten toepassing.</al>
     </lid>
 </artikel>
 </titeldeel>
@@ -12324,21 +12340,30 @@
             van ten hoogste vier jaren of geldboete van de vierde categorie.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>285a</nr>
-    </kop>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>285a</nr> 
+  </kop>
     
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>Hij die opzettelijk mondeling, door gebaren, bij geschrift of
+		afbeelding zich jegens een persoon uit, kennelijk om diens vrijheid om naar
+		waarheid of geweten ten overstaan van een rechter of ambtenaar een verklaring
+		af te leggen te be&#xEF;nvloeden, terwijl hij weet of ernstige reden heeft te
+		vermoeden dat die verklaring zal worden afgelegd, wordt gestraft met
+		gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde
+		categorie.</al> 
+  </lid>
     
-    <al>Hij die opzettelijk mondeling, door gebaren, bij geschrift of
-        afbeelding zich jegens een persoon uit, kennelijk om diens
-        vrijheid om naar waarheid of geweten ten overstaan van een
-        rechter of ambtenaar een verklaring af te leggen te be&#xEF;nvloeden,
-        terwijl hij weet of ernstige reden heeft te vermoeden dat die
-        verklaring zal worden afgelegd, wordt gestraft met
-        gevangenisstraf van ten hoogste vier jaren of geldboete van de
-        vierde categorie.</al>
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al>Met rechter of ambtenaar wordt gelijkgesteld: een rechter bij
+		onderscheidenlijk een persoon in de openbare dienst van een internationaal
+		gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk
+		partij is.</al> 
+  </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -14332,23 +14357,30 @@
         gevangenisstraf van ten hoogste drie jaren of geldboete van de
         vijfde categorie.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>361</nr>
-    </kop>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>361</nr> 
+  </kop>
     
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>De ambtenaar of een ander met enige openbare dienst voortdurend of
+		tijdelijk belast persoon, die opzettelijk zaken bestemd om voor de bevoegde
+		macht tot overtuiging of bewijs te dienen, akten, bescheiden of registers,
+		welke hij in zijn bediening onder zich heeft verduistert, vernielt, beschadigt
+		of onbruikbaar maakt, of toelaat dat zij door een ander worden weggemaakt,
+		vernield, beschadigd of onbruikbaar gemaakt, of die ander daarbij als
+		medeplichtige ter zijde staat, wordt gestraft met gevangenisstraf van ten
+		hoogste vier jaren en zes maanden of geldboete van de vijfde categorie.</al> 
+  </lid>
     
-    <al>De ambtenaar of een ander met enige openbare dienst voortdurend
-        of tijdelijk belast persoon, die opzettelijk zaken bestemd om
-        voor de bevoegde macht tot overtuiging of bewijs te dienen,
-        akten, bescheiden of registers, welke hij in zijn bediening
-        onder zich heeft verduistert, vernielt, beschadigt of
-        onbruikbaar maakt, of toelaat dat zij door een ander worden
-        weggemaakt, vernield, beschadigd of onbruikbaar gemaakt, of die
-        ander daarbij als medeplichtige ter zijde staat, wordt gestraft
-        met gevangenisstraf van ten hoogste vier jaren en zes maanden of
-        geldboete van de vijfde categorie.</al>
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al>Onder bevoegde macht wordt mede verstaan: een internationaal gerecht
+		dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij
+		is.</al> 
+  </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -14523,8 +14555,9 @@
     
     <lid>
         <lidnr>1</lidnr>
-        <al>Met ambtenaren worden ten aanzien van de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=362">artikelen 362</intref>
-            en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=363">363</intref> gelijkgesteld
+        <al>Met ambtenaren worden ten aanzien van de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=361">artikelen 361</intref>,
+                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=362">362</intref> en
+                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=363">363</intref> gelijkgesteld
             personen in de openbare dienst van een vreemde staat of van
             een volkenrechtelijke organisatie.</al>
     </lid>
