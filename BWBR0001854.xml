@@ -314,69 +314,69 @@
         overgenomen op grond van een verdrag waaruit de bevoegdheid tot
         strafvervolging voor Nederland volgt.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>5</nr>
-    </kop>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>5</nr> 
+  </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De Nederlandse strafwet is toepasselijk op de Nederlander
-            die zich buiten Nederland schuldig maakt: </al>
-        <lijst>
-            <li>
-                <li.nr>1&#xB0;.</li.nr>
-                <al>aan een der misdrijven omschreven in
-                        de<intref status="slapend" verwijzing-id="1520134"> Titels
-                    I</intref> en <intref status="slapend" verwijzing-id="1520135">II van het Tweede
-                    Boek</intref>, en in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197a">artikelen
-                    197a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197b">197b</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197c">197c</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=206">206</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=237">237</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=272">272</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273">273</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=388">388</intref> en
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=389">389</intref> alsmede
-                    &#x2013; voor
-                    zover het betreft een misdrijf, gericht tegen de
-                    rechtspleging van het Internationaal Strafhof, als
-                    bedoeld in artikel 70, eerste lid, van het op 17
-                    juli 1998 te Rome tot stand gekomen Statuut van Rome
-                    inzake het Internationale Strafhof (Trb. 2000, 120)
-                    &#x2013; in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177">artikelen
-                    177</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177a">177a</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=178">178</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=179">179</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=180">180</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=189">189</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=200">200</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=207a">207a</intref>,
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285a">285a</intref> en
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=361">361</intref>;</al>
-            </li>
-            <li>
-                <li.nr>2&#xB0;.</li.nr>
-                <al>aan een feit hetwelk door de Nederlandse strafwet
-                    als misdrijf wordt beschouwd en waarop door de wet
-                    van het land waar het begaan is, straf is gesteld.</al>
-            </li>
-        <li>
-                <li.nr>3&#xB0;.</li.nr>
-                <al>aan een der misdrijven omschreven in de
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen
-                    240b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met
-                    250a</intref>, voor zover het feit is
-                    gepleegd ten aanzien van een minderjarige.</al>
-            </li></lijst>
-    </lid>
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>De Nederlandse strafwet is toepasselijk op de Nederlander die zich
+		buiten Nederland schuldig maakt: </al> 
+	 <lijst> 
+		<li> 
+		  <li.nr>1&#xB0;.</li.nr> 
+		  <al>aan een der misdrijven omschreven in de
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;titeldeel=I">Titels I</intref> en
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;titeldeel=II">II van het Tweede
+			 Boek</intref>, en in de
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197a">artikelen 197a</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197b">197b</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197c">197c</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=206">206</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=237">237</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=272">272</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273">273</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=388">388</intref> en
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=389">389</intref> alsmede &#x2013; voor zover het betreft
+			 een misdrijf, gericht tegen de rechtspleging van het Internationaal Strafhof,
+			 als bedoeld in artikel 70, eerste lid, van het op 17 juli 1998 te Rome tot
+			 stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000,
+			 120) &#x2013; in de
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177">artikelen 177</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177a">177a</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=178">178</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=179">179</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=180">180</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=189">189</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=200">200</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=207a">207a</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285a">285a</intref> en
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=361">361</intref>;</al> 
+		</li> 
+		<li> 
+		  <li.nr>2&#xB0;.</li.nr> 
+		  <al>aan een feit hetwelk door de Nederlandse strafwet als misdrijf
+			 wordt beschouwd en waarop door de wet van het land waar het begaan is, straf is
+			 gesteld.</al> 
+		</li> 
+		<li> 
+		  <li.nr>3&#xB0;.</li.nr> 
+		  <al>aan een der misdrijven omschreven in de
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref> en
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250a</intref>, voor zover het
+			 feit is gepleegd ten aanzien van een minderjarige.</al> 
+		</li>
+	 </lijst> 
+  </lid>
     
-    <lid>
-        <lidnr>2</lidnr>
-        <al> De vervolging kan ook plaatshebben, indien de verdachte
-            eerst na het begaan van het feit Nederlander wordt.</al>
-    </lid>
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al> In de gevallen, bedoeld in het eerste lid, onder 2&#xB0;, kan de vervolging
+		ook plaatshebben, indien de verdachte eerst na het begaan van het feit
+		Nederlander wordt.</al> 
+  </lid>
 </artikel>
     <artikel status="goed"> 
   <kop> 
@@ -14519,33 +14519,31 @@
             van de vijfde categorie.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>364a</nr>
-    </kop>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr>364a</nr> 
+  </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Met ambtenaren worden ten aanzien van de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=361">artikelen 361</intref>,
-                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=362">362</intref> en
-                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=363">363</intref> gelijkgesteld
-            personen in de openbare dienst van een vreemde staat of van
-            een volkenrechtelijke organisatie.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Met ambtenaren worden ten aanzien van de<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=362"> artikelen 362, onder 2&#xB0; en
-            4&#xB0;</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=363">363, onder 2&#xB0; en
-            4&#xB0;</intref>, voormalige ambtenaren gelijkgesteld.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Met rechter wordt ten aanzien van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=364">artikel 364</intref>
+  <lid> 
+	 <lidnr>1</lidnr> 
+	 <al>Met ambtenaren worden ten aanzien van de
+		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=361">artikelen 361</intref>,
+		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=362">362</intref> en
+		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=363">363</intref> gelijkgesteld personen in
+		de openbare dienst van een vreemde staat of van een volkenrechtelijke
+		organisatie.</al> 
+  </lid> 
+  <lid> 
+	 <lidnr>2</lidnr> 
+	 <al>Met ambtenaren worden ten aanzien van de
+		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=362">artikelen 362, onder 2&#xB0; en 4&#xB0;</intref>,
+		en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=363">363, onder 2&#xB0; en 4&#xB0;</intref>,
+		voormalige ambtenaren gelijkgesteld.</al> 
+  </lid>
+<lid><lidnr>3</lidnr><al>Met rechter wordt ten aanzien van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=364">artikel 364</intref>
             gelijkgesteld de rechter van een vreemde staat of van een
-            volkenrechtelijke organisatie.</al>
-    </lid>
-</artikel>
+            volkenrechtelijke organisatie.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
