@@ -3061,19 +3061,8 @@
 	 </lijst> 
   </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>65</nr>
-    </kop>
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De commissie van toezicht bestaat uit drie leden, onder wie
-            de voorzitter.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>De leden worden benoemd bij koninklijk besluit op voordracht
+    <artikel status="goed"><kop><label>Artikel</label><nr>65</nr></kop><lid><lidnr>1</lidnr><al>De commissie van toezicht bestaat uit drie leden, onder wie
+            de voorzitter.</al></lid><lid><lidnr>2</lidnr><al>De leden worden benoemd bij koninklijk besluit op voordracht
             van Onze betrokken Ministers gezamenlijk voor een tijdvak
             van zes jaar en kunnen slechts eenmaal worden herbenoemd.
             Voor de benoeming van de leden wordt door de Tweede Kamer
@@ -3084,61 +3073,37 @@
             vice-president van de Raad van State, de president van de
             Hoge Raad der Nederlanden en de Nationale ombudsman
             gezamenlijk opgemaakte aanbevelingslijst van ten minste drie
-            kandidaten per vacature.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Onze betrokken Ministers kunnen de Tweede Kamer verzoeken
-            een nieuwe voordracht te doen.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>Ten minste twee van de drie leden, onder wie de voorzitter,
-            dienen aan een universiteit dan wel de Open Universiteit
-            waarop de <extref status="actief" doc="1.0:v:BWBR0005682" compleet="nee">Wet op het hoger onderwijs en het
-                wetenschappelijk onderzoek</extref> betrekking
-            heeft, het doctoraat in de rechtsgeleerdheid of het recht om
-            de titel meester te voeren te hebben verkregen.</al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al>Alvorens hun ambt te aanvaarden leggen de leden in handen
-            van de Minister-President, Minister van Algemene Zaken, af:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de eed of verklaring en belofte dat zij tot het
+            kandidaten per vacature.</al></lid><lid><lidnr>3</lidnr><al>Onze betrokken Ministers kunnen de Tweede Kamer verzoeken
+            een nieuwe voordracht te doen.</al></lid><lid><lidnr>4</lidnr><al>Aan ten
+minste twee van de drie leden, onder wie de voorzitter, dient door een
+universiteit dan wel de Open Universiteit waarop de <extref status="actief" doc="1.0:v:BWBR0005682" compleet="nee">Wet op het hoger
+onderwijs en wetenschappelijk onderzoek</extref> betrekking heeft, de graad
+Bachelor op het gebied van het recht en tevens de graad Master op het
+gebied van het recht te zijn verleend, dan wel dienen ten minste twee
+van de drie leden, onder wie de voorzitter, aan een universiteit dan
+wel de Open Universiteit waarop de <extref status="actief" doc="1.0:v:BWBR0005682" compleet="nee">Wet op het hoger onderwijs en
+wetenschappelijk onderzoek</extref> betrekking heeft, het doctoraat in de
+rechtsgeleerdheid of het recht om de titel meester te voeren te hebben
+verkregen.</al></lid><lid><lidnr>4a</lidnr><al>Bij
+algemene maatregel van bestuur kunnen graden, verleend door een
+universiteit, de Open Universiteit of een hogeschool als bedoeld in de
+<extref status="actief" doc="1.0:v:BWBR0005682" compleet="nee">Wet op het hoger onderwijs en wetenschappelijk onderzoek</extref>, of daaraan
+gelijkwaardige getuigschriften worden aangewezen die voor de
+toepasselijkheid van het vierde lid gelijk worden gesteld aan de in dat
+lid bedoelde graad Bachelor op het gebied van het
+recht.</al></lid><lid><lidnr>5</lidnr><al>Alvorens hun ambt te aanvaarden leggen de leden in handen
+            van de Minister-President, Minister van Algemene Zaken, af:</al><lijst><li><li.nr>a.</li.nr><al>de eed of verklaring en belofte dat zij tot het
                     verkrijgen van hun benoeming rechtstreeks noch
                     middellijk, onder welke naam of onder welk
                     voorwendsel ook, aan iemand iets hebben gegeven of
                     beloofd, alsmede dat zij om iets in hun ambt te doen
                     of te laten rechtstreeks noch middellijk van iemand
                     enig geschenk of enige belofte hebben aangenomen of
-                    zullen aannemen;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de eed of belofte van trouw aan de <extref status="actief" doc="1.0:v:BWBR0001840" compleet="nee">Grondwet</extref>.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>6</lidnr>
-        <al>De leden dienen de Nederlandse nationaliteit te bezitten.</al>
-    </lid>
-    <lid>
-        <lidnr>7</lidnr>
-        <al>De leden vervullen geen betrekkingen waarvan de uitoefening
+                    zullen aannemen;</al></li><li><li.nr>b.</li.nr><al>de eed of belofte van trouw aan de <extref status="actief" doc="1.0:v:BWBR0001840" compleet="nee">Grondwet</extref>.</al></li></lijst></lid><lid><lidnr>6</lidnr><al>De leden dienen de Nederlandse nationaliteit te bezitten.</al></lid><lid><lidnr>7</lidnr><al>De leden vervullen geen betrekkingen waarvan de uitoefening
             ongewenst is met het oog op een goede vervulling van hun
             functie of op de handhaving van hun onpartijdigheid en
-            onafhankelijkheid of van het vertrouwen daarin.</al>
-    </lid>
-    <lid>
-        <lidnr>8</lidnr>
-        <al>De betrekkingen van de leden worden door de voorzitter
-            openbaar gemaakt.</al>
-    </lid>
-</artikel>
+            onafhankelijkheid of van het vertrouwen daarin.</al></lid><lid><lidnr>8</lidnr><al>De betrekkingen van de leden worden door de voorzitter
+            openbaar gemaakt.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
