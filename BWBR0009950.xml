@@ -323,10 +323,55 @@
                 1993, 138) en de op 14 oktober 1994 te Kyoto tot stand
                 gekomen Akten van wijziging van het Statuut en het
                 Verdrag van de Internationale Unie voor Telecommunicatie
-                (Trb. 1995, 201). </al>
+                (Trb. 1995, 201); </al>
         </li>
     </lijst>
-</artikel>
+<lijst type="expliciet"> 
+					 <li> 
+						<li.nr>cc.</li.nr> 
+						<al>certificaat: een elektronische bevestiging die gegevens
+						  voor het verifi&#xEB;ren van een elektronische handtekening met een bepaalde persoon
+						  verbindt en de identiteit van die persoon bevestigt;</al>
+					 </li> 
+					 <li> 
+						<li.nr>dd.</li.nr> 
+						<al>gekwalificeerd certificaat: een certificaat dat voldoet
+						  aan de eisen, gesteld krachtens <intref status="slapend">artikel 18.15, tweede lid</intref>, en is afgegeven door
+						  een certificatiedienstverlener die voldoet aan de eisen, gesteld krachtens
+						  <intref status="slapend">artikel 18.15, eerste lid</intref>;</al>
+					 </li> 
+					 <li> 
+						<li.nr>ee.</li.nr> 
+						<al>certificatiedienstverlener: een natuurlijke of
+						  rechtspersoon die certificaten afgeeft of andere diensten in verband met
+						  elektronische handtekeningen verleent;</al>
+					 </li> 
+					 <li> 
+						<li.nr>ff.</li.nr> 
+						<al>middel voor het aanmaken van elektronische
+						  handtekeningen: geconfigureerde software of hardware die wordt gebruikt om de
+						  gegevens voor het aanmaken van elektronische handtekeningen te
+						  implementeren;</al>
+					 </li> 
+					 <li> 
+						<li.nr>gg.</li.nr> 
+						<al>veilig middel voor het aanmaken van elektronische
+						  handtekeningen: een middel voor het aanmaken van elektronische handtekeningen
+						  dat voldoet aan de eisen gesteld krachtens <intref status="slapend">artikel 18.17, eerste lid</intref>;</al>
+					 </li> 
+					 <li> 
+						<li.nr>hh.</li.nr> 
+						<al>elektronische handtekening: voor de toepassing van deze
+						  wet geldt de definitiebepaling van <extref status="slapend" doc="" compleet="nee">artikel 15a, vierde lid, van Titel 1,
+						  afdeling 1A van Boek 3 van het Burgerlijk Wetboek</extref>;</al>
+					 </li> 
+					 <li> 
+						<li.nr>ii.</li.nr> 
+						<al>ondertekenaar: voor de toepassing van deze wet geldt de
+						  definitiebepaling van <extref status="slapend" doc="" compleet="nee">artikel 15a, vijfde lid, van Titel 1, afdeling 1A van
+						  Boek 3 van het Burgerlijk Wetboek</extref>.</al>
+					 </li>
+				  </lijst></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -374,7 +419,8 @@
     </lid>
     <lid>
         <lidnr>2</lidnr>
-        <al>Geen registratie is vereist voor inrichtingen of diensten: </al>
+        <al>Een registratie als bedoeld in het eerste lid is niet vereist
+				  voor inrichtingen of diensten: </al>
         <lijst>
             <li>
                 <li.nr>a.</li.nr>
@@ -389,7 +435,25 @@
             </li>
         </lijst>
     </lid>
-</artikel>
+<lid> 
+					 <lidnr>3</lidnr> 
+					 <al>Voor het aanbieden of afgeven van gekwalificeerde
+						certificaten aan het publiek is een registratie door het college vereist van de
+						certificatiedienstverlener die in Nederland een vestiging heeft. Bij de
+						aanvraag van een registratie legt de certificatiedienstverlener documenten over
+						waaruit de overeenstemming met de bij en krachtens <intref status="slapend">artikel 18.15, eerste en
+						tweede lid</intref>, bedoelde eisen blijkt. Het college is bevoegd te bepalen welke
+						andere gegevens bij de aanvraag van een registratie dienen te worden
+						overgelegd.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>4</lidnr> 
+					 <al>Een certificatiedienstverlener waarvan door een organisatie
+						als bedoeld in <intref status="slapend">artikel 18.16, eerste lid</intref>, is vastgesteld dat wordt voldaan aan
+						de eisen, gesteld bij of krachtens <intref status="slapend">artikel 18.15, eerste en tweede lid</intref>, kan om
+						te voldoen aan het bepaalde krachtens de tweede volzin van het derde lid,
+						volstaan met het overleggen van een geldig bewijs van die vaststelling.</al>
+				  </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -401,8 +465,8 @@
         <al>Het college weigert een registratie indien de gevraagde
             registratie geen betrekking heeft op een openbaar
             telecommunicatienetwerk, huurlijnen, een omroepnetwerk, een
-            openbare telecommunicatiedienst of een systeem voor
-            voorwaardelijke toegang. </al>
+            openbare telecommunicatiedienst,  een systeem van voorwaardelijke toegang of het aanbieden of
+				  afgeven van gekwalificeerde certificaten aan het publiek. </al>
     </lid>
     <lid>
         <lidnr>2</lidnr>
@@ -431,15 +495,21 @@
                 <li.nr>d.</li.nr>
                 <al>wegens het verrichten van activiteiten of diensten
                     in strijd met het bepaalde bij of krachtens deze
-                    wet, of </al>
+                    wet; </al>
             </li>
             <li>
                 <li.nr>e.</li.nr>
                 <al>op aanwijzing van Onze Minister in het belang van de
                     veiligheid van de staat of de strafrechtelijke
-                    handhaving van de rechtsorde. </al>
+                    handhaving van de rechtsorde, of </al>
             </li>
-        </lijst>
+        <li><li.nr>f.</li.nr><al>indien het college heeft vastgesteld dat de
+					 certificatiedienstverlener niet of niet geheel voldoet aan de eisen bedoeld in
+					 <intref status="slapend">artikel 18.15 eerste en tweede lid</intref> en de certificatiedienstverlener niet binnen
+					 de door het college gestelde termijn heeft aangetoond aan deze eisen te
+					 voldoen. Indien de certificatiedienstverlener aantoont redelijkerwijs niet
+					 binnen de gestelde termijn aan de eisen te kunnen voldoen, kan het college de
+					 termijn verlengen.</al></li></lijst>
     </lid>
     <lid>
         <lidnr>4</lidnr>
@@ -4482,7 +4552,7 @@
 				  <kop> 
 					 <label>Artikel</label> 
 					 <nr>11.5a</nr>
-				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop>
+				  </kop>
 				  <lid> 
 					 <lidnr>1</lidnr> 
 					 <al>Certificatiedienstverleners die certificaten aan het
@@ -5432,7 +5502,7 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
                     voorzover het bevoegdheden betreft van Onze
                     Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.9">18.9</intref>,
                         <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.12">18.12</intref>,
-                    voorzover het bevoegdheden betreft van Onze
+                    <intref status="slapend">18.16</intref>, <intref status="slapend">18.17</intref>, voorzover het bevoegdheden betreft van Onze
                     Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=20.2">20.2</intref>,
                     voorzover het bevoegdheden betreft van Onze
                     Minister, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=20.14">20.14</intref>. </al>
@@ -6334,7 +6404,7 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
 				  <kop> 
 					 <label>Artikel</label> 
 					 <nr status="officieel">18.15</nr>
-				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop>
+				  </kop>
 				  <lid> 
 					 <lidnr status="officieel">1</lidnr> 
 					 <al>Een certificatiedienstverlener die certificaten als
@@ -6359,7 +6429,7 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
 				  <kop> 
 					 <label>Artikel</label> 
 					 <nr>18.16</nr>
-				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop> 
+				  </kop> 
 				  <lid> 
 					 <lidnr>1</lidnr> 
 					 <al>Onze Minister kan een of meer organisaties aanwijzen, die
@@ -6396,7 +6466,7 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
 				  <kop> 
 					 <label>Artikel</label> 
 					 <nr>18.17</nr>
-				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop>
+				  </kop>
 				  <lid> 
 					 <lidnr>1</lidnr> 
 					 <al>Degene die een veilig middel voor het aanmaken van
@@ -6451,7 +6521,7 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
 				  <kop> 
 					 <label>Artikel</label> 
 					 <nr>18.18</nr>
-				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop>
+				  </kop>
 				  <al>Het is de certificatiedienstverlener waarvan de registratie
 					 op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.2">artikel 2.2, derde lid, onderdeel f</intref>, is be&#xEB;indigd verboden
 					 gekwalificeerde certificaten aan het publiek aan te bieden of af te geven
