@@ -330,24 +330,14 @@
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>1.2</nr>
+        <nr status="officieel">1.2</nr>
     </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De bepalingen vastgesteld bij of krachtens deze wet gelden
+    <al>De bepalingen vastgesteld bij of krachtens deze wet gelden
             mede op en met betrekking tot installaties ter zee in de zin
             van de <extref status="actief" doc="1.0:v:BWBR0002467" compleet="nee">Wet installaties
-            Noordzee</extref>. </al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Het eerste lid vindt geen toepassing ten aanzien van het
-            gebruik van elektromagnetische golven ten dienste van een
-            opsporingsonderzoek of het winnen van delfstoffen als
-            bedoeld in de <extref status="actief" doc="1.0:v:BWBR0002504" compleet="nee">Mijnwet continentaal
-            plat</extref>.  </al>
-    </lid>
+            Noordzee</extref>.</al>
+    
 </artikel>
 </hoofdstuk>
             <hoofdstuk>
