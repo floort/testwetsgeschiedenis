@@ -384,7 +384,59 @@
             Noordzee</extref>.</al>
     
 </artikel>
-</hoofdstuk>
+<artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">1.3</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Het college draagt er zorg voor dat zijn besluiten bijdragen aan het verwezenlijken
+van de doelstellingen als bedoeld in artikel 8, tweede, derde en vierde lid,
+van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> in elk geval door:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>het bevorderen van concurrentie bij het leveren van elektronische communicatienetwerken,
+elektronische communicatiediensten, of bijbehorende faciliteiten, onder meer
+door effici&#xEB;nte investeringen op het gebied van infrastructuur aan te
+moedigen en innovaties te steunen;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>de ontwikkeling van de interne markt;</al></li><li>
+                <li.nr>c.</li.nr>
+                
+              <al>het bevorderen van belangen van eindgebruikers wat betreft keuze, prijs
+en kwaliteit.</al></li></lijst>
+                
+                
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Het college houdt bij de uitoefening van zijn taken en bevoegdheden rekening
+met aanbevelingen van de Commissie van de Europese Gemeenschappen als bedoeld
+in artikel 19, eerste lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>, voor zover die aanbevelingen
+betrekking hebben op de bij of krachtens deze wet aan het college opgedragen
+taken of verleende bevoegdheden.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Indien het college geen toepassing geeft aan een aanbeveling als bedoeld
+in het tweede lid, informeert hij, onder vermelding van de redenen, de Commissie
+van de Europese Gemeenschappen en Onze Minister.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>Indien het college een besluit neemt, dat aanzienlijke gevolgen voor de
+desbetreffende markt heeft, onderbouwt het college, onder andere op basis
+van een verantwoording van de voorzienbare relevante gevolgen, zowel in kwalitatieve,
+als voor zover redelijkerwijs mogelijk in kwantitatieve zin dat de maatregel
+noodzakelijk is voor het bereiken van de in het eerste lid genoemde doelstellingen
+en dat een andere minder ingrijpende maatregel niet effectief is.</al>
+              </lid>
+            </artikel></hoofdstuk>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
@@ -1444,7 +1496,20 @@
         </lijst>
     </lid>
 </artikel>
-</paragraaf>
+<artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">3.13</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <al>Onverminderd <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.12">artikel 3.12</intref> is het college bevoegd om op eigen initiatief
+in concrete gevallen maatregelen te nemen die gericht zijn op de verwezenlijking
+van de in artikel 8, tweede, derde of vierde lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn
+nr. 2002/21/EG</extref> genoemde doelstellingen. Op de voorbereiding van een besluit
+van het college en op het besluit van het college is de Algemene wet bestuursrecht
+van toepassing. Het college handelt bij gebruikmaking van zijn bevoegdheid
+als bedoeld in de eerste volzin, met inachtneming van bij ministeri&#xEB;le
+regeling te geven voorschriften.</al>
+            </artikel></paragraaf>
 </hoofdstuk>
             <hoofdstuk>
     <kop>
@@ -1484,6 +1549,16 @@
     </lid>
 </artikel>
     <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4.1a</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <al>Bij ministeri&#xEB;le regeling kunnen regels worden gesteld ter uitvoering
+van overeenkomstig artikel 19, tweede lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> vastgestelde
+technische uitvoeringsmaatregelen inzake de harmonisatie van nummervoorraden
+in de Europese Unie teneinde de ontwikkeling van pan-Europese diensten te
+ondersteunen.</al>
+            </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>4.2</nr>
@@ -1580,6 +1655,24 @@
     </lid>
 </artikel>
     <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">4.2a</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Nummers die worden toegekend door middel van een procedure van veiling
+worden voor onbepaalde tijd toegekend, tenzij Onze Minister in het betreffende
+nummerplan een maximumduur van de toekenning heeft vastgelegd.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Een nummer waarvoor een maximumduur is opgenomen in een nummerplan wordt
+niet eerder dan een jaar nadat de maximumtermijn van de toekenning is verstreken
+in gebruik genomen, indien het nummer door de daarop volgende toekenning van
+nummerhouder verandert.</al>
+              </lid>
+            </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>4.3</nr>
@@ -2951,7 +3044,1003 @@
 </artikel>
 </paragraaf>
 </hoofdstuk>
-            <hoofdstuk>
+            <hoofdstuk><kop><label>Hoofdstuk</label>
+        <nr>6a</nr>
+        <titel>Verplichtingen voor ondernemingen die beschikken over een aanmerkelijke marktmacht</titel><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><paragraaf><kop><label>&#xA7;</label>
+        <nr>6a.1</nr>
+        
+    <titel>Vaststellen van aanmerkelijke marktmacht</titel><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.1</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Het college bepaalt in overeenstemming met de beginselen van het algemene
+Europese mededingingsrecht de relevante markten in de elektronische communicatiesector
+waarvan de product- of dienstenmarkt overeenkomt met een in een aanbeveling
+als bedoeld in artikel 15, eerste lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> vermelde
+product- of dienstenmarkt. Het college bepaalt in elk geval zo spoedig mogelijk
+nadat een aanbeveling als bedoeld in de eerste volzin in werking is getreden,
+de in die volzin bedoelde relevante markten.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het college bepaalt in overeenstemming met de beginselen van het algemene
+Europese mededingingsrecht andere dan de in het eerste lid bedoelde relevante
+markten in de elektronische communicatiesector indien hier naar zijn oordeel
+aanleiding toe is, of indien dit voortvloeit uit <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.4">artikel 6a.4</intref> of uit artikel
+27 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Het college onderzoekt de overeenkomstig het eerste en tweede lid bepaalde
+relevante markten zo spoedig mogelijk.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Het college onderzoekt een transnationale markt zo spoedig mogelijk nadat
+een beschikking van de Commissie van de Europese Gemeenschappen
+die hieraan ten grondslag ligt in werking is getreden en vervolgens op gezette
+tijden.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5</lidnr>
+                    <al>Het in het derde en vierde lid bedoelde onderzoek is er in ieder geval
+op gericht om vast te stellen:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>of de desbetreffende markt al dan niet daadwerkelijk concurrerend is
+en of hierop ondernemingen die openbare elektronische communicatienetwerken,
+bijbehorende faciliteiten of openbare elektronische communicatiediensten aanbieden
+actief zijn die beschikken over een aanmerkelijke marktmacht, en</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>welke verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref>
+en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">6a.12 tot en met 6a.15</intref> passend zijn voor de onder a bedoelde ondernemingen
+die beschikken over een aanmerkelijke marktmacht.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6</lidnr>
+                    <al>Nadat het onderzoek als bedoeld in het derde of vierde lid is afgerond,
+geeft het college zo spoedig mogelijk uitvoering aan de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste
+lid</intref>, of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">7</lidnr>
+                    <al>Het college houdt bij de uitoefening van zijn taken en bevoegdheden op
+grond van dit hoofdstuk rekening met door de Commissie van de Europese Gemeenschappen
+krachtens artikel 15, tweede lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> vastgestelde
+richtsnoeren.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">8</lidnr>
+                    <al>Bij het beoordelen of twee of meer ondernemingen tezamen beschikken over
+een economische kracht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1">artikel 1.1, onderdeel s</intref>, hanteert het
+college in elk geval de criteria bedoeld in bijlage II van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">9</lidnr>
+                    <al>Het college oefent bij transnationale markten zijn taken en bevoegdheden
+op grond van dit hoofdstuk uit in samenspraak met de betrokken nationale regelgevende
+instanties.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.2</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Indien uit een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde of vierde
+lid</intref>, blijkt dat een relevante markt onderscheidenlijk een transnationale markt
+niet daadwerkelijk concurrerend is, stelt het college vast welke ondernemingen
+die openbare elektronische communicatienetwerken, bijbehorende faciliteiten
+of openbare elektronische communicatiediensten aanbieden, beschikken over
+een aanmerkelijke marktmacht, en:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>legt hij ieder van hen, voor zover passend, verplichtingen als bedoeld
+in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">6a.12 tot en met 6a.15</intref> op;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>houdt hij eerder opgelegde of in stand gehouden verplichtingen, voor
+zover zij betrekking hebben op deze markt, in stand indien zij nog steeds
+passend zijn, of</al></li><li>
+                <li.nr>c.</li.nr>
+                
+              <al>trekt hij eerder opgelegde of in stand gehouden verplichtingen, voor
+zover zij betrekking hebben op deze markt, in indien zij niet langer passend
+zijn.</al></li></lijst>
+                    
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het college legt op grond van het eerste lid, onderdeel a:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref> alleen
+op aan ondernemingen die openbare elektronische communicatienetwerken of bijbehorende
+faciliteiten aanbieden;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>verplichtingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikel 6a.12 tot en met 6a.15</intref> alleen
+op, indien de relevante markt onderscheidenlijk transnationale markt een eindgebruikersmarkt
+is en de verplichtingen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.11</intref> en
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.17">6a.17</intref> ontoereikend zijn om daadwerkelijke concurrentie te verwezenlijken of
+de belangen van eindgebruikers te beschermen.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Een verplichting als bedoeld in het eerste lid, is passend indien deze
+gebaseerd is op de aard van het op de desbetreffende markt geconstateerde
+probleem en in het licht van de doelstellingen van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.3">artikel 1.3</intref> proportioneel
+en gerechtvaardigd is.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Bij de beoordeling of het opleggen van een verplichting om te voldoen
+aan redelijke verzoeken tot toegang als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikel 6a.6</intref> passend
+is, houdt het college met name rekening met de factoren, bedoeld in artikel
+12, tweede lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.3</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Indien uit een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde of vierde
+lid</intref>, blijkt dat een relevante markt onderscheidenlijk een transnationale markt
+daadwerkelijk concurrerend is, bepaalt het college dit en trekt hij eerder
+krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, opgelegde of in stand gehouden verplichtingen,
+voor zover zij betrekking hebben op die markt, in.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Indien uit een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde of vierde
+lid</intref>, blijkt dat een onderneming op een niet daadwerkelijk concurrerende relevante
+markt onderscheidenlijk transnationale markt moet voldoen aan eerder krachtens
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, opgelegde of in stand gehouden verplichtingen, trekt
+het college deze verplichtingen, voor zover zij betrekking hebben op die markt,
+in, indien de onderneming op die relevante markt onderscheidenlijk transnationale
+markt niet beschikt over een aanmerkelijke marktmacht.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Indien uit een onderzoek als bedoeld in artikel 6a.1, derde of vierde
+lid, blijkt dat een relevante markt onderscheidenlijk transnationale markt
+niet daadwerkelijk concurrerend is en de verplichtingen, bedoeld in de artikelen
+6a.6 tot en met 6a.11, toereikend zijn om daadwerkelijke concurrentie te verwezenlijken
+of de belangen van eindgebruikers te beschermen, trekt het college eerder
+krachtens artikel 6a.2, eerste lid, opgelegde of in stand gehouden verplichtingen
+als bedoeld in de artikelen 6a.12 tot en met 6a.15, voor zover zij betrekking
+hebben op die markt, in.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.4</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <al>Uiterlijk binnen drie jaar nadat een besluit als bedoeld in artikel 6a.2,
+eerste lid, inzake het opleggen of in stand houden van verplichtingen met
+betrekking tot een onderneming die beschikt over een aanmerkelijke macht op
+een relevante markt in werking is getreden, besluit het college op grond van:</al>
+                  <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
+                      <al>artikel 6a.2, eerste lid, onderdeel b, om deze verplichtingen in stand
+te houden, of</al>
+                    </li><li><li.nr>b.</li.nr>
+                      <al>de artikelen 6a.2, eerste lid, onderdeel c, of&#xA0;6a.3 om deze verplichtingen
+in te trekken.</al>
+                    </li></lijst>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.5</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <al>Van een besluit als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste lid</intref>, of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>
+wordt door het college mededeling gedaan in de Staatscourant. Van gegevens
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid
+van bestuur</extref> wordt geen mededeling gedaan.</al>
+                </artikel></paragraaf><paragraaf><kop>
+        <label>&#xA7;</label>
+        <nr>6a.2</nr>
+        
+    <titel>Met toegang verband houdende verplichtingen</titel><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.6</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
+opleggen om te voldoen aan redelijke verzoeken tot door het college te bepalen
+vormen van toegang, onder andere indien het college van oordeel is dat het
+weigeren van toegang of het stellen van onredelijke voorwaarden met eenzelfde
+effect, de ontwikkeling van een door duurzame concurrentie gekenmerkte eindgebruikersmarkt
+zou belemmeren of niet in het belang van de eindgebruiker zou zijn.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>De verplichting, bedoeld in het eerste lid, kan onder meer inhouden dat
+de desbetreffende onderneming:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>aanbieders van elektronische communicatiediensten toegang verleent
+tot bepaalde netwerkelementen of faciliteiten, met inbegrip van ontbundelde
+toegang tot het aansluitnetwerk;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>te goeder trouw onderhandelt met aanbieders van elektronische communicatiediensten
+die verzoeken om toegang;</al></li><li>
+                <li.nr>c.</li.nr>
+                
+              <al>reeds verleende toegang tot faciliteiten niet intrekt;</al></li><li>
+                <li.nr>d.</li.nr>
+                
+              <al>op groothandelsbasis bepaalde diensten aanbiedt voor wederverkoop door
+aanbieders van elektronische communicatiediensten;</al></li><li>
+                <li.nr>e.</li.nr>
+                
+              <al>open toegang verleent tot technische interfaces, protocollen of andere
+kerntechnologie&#xEB;n die onmisbaar zijn voor de interoperabiliteit van openbare
+elektronische communicatiediensten of virtuele netwerkdiensten;</al></li>
+            <li>
+                <li.nr>f.</li.nr>
+                
+              <al>co-locatie of andere vormen van gedeeld gebruik van faciliteiten aanbiedt,
+inclusief gedeeld gebruik van kabelgoten, gebouwen of masten;</al></li><li>
+                <li.nr>g.</li.nr>
+                
+              <al>bepaalde diensten aanbiedt die nodig zijn voor de interoperabiliteit
+van de aan gebruikers geleverde eind- tot einddiensten, inclusief faciliteiten
+voor intelligente netwerkdiensten of roaming binnen mobiele elektronische
+communicatienetwerken;</al></li><li>
+                <li.nr>h.</li.nr>
+                
+              <al>toegang verleent tot operationele ondersteuningssystemen of vergelijkbare
+softwaresystemen die nodig zijn om eerlijke concurrentie bij het aanbieden
+van elektronische communicatiediensten te waarborgen;</al></li><li>
+                <li.nr>i.</li.nr>
+                
+              <al>zorgt voor interconnectie van openbare elektronische communicatienetwerken
+of netwerkfaciliteiten.</al></li>
+            </lijst>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Het college kan aan de verplichting, bedoeld in het eerste lid, voorschriften
+verbinden betreffende billijkheid, redelijkheid en opportuniteit.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Indien dit nodig is om de normale werking van het betrokken openbare elektronische
+communicatienetwerk te garanderen, kan het college technische of operationele
+voorschriften vaststellen die:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>een onderneming waarvoor een verplichting geldt als bedoeld in het
+eerste lid bij het verlenen van toegang in acht neemt, of</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>een onderneming die toegang heeft gekregen op basis van een verzoek
+als bedoeld in het eerste lid, in acht neemt.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5</lidnr>
+                    <al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.4">Artikel 6.4</intref> is van overeenkomstige toepassing met betrekking tot voorschriften
+als bedoeld in het vierde lid.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6</lidnr>
+                    <al>Voor zover dat op grond van de notificatierichtlijn noodzakelijk is, stelt
+het college de voorschriften niet vast dan nadat de voorschriften aan de Commissie
+van de Europese Gemeenschappen in ontwerp zijn medegedeeld en de van toepassing
+zijnde termijnen, bedoeld in artikel 9 van de notificatierichtlijn, zijn verstreken.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">7</lidnr>
+                    <al>Voor zover de voorschriften technische normen of specificaties bevatten,
+stroken deze met de normen, bedoeld in artikel 17, eerste of tweede lid, van
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.7</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, voor door het college
+te bepalen vormen van toegang een verplichting opleggen betreffende het beheersen
+van de hiervoor te rekenen tarieven of kostentoerekening indien uit een marktanalyse
+blijkt dat de betrokken exploitant de prijzen door het ontbreken van werkelijke
+concurrentie op een buitensporig hoog peil kan handhaven of de marges kan
+uithollen, in beide gevallen ten nadele van de eindgebruikers. Aan de verplichting
+kunnen door het college voorschriften worden verbonden die nodig zijn voor
+een goede uitvoering van de verplichting.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Een verplichting als bedoeld in het eerste lid kan inhouden dat voor toegang
+een kostengeori&#xEB;nteerd tarief moet worden gerekend of dat een door het
+college te bepalen of goed te keuren kostentoerekeningssysteem moet worden
+gehanteerd.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Indien het college een onderneming heeft verplicht om voor toegang een kostengeori&#xEB;nteerd tarief te rekenen, toont de onderneming
+aan dat haar tarieven werkelijk kostengeori&#xEB;nteerd zijn.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Onverminderd het eerste lid, tweede volzin, kan het college aan een verplichting
+tot het opstellen van een kostentoerekeningssysteem voorschriften verbinden
+met betrekking tot het overleggen van de resultaten van de toepassing van
+het systeem door de onderneming waarop de verplichting rust.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5</lidnr>
+                    <al>Indien een verplichting tot het opstellen van een kostentoerekeningssysteem
+is opgelegd:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>maakt de desbetreffende onderneming, met inachtneming van de door het
+college gegeven voorschriften, op genoegzame wijze bekend een beschrijving
+van het systeem die ten minste de hoofdcategorie&#xEB;n bevat waarin de kosten
+worden ingedeeld en de voor de toerekening van de kosten toegepaste regels;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>onderzoekt het college dan wel een door het college aan te wijzen onafhankelijke
+deskundige derde jaarlijks of er in overeenstemming met het systeem is gehandeld.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6</lidnr>
+                    <al>Van de resultaten van het onderzoek, bedoeld in het vijfde lid, onderdeel
+b, wordt mededeling gedaan in de Staatscourant.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.8</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, voor door het college
+te bepalen vormen van toegang de verplichting opleggen om deze toegang onder
+gelijke omstandigheden onder gelijke voorwaarden te verlenen. Deze verplichting
+houdt tevens in dat de onderneming gelijke voorwaarden toepast als die welke
+onder gelijke omstandigheden gelden voor haarzelf, haar dochterondernemingen
+of haar partnerondernemingen.</al>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.9</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Het college kan op grond <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting opleggen
+om door het college nader te bepalen informatie met betrekking tot door het
+college te bepalen vormen van toegang bekend te maken. Deze informatie kan
+onder meer betrekking hebben op:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>tarieven en andere voorwaarden die bij het verlenen van toegang worden
+gehanteerd;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>technische kenmerken en andere eigenschappen van het netwerk.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
+opleggen om een referentieaanbod bekend te maken waarin een omschrijving is
+opgenomen van door het college te bepalen vormen van toegang. Het referentieaanbod
+is opgesplitst naar de onderscheiden vormen van toegang en de daarbij gehanteerde
+tarieven en andere voorwaarden.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Indien aan een onderneming waaraan een verplichting als bedoeld in het
+tweede lid is opgelegd tevens een verplichting is opgelegd als bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikel 6a.6</intref> die betrekking heeft op ontbundelde toegang tot het aansluitnetwerk,
+voldoet het referentieaanbod van de onderneming in elk geval aan bijlage II
+van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Indien het college van oordeel is dat het referentieaanbod niet in overeenstemming
+is met de op grond van dit hoofdstuk opgelegde verplichtingen, geeft het de
+onderneming aanwijzingen met betrekking tot de aan te brengen wijzigingen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5</lidnr>
+                    <al>Aan een verplichting als bedoeld in het eerste en tweede lid kan het college
+voorschriften verbinden met betrekking tot de mate van detaillering en de
+wijze van bekendmaking.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.10</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
+opleggen om een gescheiden boekhouding te voeren waarin de opbrengsten en
+de kosten van de door het college te bepalen vormen van toegang, aan de onderneming
+zelf of aan andere ondernemingen, gescheiden zijn van die van de door de ondernemingen
+verrichte overige activiteiten.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Aan de verplichting tot het voeren van een gescheiden boekhouding kan
+het college voorschriften verbinden met betrekking tot de methode van inrichting
+van de boekhouding en het aan het college verstrekken van boekhoudkundige
+documenten met inbegrip van gegevens over van derden ontvangen inkomsten.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed"><kop><label>Artikel</label><nr>6a.11</nr><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>In uitzonderlijke omstandigheden kan het college aan een onderneming waarvan
+door het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, is vastgesteld dat
+zij beschikt over een aanmerkelijke marktmacht bij de aanbieding van openbare
+elektronische communicatienetwerken of bijbehorende faciliteiten, andere bij
+ministeri&#xEB;le regeling aan te wijzen verplichtingen die verband houden
+met toegang opleggen, voor zover deze passend zijn.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Bij de ministeri&#xEB;le regeling, bedoeld in het eerste lid, kunnen regels
+worden gesteld met betrekking tot het opleggen door het college van bij die
+regeling aangewezen verplichtingen. Deze regels hebben in elk geval betrekking
+op:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de omstandigheden die zich moeten voordoen alvorens deze verplichtingen
+kunnen worden opgelegd, en</al></li><li><li.nr>b.</li.nr><al>de aard van de verplichtingen.</al></li></lijst></lid><lid><lidnr status="officieel">3</lidnr><al>Het college trekt een besluit als bedoeld in het eerste lid in, indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">artikel 6a.3, eerste lid</intref>, heeft bepaald dat de desbetreffende
+relevante onderscheidenlijk transnationale markt daadwerkelijk concurrerend
+is;</al></li><li><li.nr>b.</li.nr><al>op grond <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">artikel 6a.3, tweede lid</intref>, is gebleken dat de onderneming als
+bedoeld in het eerste lid geen aanmerkelijke marktmacht meer heeft.</al></li></lijst></lid><lid><lidnr status="officieel">4</lidnr><al>Het college trekt een besluit als bedoeld in het eerste lid tevens in,
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>er geen sprake van uitzonderlijke omstandigheden meer is, of</al></li><li><li.nr>b.</li.nr><al>de opgelegde of in stand gehouden verplichting niet langer passend
+is.</al></li></lijst></lid><lid><lidnr status="officieel">5</lidnr><al>Uiterlijk binnen achttien maanden nadat een besluit als bedoeld in het
+eerste lid in werking is getreden, onderzoekt het college of er nog sprake
+is van uitzonderlijke omstandigheden en of de opgelegde of in stand gehouden
+verplichting nog passend is en besluit het college op grond van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het eerste lid om het besluit in stand te houden, of</al></li><li><li.nr>b.</li.nr><al>het vierde lid om het besluit in te trekken.</al></li></lijst></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label>
+        <nr>6a.3</nr>
+        <titel>Verplichtingen op eindgebruikersniveau</titel><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.12</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
+opleggen om:</al>
+                  <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
+                      <al>bij de levering van door het college te bepalen eindgebruikersdiensten,
+de eindgebruikers van die diensten in gelijke gevallen gelijk te behandelen;</al>
+                    </li><li><li.nr>b.</li.nr>
+                      <al>door het college te bepalen eindgebruikersdiensten te ontbundelen van
+andere diensten, en</al>
+                    </li><li><li.nr>c.</li.nr>
+                      <al>door het college te bepalen informatie aan door het college te bepalen
+categorie&#xEB;n van eindgebruikers op een door het college te bepalen wijze
+bekend te maken.</al>
+                    </li></lijst>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.13</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, verplichtingen
+met betrekking tot de hoogte van eindgebruikerstarieven opleggen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Indien het college een verplichting als bedoeld in het eerste lid oplegt,
+legt het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, tevens de verplichting
+op om een door het college te bepalen of goed te keuren kostentoerekeningssysteem
+te hanteren. Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de in
+de vorige volzin bedoelde verplichting ook afzonderlijk van een verplichting
+als bedoeld in het eerste lid opleggen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Een onderneming aan wie een verplichting als bedoeld in het tweede lid
+is opgelegd, legt vanaf een door het college te bepalen datum elk jaar in
+de maand mei, over het voorafgaande kalenderjaar het resultaat van de toepassing
+van het desbetreffende kostentoerekeningssysteem over aan het college.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Indien een verplichting als bedoeld in het tweede lid is opgelegd, onderzoekt
+het college of een door het college aan te wijzen onafhankelijke deskundige
+derde jaarlijks nadat het in het derde lid bedoelde resultaat is overgelegd
+of er in overeenstemming met het desbetreffende kostentoerekeningssysteem
+is gehandeld. Van het resultaat van het onderzoek wordt mededeling gedaan
+in de Staatscourant.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5</lidnr>
+                    <al>Aan de verplichtingen, bedoeld in het eerste en tweede lid, kunnen door
+het college nadere voorschriften worden verbonden die nodig zijn voor een
+goede uitvoering van die verplichtingen.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.14</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Indien het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, een verplichting
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel 6a.13, eerste lid</intref>, oplegt of in stand houdt, kan het
+college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, tevens de verplichting opleggen
+om invoering van nieuwe of gewijzigde eindgebruikerstarieven niet plaats te
+laten vinden dan nadat het college deze tarieven heeft goedgekeurd.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het college beoordeelt binnen drie weken na ontvangst van een verzoek
+tot goedkeuring, of het nieuwe of gewijzigde eindgebruikerstarief in overeenstemming
+is met de opgelegde of in stand gehouden verplichting, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel
+6a.13, eerste lid</intref>. Indien gegevens als bedoeld in het zevende lid ontbreken
+wordt de onderneming die het verzoek heeft ingediend binnen drie dagen na
+ontvangst van het verzoek, hiervan op de hoogte gesteld.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Het college kan de termijn, bedoeld in het tweede lid, eerste volzin,
+eenmaal met drie weken verlengen. Het college doet hiervan schriftelijk mededeling
+aan de onderneming die het verzoek heeft ingediend.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Indien het college van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief
+in overeenstemming is met de opgelegde of in stand gehouden verplichting,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel 6a.13, eerste lid</intref>, keurt het college de invoering hiervan
+goed.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5</lidnr>
+                    <al>Indien het college van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief
+niet in overeenstemming is met de opgelegde of in stand gehouden verplichting,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel 6a.13, eerste lid</intref>, doet het college hiervan mededeling
+aan de onderneming die het verzoek heeft ingediend. Binnen vier weken na deze
+mededeling, deelt het college aan de in de eerste volzin bedoelde onderneming
+schriftelijk mede op welke punten niet voldaan is aan de in de eerste volzin
+bedoelde verplichting.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6</lidnr>
+                    <al>Het college beoordeelt een verzoek tot goedkeuring volgend op een schriftelijke mededeling als bedoeld in het vijfde lid, tweede volzin,
+binnen twee weken na ontvangst van dit verzoek.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">7</lidnr>
+                    <al>Uiterlijk op het tijdstip waarop een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2,
+eerste lid</intref>, houdende de oplegging of instandhouding van de verplichting om
+de invoering van nieuwe of gewijzigde eindgebruikerstarieven niet plaats te
+laten vinden dan nadat het college deze tarieven heeft goedgekeurd, in werking
+treedt, stelt het college vast welke gegevens door de desbetreffende onderneming
+bij een verzoek als bedoeld in het tweede lid overgelegd moeten worden, en
+in welke vorm deze gegevens worden ingediend. Het college doet hiervan mededeling
+aan de desbetreffende onderneming.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.15</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <al>Ter uitvoering van artikel 17 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref> kunnen bij
+algemene maatregel van bestuur andere verplichtingen dan de verplichtingen,
+bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12 tot en met 6a.14</intref> worden aangewezen die het college
+op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, kan opleggen aan ondernemingen die
+een aanmerkelijke marktmacht hebben op een relevante eindgebruikersmarkt onderscheidenlijk
+een transnationale eindgebruikersmarkt.</al>
+                </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label>
+        <nr>6a.4</nr>
+        <titel>Carrierkeuze en carriervoorkeuze op openbare telefoonnetwerken op een
+vaste locatie</titel><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.16</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Een onderneming ten aanzien waarvan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste
+lid</intref>, is vastgesteld dat zij op &#xE9;&#xE9;n relevante markt onderscheidenlijk
+transnationale markt of op meer relevante markten of transnationale markten
+tezamen, beschikt over een aanmerkelijke marktmacht bij de aanbieding van
+toegang tot en het gebruik van openbare telefoonnetwerken op een vaste locatie,
+wordt als zodanig aangewezen door het college.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het college trekt een aanwijzing als bedoeld in het eerste lid in voor
+zover uit een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde of vierde lid</intref>,
+blijkt dat:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>een relevante markt of transnationale markt die betrekking heeft op
+de aanbieding van toegang tot en het gebruik van openbare telefoonnetwerken
+op een vaste locatie daadwerkelijk concurrerend is geworden, of</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>de desbetreffende onderneming niet langer beschikt over een aanmerkelijke
+marktmacht bij de aanbieding van toegang tot en het gebruik van openbare telefoonnetwerken
+op een vaste locatie.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Van een besluit als bedoeld in het eerste of tweede lid wordt door het
+college mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur</extref> wordt
+geen mededeling gedaan.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.17</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Een onderneming die krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.16">artikel 6a.16, eerste lid</intref>, is aangewezen
+draagt, voor zover zij is aangewezen, er zorg voor dat voor haar abonnees
+de voorzieningen beschikbaar zijn die het hen mogelijk maken om per oproep
+door middel van een keuzecode of standaard door middel van een voorkeuze de
+diensten af te nemen van aanbieders die toegang hebben tot haar openbare telefoonnetwerk
+op een vaste locatie en de openbare telefoondienst, of een substantieel onderdeel
+daarvan, op een vaste locatie aanbieden.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>De in het eerste lid bedoelde voorkeuze moet door de abonnee op individuele
+basis kunnen worden gewijzigd door middel van het kiezen van
+een daartoe bestemd nummer uit een door Onze Minister op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.1">artikel
+4.1</intref> vastgesteld nummerplan.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Het college kan een krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.16">artikel 6a.16, eerste lid</intref>, aangewezen onderneming
+voorschriften geven met betrekking tot de functionaliteit van de voorzieningen,
+bedoeld in het eerste lid.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Een onderneming die krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.16">artikel 6a.16, eerste lid</intref>, is aangewezen
+voldoet, voor zover zij is aangewezen, aan redelijke verzoeken tot toegang
+tot haar openbare telefoonnetwerken op een vaste locatie van aanbieders die
+ten minste een substantieel onderdeel van de openbare telefoondienst op een
+vaste locatie door middel van de in het tweede lid bedoelde keuze of voorkeuze
+willen aanbieden. De tarieven voor de in de eerste volzin bedoelde toegang
+zijn op kosten geori&#xEB;nteerd.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5</lidnr>
+                    <al>Teneinde te voorkomen dat de abonnees worden ontmoedigd in het gebruik
+van de in het eerste lid bedoelde voorzieningen kunnen bij ministeri&#xEB;le
+regeling regels worden gesteld met betrekking tot de maximale hoogte van het
+tarief dat voor deze voorzieningen door een krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.16">artikel 6a.16, eerste
+lid</intref>, aangewezen onderneming aan haar abonnees in rekening mag worden gebracht.</al>
+                  </lid>
+                </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label>
+        <nr>6a.5</nr>
+        <titel>Het minimumpakket van huurlijnen</titel><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.18</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Een onderneming ten aanzien waarvan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste
+lid</intref>, is vastgesteld dat zij op een relevante markt onderscheidenlijk een transnationale
+markt beschikt over een aanmerkelijke marktmacht bij de aanbieding van een
+type huurlijn uit het minimumpakket van huurlijnen wordt als zodanig aangewezen
+door het college.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Het college trekt een aanwijzing als bedoeld in het eerste lid in voor
+zover uit een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde of vierde lid</intref>,
+blijkt dat:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>een relevante markt of transnationale markt waartoe het desbetreffende
+type huurlijn uit het minimumpakket van huurlijnen deel uitmaakt daadwerkelijk
+concurrerend is geworden, of</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>de desbetreffende onderneming niet langer beschikt over een aanmerkelijke
+marktmacht bij de aanbieding van het type huurlijn uit het minimumpakket van
+huurlijnen waarvoor zij is aangewezen.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Een aanwijzing als bedoeld in eerste lid vervalt op het tijdstip waarop
+het desbetreffende type huurlijn uit het minimumpakket van huurlijnen geen
+deel meer uitmaakt van het minimumpakket van huurlijnen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Van een besluit als bedoeld in het eerste of tweede lid, wordt door het
+college mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur</extref> wordt
+geen mededeling gedaan.</al>
+                  </lid>
+                </artikel>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.19</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>Een onderneming die krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.18">artikel 6a.18, eerste lid</intref>, is aangewezen,
+levert op verzoek en binnen een redelijke termijn de typen huurlijnen uit
+het minimumpakket van huurlijnen waarvoor zij is aangewezen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Bij ministeri&#xEB;le regeling worden ter uitvoering van bijlage VII van
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref> regels gesteld ten aanzien van ondernemingen die
+krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.18">artikel 6a.18, eerste lid</intref>, zijn aangewezen. Daarbij kunnen aan het
+college taken worden opgedragen en bevoegdheden worden verleend.</al>
+                  </lid>
+                </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label>
+        <nr>6a.6</nr>
+        <titel>Verticaal ge&#xEF;ntegreerde openbare ondernemingen die beschikken
+over een economische machtspositie als bedoeld in artikel 82 van het EG-verdrag</titel><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.20</nr>
+                  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>In dit artikel wordt verstaan onder openbare onderneming: onderneming
+waarop een krachtens het publiekrecht ingestelde rechtspersoon rechtstreeks
+of middellijk een dominerende invloed kan uitoefenen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Indien een onderneming de rechtsvorm van een privaatrechtelijke rechtspersoon
+heeft, wordt dominerende invloed als bedoeld in het eerste lid vermoed te
+kunnen worden uitgeoefend, wanneer een krachtens het publiekrecht ingestelde
+rechtspersoon rechtstreeks of middellijk:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>over de meerderheid van de stemrechten, verbonden aan de door de rechtspersoon
+uitgegeven aandelen beschikt, of</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>meer dan de helft van de leden van het bestuur of het toezichthoudend
+orgaan benoemt.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Een verticaal ge&#xEF;ntegreerde openbare onderneming die elektronische
+communicatienetwerken aanbiedt en daarbij beschikt over een economische machtspositie
+op de gemeenschappelijke markt of op een wezenlijk onderdeel daarvan als bedoeld
+in artikel 82 van het EG-verdrag, verleent aan andere ondernemingen op hun
+verzoek onder gelijke voorwaarden toegang als die welke onder gelijke omstandigheden
+gelden voor haarzelf of haar dochterondernemingen.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>De verplichting, bedoeld in het derde lid, blijft voor een verticaal ge&#xEF;ntegreerde
+openbare onderneming buiten toepassing voor zover deze verplichting reeds
+voortvloeit uit een krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.8">artikel 6a.8</intref> door
+het college opgelegde of instandgehouden verplichting.</al>
+                  </lid>
+                </artikel></paragraaf></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>6b</nr><titel>Consultatie</titel><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><artikel status="goed"><kop><label>Artikel</label><nr>6b.1</nr><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>Op de voorbereiding van een besluit van het college als bedoeld in de
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.2">artikelen 6.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">6a.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.16">6a.16</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.18">6a.18</intref>, is <extref status="actief" doc="1.0:v:BWBR0005537&amp;paragraaf=3.5.6" compleet="nee">paragraaf&#xA0;3.5.6 van de
+Algemene wet bestuursrecht</extref> van toepassing.</al></lid><lid><lidnr status="officieel">2</lidnr><al>In afwijking van het eerste lid kan het college besluiten om de in het
+eerste lid bedoelde procedure niet toe te passen indien het besluit geen aanzienlijke
+gevolgen heeft voor de desbetreffende markt.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Voor de in het eerste lid bedoelde procedure gelden de volgende bijzonderheden:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A19" compleet="nee">artikelen 3:19, tweede lid, onderdeel a</extref>, en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A21" compleet="nee">3:21, tweede en derde
+lid, van de Algemene wet bestuursrecht</extref> zijn van overeenkomstige toepassing;</al></li><li><li.nr>b.</li.nr><al>in afwijking van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A32" compleet="nee">artikel 3:32, eerste lid, van de Algemene wet bestuursrecht</extref>
+bedraagt de termijn voor het inbrengen van bedenkingen ten hoogste een maand;</al></li><li><li.nr>c.</li.nr><al>de <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A30" compleet="nee">artikelen 3:30, tweede lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A33" compleet="nee">3:33 van de Algemene wet bestuursrecht</extref>
+zijn van toepassing uitgezonderd.</al></li></lijst></lid></artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">6b.2</nr>
+                <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                <lid>
+                  <lidnr status="officieel">1</lidnr>
+                  <al>Indien een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikel 6b.1, eerste lid</intref>, van invloed
+is op de handel tussen de lidstaten, legt het college het ontwerp van het
+desbetreffende besluit en de gronden die aan het ontwerpbesluit ten grondslag
+liggen, voor aan de Commissie van de Europese Gemeenschappen en aan de nationale
+regelgevende instanties, bedoeld in artikel 7 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>
+en stelt het college hen gedurende een maand in de gelegenheid daarover opmerkingen
+te maken.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2</lidnr>
+                  <al>Het college neemt het besluit niet dan nadat de in het eerste lid bedoelde
+termijn van een maand is verstreken.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3</lidnr>
+                  <al>Het college houdt bij het nemen van het besluit zoveel mogelijk rekening
+met de opmerkingen die de Commissie van de Europese Gemeenschappen en de nationale
+regelgevende instanties met betrekking tot het ontwerp aan het college hebben
+medegedeeld.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4</lidnr>
+                  <al>Indien de Commissie van de Europese Gemeenschappen binnen de termijn,
+bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat het
+voorgelegde ontwerpbesluit een belemmering vormt voor de interne Europese
+markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid van het
+ontwerpbesluit met het Gemeenschapsrecht, wacht het college tenminste twee
+maanden vanaf de datum van die mededeling met het vaststellen van zijn besluit.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5</lidnr>
+                  <al>Indien de Commissie van de Europese Gemeenschappen overeenkomstig artikel
+7, vierde lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> een beschikking heeft gegeven:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>brengt het college het ontwerp met betrekking tot de door de Commissie
+in de beschikking aangegeven voorstellen in overeenstemming met het Gemeenschapsrecht,
+of</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>besluit het college het desbetreffende ontwerpbesluit niet vast te
+stellen. Van dit besluit wordt mededeling gedaan in de Staatscourant.</al></li></lijst>
+                  
+                </lid>
+                <lid>
+                  <lidnr status="officieel">6</lidnr>
+                  <al>Het college stuurt een overeenkomstig dit artikel voorbereid besluit in
+afschrift aan de Commissie van de Europese Gemeenschappen.</al>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">6b.3</nr>
+                <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                <lid>
+                  <lidnr status="officieel">1</lidnr>
+                  <al>Het college kan in uitzonderlijke omstandigheden indien de vereiste spoed
+zich verzet tegen de toepassing van de procedures, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikelen
+6b.1, eerste lid</intref>, of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.2">6b.2</intref>, die procedures buiten toepassing laten bij
+het nemen van een besluit als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.2">artikelen 6.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">6a.2, eerste lid,
+onder a</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.16">6a.16, eerste lid</intref>, of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.18">6a.18, eerste lid</intref>, ten einde de concurrentie
+te waarborgen of de belangen van de gebruikers te beschermen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2</lidnr>
+                  <al>Een besluit als bedoeld in het eerste lid geldt voor een periode van maximaal
+26 weken.</al>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">6b.4</nr>
+                <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                <al>Indien een nationale regelgevende instantie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.2">artikel 6b.2,
+eerste lid</intref>, ingevolge artikel 7, derde lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> een
+ontwerp van een besluit aan het college voorlegt, doet het college zijn opmerkingen
+aan die nationale regelgevende instantie binnen de door die instantie gestelde
+termijn toekomen.</al>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">6b.5</nr>
+                <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                <lid>
+                  <lidnr status="officieel">1</lidnr>
+                  <al>Op de voorbereiding van een besluit van het college tot het opleggen,
+instandhouden of intrekken van een verplichting als bedoeld in een op basis
+van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.11">artikel 6a.11</intref> tot stand gekomen ministeri&#xEB;le regeling is de procedure,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikel 6b.1</intref> van toepassing.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2</lidnr>
+                  <al>Het college legt een ontwerp van een besluit als bedoeld in het eerste
+lid voor aan de Commissie van de Europese Gemeenschappen en de nationale regelgevende
+instanties die overeenkomstig artikel 3, zesde lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>
+zijn aangemeld.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3</lidnr>
+                  <al>Het college gaat niet over tot het nemen van een besluit als bedoeld in
+het eerste lid dan nadat de Commissie van de Europese Gemeenschappen daartoe
+overeenkomstig artikel 14, tweede lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref> toestemming heeft gegeven. Het college houdt daarbij rekening
+met de door de nationale regelgevende instanties gemaakte opmerkingen.</al>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">6b.6</nr>
+                <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                <al>Voor de mogelijkheid van beroep ingevolge <extref status="actief" doc="1.0:v:BWBR0005537&amp;hoofdstuk=8" compleet="nee">hoofdstuk 8 van de Algemene
+wet bestuursrecht</extref> worden als &#xE9;&#xE9;n besluit aangemerkt:</al>
+                <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
+                    <al>een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, en de aan een
+dergelijk besluit ten grondslag liggende bepaling van de relevante markt,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, eerste of tweede lid</intref>, en het onderzoek van die markt,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde lid</intref>, respectievelijk het onderzoek van een
+transnationale markt, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, vierde lid</intref>;</al>
+                  </li><li><li.nr>b.</li.nr>
+                    <al>een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">artikel 6a.3, eerste, tweede of derde lid</intref>,
+en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante
+markt, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, eerste of tweede lid</intref>, en het onderzoek van
+die markt als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde lid</intref>, respectievelijk het onderzoek
+van een transnationale markt als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, vierde lid</intref>;</al>
+                  </li><li><li.nr>c.</li.nr>
+                    <al>een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.16">artikel 6a.16, eerste of tweede lid</intref>, en
+de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante
+markten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, eerste of tweede lid</intref>, en het onderzoek van
+die markten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde lid</intref>, respectievelijk het onderzoek
+van de transnationale markten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, vierde lid</intref>;</al>
+                  </li><li><li.nr>d.</li.nr>
+                    <al>een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.18">artikel 6a.18, eerste of tweede lid</intref>, en
+de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante
+markt, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, eerste of tweede lid</intref>, het onderzoek van die
+markt, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde lid</intref>, respectievelijk het onderzoek van
+een transnationale markt als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, vierde lid</intref>.</al>
+                  </li></lijst>
+              </artikel></hoofdstuk><hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
         <nr>7</nr>
@@ -3802,6 +4891,15 @@ dat zij tot een overeenstemming zijn gekomen.</al>
         ontsleutelen van versleutelde digitale televisiesignalen. </al>
 </artikel>
     <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">10.1b</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <al>Bij algemene maatregel van bestuur worden regels gesteld inzake de door
+een aanbieder van een openbaar telecommunicatienetwerk te verstrekken informatie
+over de technische specificaties van de netwerkaansluitpunten en de wijze
+van bekendmaking van die informatie.</al>
+            </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>10.2</nr>
@@ -4631,6 +5729,33 @@ dat zij tot een overeenstemming zijn gekomen.</al>
 						opsporing van fraude, of indien de verwerking overigens bij of krachtens de wet
 						wordt gevorderd.</al>
 				  </lid>
+				</artikel><artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr status="officieel">11.5b</nr>
+				  <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+				  <lid> 
+					 <lidnr status="officieel">1</lidnr> 
+					 <al>Certificatiedienstverleners die certificaten aan het
+						publiek afgeven, verwerken alleen persoonsgegevens die van de betrokkene zelf
+						of met diens uitdrukkelijke toestemming zijn verkregen, en voor zover de
+						verwerking van deze persoonsgegevens voor de afgifte en het beheer van het
+						certificaat is vereist.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">2</lidnr> 
+					 <al>De in het eerste lid bedoelde persoonsgegevens worden niet
+						voor andere doeleinden verzameld of verwerkt, tenzij de betrokkene daarvoor
+						zijn uitdrukkelijke toestemming heeft gegeven.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr status="officieel">3</lidnr> 
+					 <al>In afwijking van het tweede lid is de uitdrukkelijke
+						toestemming van de betrokkene niet vereist, indien de verwerking van de in het
+						eerste lid bedoelde persoonsgegevens noodzakelijk is ten behoeve van de
+						opsporing van fraude, of indien de verwerking overigens bij of krachtens de wet
+						wordt gevorderd.</al>
+				  </lid>
 				</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4988,8 +6113,166 @@ dat zij tot een overeenstemming zijn gekomen.</al>
             de datum en het tijdstip van de oproep geregistreerd.  </al>
     </lid>
 </artikel>
-</paragraaf>
-</hoofdstuk>
+<artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">11.11</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Een abonnee die last heeft van hinderlijke of kwaadwillige oproepen, waarbij
+de verstrekking van het nummer van het oproepende netwerkaansluitpunt is geblokkeerd,
+kan aan de aanbieder van een openbaar elektronisch communicatienetwerk of
+van een openbare elektronische communicatiedienst verzoeken om het nummer
+van de oproepende abonnee en de beschikbare daarop betrekking hebbende naam-,
+adres-, postcode- en woonplaatsgegevens, te verstrekken.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Een verzoek als bedoeld in het eerste lid voldoet aan de volgende vereisten:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>het verzoek is schriftelijk en bevat de naam-, adres-, postcode- en
+woonplaatsgegevens van de verzoeker alsmede het nummer waarop de oproepen
+betrekking hebben, en</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>het verzoek bevat een indicatie van de data en tijdstippen waarop de
+desbetreffende oproepen hebben plaatsgevonden.</al></li></lijst>
+                
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>De verzoeker informeert de aanbieder onverwijld omtrent hinderlijke of
+kwaadwillige oproepen, die plaats hebben gevonden na indiening van het verzoek,
+bedoeld in het eerste lid.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>De aanbieder stelt naar aanleiding van het verzoek een onderzoek in, teneinde vast te stellen of tot verstrekking van de gegevens, bedoeld
+in het eerste lid, dient te worden overgegaan.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">5</lidnr>
+                <al>Indien bij het onderzoek blijkt dat het oproepende nummer toebehoort aan
+een abonnee van een andere aanbieder, verleent de desbetreffende aanbieder
+op een daartoe strekkend verzoek van de met het onderzoek belaste aanbieder
+medewerking aan het onderzoek en verstrekt, indien het onderzoek daartoe aanleiding
+geeft, de beschikbare op het oproepende nummer betrekking hebbende naam-,
+adres-, postcode- en woonplaatsgegevens aan de aanbieder die met het onderzoek
+belast is.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">6</lidnr>
+                <al>Van de gegevensverstrekking aan een verzoeker wordt door de aanbieder
+mededeling gedaan aan de abonnee, wiens gegevens het betreft.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">7</lidnr>
+                <al>Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld
+met betrekking tot:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>het onderzoek, bedoeld in het vierde lid;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>de gegevensverstrekking, bedoeld in het vierde lid;</al></li><li>
+                <li.nr>c.</li.nr>
+                
+              <al>de medewerkingsverplichting, bedoeld in het vijfde lid;</al></li><li>
+                <li.nr>d.</li.nr>
+                
+              <al>de kennisgeving van de verstrekking van de gegevens, bedoeld in het
+zesde lid.</al></li></lijst>
+                
+                
+                
+              </lid>
+            </artikel></paragraaf>
+<paragraaf><kop>
+                <label>&#xA7;</label>
+                <nr>11.3</nr>
+                <titel>Ontheffing</titel>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">11.12</nr>
+                <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                <lid>
+                  <lidnr status="officieel">1</lidnr>
+                  <al>Aan een aanbieder van een openbaar elektronisch communicatienetwerk en
+een aanbieder van een openbare elektronische communicatiedienst kan door het
+college ontheffing worden verleend van de verplichtingen die voortvloeien
+uit de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.4">artikelen 11.4, eerste lid, onderdeel b</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.9">11.9 tot en met 11.11</intref>.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2</lidnr>
+                  <al>Een ontheffing als bedoeld in het eerste lid kan uitsluitend worden verleend,
+indien:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>deze betrekking heeft op abonneelijnen verbonden met analoge centrales,
+en</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>nakoming van de desbetreffende verplichtingen technisch niet haalbaar
+is of onevenredig veel financi&#xEB;le lasten voor de aanbieder met zich meebrengt.</al></li></lijst>
+                  
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3</lidnr>
+                  <al>Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing
+kunnen voorschriften worden verbonden.</al>
+                </lid>
+              </artikel></paragraaf><paragraaf><kop>
+                <label>&#xA7;</label>
+                <nr>11.4</nr>
+                <titel>Uitzonderingen</titel>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">11.13</nr>
+                <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+                <lid>
+                  <lidnr status="officieel">1</lidnr>
+                  <al>Aanbieders van openbare elektronische communicatienetwerken en openbare
+elektronische communicatiediensten kunnen de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5">artikelen 11.5</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5a">11.5a</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.9">11.9,
+eerste lid</intref>, buiten toepassing laten, indien dit noodzakelijk is in het belang
+van:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>de nationale veiligheid;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>de voorkoming, opsporing en vervolging van strafbare feiten.</al></li></lijst>
+                  
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2</lidnr>
+                  <al>Aanbieders van openbare elektronische communicatienetwerken en openbare
+elektronische communicatiediensten mogen, in afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5">artikel 11.5, eerste
+lid</intref>, verkeersgegevens verwerken, indien en voor zolang dat noodzakelijk is
+voor een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.11">artikel 11.11, vierde en vijfde lid</intref>. De
+verkeersgegevens mogen voor een periode van ten hoogste drie maanden na be&#xEB;indiging
+van een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.11">artikel 11.11, vierde lid</intref>, door
+de desbetreffende aanbieders worden bewaard. Na afloop van deze periode worden
+de verkeersgegevens verwijderd.</al>
+                </lid>
+              </artikel></paragraaf></hoofdstuk>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
@@ -5560,7 +6843,7 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
                 <li.nr>g.</li.nr>
                 <al>verdere onderwerpen, te weten de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.1">artikelen
                     18.1</intref>, voorzover het bevoegdheden
-                    betreft van Onze Minister, <intref status="actief" doc="1.0:v:&amp;=">18.2</intref>,
+                    betreft van Onze Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.2">18.2</intref>,
                     voorzover het bevoegdheden betreft van Onze
                     Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.4">18.4, tweede
                     lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.7">18.7</intref>,
@@ -5619,6 +6902,69 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
     </lid>
 </artikel>
     <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">15.2a</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Onze Minister is bevoegd een aanbieder van openbare elektronische communicatienetwerken
+of -diensten bij ernstig en herhaaldelijk niet-nakomen van de verplichtingen
+gesteld bij of krachtens de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.1">artikel 15.1, eerste lid</intref>, bedoelde bepalingen,
+wanneer de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.2">artikel 15.2</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.4">15.4</intref> opgelegde maatregelen tot naleving
+van de bedoelde verplichtingen hebben gefaald, voor een door Onze Minister
+te bepalen redelijke termijn te verbieden nog langer elektronische
+communicatienetwerken of -diensten aan te bieden.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Het college is bevoegd een aanbieder van openbare elektronische communicatienetwerken
+of -diensten bij ernstig en herhaaldelijk niet-nakomen van de verplichtingen
+gesteld bij of krachtens de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.1">artikel 15.1, derde lid</intref>, bedoelde bepalingen,
+wanneer de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.2">artikel 15.2</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.4">15.4</intref> opgelegde maatregelen tot naleving
+van de bedoelde verplichtingen hebben gefaald, voor een door het college te
+bepalen redelijke termijn te verbieden nog langer elektronische communicatienetwerken
+of -diensten aan te bieden.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Een besluit als bedoeld in het eerste of tweede lid, inhoudende een verbod
+tot het aanbieden van elektronische communicatienetwerken of -diensten voldoet
+in elk geval aan de volgende eisen:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>het verbod is niet in strijd met een of meer doelstellingen als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.3">artikel 1.3</intref>;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>het verbod leidt niet tot het niet na kunnen komen door de onderneming
+van een bij of krachtens de wet opgelegde leveringsplicht;</al></li><li>
+                <li.nr>c.</li.nr>
+                
+              <al>het verbod heeft slechts betrekking op het netwerk of de dienst ten
+aanzien waarvan de in het eerste of tweede lid bedoelde verplichtingen niet
+zijn nagekomen;</al></li><li>
+                <li.nr>d.</li.nr>
+                
+              <al>het verbod heeft geen ernstige economische of maatschappelijke problemen
+tot gevolg voor andere aanbieders van een openbaar elektronisch communicatienetwerk,
+een openbare elektronische communicatiedienst of bijbehorende faciliteiten,
+of voor gebruikers van een openbaar elektronisch communicatienetwerk of een
+openbare elektronische communicatiedienst.</al></li></lijst>
+                
+                
+                
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>Van een besluit als bedoeld in het eerste of tweede lid wordt door Onze
+Minister, onderscheidenlijk het college, mededeling gedaan in de Staatscourant.
+Het treedt niet eerder in werking dan twee weken na die mededeling.</al>
+              </lid>
+            </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">15.3</nr>
@@ -6116,7 +7462,22 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
             college. </al>
     </lid>
 </artikel>
-    
+    <artikel status="goed">
+    <kop>
+                <label>Artikel</label>
+                <nr status="officieel">18.2</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <al>Bij algemene maatregel van bestuur kunnen regels worden gesteld die noodzakelijk
+zijn voor uitvoering van:</al>
+              <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
+                  <al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> of daarmee verband houdende richtlijnen van
+de Raad van de Europese Unie of van het Europees Parlement en de Raad gezamenlijk;</al>
+                </li><li><li.nr>b.</li.nr>
+                  <al>richtlijnen van de Commissie van de Europese Gemeenschappen die hun
+grondslag vinden in artikel 86, derde lid, van het Verdrag tot oprichting
+van de Europese Gemeenschap en die betrekking hebben op de elektronische communicatiesector.</al>
+                </li></lijst>
+</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -6591,7 +7952,117 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
 					 op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.2">artikel 2.2, derde lid, onderdeel f</intref>, is be&#xEB;indigd verboden
 					 gekwalificeerde certificaten aan het publiek aan te bieden of af te geven
 					 zolang hij niet opnieuw is geregistreerd.</al>
-				</artikel></hoofdstuk>
+				</artikel><artikel status="goed"><kop><label>Artikel</label><nr>18.19</nr><al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop><al>In afwijking van <extref status="actief" doc="1.0:v:BWBR0008807&amp;artikel=24" compleet="nee">artikel 24 van de Wet Onafhankelijke post- en telecommunicatieautoriteit</extref>,
+onderscheidenlijk <extref status="actief" doc="1.0:v:BWBR0008691&amp;artikel=91" compleet="nee">artikel 91 van de Mededingingswet</extref>, verstrekken het college
+en de directeur-generaal van de Nederlandse mededingingsautoriteit elkaar
+op verzoek de gegevens of inlichtingen die van betekenis zijn of kunnen zijn
+voor de uitoefening van de taken en bevoegdheden die bij of krachtens de Telecommunicatiewet
+aan het college zijn opgedragen, respectievelijk zijn verleend, mits:</al><lijst nr-sluiting=""><li><li.nr>a.</li.nr><al>de geheimhouding van de gegevens of inlichtingen in voldoende mate
+is gewaarborgd, en</al></li><li><li.nr>b.</li.nr><al>voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen
+worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.</al></li></lijst></artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">18.20</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Het college verstrekt na een daartoe strekkend verzoek van de Commissie
+van de Europese Gemeenschappen dan wel van een nationale regelgevende instantie,
+de gegevens of inlichtingen die de Commissie respectievelijk die nationale
+regelgevende instantie nodig heeft voor de uitoefening van haar taken uit
+hoofde van het Gemeenschapsrecht mits:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>de geheimhouding, voor zover er naar het oordeel van het college sprake
+is van bedrijfsvertrouwelijke gegevens of inlichtingen, van de gegevens of
+inlichtingen in voldoende mate is gewaarborgd,</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>voldoende gewaarborgd is dat de gegevens of inlichtingen niet zullen
+worden gebruikt voor een ander doel dan waarvoor deze zijn verstrekt, en</al></li><li>
+                <li.nr>c.</li.nr>
+                
+              <al>het verzoek gegevens of inlichtingen betreft die het college uit hoofde
+van zijn taken en bevoegdheden op grond van deze wet heeft verkregen.</al></li></lijst>
+                
+                
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Indien het college van oordeel is dat er sprake is van bedrijfsvertrouwelijke
+gegevens of inlichtingen, vermeldt het college bij het verstrekken van die
+gegevens of inlichtingen aan de Commissie van de Europese Gemeenschappen onderscheidenlijk
+de nationale regelgevende instantie, uitdrukkelijk en met redenen omkleed
+dat die informatie niet aan derden ter beschikking mag worden gesteld.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Indien het college aan de Commissie van de Europese Gemeenschappen gegevens
+of inlichtingen verstrekt die het college heeft verkregen van een aanbieder
+van een openbaar elektronisch communicatienetwerk, een openbare elektronische
+communicatiedienst of bijbehorende faciliteiten, stelt het college de betreffende
+aanbieder daarvan op de hoogte.</al>
+              </lid>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">18.21</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Bij ministeri&#xEB;le regeling worden regels gesteld met betrekking tot
+de toepassing van overeenkomstig artikel 17, vierde lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr.
+2002/21/EG</extref> verplicht gestelde normen of specificaties, die gepubliceerd zijn
+in het Publicatieblad van de Europese Gemeenschappen.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Een wijziging van de normen of specificaties, bedoeld in het eerste lid,
+gaat gelden met ingang van de dag waarop die wijziging in het Publicatieblad
+van de Europese Gemeenschappen is gepubliceerd.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Bij ministeri&#xEB;le regeling kunnen regels worden gesteld met betrekking
+tot de toepassing van in het Publicatieblad van de Europese Gemeenschappen
+gepubliceerde normen of specificaties als bedoeld in artikel 17, eerste lid,
+van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> met betrekking tot:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>bij die regeling aan te wijzen categorie&#xEB;n van elektronische communicatienetwerken,
+elektronische communicatiediensten, bijbehorende faciliteiten, of diensten
+indien het toepassen van die normen of specificaties nodig is
+voor het waarborgen van eind- tot eindverbindingen of het verbeteren van de
+keuzevrijheid van gebruikers, of</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>het gebruik van applicatieprogramma-interfaces indien het toepassen
+van die normen of specificaties nodig is voor het bevorderen van de toepassing
+van open applicatieprogramma-interfaces bij het leveren of aanbieden van digitale
+interactieve televisiediensten.</al></li></lijst>
+                
+              </lid>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">18.22</nr>
+              <al><redactie type="extra">Treedt in werking per 19-05-2004</redactie></al></kop>
+              <al>Een wijziging van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/20/EG</extref>,
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>, of <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref> gaat voor de toepassing
+van de Telecommunicatiewet gelden met ingang van de dag waarop aan de betrokken
+wijziging van de desbetreffende richtlijn uitvoering moet zijn gegeven, tenzij
+bij ministerieel besluit dat in de Staatscourant wordt bekendgemaakt, een
+ander tijdstip wordt vastgesteld.</al>
+            </artikel></hoofdstuk>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
