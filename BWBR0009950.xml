@@ -4478,7 +4478,34 @@
             verwerking van de desbetreffende gegevens zijn belast. </al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    <artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr>11.5a</nr>
+				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop>
+				  <lid> 
+					 <lidnr>1</lidnr> 
+					 <al>Certificatiedienstverleners die certificaten aan het
+						publiek afgeven, verwerken alleen persoonsgegevens die van de betrokkene zelf
+						of met diens uitdrukkelijke toestemming zijn verkregen, en voor zover de
+						verwerking van deze persoonsgegevens voor de afgifte en het beheer van het
+						certificaat is vereist.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>2</lidnr> 
+					 <al>De in het eerste lid bedoelde persoonsgegevens worden niet
+						voor andere doeleinden verzameld of verwerkt, tenzij de betrokkene daarvoor
+						zijn uitdrukkelijke toestemming heeft gegeven.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>3</lidnr> 
+					 <al>In afwijking van het tweede lid is de uitdrukkelijke
+						toestemming van de betrokkene niet vereist, indien de verwerking van de in het
+						eerste lid bedoelde persoonsgegevens noodzakelijk is ten behoeve van de
+						opsporing van fraude, of indien de verwerking overigens bij of krachtens de wet
+						wordt gevorderd.</al>
+				  </lid>
+				</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>11.6</nr>
@@ -6303,7 +6330,133 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
             vastgesteld, geen toepassing. </al>
     </lid>
 </artikel>
-</hoofdstuk>
+<artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr status="officieel">18.15</nr>
+				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop>
+				  <lid> 
+					 <lidnr status="officieel">1</lidnr> 
+					 <al>Een certificatiedienstverlener die certificaten als
+						gekwalificeerde certificaten aanbiedt of afgeeft aan het publiek en in
+						Nederland een vestiging heeft, voldoet aan de eisen, gesteld bij of krachtens
+						algemene maatregel van bestuur.</al>
+				  </lid><lid> 
+					 <lidnr status="officieel">2</lidnr> 
+					 <al>Certificaten die als gekwalificeerd certificaat aan het
+						publiek worden aangeboden of afgegeven, voldoen aan de eisen gesteld bij of
+						krachtens algemene maatregel van bestuur.</al>
+				  </lid><lid> 
+					 <lidnr status="officieel">3</lidnr> 
+					 <al>Een certificatiedienstverlener stelt, alvorens een
+						gekwalificeerd certificaat af te geven, de identiteit van de persoon die als
+						ondertekenaar in dat gekwalificeerde certificaat wordt aangeduid, vast aan de
+						hand van de bij <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de identificatieplicht</extref> aangewezen
+						geldige documenten.</al>
+				  </lid>
+				</artikel> 
+				<artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr>18.16</nr>
+				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop> 
+				  <lid> 
+					 <lidnr>1</lidnr> 
+					 <al>Onze Minister kan een of meer organisaties aanwijzen, die
+						certificatiedienstverleners toetsen op de overeenstemming met de bij en
+						krachtens deze wet gestelde eisen, indien de reglementen van de organisatie
+						voldoende waarborgen bieden dat een overeenkomstig deze regeling, door de
+						aangewezen organisatie beoordeelde certificatiedienstverlener voldoet aan
+						<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste lid</intref> en dat de door een zodanige
+						certificatiedienstverlener aan het publiek aangeboden of afgegeven
+						gekwalificeerde certificaten voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, tweede lid</intref>.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>2</lidnr> 
+					 <al>Een certificatiedienstverlener die in het bezit is van een
+						geldig bewijs van toetsing van een op grond van het eerste lid aangewezen
+						organisatie, wordt vermoed te voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste lid</intref>.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>3</lidnr> 
+					 <al>De certificaten die als gekwalificeerd aan het publiek
+						worden aangeboden of afgegeven door een certificatiedienstverlener als bedoeld
+						in het tweede lid, worden vermoed te voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, tweede
+						lid</intref>.</al>
+				  </lid>
+				  <lid> 
+					 <lidnr>4</lidnr> 
+					 <al>Een aanwijzing als bedoeld in het eerste lid geldt voor
+						bepaalde tijd, en kan worden ingetrokken indien blijkt dat de reglementen van
+						de aangewezen organisatie niet meer de in het eerste lid bedoelde waarborg
+						bieden.</al>
+				  </lid>
+				</artikel> 
+				<artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr>18.17</nr>
+				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop>
+				  <lid> 
+					 <lidnr>1</lidnr> 
+					 <al>Degene die een veilig middel voor het aanmaken van
+						elektronische handtekeningen op de markt brengt, zorgt ervoor dat het veilige
+						middel voldoet aan de bij of krachtens algemene maatregel van bestuur te
+						stellen eisen.</al>
+				  </lid>
+				  <lid> 
+					 <lidnr>2</lidnr> 
+					 <al>Onze Minister kan een instelling aanwijzen die belast is
+						met het beoordelen van de overeenstemming van een veilig middel voor het
+						aanmaken van elektronische handtekeningen met de eisen, bedoeld in het eerste
+						lid.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>3</lidnr> 
+					 <al>Degene die een veilig middel voor het aanmaken van
+						elektronische handtekeningen op de markt brengt, zorgt ervoor dat dit middel is
+						voorzien van een verklaring van de instelling, bedoeld in het tweede lid, of
+						van een verklaring van een door de bevoegde autoriteiten van een andere
+						lidstaat van de Europese Gemeenschap dan wel van een van de overige staten die
+						partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte,
+						aangewezen instelling, dat het middel voldoet aan de eisen, bedoeld in het
+						eerste lid.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>4</lidnr> 
+					 <al>De verklaring, bedoeld in het derde lid, betreft ofwel een
+						afzonderlijk veilig middel, ofwel een type.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>5</lidnr> 
+					 <al>De instelling die in aanmerking wenst te komen voor een
+						aanwijzing als bedoeld in het tweede lid, toont aan dat zij voldoet aan de bij
+						of krachtens algemene maatregel van bestuur vastgestelde eisen.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>6</lidnr> 
+					 <al>Indien Onze Minister heeft vastgesteld dat de aangewezen
+						instelling niet meer aan de in het vijfde lid bedoelde eisen voldoet en de
+						instelling niet binnen een door Onze Minister gestelde termijn heeft aangetoond
+						aan de eisen te voldoen, wordt de aanwijzing ingetrokken.</al>
+				  </lid> 
+				  <lid> 
+					 <lidnr>7</lidnr> 
+					 <al>Indien de aangewezen instelling aantoont redelijkerwijs
+						niet binnen de gestelde termijn aan de eisen te kunnen voldoen, kan Onze
+						Minister de termijn verlengen.</al>
+				  </lid>
+				</artikel> 
+				<artikel status="goed"> 
+				  <kop> 
+					 <label>Artikel</label> 
+					 <nr>18.18</nr>
+				  <al><redactie type="extra">Treedt in werking per 21-05-2003</redactie></al></kop>
+				  <al>Het is de certificatiedienstverlener waarvan de registratie
+					 op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.2">artikel 2.2, derde lid, onderdeel f</intref>, is be&#xEB;indigd verboden
+					 gekwalificeerde certificaten aan het publiek aan te bieden of af te geven
+					 zolang hij niet opnieuw is geregistreerd.</al>
+				</artikel></hoofdstuk>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
