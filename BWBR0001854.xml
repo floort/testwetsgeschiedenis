@@ -4285,73 +4285,27 @@ te maken.</al></artikel></titeldeel>
     <al>De schorsing van de strafvervolging ter zake van een
         prejudicieel geschil schorst de verjaring.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>74</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De officier van justitie kan voor de aanvang van de
+    <artikel status="goed"><kop><label>Artikel</label><nr>74</nr></kop><lid><lidnr>1</lidnr><al>De officier van justitie kan voor de aanvang van de
             terechtzitting een of meer voorwaarden stellen ter
             voorkoming van de strafvervolging wegens misdrijven, met
             uitzondering van die waarop naar de wettelijke omschrijving
             gevangenisstraf is gesteld van meer dan zes jaar, en wegens
             overtreding. Door voldoening aan die voorwaarden vervalt het
-            recht tot strafvordering.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> De volgende voorwaarden kunnen worden gesteld: </al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>betaling aan de staat van een geldsom, te bepalen op
+            recht tot strafvordering.</al></lid><lid><lidnr>2</lidnr><al> De volgende voorwaarden kunnen worden gesteld: </al><lijst><li><li.nr>a.</li.nr><al>betaling aan de staat van een geldsom, te bepalen op
                     ten minste &#x20AC; 2 en ten hoogste het maximum van de
-                    geldboete die voor het feit kan worden opgelegd;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>afstand van voorwerpen die in beslag zijn genomen en
+                    geldboete die voor het feit kan worden opgelegd;</al></li><li><li.nr>b.</li.nr><al>afstand van voorwerpen die in beslag zijn genomen en
                     vatbaar zijn voor verbeurdverklaring of onttrekking
-                    aan het verkeer;</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>uitlevering, of voldoening aan de staat van de
+                    aan het verkeer;</al></li><li><li.nr>c.</li.nr><al>uitlevering, of voldoening aan de staat van de
                     geschatte waarde, van voorwerpen die vatbaar zijn
-                    voor verbeurdverklaring;</al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>voldoening aan de staat van een geldbedrag of overdracht
+                    voor verbeurdverklaring;</al></li><li><li.nr>d.</li.nr><al>voldoening aan de staat van een geldbedrag of overdracht
 					 van inbeslaggenomen voorwerpen ter gehele of gedeeltelijke ontneming van het
 					 ingevolge <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=36e">artikel 36e</intref> voor ontneming vatbare wederrechtelijk verkregen
-					 voordeel;</al>
-            </li>
-            <li>
-                <li.nr>e.</li.nr>
-                <al>gehele of gedeeltelijke vergoeding van de door het
-                    strafbare feit veroorzaakte schade;</al>
-            </li>
-            <li>
-                <li.nr>f.</li.nr>
-                <al>het verrichten van onbetaalde arbeid of het volgen
+					 voordeel;</al></li><li><li.nr>e.</li.nr><al>gehele of gedeeltelijke vergoeding van de door het
+                    strafbare feit veroorzaakte schade;</al></li><li><li.nr>f.</li.nr><al>het verrichten van onbetaalde arbeid of het volgen
                     van een leerproject gedurende ten hoogste
-                    honderdtwintig uren.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al> De officier van justitie doet aan de rechtstreeks
-            belanghebbende die daarom heeft verzocht, onverwijld
-            mededeling van de datum waarop aan die voorwaarden is voldaan.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>Op de in het tweede lid, onder f, bedoelde voorwaarde is het
+                    honderdtwintig uren.</al></li></lijst></lid><lid><lidnr>3</lidnr><al> De officier van justitie doet in geval van misdrijf aan de rechtstreeks
+            belanghebbende die hem bekend is, onverwijld
+            schriftelijk mededeling van de datum waarop hij die voorwaarden heeft gesteld.</al></lid><lid><lidnr>4</lidnr><al>Op de in het tweede lid, onder f, bedoelde voorwaarde is het
             bepaalde bij of krachtens de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22c"> artikelen 22c, eerste en vierde
             lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22e">22e</intref> en
                 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22k">22k</intref> met betrekking
@@ -4360,12 +4314,7 @@ te maken.</al></artikel></titeldeel>
             termijn van zes maanden na instemming met de voorwaarde
             voltooid. Het openbaar ministerie kan deze termijn eenmaal
             met zes maanden verlengen. Het zendt hiervan zo spoedig
-            mogelijk een kennisgeving aan de betrokkene.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>5</lidnr>
-        <al>Bij of krachtens algemene maatregel van bestuur worden
+            mogelijk een kennisgeving aan de betrokkene.</al></lid><lid><lidnr>5</lidnr><al>Bij of krachtens algemene maatregel van bestuur worden
             voorschriften gegeven omtrent de nakoming van de voorwaarde,
             bedoeld in het tweede lid, onderdeel a. Deze voorschriften
             hebben in ieder geval betrekking op de plaats en wijze van
@@ -4373,9 +4322,7 @@ te maken.</al></artikel></titeldeel>
             moet zijn geschied en de verantwoording van de ontvangen
             geldbedragen. Bij of krachtens algemene maatregel van
             bestuur kunnen voorschriften worden gegeven omtrent de
-            nakoming van de overige in het tweede lid bedoelde voorwaarden.</al>
-    </lid>
-</artikel>
+            nakoming van de overige in het tweede lid bedoelde voorwaarden.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4473,9 +4420,7 @@ te maken.</al></artikel></titeldeel>
             lid</intref>, van eenvoudige aard, welke zijn begaan
             door personen die de leeftijd van achttien jaren hebben
             bereikt, met dien verstande dat de te betalen geldsom ten
-            hoogste &#x20AC; 350 bedraagt. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74">artikelen 74, derde
-            lid</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74b">74<nadruk type="cur">b</nadruk>
-            </intref> zijn van overeenkomstige toepassing.</al>
+            hoogste &#x20AC; 350 bedraagt.</al>
     </lid>
     <lid>
         <lidnr>4</lidnr>
@@ -4497,6 +4442,13 @@ te maken.</al></artikel></titeldeel>
         <al> Bij of krachtens algemene maatregel van bestuur worden
             voorschriften gegeven inzake de verantwoording van ingevolge
             het tweede en derde lid betaalde geldbedragen.</al>
+    </lid>
+    <lid>
+        <lidnr>7</lidnr>
+        <al>Bij het stellen van voorwaarden door opsporingsambtenaren
+            zijn de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74">artikelen 74, derde
+            lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74b">74b</intref> van
+            overeenkomstige toepassing.</al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -17035,8 +16987,8 @@ wordt gestraft met geldboete van de tweede categorie.</al></artikel></titeldeel>
     <al>De schipper van een Nederlands vaartuig die naar zee vertrekt
         alvorens hij de in <extref status="actief" doc="1.0:v:BWBR0001838&amp;artikel=451" compleet="nee">artikel 451 van het Wetboek van
         Koophandel</extref> vereiste monsterrol heeft opgemaakt
-        of bijgesteld, heeft ondertekend en heeft gezonden aan het Hoofd
-        van de Scheepvaartinspectie, wordt gestraft met geldboete van de
+        of bijgesteld, heeft ondertekend en heeft gezonden aan de inspecteur-generaal
+van de Inspectie Verkeer en Waterstaat, wordt gestraft met geldboete van de
         tweede categorie.</al>
 </artikel>
     <artikel status="goed">
