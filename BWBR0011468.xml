@@ -750,30 +750,14 @@ nadelen verband houdende met de grond ras op te heffen of te verminderen en slec
             de betrokkene.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>21</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Het verbod om persoonsgegevens betreffende iemands
+    <artikel status="goed"><kop><label>Artikel</label><nr>21</nr></kop><lid><lidnr>1</lidnr><al>Het verbod om persoonsgegevens betreffende iemands
             gezondheid te verwerken als bedoeld in artikel 16, is niet
-            van toepassing indien de verwerking geschiedt door:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>hulpverleners, instellingen of voorzieningen voor
+            van toepassing indien de verwerking geschiedt door:</al><lijst><li><li.nr>a.</li.nr><al>hulpverleners, instellingen of voorzieningen voor
                     gezondheidszorg of maatschappelijke dienstverlening
                     voor zover dat met het oog op een goede behandeling
                     of verzorging van de betrokkene, dan wel het beheer
                     van de betreffende instelling of beroepspraktijk
-                    noodzakelijk is;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>verzekeraars als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006509&amp;artikel=1" compleet="nee">artikel 1, eerste lid,
+                    noodzakelijk is;</al></li><li><li.nr>b.</li.nr><al>verzekeraars als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006509&amp;artikel=1" compleet="nee">artikel 1, eerste lid,
                         onder h, van de Wet toezicht
                     verzekeringsbedrijf&#xA0;1993</extref>,
                     verzekeraars als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007477&amp;artikel=1" compleet="nee">artikel 1, onder c, van
@@ -783,69 +767,29 @@ nadelen verband houdende met de grond ras op te heffen of te verminderen en slec
                         <extref status="actief" doc="1.0:v:BWBR0004993&amp;artikel=1" compleet="nee">artikel 1, onder b en c,
                         van de Wet
                     assurantiebemiddelingsbedrijf</extref>, voor
-                    zover dat noodzakelijk is voor:</al>
-                <lijst>
-                    <li>
-                        <li.nr>1&#xB0;.</li.nr>
-                        <al>de beoordeling van het door verzekeraar te
+                    zover dat noodzakelijk is voor:</al><lijst><li><li.nr>1&#xB0;.</li.nr><al>de beoordeling van het door verzekeraar te
                             verzekeren risico en de betrokkene geen
-                            bezwaar heeft gemaakt of</al>
-                    </li>
-                    <li>
-                        <li.nr>2&#xB0;.</li.nr>
-                        <al>de uitvoering van de verzekeringsovereenkomst;</al>
-                    </li>
-                </lijst>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>scholen voor zover dat met het oog op de speciale
+                            bezwaar heeft gemaakt of</al></li><li><li.nr>2&#xB0;.</li.nr><al>de uitvoering van de verzekeringsovereenkomst;</al></li></lijst></li><li><li.nr>c.</li.nr><al>scholen voor zover dat met het oog op de speciale
                     begeleiding van leerlingen of het treffen van
                     bijzondere voorzieningen in verband met hun
-                    gezondheidstoestand noodzakelijk is;</al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>een reclasseringsinstelling, een bijzondere
+                    gezondheidstoestand noodzakelijk is;</al></li><li><li.nr>d.</li.nr><al>een reclasseringsinstelling, een bijzondere
                     reclasseringsambtenaar, de raad voor de
-                    kinderbescherming of voogdij- en
-                    gezinsvoogdij-instellingen, voor zover dat
+                    kinderbescherming of de stichting, bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet op de jeugdzorg</extref> en de rechtspersoon, bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0002656&amp;artikel=254" compleet="nee">artikel 254, tweede lid</extref>, of <extref status="actief" doc="1.0:v:BWBR0002656&amp;artikel=302" compleet="nee">artikel 302, tweede lid, van Boek 1 van het
+Burgerlijk
+Wetboek</extref>, voor zover dat
                     noodzakelijk is voor de uitvoering van de hun
-                    wettelijk opgedragen taken;</al>
-            </li>
-            <li>
-                <li.nr>e.</li.nr>
-                <al>Onze Minister van Justitie voor zover dat in verband
+                    wettelijk opgedragen taken;</al></li><li><li.nr>e.</li.nr><al>Onze Minister van Justitie voor zover dat in verband
                     met de tenuitvoerlegging van vrijheidsstraffen of
-                    vrijheidsbenemende maatregelen noodzakelijk is of</al>
-            </li>
-            <li>
-                <li.nr>f.</li.nr>
-                <al>bestuursorganen, pensioenfondsen, werkgevers of
+                    vrijheidsbenemende maatregelen noodzakelijk is of</al></li><li><li.nr>f.</li.nr><al>bestuursorganen, pensioenfondsen, werkgevers of
                     instellingen die te hunnen behoeve werkzaam zijn
-                    voor zover dat noodzakelijk is voor:</al>
-                <lijst>
-                    <li>
-                        <li.nr>1&#xB0;.</li.nr>
-                        <al>een goede uitvoering van wettelijke
+                    voor zover dat noodzakelijk is voor:</al><lijst><li><li.nr>1&#xB0;.</li.nr><al>een goede uitvoering van wettelijke
                             voorschriften, pensioenregelingen of
                             collectieve arbeidsovereenkomsten die
                             voorzien in aanspraken die afhankelijk zijn
-                            van de gezondheidstoestand van de betrokkene of</al>
-                    </li>
-                    <li>
-                        <li.nr>2&#xB0;.</li.nr>
-                        <al>de re&#xEF;ntegratie of begeleiding van
+                            van de gezondheidstoestand van de betrokkene of</al></li><li><li.nr>2&#xB0;.</li.nr><al>de re&#xEF;ntegratie of begeleiding van
                             werknemers of uitkeringsgerechtigden in
-                            verband met ziekte of arbeidsongeschiktheid.</al>
-                    </li>
-                </lijst>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>In de gevallen als bedoeld in het eerste lid worden de
+                            verband met ziekte of arbeidsongeschiktheid.</al></li></lijst></li></lijst></lid><lid><lidnr>2</lidnr><al>In de gevallen als bedoeld in het eerste lid worden de
             gegevens alleen verwerkt door personen die uit hoofde van
             ambt, beroep of wettelijk voorschrift, dan wel krachtens een
             overeenkomst tot geheimhouding zijn verplicht. Indien de
@@ -856,45 +800,20 @@ nadelen verband houdende met de grond ras op te heffen of te verminderen en slec
             wet hem tot mededeling verplicht of uit zijn taak de
             noodzaak voortvloeit dat de gegevens worden meegedeeld aan
             anderen die krachtens het eerste lid bevoegd zijn tot
-            verwerking daarvan.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Het verbod om andere persoonsgegevens als bedoeld in artikel
+            verwerking daarvan.</al></lid><lid><lidnr>3</lidnr><al>Het verbod om andere persoonsgegevens als bedoeld in artikel
             16 te verwerken, is niet van toepassing voor zover dit
             noodzakelijk is in aanvulling op de verwerking van
             persoonsgegevens betreffende iemands gezondheid als bedoeld
             in het eerste lid, onder a, met het oog op een goede
-            behandeling of verzorging van de betrokkene. </al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>Persoonsgegevens betreffende erfelijke eigenschappen mogen
+            behandeling of verzorging van de betrokkene. </al></lid><lid><lidnr>4</lidnr><al>Persoonsgegevens betreffende erfelijke eigenschappen mogen
             slechts worden verwerkt voor zover deze verwerking
             plaatsvindt met betrekking tot de betrokkene bij wie de
-            betreffende gegevens zijn verkregen, tenzij:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>een zwaarwegend geneeskundig belang prevaleert of</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de verwerking noodzakelijk is ten behoeve van
-                    wetenschappelijk onderzoek of statistiek.</al>
-                <al>In het geval als bedoeld onder b, is artikel 23,
+            betreffende gegevens zijn verkregen, tenzij:</al><lijst><li><li.nr>a.</li.nr><al>een zwaarwegend geneeskundig belang prevaleert of</al></li><li><li.nr>b.</li.nr><al>de verwerking noodzakelijk is ten behoeve van
+                    wetenschappelijk onderzoek of statistiek.</al><al>In het geval als bedoeld onder b, is artikel 23,
                     eerste lid, onder a, en tweede lid, van
-                    overeenkomstige toepassing.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al>Bij algemene maatregel van bestuur kunnen omtrent de
+                    overeenkomstige toepassing.</al></li></lijst></lid><lid><lidnr>5</lidnr><al>Bij algemene maatregel van bestuur kunnen omtrent de
             toepassing van het eerste lid, onder b en f, nadere regels
-            worden gesteld.</al>
-    </lid>
-</artikel>
+            worden gesteld.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
