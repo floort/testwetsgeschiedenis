@@ -1945,31 +1945,7 @@
             hechtenis ten uitvoer is gelegd.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>24d</nr>
-    </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Bij de uitspraak waarbij een natuurlijk persoon de
-            verplichting is opgelegd tot betaling van een geldbedrag aan
-            de staat ter ontneming van wederrechtelijk verkregen
-            voordeel, beveelt de rechter voor het geval dat noch
-            volledige betaling noch volledig verhaal van het
-            verschuldigde bedrag volgt, dat vervangende hechtenis zal
-            worden toegepast, met dien verstande dat vervangende
-            hechtenis op grond van dit artikel op te leggen op ten
-            hoogste zes jaren kan worden bepaald.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> De duur van deze vervangende hechtenis wordt niet
-            verminderd door het voldoen van slechts een gedeelte van het
-            verschuldigde bedrag.</al>
-    </lid>
-</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -2546,7 +2522,7 @@
             onderzoek is ingesteld, de verplichting worden opgelegd tot
             betaling van een geldbedrag aan de staat ter ontneming van
             wederrechtelijk verkregen voordeel, indien gelet op dat
-            onderzoek aannemelijk is dat ook andere strafbare feiten er
+            onderzoek aannemelijk is dat ook dat feit of andere strafbare feiten er
             op enigerlei wijze toe hebben geleid dat de veroordeelde
             wederrechtelijk voordeel heeft verkregen.</al>
     </lid>
@@ -2560,7 +2536,13 @@
             tijdstip van de beslissing of door verwijzing naar de bij
             openbare verkoop te behalen opbrengst, indien verhaal moet
             worden genomen. De rechter kan het te betalen bedrag lager
-            vaststellen dan het geschatte voordeel.</al>
+            vaststellen dan het geschatte voordeel. Op het gemotiveerde verzoek van de verdachte of veroordeelde
+					 kan de rechter, indien de huidige en de redelijkerwijs te verwachten
+					 toekomstige draagkracht van de verdachte of veroordeelde niet toereikend zullen
+					 zijn om het te betalen bedrag te voldoen, bij de vaststelling van het te
+					 betalen bedrag daarmee rekening houden. Bij het ontbreken van zodanig verzoek
+					 kan de rechter ambtshalve of op vordering van de officier van justitie deze
+					 bevoegdheid toepassen.</al>
     </lid>
     <lid>
         <lidnr>5</lidnr>
@@ -2581,7 +2563,12 @@
             verplichtingen tot betaling van een geldbedrag ter ontneming
             van wederrechtelijk verkregen voordeel.</al>
     </lid>
-</artikel>
+<lid> 
+					 <lidnr>8</lidnr> 
+					 <al>Lijfsdwang kan met toepassing van <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=577c" compleet="nee">artikel 577c van het
+						Wetboek van Strafvordering</extref> door de rechter tot maximaal drie jaar worden
+						bevolen en geldt als maatregel.</al>
+				  </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4450,12 +4437,10 @@
             </li>
             <li>
                 <li.nr>d.</li.nr>
-                <al>voldoening aan de staat van een geldbedrag of
-                    overdracht van inbeslaggenomen voorwerpen ter gehele
-                    of gedeeltelijke ontneming van het geschatte
-                    voordeel - met inbegrip van besparing van kosten -
-                    door de verdachte door middel van of uit de baten
-                    van het strafbare feit of soortgelijke feiten verkregen.</al>
+                <al>voldoening aan de staat van een geldbedrag of overdracht
+					 van inbeslaggenomen voorwerpen ter gehele of gedeeltelijke ontneming van het
+					 ingevolge <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=36e">artikel 36e</intref> voor ontneming vatbare wederrechtelijk verkregen
+					 voordeel;</al>
             </li>
             <li>
                 <li.nr>e.</li.nr>
