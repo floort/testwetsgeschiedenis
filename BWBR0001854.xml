@@ -10697,7 +10697,7 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
             </li>
             <li>
                 <li.nr>5&#xB0;.</li.nr>
-                <al>in voor omloop bestemd krediet- of handelspapier.</al>
+                <al>in krediet- of handelspapier.</al>
             </li>
         </lijst>
     </lid>
@@ -10706,7 +10706,7 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
         <al> Met dezelfde straf wordt gestraft hij die opzettelijk
             gebruik maakt van enig in het eerste lid vermeld vals of
             vervalst geschrift als ware het echt en onvervalst, dan wel
-            opzettelijk zodanig geschrift aflevert of voorhanden heeft,
+            opzettelijk zodanig geschrift aflevert, voorhanden heeft, ontvangt, zich verschaft, vervoert, verkoopt of overdraagt,
             terwijl hij weet of redelijkerwijs moet vermoeden dat dit
             geschrift bestemd is voor zodanig gebruik.</al>
     </lid>
@@ -10865,7 +10865,7 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
             reisdocument ter beschikking stelt van een derde, met het
             oogmerk het door deze te doen gebruiken als ware het aan hem
             verstrekt, wordt gestraft met gevangenisstraf van ten
-            hoogste vier jaren of geldboete van de vierde categorie.</al>
+            hoogste zes jaren of geldboete van de vijfde categorie.</al>
     </lid>
     
     <lid>
@@ -10897,8 +10897,8 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
         <al>Met dezelfde straf wordt gestraft hij die opzettelijk
             gebruik maakt van een valse of vervalste betaalpas of
             waardekaart als ware deze echt en onvervalst, dan wel
-            opzettelijk zodanige betaalpas of waardekaart aflevert of
-            voorhanden heeft, terwijl hij weet of redelijkerwijs moet
+            opzettelijk zodanige betaalpas of waardekaart aflevert, voorhanden heeft, ontvangt, zich verschaft, vervoert,
+verkoopt of overdraagt, terwijl hij weet of redelijkerwijs moet
             vermoeden dat de betaalpas of waardekaart bestemd is voor
             zodanig gebruik.</al>
     </lid>
@@ -10910,11 +10910,12 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
         <nr>234</nr>
     </kop>
     
-    <al>Hij die stoffen of voorwerpen voorhanden heeft waarvan hij weet
-        dat zij bestemd zijn tot het plegen van enig in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=226">artikel 226, eerste lid, onder
-        2&#xB0;-5&#xB0;</intref>, omschreven misdrijf, wordt gestraft met
-        gevangenisstraf van ten hoogste zes maanden of geldboete van de
-        derde categorie.</al>
+    <al>Hij die stoffen, voorwerpen of gegevens vervaardigt, ontvangt, zich verschaft,
+verkoopt, overdraagt of voorhanden heeft waarvan hij weet dat zij bestemd
+zijn tot het plegen van enig in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=226">artikel 226, eerste lid, onder 2&#xB0;&#x2013;5&#xB0;</intref>,
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=231">artikel 231, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=232">artikel 232, eerste lid</intref>, omschreven misdrijf,
+wordt gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete
+van de vierde categorie.</al>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -13069,7 +13070,7 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
             dat geheel of ten dele aan deze of aan een derde toebehoort,
             hetzij tot het aangaan van een schuld of het teniet doen van
             een inschuld, hetzij tot het ter beschikking stellen van
-            gegevens met geldswaarde in het handelsverkeer, wordt, als
+            gegevens, wordt, als
             schuldig aan afpersing, gestraft met gevangenisstraf van ten
             hoogste negen jaren of geldboete van de vijfde categorie.</al>
     </lid>
