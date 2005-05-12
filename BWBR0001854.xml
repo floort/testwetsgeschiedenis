@@ -22,13 +22,7 @@
     </afkondiging>
 </aanhef>
         <wettekst>
-            <boek>
-    <kop>
-        <nr>Eerste</nr>
-        <label>Boek</label>
-        <titel status="officieel">Algemene bepalingen</titel>
-    </kop>
-    <titeldeel>
+            <boek><kop><nr>Eerste</nr><label>Boek</label><titel status="officieel">Algemene bepalingen</titel></kop><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>I</nr>
@@ -438,8 +432,7 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
     <al>De toepasselijkheid van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=2">de artikelen 2-7</intref>
         wordt beperkt door de uitzonderingen in het volkenrecht erkend.</al>
 </artikel>
-</titeldeel>
-    <titeldeel>
+</titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>II</nr>
@@ -2286,8 +2279,7 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
             overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-</titeldeel>
-    <titeldeel><kop><label>Titel</label><nr>IIA</nr><titel status="officieel">Maatregelen</titel></kop><afdeling>
+</titeldeel><titeldeel><kop><label>Titel</label><nr>IIA</nr><titel status="officieel">Maatregelen</titel></kop><afdeling>
     <kop>
         <nr>Eerste</nr>
         <label>afdeling</label>
@@ -3310,8 +3302,7 @@ ongeoorloofd afwezig is.</al>
     </kop>
     
     <al>Onze Minister van Justitie kan de maatregel te allen tijde be&#xEB;indigen.</al>
-</artikel></afdeling></titeldeel>
-    <titeldeel>
+</artikel></afdeling></titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>III</nr>
@@ -3408,8 +3399,32 @@ ongeoorloofd afwezig is.</al>
         hem door zijn ambt geschonken, kan de op het feit gestelde
         straf, met uitzondering van geldboete, met een derde worden verhoogd.</al>
 </artikel>
-</titeldeel>
-    <titeldeel>
+</titeldeel><titeldeel><kop><label>Titel</label><nr>IIIa</nr><titel>Gronden voor vermindering van straf</titel><al><redactie type="extra">Treedt in werking per 01-04-2006</redactie></al></kop><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">44a</nr><al><redactie type="extra">Treedt in werking per 01-04-2006</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Op vordering van de officier van justitie kan
+de rechter na een op grond van <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=226h" compleet="nee">artikel 226h, derde lid, van het Wetboek
+van Strafvordering</extref> gemaakte afspraak de straf verminderen die hij
+overwoog op te leggen op de in het tweede lid bepaalde wijze. Bij de
+strafvermindering houdt de rechter ermee rekening dat door het afleggen
+van een getuigenverklaring een belangrijke bijdrage is of kan worden
+geleverd aan de opsporing of vervolging van misdrijven.</al></lid><lid>
+<lidnr status="officieel">2</lidnr><al>Bij toepassing van het eerste lid kan de
+strafvermindering bestaan
+in:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>maximaal de helft bij een onvoorwaardelijke
+tijdelijke vrijheidsstraf, taakstraf,
+bestaande uit een werkstraf, of geldboete, of</al></li><li>
+<li.nr>b.</li.nr><al>de omzetting van maximaal de helft van het
+onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf,
+bestaande uit een werkstraf, of van een geldboete
+in een voorwaardelijk gedeelte, of</al></li><li>
+<li.nr>c.</li.nr><al>de vervanging van maximaal een derde gedeelte van
+een vrijheidsstraf door taakstraf, bestaande uit
+een werkstraf, of een onvoorwaardelijke
+geldboete.</al></li></lijst></lid><lid> <lidnr status="officieel">3</lidnr><al>Bij
+toepassing van het tweede lid, onder b, blijft <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14a">artikel 14a, eerste en
+tweede lid</intref>, buiten
+toepassing.</al></lid></artikel></titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>IV</nr>
@@ -3505,8 +3520,7 @@ ongeoorloofd afwezig is.</al>
   <al>Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid
 	 tengevolge van omstandigheden van de wil van de dader afhankelijk.</al>
 </artikel>
-</titeldeel>
-    <titeldeel>
+</titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>V</nr>
@@ -3714,8 +3728,7 @@ als zodanig niet vervolgd indien hij voldoet aan een bevel van de officier
 van justitie, na schriftelijke machtiging op vordering van de officier van
 justitie te verlenen door de rechter-commissaris, om alle maatregelen te nemen
 die redelijkerwijs van hem kunnen worden gevergd om de gegevens ontoegankelijk
-te maken.</al></artikel></titeldeel>
-    <titeldeel>
+te maken.</al></artikel></titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>VI</nr>
@@ -3928,8 +3941,7 @@ te maken.</al></artikel></titeldeel>
         gelijktijdige berechting van toepassing.</al>
 </artikel>
     
-</titeldeel>
-    <titeldeel>
+</titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>VII</nr>
@@ -4025,8 +4037,7 @@ te maken.</al></artikel></titeldeel>
         der indiening bevoegd deze in te trekken.</al>
 </artikel>
     
-</titeldeel>
-    <titeldeel>
+</titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>VIII</nr>
@@ -4456,8 +4467,7 @@ bereikt, op de dag na die waarop die persoon achttien jaren is
     </lid>
 </artikel>
     
-</titeldeel>
-    <titeldeel>
+</titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>VIII A</nr>
@@ -5688,8 +5698,7 @@ jeugdige.</al></lid></artikel>
     
     
     
-</titeldeel>
-    <titeldeel>
+</titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>IX</nr>
@@ -6169,8 +6178,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         daaronder mede begrepen geregistreerd partnerschap dan wel
         geregistreerde partner.  </al>
 </artikel>
-</titeldeel>
-    <titeldeel>
+</titeldeel><titeldeel>
     <kop>
         <titel status="officieel">Slotbepaling</titel>
     </kop>
@@ -6184,8 +6192,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         andere wetten of verordeningen straf is gesteld, tenzij de wet
         anders bepaalt.</al>
 </artikel>
-</titeldeel>
-</boek>
+</titeldeel></boek>
             <boek>
     <kop>
         <nr>Tweede</nr>
