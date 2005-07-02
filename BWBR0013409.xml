@@ -1524,163 +1524,103 @@
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>28</nr>
+        <nr status="officieel">28</nr>
     </kop>
     <lid>
-        <lidnr>1</lidnr>
-        <al>De diensten zijn bevoegd zich te wenden tot de aanbieders
-            van openbare telecommunicatienetwerken en openbare
-            telecommunicatiediensten in de zin van de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref>
-            met het verzoek gegevens te verstrekken ter zake van alle
-            verkeer dat over een openbaar telecommunicatienetwerk dan
-            wel met gebruikmaking van openbare telecommunicatiediensten
-            heeft plaatsgevonden dan wel zal plaatsvinden ten aanzien
-            van een in dat verzoek aangegeven nummer, dan wel ten
-            aanzien van een aan een in het verzoek aangegeven persoon of
-            organisatie toebehorend nummer. De diensten zijn bevoegd tot
-            het gebruik van een technisch hulpmiddel waarmee het nummer,
-            bedoeld in de eerste volzin, kan worden verkregen.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Voor de uitoefening van de bevoegdheid, bedoeld in het
-            eerste lid, eerste volzin, is geen toestemming vereist als
-            bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=19">artikel 19</intref>.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Het verzoek wordt schriftelijk gedaan door het hoofd van de
-            desbetreffende dienst en bevat:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>het nummer, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1" compleet="nee">artikel 1.1, onder bb, van
-                        de Telecommunicatiewet</extref>, of</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>gegevens betreffende de naam alsmede de woon- of
-                    verblijfplaats van de persoon dan wel de
-                    vestigingsplaats van de organisatie aan wie
-                    onderscheidenlijk waaraan het nummer, bedoeld onder
-                    a, toebehoort, en</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>een omschrijving van de soort gegevens die verstrekt
-                    dienen te worden alsmede</al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>de periode waarover de gegevens moeten worden verstrekt.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>Het verzoek, bedoeld in het eerste lid, door het hoofd van
-            de Militaire Inlichtingen- en Veiligheidsdienst ten aanzien
-            van verkeer dat niet heeft plaatsgevonden dan wel niet zal
-            plaatsvinden op of met plaatsen in gebruik van het
-            Ministerie van Defensie, wordt gedaan in overeenstemming met
-            het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst.</al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al>Tot de gegevens, bedoeld in het eerste lid, worden in ieder
-            geval gerekend:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>nummers als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1" compleet="nee">artikel 1.1, onder bb, van
-                        de Telecommunicatiewet</extref> waarmee
-                    vanaf het in het verzoek aangegeven nummer een
-                    oproep is of wordt gedaan dan wel een verbinding is
-                    of wordt gelegd, alsmede de nummers waarmee met de
-                    in het verzoek aangegeven nummers een oproep is of
-                    wordt gedaan dan wel een verbinding is of wordt gelegd;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>gegevens betreffende de identiteit van de persoon
-                    dan wel organisatie aan wie onderscheidenlijk
-                    waaraan het in onderdeel a bedoelde nummer toebehoort;</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>aanvangstijd, duur en eindtijd van de oproep of verbinding.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>6</lidnr>
-        <al>De aanbieders van openbare telecommunicatienetwerken en
-            openbare telecommunicatiediensten in de zin van de
-                <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref>
-            zijn verplicht de verlangde gegevens, voor zover in het
-            verzoek niet anders is bepaald, terstond te verstrekken.</al>
-    </lid>
-    <lid>
-        <lidnr>7</lidnr>
-        <al>Op de verstrekking van gegevens ingevolge een verzoek als
-            bedoeld in het eerste lid, is <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=17">artikel 17, derde
-            lid</intref>, van overeenkomstige toepassing</al>
-    </lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>De diensten zijn bevoegd zich te wenden tot de aanbieders van openbare
+telecommunicatienetwerken en openbare telecommunicatiediensten in de zin van
+de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref> met het verzoek gegevens te verstrekken over een gebruiker
+en het telecommunicatieverkeer met betrekking tot die gebruiker. Het verzoek
+kan slechts betrekking hebben op gegevens die bij algemene maatregel van bestuur
+zijn aangewezen en kan zowel gegevens betreffen die ten tijde van het verzoek
+zijn verwerkt als gegevens die na het tijdstip van het verzoek worden verwerkt.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Onder een gebruiker van telecommunicatie wordt in dit artikel verstaan
+de natuurlijke persoon of rechtspersoon die met de aanbieder een overeenkomst
+is aangegaan met betrekking tot het gebruik van een openbaar telecommunicatienetwerk
+of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke
+persoon of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar
+telecommunicatienetwerk of een openbare telecommunicatiedienst.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Voor de uitoefening van de bevoegdheid, bedoeld in het eerste lid, eerste
+volzin, is geen toestemming vereist als bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=19">artikel 19</intref>.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>Het verzoek wordt schriftelijk gedaan door het hoofd van de desbetreffende
+dienst en bevat:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het nummer, bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1" compleet="nee">artikel 1.1, onder t, van de Telecommunicatiewet</extref>,
+of</al></li><li><li.nr>b.</li.nr><al>gegevens betreffende de naam, alsmede de woon- of verblijfplaats van
+de persoon dan wel de vestigingsplaats van de organisatie van wie onderscheidenlijk
+waaraan het nummer, bedoeld onder a, toebehoort, en</al></li><li><li.nr>c.</li.nr><al>de gegevens die verstrekt dienen te worden, alsmede</al></li><li><li.nr>d.</li.nr><al>de periode waarover de gegevens moeten worden verstrekt.</al></li></lijst>
+                
+                
+                
+              </lid>
+              <lid>
+                <lidnr status="officieel">5</lidnr>
+                <al>Voor zover het verzoek wordt gedaan door het hoofd van de Militaire Inlichtingen-
+en Veiligheidsdienst ten aanzien van een gebruiker en het telecommunicatieverkeer
+met betrekking tot die gebruiker en die gebruiker zich niet bevindt op een
+plaats in gebruik bij het Ministerie van Defensie, geschiedt dit in overeenstemming
+met het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">6</lidnr>
+                <al>Op de verstrekking van gegevens ingevolge een verzoek als bedoeld in het
+eerste lid is <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=17">artikel 17, derde lid</intref>, van overeenkomstige toepassing.</al>
+              </lid>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>29</nr>
+        <nr status="officieel">29</nr>
     </kop>
     <lid>
-        <lidnr>1</lidnr>
-        <al>De diensten zijn bevoegd zich te wenden tot de aanbieders
-            van openbare telecommunicatienetwerken en openbare
-            telecommunicatiediensten in de zin van de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref>
-            met het verzoek gegevens te verstrekken betreffende:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de naam en de geregistreerde woon- of verblijfplaats
-                    van de persoon dan wel de vestigingsplaats van de
-                    organisatie aan wie onderscheidenlijk waaraan het in
-                    het verzoek aangegeven nummer als bedoeld in
-                        <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">die wet</extref> toebehoort;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>het nummer als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">die wet</extref>,
-                    alsmede de geregistreerde woon- of verblijfplaats
-                    dan wel vestigingsplaats van de in het verzoek
-                    aangegeven persoon onderscheidenlijk organisatie.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Voor de uitoefening van de bevoegdheid, bedoeld in het
-            eerste lid, is geen toestemming vereist als bedoeld in
-                <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=19">artikel 19</intref>.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Het verzoek wordt gedaan door of namens het hoofd van de
-            desbetreffende dienst.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>De aanbieders van openbare telecommunicatienetwerken en
-            openbare telecommunicatiediensten in de zin van de
-                <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref>
-            zijn verplicht de verlangde gegevens, voor zover in het
-            verzoek niet anders is bepaald, terstond te verstrekken.</al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al>Op de verstrekking van gegevens ingevolge een verzoek als
-            bedoeld in het eerste lid, is <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=17">artikel 17, derde
-            lid</intref>, van overeenkomstige toepassing.</al>
-    </lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>De diensten zijn bevoegd zich te wenden tot de aanbieders van openbare
+telecommunicatienetwerken en openbare telecommunicatiediensten in de zin van
+de <extref status="actief" doc="1.0:v:BWBR0009950" compleet="nee">Telecommunicatiewet</extref> met het verzoek gegevens te verstrekken terzake van
+naam, adres, postcode, woonplaats, nummer en soort dienst van een gebruiker
+van telecommunicatie.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Onder een gebruiker van telecommunicatie wordt in dit artikel verstaan
+de natuurlijke persoon of rechtspersoon die met de aanbieder een overeenkomst
+is aangegaan met betrekking tot het gebruik van een openbaar telecommunicatienetwerk
+of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke
+persoon of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar
+telecommunicatienetwerk of een openbare telecommunicatiedienst.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Voor de uitoefening van de bevoegdheid, bedoeld in het eerste lid, eerste
+volzin, is geen toestemming vereist als bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=19">artikel 19</intref>.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>Het verzoek wordt gedaan door of namens het hoofd van de desbetreffende
+dienst.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">5</lidnr>
+                <al>Indien de gegevens, bedoeld in het eerste lid, bij de aanbieder niet bekend
+zijn en zij nodig zijn voor de toepassing van <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=25">artikel 25</intref> of <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=28">artikel 28</intref> kan
+de dienst verzoeken dat de aanbieder de verzochte gegevens achterhaalt en
+verstrekt. De diensten zijn bevoegd tot het gebruik van een technisch hulpmiddel
+waarmee het nummer, bedoeld in het eerste lid, kan worden verkregen.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">6</lidnr>
+                <al>Op de verstrekking van gegevens ingevolge een verzoek als bedoeld in het
+eerste of vijfde lid is <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=17">artikel 17, derde lid</intref>, van overeenkomstige toepassing.</al>
+              </lid>
 </artikel>
     <artikel status="goed">
     <kop>
