@@ -644,12 +644,14 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
             verpleging van ter beschikking gestelden. Bij of krachtens
             algemene maatregel van bestuur worden nadere regels gegeven
             omtrent deze beoordeling. Deze regels betreffen in elk geval
-            de frequentie van de beoordelingen, de te volgen procedure
+            de frequentie van de beoordelingen, de te volgen procedure, waaronder de
+advisering door gedragsdeskundigen,
             en de wijze waarop de beoordelingen dienen plaats te vinden. </al>
     </lid>
     <lid>
         <lidnr status="officieel">3</lidnr>
-        <al> De plaatsing en de be&#xEB;indiging daarvan geschieden volgens
+        <al> De plaatsing ingevolge het eerste
+lid en de be&#xEB;indiging daarvan geschieden volgens
             regels, bij algemene maatregel van bestuur te stellen, op
             last van de Minister van Justitie, gegeven na een met
             redenen omkleed, gedagtekend en ondertekend advies van ten
@@ -1482,8 +1484,7 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
         <lidnr>4</lidnr>
         <al>De termijn binnen welke de taakstraf moet worden verricht
             wordt verlengd met de tijd dat de veroordeelde rechtens zijn
-            vrijheid is ontnomen alsmede met de tijd dat hij zich aan
-            zodanige vrijheidsontneming heeft onttrokken.</al>
+            vrijheid is ontnomen alsmede met de tijd dat hij ongeoorloofd afwezig is.</al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -2587,21 +2588,9 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
             betrokkene wel bereid is om medewerking te verlenen, overleggen.</al>
     </lid>
 </artikel>
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr>37a</nr> 
-  </kop>
-    
-  <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>De verdachte bij wie tijdens het begaan van het feit gebrekkige
+    <artikel status="goed"><kop><label>Artikel</label><nr>37a</nr></kop><lid><lidnr>1</lidnr><al>De verdachte bij wie tijdens het begaan van het feit gebrekkige
 		ontwikkeling of ziekelijke stoornis van de geestvermogens bestond, kan op last
-		van de rechter ter beschikking worden gesteld indien: </al> 
-	 <lijst> 
-		<li> 
-		  <li.nr>1&#xB0;.</li.nr> 
-		  <al>het door hem begane feit een misdrijf is waarop naar de wettelijke
+		van de rechter ter beschikking worden gesteld indien: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>het door hem begane feit een misdrijf is waarop naar de wettelijke
 			 omschrijving een gevangenisstraf van vier jaren of meer is gesteld dan wel
 			 behoort tot een der misdrijven omschreven in de
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=132">artikelen 132</intref>,
@@ -2609,44 +2598,18 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285b">285b</intref>,
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=318">318</intref>,
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=326a">326a</intref> en
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=395">395 van het Wetboek van Strafrecht,</intref>
-			 <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=175" compleet="nee">175, tweede lid, van de Wegenverkeerswet
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=395">395 van het Wetboek van Strafrecht,</intref><extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=175" compleet="nee">175, tweede lid, van de Wegenverkeerswet
 			 1994</extref>,
-			 <extref status="actief" doc="1.0:v:BWBR0001941&amp;artikel=11" compleet="nee">11, tweede lid van de Opiumwet</extref>, of de
-			 overtreding is omschreven in
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=432">artikel 432 onder 3&#xB0; van het Wetboek van
-			 Strafrecht</intref>, en</al> 
-		</li>
-            
-		<li> 
-		  <li.nr>2&#xB0;.</li.nr> 
-		  <al>de veiligheid van anderen, dan wel de algemene veiligheid van
-			 personen of goederen het opleggen van die maatregel eist.</al> 
-		</li> 
-	 </lijst> 
-  </lid> 
-  <lid> 
-	 <lidnr>2</lidnr> 
-	 <al> Bij toepassing van het vorige lid kan de rechter afzien van het
+			 en
+<extref status="actief" doc="1.0:v:BWBR0001941&amp;artikel=11" compleet="nee">11, tweede lid, van de Opiumwet</extref>, en</al></li><li><li.nr>2&#xB0;.</li.nr><al>de veiligheid van anderen, dan wel de algemene veiligheid van
+			 personen of goederen het opleggen van die maatregel eist.</al></li></lijst></lid><lid><lidnr>2</lidnr><al> Bij toepassing van het vorige lid kan de rechter afzien van het
 		opleggen van straf, ook indien hij bevindt dat het feit wel aan de verdachte
-		kan worden toegerekend.</al> 
-  </lid> 
-  <lid> 
-	 <lidnr>3</lidnr> 
-	 <al>
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37">Het tweede en derde lid van artikel 37</intref>
-		zijn van overeenkomstige toepassing.</al> 
-  </lid>
-    
-  <lid> 
-	 <lidnr>4</lidnr> 
-	 <al> Bij het geven van een last als bedoeld in het eerste lid neemt de
+		kan worden toegerekend.</al></lid><lid><lidnr>3</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37">Het tweede en derde lid van artikel 37</intref>
+		zijn van overeenkomstige toepassing.</al></lid><lid><lidnr>4</lidnr><al> Bij het geven van een last als bedoeld in het eerste lid neemt de
 		rechter de inhoud van de overige adviezen en rapporten die over de
 		persoonlijkheid van de verdachte zijn uitgebracht, alsmede de ernst van het
 		begane feit of de veelvuldigheid van voorafgegane veroordelingen wegens
-		misdrijf in aanmerking.</al> 
-  </lid>
-</artikel>
+		misdrijf in aanmerking.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -2748,10 +2711,10 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
                 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37b">artikel 37b</intref> geeft, stelt hij ter bescherming van de
             veiligheid van anderen dan wel de algemene veiligheid van
             personen of goederen voorwaarden betreffende het gedrag van
-            de ter beschikking gestelde. De rechter kan tevens een in de
+            de ter beschikking gestelde. De rechter geeft tevens een in de
             uitspraak aangewezen instelling, die aan bepaalde, bij of
             krachtens algemene maatregel van bestuur te stellen, eisen
-            voldoet opdracht geven de ter beschikking gestelde bij de
+            voldoet opdracht de ter beschikking gestelde bij de
             naleving van de voorwaarden hulp en steun te verlenen.</al>
     </lid>
     <lid>
@@ -2766,7 +2729,10 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
             slechts stellen, indien de ter beschikking gestelde zich
             bereid heeft verklaard tot naleving van de voorwaarde.</al>
     </lid>
-</artikel>
+<lid> <lidnr status="officieel">4</lidnr><al>Bij
+algemene maatregel van bestuur kunnen nadere regels worden gesteld
+omtrent de procedure van terbeschikkingstelling met
+voorwaarden.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -2901,65 +2867,37 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
         <label>Artikel</label>
         <nr>38f</nr>
     </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De termijn van de terbeschikkingstelling loopt niet: </al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>gedurende de tijd dat aan de ter beschikking
-                    gestelde uit anderen hoofde rechtens zijn vrijheid
-                    is ontnomen en gedurende de tijd dat hij zich aan
-                    zodanige vrijheidsontneming heeft onttrokken;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>wanneer de ter beschikking gestelde zich langer dan
-                    een week achtereen ongeoorloofd ophoudt buiten de
-                    inrichting voor verpleging van ter beschikking
-                    gestelden waarin hij krachtens een bevel als bedoeld
-                    in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37b">artikel 37<nadruk type="cur">b</nadruk>
-                    </intref> of <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38c">artikel 38<nadruk type="cur">c</nadruk>
-                    </intref> is opgenomen.</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>wanneer de ter beschikking gestelde zich langer dan
-                    een week achtereen ongeoorloofd ophoudt buiten een
-                    inrichting waarin hij krachtens een voorwaarde als
-                    bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38a">artikel 38<nadruk type="cur">a</nadruk>, eerste
-                    lid</intref>, is opgenomen.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> In afwijking van het bepaalde in het eerste lid, aanhef en
-            onder <nadruk type="cur">a</nadruk>, loopt de termijn van de
-            terbeschikkingstelling wel indien de ter beschikking
-            gestelde: </al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>krachtens een last als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=13">artikel
-                    13</intref> of ingevolge het bepaalde bij en
-                    krachtens de  <extref status="actief" doc="1.0:v:BWBR0009709" compleet="nee">Penitentiaire
-                    beginselenwet</extref> in een inrichting
-                    voor verpleging van ter beschikking gestelden of in
-                    een ander psychiatrisch ziekenhuis is opgenomen,
-                    tenzij hij zich langer dan een week achtereen
-                    ongeoorloofd ophoudt buiten die inrichting of dat ziekenhuis;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>nadat de termijn van de terbeschikkingstelling een
-                    aanvang heeft genomen,  in een psychiatrisch
-                    ziekenhuis is opgenomen, tenzij hij zich langer dan
-                    een week achtereen ongeoorloofd ophoudt buiten dat ziekenhuis.</al>
-            </li>
-        </lijst>
-    </lid>
+    <lid><lidnr>1</lidnr><al>De termijn van de terbeschikkingstelling
+loopt
+niet:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>gedurende de tijd dat de ter beschikking gestelde
+die van overheidswege wordt verpleegd uit anderen hoofde rechtens zijn
+vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige
+vrijheidsontneming ongeoorloofd afwezig is;</al></li><li>
+<li.nr>b.</li.nr><al>gedurende de tijd dat de ter beschikking gestelde
+met voorwaarden, bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38">artikel 38, eerste lid</intref>, rechtens zijn
+vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige
+vrijheidsontneming ongeoorloofd afwezig is;</al></li><li>
+<li.nr>c.</li.nr><al>gedurende de tijd dat de ter beschikking gestelde
+die van overheidswege wordt verpleegd, langer dan een week achtereen
+ongeoorloofd afwezig is uit de inrichting voor verpleging van ter
+beschikking gestelden;</al></li><li> <li.nr>d.</li.nr><al>gedurende de
+tijd dat de ter beschikking gestelde met voorwaarde langer dan een week
+achtereen ongeoorloofd afwezig is uit de inrichting waarin hij
+krachtens de voorwaarde is opgenomen.</al></li></lijst></lid><lid>
+<lidnr>2</lidnr><al>In afwijking van het eerste lid, onder a, loopt de
+termijn van de terbeschikkingstelling wel indien de ter beschikking
+gestelde:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>krachtens een last als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=13">artikel 13</intref> of
+ingevolge het bepaalde bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0009709" compleet="nee">Penitentiaire beginselenwet</extref>
+in een inrichting voor verpleging van ter beschikking gestelden of in
+een ander psychiatrisch ziekenhuis is opgenomen, tenzij hij langer dan
+een week ongeoorloofd afwezig is uit die inrichting of dat
+ziekenhuis;</al></li><li> <li.nr>b.</li.nr><al>nadat de termijn van de
+terbeschikkingstelling een aanvang heeft genomen, in een psychiatrisch
+ziekenhuis is opgenomen, tenzij hij langer dan een week ongeoorloofd
+afwezig is uit dat
+ziekenhuis.</al></li></lijst></lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -2977,10 +2915,12 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
-        <al>De rechter kan ter bescherming van de veiligheid van anderen
-            dan wel de algemene veiligheid van personen of goederen
-            voorwaarden betreffende het gedrag van de ter beschikking
-            gestelde stellen. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38">artikelen 38, eerste lid, tweede
+        <al>Indien de rechter de verpleging van
+overheidswege op grond van het eerste lid be&#xEB;indigt, stelt hij
+ter bescherming van de veiligheid van anderen dan wel de algemene
+veiligheid van personen en goederen voorwaarden betreffende het gedrag
+van de ter beschikking
+gestelde. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38">artikelen 38, eerste lid, tweede
                 volzin en derde lid</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38a">38a</intref> zijn van overeenkomstige toepassing.</al>
     </lid>
     <lid>
@@ -2989,7 +2929,11 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
             de godsdienst of levensovertuiging te belijden en de
             staatkundige vrijheid niet beperken.</al>
     </lid>
-</artikel>
+<lid> <lidnr status="officieel">4</lidnr><al>Bij
+algemene maatregel van bestuur kunnen nadere regels worden gesteld over
+de procedure van de voorwaardelijke be&#xEB;indiging van het bevel
+tot
+verpleging.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -3005,7 +2949,9 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
             verlengd, de rechter op vordering van het openbaar
             ministerie of op verzoek van de ter beschikking gestelde of
             diens raadsman de verpleging van overheidswege
-            voorwaardelijk be&#xEB;indigen.</al>
+            voorwaardelijk be&#xEB;indigen. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38g">Artikel 38g, tweede en derde lid</intref>, is van
+overeenkomstige
+toepassing.</al>
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
@@ -4385,62 +4331,31 @@ bereikt, op de dag na die waarop die persoon achttien jaren is
             geen geval is de termijn korter dan de duur van de opgelegde straf.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>76a</nr>
-    </kop>
-    
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De termijn van verjaring vangt aan op de dag na die waarop
-            de rechterlijke uitspraak kan worden ten uitvoer gelegd.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Bij ontvluchting van een veroordeelde uit het gesticht of
-            de inrichting waarin hij zijn straf ondergaat, vangt een
-            nieuwe verjaringstermijn aan op de dag na die van de
-            ontvluchting. Bij herroeping van een voorwaardelijke
+    <artikel status="goed"><kop><label>Artikel</label><nr>76a</nr></kop><lid><lidnr>1</lidnr><al>De termijn van verjaring vangt aan op de dag na die waarop
+            de rechterlijke uitspraak kan worden ten uitvoer gelegd.</al></lid><lid><lidnr>2</lidnr><al> Bij ongeoorloofde
+afwezigheid van een veroordeelde die zijn straf in een inrichting
+ondergaat, vangt een nieuwe verjaringstermijn aan op de dag na die
+waarop de ongeoorloofde afwezigheid
+aanving. Bij herroeping van een voorwaardelijke
             invrijheidstelling vangt een nieuwe verjaringstermijn aan op
-            de dag na die van de herroeping.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al> De termijn loopt niet gedurende de bij de wet bevolen
+            de dag na die van de herroeping.</al></lid><lid><lidnr>3</lidnr><al> De termijn loopt niet gedurende de bij de wet bevolen
             schorsing van de tenuitvoerlegging, noch gedurende de tijd
             dat de veroordeelde, zij het ook ter zake van een andere
-            veroordeling, in verzekerde bewaring is.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>4</lidnr>
-        <al> Wanneer een geldboete wegens een overtreding is opgelegd en
+            veroordeling, in verzekerde bewaring is.</al></lid><lid><lidnr>4</lidnr><al> Wanneer een geldboete wegens een overtreding is opgelegd en
             de rechter heeft beslist dat het bedrag daarvan in gedeelten
             mag worden voldaan, dan wel het openbaar ministerie aan de
             veroordeelde op diens verzoek uitstel van betaling heeft
             verleend of betaling in termijnen heeft toegestaan, wordt de
-            verjaringstermijn verlengd met twee jaren.</al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al> De termijn loopt niet gedurende de tijd dat de
+            verjaringstermijn verlengd met twee jaren.</al></lid><lid><lidnr>5</lidnr><al> De termijn loopt niet gedurende de tijd dat de
             tenuitvoerlegging aan een vreemde Staat is overgedragen,
             zolang de Minister van Justitie van de autoriteiten van die
             Staat geen mededeling, houdende een beslissing omtrent de
-            overname van de tenuitvoerlegging, heeft ontvangen.</al>
-    </lid>
-    <lid>
-        <lidnr>6</lidnr>
-        <al> Indien, nadat de tenuitvoerlegging door een vreemde Staat
+            overname van de tenuitvoerlegging, heeft ontvangen.</al></lid><lid><lidnr>6</lidnr><al> Indien, nadat de tenuitvoerlegging door een vreemde Staat
             is overgenomen, die Staat afstand doet van zijn recht tot
             tenuitvoerlegging ten behoeve van Nederland, vangt een
             nieuwe verjaringstermijn aan op de dag waarop de Minister
             van Justitie de mededeling van de autoriteiten van die Staat
-            omtrent de afstand heeft ontvangen.</al>
-    </lid>
-</artikel>
+            omtrent de afstand heeft ontvangen.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4980,8 +4895,9 @@ op de jeugdzorg</extref>, voor
 	 <lidnr>9</lidnr> 
 	 <al>De termijnen, genoemd in het derde en vijfde lid, worden verlengd met
 		de tijd dat de veroordeelde uit anderen hoofde rechtens zijn vrijheid is
-		ontnomen alsmede met de tijd dat hij zich aan zodanige vrijheidsontneming heeft
-		onttrokken.</al> 
+		ontnomen alsmede met de tijd dat
+hij ongeoorloofd afwezig
+is.</al> 
   </lid>
 </artikel>
     <artikel status="goed">
@@ -5069,62 +4985,31 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
             wijzigen. Het tweede lid is van overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>77p</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Indien de tot een taakstraf veroordeelde niet aanvangt met
+    <artikel status="goed"><kop><label>Artikel</label><nr>77p</nr></kop><lid><lidnr>1</lidnr><al>Indien de tot een taakstraf veroordeelde niet aanvangt met
             de taakstraf of het openbaar ministerie van oordeel is dat
             de veroordeelde de opgelegde taakstraf niet naar behoren
             verricht of heeft verricht, kan het openbaar ministerie de
             tenuitvoerlegging van de vervangende jeugddetentie bevelen.
             Het openbaar ministerie geeft hiervan kennis aan de
-            veroordeelde en de raad voor de kinderbescherming.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Het openbaar ministerie doet deze kennisgeving zo spoedig
+            veroordeelde en de raad voor de kinderbescherming.</al></lid><lid><lidnr>2</lidnr><al>Het openbaar ministerie doet deze kennisgeving zo spoedig
             mogelijk aan de veroordeelde betekenen. De kennisgeving
             behelst het aantal uren taakstraf dat naar het oordeel van
             het openbaar ministerie is verricht, alsmede het aantal
-            dagen vervangende jeugddetentie.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Tegen de kennisgeving, bedoeld in het tweede lid, kan de
+            dagen vervangende jeugddetentie.</al></lid><lid><lidnr>3</lidnr><al>Tegen de kennisgeving, bedoeld in het tweede lid, kan de
             veroordeelde binnen veertien dagen na de betekening daarvan
             een bezwaarschrift indienen bij de rechter die de straf
             oplegde. De rechter kan de beslissing van het openbaar
-            ministerie wijzigen. Het indienen van een bezwaarschrift
-            schort de tenuitvoerlegging van de vervangende jeugddetentie op.</al>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>77q</nr>
-    </kop>
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Het openbaar ministerie kan slechts een beslissing nemen of
-            een vordering instellen krachtens <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">artikel 77o, tweede
+            ministerie wijzigen.</al></lid></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>77q</nr></kop><lid><lidnr>1</lidnr><al>Het openbaar ministerie kan slechts een beslissing nemen of
+            een bevel
+geven krachtens <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">artikel 77o, tweede
             lid</intref>, onderscheidenlijk <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77p">artikel 77p, eerste
             lid</intref>, binnen drie maanden na afloop van de
             termijn waarbinnen de arbeid moet zijn verricht of
             waarbinnen het leerproject moet zijn gevolgd krachtens
-                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77m">artikel 77m</intref>.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Indien naar het oordeel van het openbaar ministerie de
+                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77m">artikel 77m</intref>.</al></lid><lid><lidnr>2</lidnr><al> Indien naar het oordeel van het openbaar ministerie de
             opgelegde taakstraf naar behoren is uitgevoerd, stelt het zo
-            spoedig mogelijk de veroordeelde hiervan in kennis.</al>
-    </lid>
-</artikel>
+            spoedig mogelijk de veroordeelde hiervan in kennis.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -5139,38 +5024,12 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
         motorrijtuigen</extref> (<nadruk type="cur">Stb.</nadruk> 1963, 228). Die artikelen zijn dan van
         overeenkomstige toepassing.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>77s</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De maatregel van plaatsing in een inrichting voor jeugdigen
-            kan slechts worden opgelegd, indien </al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>het een misdrijf betreft waarvoor voorlopige
-                    hechtenis is toegelaten;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de veiligheid van anderen dan wel de algemene
+    <artikel status="goed"><kop><label>Artikel</label><nr>77s</nr></kop><lid><lidnr>1</lidnr><al>De maatregel van plaatsing in een inrichting voor jeugdigen
+            kan slechts worden opgelegd, indien </al><lijst><li><li.nr>a.</li.nr><al>het een misdrijf betreft waarvoor voorlopige
+                    hechtenis is toegelaten;</al></li><li><li.nr>b.</li.nr><al>de veiligheid van anderen dan wel de algemene
                     veiligheid van personen of goederen het opleggen van
-                    die maatregel eist, en</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>de maatregel in het belang is van een zo gunstig
-                    mogelijke verdere ontwikkeling van de verdachte.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> De rechter legt de maatregel slechts op, nadat hij zich een
+                    die maatregel eist, en</al></li><li><li.nr>c.</li.nr><al>de maatregel in het belang is van een zo gunstig
+                    mogelijke verdere ontwikkeling van de verdachte.</al></li></lijst></lid><lid><lidnr>2</lidnr><al> De rechter legt de maatregel slechts op, nadat hij zich een
             met redenen omkleed, gedagtekend en ondertekend advies heeft
             doen overleggen van ten minste twee gedragsdeskundigen van
             verschillende disciplines. Het advies wordt door de
@@ -5178,22 +5037,15 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
             afzonderlijk uitgebracht. Indien dit advies eerder dan een
             jaar voor de aanvang van de terechtzitting is gedagtekend
             kan de rechter hier slechts gebruik van maken met instemming
-            van het openbaar ministerie en de verdachte.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>De maatregel kan ook worden opgelegd indien de verdachte
+            van het openbaar ministerie en de verdachte.</al></lid><lid><lidnr>3</lidnr><al>De maatregel kan ook worden opgelegd indien de verdachte
             niet strafbaar is op de grond dat het feit hem wegens de
-            gebrekkige ontwikkeling of ziekelijke stoornis niet kan
+            gebrekkige ontwikkeling of ziekelijke stoornis
+van de geestvermogens niet kan
             worden toegerekend. Indien bij de verdachte tijdens het
             begaan van het feit een gebrekkige ontwikkeling of
             ziekelijke stoornis van de geestvermogens bestond, dient bij
             toepassing van het eerste lid &#xE9;&#xE9;n van de gedragsdeskundigen
-            een psychiater te zijn.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al> Het tweede lid blijft buiten toepassing indien de
+            een psychiater te zijn.</al></lid><lid><lidnr>4</lidnr><al> Het tweede lid blijft buiten toepassing indien de
             betrokkene weigert medewerking te verlenen aan het onderzoek
             dat ten behoeve van het advies moet worden verricht. Voor
             zover mogelijk maken de gedragsdeskundigen gezamenlijk dan
@@ -5202,48 +5054,25 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
             advies of rapport, dat hem over de wenselijkheid of
             noodzakelijkheid van de oplegging van de maatregel kan
             voorlichten en aan de totstandkoming waarvan de betrokkene
-            wel bereid is om medewerking te verlenen, overleggen.</al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al>Indien de maatregel is opgelegd draagt Onze Minister van
+            wel bereid is om medewerking te verlenen, overleggen.</al></lid><lid><lidnr>5</lidnr><al>Indien de maatregel is opgelegd draagt Onze Minister van
             Justitie de tenuitvoerlegging op aan een inrichting als
             bedoeld in <extref status="actief" doc="1.0:v:BWBR0011756&amp;artikel=1" compleet="nee">artikel 1, onder b, van de
                 Beginselenwet justiti&#xEB;le
             jeugdinrichtingen</extref>, of doet hij de
-            veroordeelde elders opnemen.</al>
-    </lid>
-    <lid>
-        <lidnr>6</lidnr>
-        <al> De maatregel geldt voor de tijd van twee jaar. De termijn
-            gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden.</al>
-    </lid>
-    <lid>
-        <lidnr>7</lidnr>
-        <al>De termijn van de maatregel loopt niet:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>gedurende de tijd dat aan de veroordeelde uit
+            veroordeelde elders opnemen.</al></lid><lid><lidnr>6</lidnr><al> De maatregel geldt voor de tijd van twee jaar. De termijn
+            gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden. De maatregel vervalt
+bij het onherroepelijk worden van een rechterlijke uitspraak waarbij de
+betrokkene wederom de maatregel wordt
+opgelegd.</al></lid><lid><lidnr>7</lidnr><al>De termijn van de maatregel loopt niet:</al><lijst><li><li.nr>a.</li.nr><al>gedurende de tijd dat aan de veroordeelde uit
                     anderen hoofde rechtens zijn vrijheid is ontnomen en
-                    gedurende de tijd dat hij zich aan zodanige
-                    vrijheidsbeneming heeft onttrokken;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>wanneer de veroordeelde zich langer dan een week
-                    ongeoorloofd ophoudt buiten de plaats die voor de
-                    tenuitvoerlegging van de maatregel is aangewezen.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>8</lidnr>
-        <al> Onze Minister van Justitie kan de maatregel te allen tijde,
+                    gedurende de tijd dat
+hij uit zodanige vrijheidsontneming ongeoorloofd afwezig
+is;</al></li><li><li.nr>b.</li.nr><al>wanneer de veroordeelde langer dan een week
+ongeoorloofd afwezig is uit de
+plaats die voor de
+                    tenuitvoerlegging van de maatregel is aangewezen.</al></li></lijst></lid><lid><lidnr>8</lidnr><al> Onze Minister van Justitie kan de maatregel te allen tijde,
             na advies te hebben ingewonnen van de raad voor de
-            kinderbescherming, voorwaardelijk of onvoorwaardelijk be&#xEB;indigen.</al>
-    </lid>
-</artikel>
+            kinderbescherming, voorwaardelijk of onvoorwaardelijk be&#xEB;indigen.</al></lid></artikel>
     
     <artikel status="goed">
     <kop>
@@ -5261,16 +5090,17 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
             dan twee maanden en niet later dan een maand voor het
             tijdstip waarop de maatregel door tijdsverloop zal eindigen,
             kan het openbaar ministerie een vordering indienen tot
-            verlenging van de maatregel. <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=509oa" compleet="nee">Artikel 509oa van het Wetboek
-                van Strafvordering</extref> is van
-            overeenkomstige toepassing.</al>
+            verlenging van de maatregel. De <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=509oa" compleet="nee">artikelen 509oa</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=509q" compleet="nee">509q
+van het Wetboek van Strafvordering</extref> zijn van overeenkomstige
+toepassing.</al>
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
         <al> Verlenging van de termijn van de maatregel is slechts
             mogelijk voor zover de maatregel daardoor de duur van vier
             jaar niet te boven gaat, tenzij de maatregel is opgelegd aan
-            een verdachte als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s, derde lid</intref>. In
+            een verdachte als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s, derde lid, tweede
+volzin</intref>. In
             zodanig geval is verlenging mogelijk voor zover de maatregel
             de duur van zes jaar niet te boven gaat.</al>
     </lid>
@@ -5340,8 +5170,8 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
     <lid>
         <lidnr status="officieel">1</lidnr>
         <al>Indien jeugddetentie of plaatsing in een inrichting voor
-            jeugdigen wordt opgelegd, neemt de rechter in zijn uitspraak
-            een advies op over de plaats waar en de wijze waarop deze
+            jeugdigen wordt opgelegd, kan de rechter in zijn uitspraak een advies
+opnemen over de plaats waar en de wijze waarop deze
             straf of maatregel zal moeten worden ten uitvoer gelegd. De
             rechter kan bij een beslissing als bedoeld in
                 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77t">artikel 77t</intref> zodanig advies opnemen.</al>
@@ -5351,14 +5181,15 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
         <al> Het eerste lid is niet van toepassing indien met
             gebruikmaking van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77x</intref>, de straf of maatregel geheel niet wordt
             ten uitvoer gelegd. Indien ingevolge <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77">artikel 77dd</intref> de straf of maatregel alsnog geheel of
-            gedeeltelijk ten uitvoer wordt gelegd, neemt de rechter het
-            advies op in de last tot tenuitvoerlegging.</al>
+            gedeeltelijk ten uitvoer wordt gelegd, kan de rechter een advies
+opnemen in de last tot tenuitvoerlegging.</al>
     </lid>
     <lid>
         <lidnr status="officieel">3</lidnr>
         <al> Het openbaar ministerie stelt Onze Minister van Justitie in
             kennis van rechterlijke uitspraken, zodra deze voor
-            tenuitvoerlegging vatbaar zijn geworden. Het voegt daarbij
+            tenuitvoerlegging vatbaar zijn geworden. Het voegt daarbij, in voorkomende
+gevallen, 
             het advies van de rechter omtrent de plaatsing.</al>
     </lid>
     <lid>
@@ -5368,33 +5199,15 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
     </lid>
 </artikel>
     
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr>77x</nr> 
-  </kop>
-    
-  <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>In geval van veroordeling tot jeugddetentie, vervangende jeugddetentie
-		daaronder niet begrepen, tot geldboete of tot plaatsing in een inrichting voor
-		jeugdigen, kan de rechter bepalen dat deze of een gedeelte daarvan, niet zal
-		worden ten uitvoer gelegd.</al> 
-  </lid>
-    
-  <lid> 
-	 <lidnr>2</lidnr> 
-	 <al> In geval van veroordeling tot jeugddetentie of in geval van plaatsing
+    <artikel status="goed"><kop><label>Artikel</label><nr>77x</nr></kop><lid><lidnr>1</lidnr><al>In geval van veroordeling tot jeugddetentie, vervangende jeugddetentie
+		daaronder niet begrepen, tot taakstraf,
+tot geldboete, tot plaatsing in een inrichting voor jeugdigen of tot
+ontzegging van de bevoegdheid motorrijtuigen te
+besturen, kan de rechter bepalen dat deze of een gedeelte daarvan, niet zal
+		worden ten uitvoer gelegd.</al></lid><lid><lidnr>2</lidnr><al> In geval van veroordeling tot jeugddetentie of in geval van plaatsing
 		in een inrichting voor jeugdigen, met toepassing van het eerste lid, kan de
-		rechter tevens geldboete opleggen.</al> 
-  </lid>
-    
-  <lid> 
-	 <lidnr>3</lidnr> 
-	 <al>In geval van veroordeling tot jeugddetentie, met toepassing van het
-		eerste lid, kan de rechter tevens een taakstraf opleggen.</al> 
-  </lid>
-</artikel>
+		rechter tevens geldboete opleggen.</al></lid><lid><lidnr>3</lidnr><al>In geval van veroordeling tot jeugddetentie, met toepassing van het
+		eerste lid, kan de rechter tevens een taakstraf opleggen.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -5441,31 +5254,19 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
             veroordeelde rechtens zijn vrijheid is ontnomen.</al>
     </lid>
 </artikel>
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr>77z</nr> 
-  </kop>
-    
-  <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>Toepassing van
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77<nadruk type="cur">x</nadruk>
-		</intref> geschiedt onder de algemene voorwaarde dat de veroordeelde
+    <artikel status="goed"><kop><label>Artikel</label><nr>77z</nr></kop><lid><lidnr>1</lidnr><al>Toepassing van
+		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77<nadruk type="cur">x</nadruk></intref> geschiedt onder de algemene voorwaarde dat de veroordeelde
 		zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar
 		feit. Bovendien kunnen bijzondere voorwaarden, het gedrag van de veroordeelde
 		betreffende, worden gesteld. Deze mogen de vrijheid van de veroordeelde zijn
 		godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet
 		beperken. De rechter kan de werking van de bijzondere voorwaarden beperken tot
-		een bij de uitspraak te bepalen tijdsduur binnen de proeftijd.</al> 
-  </lid> 
-  <lid> 
-	 <lidnr>2</lidnr> 
-	 <al> Als bijzondere voorwaarde kan worden gesteld dat de veroordeelde zich
-		zal laten opnemen in een inrichting gedurende een door de rechter te bepalen
-		termijn, korter dan de proeftijd.</al> 
-  </lid>
-</artikel>
+		een bij de uitspraak te bepalen tijdsduur binnen de proeftijd.</al></lid><lid><lidnr>2</lidnr><al> Als bijzondere voorwaarde kan worden gesteld dat de veroordeelde zich
+		zal laten opnemen in een inrichting, niet
+zijnde een inrichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0011756&amp;artikel=1" compleet="nee">artikel 1, onderdeel b, van de
+Beginselenwet justiti&#xEB;le
+jeugdinrichtingen</extref>, gedurende een door de rechter te bepalen
+		termijn, korter dan de proeftijd.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
