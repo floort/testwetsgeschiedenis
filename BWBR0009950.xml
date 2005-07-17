@@ -5820,13 +5820,7 @@ besluit als bedoeld in het eerste lid intrekken.</al>
 toepassing.</al>
                 </lid>
               </artikel></paragraaf></hoofdstuk>
-            <hoofdstuk>
-    <kop>
-        <label>Hoofdstuk</label>
-        <nr>13</nr>
-        <titel>Bevoegd aftappen  </titel>
-    </kop>
-    <artikel status="goed">
+            <hoofdstuk><kop><label>Hoofdstuk</label><nr>13</nr><titel>Bevoegd aftappen  </titel></kop><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.1</nr>
@@ -5847,8 +5841,7 @@ toepassing.</al>
             aftapbaarheid van openbare telecommunicatienetwerken en
             openbare telecommunicatiediensten. </al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.2</nr>
@@ -5880,8 +5873,7 @@ toepassing.</al>
             organisatorische en personele maatregelen en te treffen
             voorzieningen met betrekking tot aftappen. </al>
     </lid>
-</artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>13.2a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr>13.2a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten
 voldoen aan een vordering op grond van <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126n" compleet="nee">artikel 126n</extref> of <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126u" compleet="nee">artikel 126u van het
 Wetboek van Strafvordering</extref> dan wel een verzoek op grond van <extref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=28" compleet="nee">artikel 28 van
 de Wet op de inlichtingen- en veiligheidsdiensten 2002</extref> tot het verstrekken
@@ -5890,7 +5882,12 @@ dan wel een openbare telecommunicatiedienst en het telecommunicatieverkeer
 met betrekking tot die gebruiker.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking
 tot de wijze waarop de aanbieders aan de vordering of het verzoek voldoen
 en de wijze waarop de gegevens, bedoeld in het eerste lid, beschikbaar worden
-gehouden.</al></lid></artikel><artikel status="goed">
+gehouden.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>13.2b</nr><al><redactie type="extra">Treedt in werking per 01-01-2006</redactie></al></kop>
+<al>Aanbieders van openbare telecommunicatienetwerken en openbare
+telecommunicatiediensten voldoen aan een vordering op grond van de
+<extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126nc" compleet="nee">artikelen 126nc tot en met 126nh</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126uc" compleet="nee">126uc tot en met 126uh van het
+Wetboek van
+Strafvordering</extref>.</al></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>13.3</nr>
@@ -5901,8 +5898,7 @@ gehouden.</al></lid></artikel><artikel status="goed">
         aanbieders en de bevoegde autoriteiten over de voorzieningen
         door middel van welke de door een tap te verkrijgen
         telecommunicatie door aanbieders wordt doorgegeven. </al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>13.4</nr>
@@ -5937,8 +5933,7 @@ tot de wijze waarop de aanbieders aan een vordering of een verzoek, bedoeld
 in het eerste en tweede lid, voldoen en de wijze waarop de gegevens, bedoeld
 in het eerste lid, beschikbaar worden gehouden.</al>
               </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>13.5</nr>
@@ -5964,8 +5959,7 @@ lid</intref> te
             gesteld met betrekking tot de te nemen maatregelen in
             verband met de beveiliging, bedoeld in het eerste lid. </al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>13.6</nr>
@@ -6002,8 +5996,7 @@ eerste of tweede lid</intref>.</al>
             betrekking tot de vaststelling en vergoeding van de kosten,
             bedoeld in het tweede lid. </al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.7</nr>
@@ -6033,8 +6026,7 @@ eerste of tweede lid</intref>.</al>
             eerste lid. <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.6">Artikel 13.6, tweede en derde
             lid</intref>, is van overeenkomstige toepassing. </al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.8</nr>
@@ -6046,8 +6038,7 @@ eerste of tweede lid</intref>.</al>
         ontheffing verlenen. Een ontheffing kan onder beperkingen worden
         verleend. Aan een ontheffing kunnen voorschriften worden
         verbonden. </al>
-</artikel>
-</hoofdstuk>
+</artikel></hoofdstuk>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
