@@ -5499,14 +5499,8 @@ jeugdige.</al></lid></artikel>
     
     
     
-</titeldeel><titeldeel>
-    <kop>
-        <label>Titel</label>
-        <nr>IX</nr>
-        <titel status="officieel">Betekenis van sommige in het wetboek
-            voorkomende uitdrukkingen</titel>
-    </kop>
-    <artikel status="goed">
+</titeldeel><titeldeel><kop><label>Titel</label><nr>IX</nr><titel status="officieel">Betekenis van sommige in het wetboek
+            voorkomende uitdrukkingen</titel></kop><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>78</nr>
@@ -5517,8 +5511,31 @@ jeugdige.</al></lid></artikel>
         bijzonder gesproken wordt, wordt daaronder medeplichtigheid aan,
         poging tot en voorbereiding van dat misdrijf begrepen, voorzover
         niet uit enige bepaling het tegendeel volgt.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">78a</nr><al><redactie type="extra">Treedt in werking per 01-01-2007</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Waar in dit wetboek de bevoegdheid wordt
+gegeven tot het horen, verhoren of ondervragen van personen, wordt
+daaronder, met uitzondering van bij algemene maatregel van bestuur te
+bepalen gevallen, mede begrepen horen, verhoren of ondervragen per
+videoconferentie, waarbij een directe beeld- en geluidsverbinding
+totstandkomt tussen de betrokken personen.</al></lid><lid>
+<lidnr status="officieel">2</lidnr><al>De voorzitter van het college, de rechter, de
+rechter-commissaris of ambtenaar die met de leiding over het horen is
+belast, beslist of van videoconferentie gebruik gemaakt wordt, waarbij
+het belang van het onderzoek in aanmerking wordt genomen. Alvorens te
+beslissen wordt de te horen persoon of diens raadsman en in voorkomende
+gevallen de officier van justitie, in de gelegenheid gesteld hun mening
+kenbaar te maken over de toepassing van videoconferentie. Bij algemene
+maatregel van bestuur kunnen hierover nadere regels worden
+gesteld.</al></lid><lid> <lidnr status="officieel">3</lidnr><al>Tegen de beslissing om
+van videoconferentie gebruik te maken staat geen afzonderlijk
+rechtsmiddel open.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Bij of
+krachtens algemene maatregel van bestuur worden regels gesteld
+omtrent:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de eisen waaraan de techniek van videoconferentie
+dient te voldoen, onder meer met het oog op de onschendbaarheid van
+vastgelegde waarnemingen;</al></li><li> <li.nr>b.</li.nr><al>de
+controle op de naleving van de eisen, bedoeld onder
+a.</al></li></lijst></lid></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>79</nr>
@@ -5527,10 +5544,8 @@ jeugdige.</al></lid></artikel>
     <al>Aanslag tot een feit bestaat, zodra het voornemen van de dader
         zich door een begin van uitvoering, in de zin van
             <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=45">artikel 45</intref>, heeft geopenbaard.</al>
-</artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>80</nr></kop><al>Samenspanning bestaat zodra twee of meer personen overeengekomen
-        zijn om het misdrijf te plegen.</al></artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr>80</nr></kop><al>Samenspanning bestaat zodra twee of meer personen overeengekomen
+        zijn om het misdrijf te plegen.</al></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>80bis</nr>
@@ -5539,8 +5554,7 @@ jeugdige.</al></lid></artikel>
     <al>Onder omwenteling wordt verstaan het vernietigen of op onwettige
         wijze veranderen van de grondwettige regeringsvorm of de orde
         van troonopvolging.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>80ter</nr>
@@ -5548,8 +5562,7 @@ jeugdige.</al></lid></artikel>
     
     <al>Onder verboden plaats wordt verstaan iedere plaats die als
         verboden plaats is aangewezen ingevolge de <extref status="actief" doc="1.0:v:BWBR0002074" compleet="nee">Wet bescherming staatsgeheimen</extref>.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>80quater</nr>
@@ -5562,8 +5575,7 @@ jeugdige.</al></lid></artikel>
         werkmethoden, ter zake van de geheimhouding waarvan krachtens
             <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=68" compleet="nee">artikel 68 van de
         Kernenergiewet</extref> gestelde regelen gelden.</al>
-</artikel>
-    <artikel status="goed"> 
+</artikel><artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr>80quinquies</nr> 
@@ -5571,16 +5583,14 @@ jeugdige.</al></lid></artikel>
   <al>Onder gegevens wordt verstaan iedere weergave van feiten, begrippen of
 	 instructies, al dan niet op een overeengekomen wijze, geschikt voor overdracht,
 	 interpretatie of verwerking door personen of geautomatiseerde werken.</al>
-</artikel>
-    <artikel status="goed"> 
+</artikel><artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr>80sexies</nr> 
   </kop>
   <al>Onder geautomatiseerd werk wordt verstaan een inrichting die bestemd is
 	 om langs elektronische weg gegevens op te slaan en te verwerken.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>81</nr>
@@ -5588,8 +5598,7 @@ jeugdige.</al></lid></artikel>
     
     <al>Met het plegen van geweld wordt gelijkgesteld het brengen in een
         staat van bewusteloosheid of onmacht.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>82</nr>
@@ -5609,8 +5618,7 @@ jeugdige.</al></lid></artikel>
             van de verstandelijke vermogens die langer dan vier weken
             geduurd heeft.</al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>82a</nr>
@@ -5619,8 +5627,7 @@ jeugdige.</al></lid></artikel>
         leven beroven wordt begrepen: het doden van een vrucht die naar
         redelijkerwijs verwacht mag worden in staat is buiten het
         moederlichaam in leven te blijven.</al>
-</artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>83</nr></kop><al>Onder terroristisch misdrijf wordt verstaan:</al><lijst nr-sluiting=""><li><li.nr>1&#xBA;.</li.nr><al>elk van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92 tot en met
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr>83</nr></kop><al>Onder terroristisch misdrijf wordt verstaan:</al><lijst nr-sluiting=""><li><li.nr>1&#xBA;.</li.nr><al>elk van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92 tot en met
 96</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=108">108, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">115, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">117, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=121">121</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=122">122</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=157">157, onderdeel
 3&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161quater">161quater, onderdeel 2&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=164">164, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">166, onderdeel 3&#xB0;</intref>,
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=168">168, onderdeel 2&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=170">170, onderdeel 3&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=174">174, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=289">289</intref>, alsmede
@@ -5630,14 +5637,12 @@ een terroristisch oogmerk;</al></li><li><li.nr>2&#xBA;.</li.nr><al>elk van de mi
 <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80" compleet="nee">artikel 80, derde lid, van de Kernenergiewet</extref> gevangenisstraf is gesteld;</al></li><li><li.nr>3&#xBA;.</li.nr><al>elk van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=140a">artikelen 140a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282b">282b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285,
 derde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=288a">288a</intref>, alsmede in <extref status="actief" doc="1.0:v:BWBR0008804&amp;artikel=55" compleet="nee">artikel 55, vijfde lid, van de Wet wapens en
 munitie</extref>, <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=6" compleet="nee">artikel 6, vierde lid, van de Wet op de economische delicten</extref>, <extref status="actief" doc="1.0:v:BWBR0006803&amp;artikel=33a" compleet="nee">artikel
-33a van de Wet explosieven voor civiel gebruik</extref> en <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79" compleet="nee">artikel 79 van de Kernenergiewet</extref>.</al></li></lijst></artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>83a</nr></kop><al>Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking
+33a van de Wet explosieven voor civiel gebruik</extref> en <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79" compleet="nee">artikel 79 van de Kernenergiewet</extref>.</al></li></lijst></artikel><artikel status="goed"><kop><label>Artikel</label><nr>83a</nr></kop><al>Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking
 of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel
 een overheid of internationale organisatie wederrechtelijk te dwingen iets
 te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele,
 economische of sociale structuren van een land of een internationale organisatie
-ernstig te ontwrichten of te vernietigen.</al></artikel>
-    <artikel status="goed">
+ernstig te ontwrichten of te vernietigen.</al></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>84</nr>
@@ -5659,16 +5664,14 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         <al> Allen die tot de gewapende macht behoren worden mede als
             ambtenaar beschouwd.</al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>84bis</nr>
     </kop>
     
     <al>Onder koopman wordt verstaan ieder die een bedrijf uitoefent.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>84ter</nr>
@@ -5679,8 +5682,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         wettig betaalmiddel nog zullen verkrijgen, alsmede muntspeci&#xEB;n,
         munt- en bankbiljetten die deze hoedanigheid verloren hebben en
         ingewisseld kunnen worden tegen wettige betaalmiddelen.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>85</nr>
@@ -5708,8 +5710,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         <al> Vaartuigen in aanbouw noch schepen in aanbouw worden als
             vaartuigen of schepen aangemerkt.</al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>86</nr>
@@ -5720,8 +5721,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         welke door de wet betrekkelijk de afgifte van zeebrieven en
         vergunningen tot het voeren van de Nederlandse vlag als
         zeeschepen worden aangemerkt.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>86a</nr>
@@ -5765,8 +5765,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
             het luchtvaartuig in vlucht is, zoals omschreven in het
             tweede lid.</al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>87</nr>
@@ -5788,8 +5787,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
             worden opgeroepen en zolang zij buitengewoon in werkelijke
             dienst worden gehouden.</al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>87a</nr>
@@ -5797,8 +5795,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
     
     <al>Onder een bevriende staat wordt verstaan een buitenlandse
         mogendheid waarmede Nederland niet in een gewapend conflict is gewikkeld.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>87b</nr>
@@ -5828,8 +5825,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
             verdrag en artikel 9, eerste lid, onderdeel b, van het in
             het tweede lid genoemde verdrag.</al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>88</nr>
@@ -5839,8 +5835,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
     <al>Onder maand wordt verstaan een tijd van dertig dagen, onder dag,
         behoudens voor de toepassing van de <extref status="actief" doc="1.0:v:BWBR0002448" compleet="nee">Algemene
         termijnenwet</extref>, een tijd van vierentwintig uren.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>89</nr>
@@ -5848,8 +5843,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
     
     <al>Onder inklimming wordt begrepen ondergraving, alsmede het
         overschrijden van sloten of grachten tot afsluiting dienende.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90</nr>
@@ -5857,8 +5851,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
     
     <al>Onder valse sleutels worden begrepen alle tot opening van het
         slot niet bestemde werktuigen.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90bis</nr>
@@ -5875,8 +5868,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         <al> Onder opkopen worden begrepen alle handelingen, hoe ook
             genaamd, waarmede kennelijk hetzelfde wordt beoogd.</al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90ter</nr>
@@ -5894,8 +5886,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         <al> Onder electriciteitswerken worden niet begrepen telegraaf-
             en telefoonwerken.</al>
     </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90quater</nr>
@@ -5908,8 +5899,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         van de mens en de fundamentele vrijheden op politiek,
         economisch, sociaal of cultureel terrein of op andere terreinen
         van het maatschappelijk leven, wordt teniet gedaan of aangetast.</al>
-</artikel>
-    <artikel status="goed"> 
+</artikel><artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr status="officieel">90quinquies</nr> 
@@ -5931,8 +5921,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
 		artikel 37d, eerste lid, onder b waarvan de algehele exploitatiekosten ten laste van het
 		Ministerie van Justitie komen.</al> 
   </lid>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90sexies</nr>
@@ -5957,8 +5946,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
             <al>een psychiatrische afdeling van een academisch ziekenhuis.</al>
         </li>
     </lijst>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90septies</nr>
@@ -5966,8 +5954,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
     
     <al>Onder psychiater wordt verstaan een arts die bevoegd is de titel
         van psychiater of zenuwarts te voeren.</al>
-</artikel>
-    <artikel status="goed">
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90octies</nr>
@@ -5978,8 +5965,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel>
         uitzondering van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=449">artikel 449</intref>,
         daaronder mede begrepen geregistreerd partnerschap dan wel
         geregistreerde partner.  </al>
-</artikel>
-</titeldeel><titeldeel>
+</artikel></titeldeel><titeldeel>
     <kop>
         <titel status="officieel">Slotbepaling</titel>
     </kop>
