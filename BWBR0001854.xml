@@ -4077,11 +4077,11 @@ te maken.</al></artikel></titeldeel><titeldeel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>70</nr>
+        <nr status="officieel">70</nr>
     </kop>
     
-    <al>Het recht tot strafvordering vervalt door verjaring: </al>
-    <lijst>
+    <lid><lidnr status="officieel">1</lidnr><al>Het recht tot strafvordering vervalt door verjaring: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>1&#xB0;.</li.nr>
             <al>in twee jaren voor alle overtredingen;</al>
@@ -4099,16 +4099,14 @@ te maken.</al></artikel></titeldeel><titeldeel>
         </li>
         <li>
             <li.nr>4&#xB0;.</li.nr>
-            <al>in vijftien jaren voor de misdrijven waarop
-                gevangenisstraf van meer dan tien jaren is gesteld;</al>
+            <al>in twintig jaren voor de misdrijven waarop
+                gevangenisstraf van meer dan tien jaren is gesteld.</al>
         </li>
         
-        <li>
-            <li.nr>5&#xB0;.</li.nr>
-            <al>in achttien jaren voor de misdrijven waarop levenslange
-                gevangenisstraf is gesteld.</al>
-        </li>
-    </lijst>
+    </lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>In
+afwijking van het eerste lid verjaart het recht tot strafvordering niet
+voor misdrijven waarop levenslange gevangenisstraf is
+gesteld.</al></lid>
 </artikel>
     <artikel status="goed"><kop><label>Artikel</label><nr>71</nr></kop><al>De termijn van verjaring vangt aan op de dag na die waarop het feit is
 	 gepleegd, behoudens in de volgende gevallen: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>bij de misdrijven omschreven in de
@@ -4145,18 +4143,20 @@ bereikt, op de dag na die waarop die persoon achttien jaren is
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>72</nr>
+        <nr status="officieel">72</nr>
     </kop>
     
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>Elke daad van vervolging stuit de verjaring, mits die daad
-            de vervolgde bekend of hem betekend zij.</al>
+        <lidnr status="officieel">1</lidnr>
+        <al>Elke daad van vervolging stuit de verjaring, ook ten aanzien van anderen dan de vervolgde.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
-        <al> Na de stuiting vangt een nieuwe verjaringstermijn aan.</al>
+        <lidnr status="officieel">2</lidnr>
+        <al> Na de stuiting vangt een nieuwe verjaringstermijn aan. Het recht tot strafvordering vervalt evenwel indien vanaf de
+dag waarop de oorspronkelijke verjaringstermijn is aangevangen een
+periode is verstreken die gelijk is aan twee maal de voor het feit
+geldende verjaringstermijn.</al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -4467,17 +4467,34 @@ aanving. Bij herroeping van een voorwaardelijke
         plaatsing in een inrichting voor jeugdigen vindt dan plaats
         overeenkomstig <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37c">artikel 37c</intref>.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>77d</nr></kop><lid><lidnr>1</lidnr><al>De verjaringstermijn van het recht tot strafvordering,
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr>77d</nr>
+    </kop>
+    
+    <lid>
+        <lidnr>1</lidnr>
+        <al>De verjaringstermijn van het recht tot strafvordering,
             genoemd in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=70">artikel 70</intref>,
             wordt ten aanzien van misdrijven tot de helft van de daar
-            bedoelde duur ingekort.</al></lid><lid><lidnr>2</lidnr><al>Het eerste lid is niet van toepassing op misdrijven
+            bedoelde duur ingekort.</al>
+    </lid>
+    <lid>
+        <lidnr>2</lidnr>
+        <al>Het eerste lid is niet van toepassing op misdrijven
             omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met
             250</intref> en
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">273a</intref>, gepleegd door een persoon die ten
             tijde van het begaan van het strafbaar feit de leeftijd van
             zestien jaren heeft bereikt, ten aanzien van een persoon die de
 leeftijd van achttien jaren nog niet heeft
-bereikt.</al></lid></artikel>
+bereikt.</al>
+    </lid><lid><lidnr>3</lidnr><al>Het
+recht tot strafvordering voor misdrijven waarop levenslange
+gevangenisstraf is gesteld, verjaart in twintig
+jaren.</al></lid>
+</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -5965,15 +5982,12 @@ ernstig te ontwrichten of te vernietigen.</al></artikel><artikel status="goed">
     <lijst>
         <li>
             <li.nr>1&#xB0;.</li.nr>
-            <al>een voor de toepassing van de <extref status="actief" doc="1.0:v:BWBR0002460" compleet="nee">Ziekenfondswet</extref>
-                of de <extref status="actief" doc="1.0:v:BWBR0002614" compleet="nee">Algemene Wet Bijzondere
-                Ziektekosten</extref> als ziekenhuis,
-                verpleeginrichting of zwakzinnigeninrichting toegelaten
-                of in overeenstemming met de Minister van Justitie
-                aangewezen inrichting of afdeling daarvan, voor zover
-                die inrichting of afdeling blijkens de toelating of
-                aanwijzing gericht is op de behandeling van
-                psychiatrische pati&#xEB;nten;</al>
+            <al>een krachtens
+artikel 5 van de Wet toelating zorginstellingen als ziekenhuis,
+verpleeginrichting of zwakzinnigeninrichting toegelaten instelling,
+voor zover die instelling blijkens de toelating gericht is op de
+behandeling van psychiatrische
+pati&#xEB;nten;</al>
         </li>
         <li>
             <li.nr>2&#xB0;.</li.nr>
@@ -7110,109 +7124,59 @@ tijdelijke gevangenisstraf met de helft verhoogd.</al></artikel></titeldeel>
 </artikel>
     
     
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>137c</nr>
-    </kop>
-    
-    
-    <lid><lidnr>1</lidnr><al>Hij die zich in het openbaar, mondeling of bij geschrift of
+    <artikel status="goed"><kop><label>Artikel</label><nr>137c</nr></kop><lid><lidnr>1</lidnr><al>Hij die zich in het openbaar, mondeling of bij geschrift of
         afbeelding, opzettelijk beledigend uitlaat over een groep mensen
-        wegens hun ras, hun godsdienst of levensovertuiging of hun
-        hetero- of homoseksuele gerichtheid, wordt gestraft met
+        wegens hun ras, hun godsdienst of levensovertuiging, hun
+        hetero- of homoseksuele gerichtheid of
+hun lichamelijke, psychische of verstandelijke
+handicap, wordt gestraft met
         gevangenisstraf van ten hoogste een jaar of geldboete van de
-        derde categorie.</al></lid>
-<lid>
-                <lidnr status="officieel">2</lidnr>
-                <al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
+        derde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
 of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf
-van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.</al>
-              </lid></artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>137d</nr>
-    </kop>
-    
-    
-    <lid><lidnr>1</lidnr><al>Hij die in het openbaar, mondeling of bij geschrift of
+van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.</al></lid></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>137d</nr></kop><lid><lidnr>1</lidnr><al>Hij die in het openbaar, mondeling of bij geschrift of
         afbeelding, aanzet tot haat tegen of discriminatie van mensen of
         gewelddadig optreden tegen persoon of goed van mensen wegens hun
-        ras, hun godsdienst of levensovertuiging, hun geslacht of hun
-        hetero- of homoseksuele gerichtheid, wordt gestraft met
+        ras, hun godsdienst of levensovertuiging, hun geslacht, hun
+        hetero- of homoseksuele gerichtheid of
+hun lichamelijke, psychische of verstandelijke
+handicap, wordt gestraft met
         gevangenisstraf van ten hoogste een jaar of geldboete van de
-        derde categorie.</al></lid>
-<lid>
-                <lidnr status="officieel">2</lidnr>
-                <al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
+        derde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
 of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf
-van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.</al>
-              </lid></artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>137e</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Hij die, anders dan ten behoeve van zakelijke berichtgeving: </al>
-        <lijst>
-            <li>
-                <li.nr>1&#xB0;.</li.nr>
-                <al>een uitlating openbaar maakt die, naar hij weet of
+van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.</al></lid></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>137e</nr></kop><lid><lidnr>1</lidnr><al>Hij die, anders dan ten behoeve van zakelijke berichtgeving: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>een uitlating openbaar maakt die, naar hij weet of
                     redelijkerwijs moet vermoeden, voor een groep mensen
-                    wegens hun ras, hun godsdienst of levensovertuiging
-                    of hun hetero- of homoseksuele gerichtheid
+                    wegens hun ras, hun godsdienst of levensovertuiging, hun hetero- of homoseksuele gerichtheid of
+hun lichamelijke, psychische of verstandelijke
+handicap
                     beledigend is, of aanzet tot haat tegen of
                     discriminatie van mensen of gewelddadig optreden
                     tegen persoon of goed van mensen wegens hun ras, hun
-                    godsdienst of levensovertuiging, hun geslacht of hun
-                    hetero- of homoseksuele gerichtheid;</al>
-            </li>
-            <li>
-                <li.nr>2&#xB0;.</li.nr>
-                <al>een voorwerp waarin, naar hij weet of redelijkerwijs
+                    godsdienst of levensovertuiging, hun geslacht, hun
+                    hetero- of homoseksuele gerichtheid of
+hun lichamelijke, psychische of verstandelijke
+handicap;</al></li><li><li.nr>2&#xB0;.</li.nr><al>een voorwerp waarin, naar hij weet of redelijkerwijs
                     moet vermoeden, zulk een uitlating is vervat, aan
                     iemand, anders dan op diens verzoek, doet toekomen,
                     dan wel verspreidt of ter openbaarmaking van die
-                    uitlating of verspreiding in voorraad heeft;</al>
-            </li>
-        </lijst>
-        <al>wordt gestraft met gevangenisstraf van ten hoogste zes
-            maanden of geldboete van de derde categorie.</al>
-    </lid>
-    
-    <lid>
-                <lidnr status="officieel">2</lidnr>
-                <al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
+                    uitlating of verspreiding in voorraad heeft;</al></li></lijst><al>wordt gestraft met gevangenisstraf van ten hoogste zes
+            maanden of geldboete van de derde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
 of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf
-van ten hoogste een jaar of geldboete van de vierde categorie opgelegd.</al>
-              </lid><lid>
-        <lidnr>3</lidnr>
-        <al> Indien de schuldige een van de strafbare feiten, omschreven
+van ten hoogste een jaar of geldboete van de vierde categorie opgelegd.</al></lid><lid><lidnr>3</lidnr><al> Indien de schuldige een van de strafbare feiten, omschreven
             in dit artikel, in zijn beroep begaat en er, tijdens het
             plegen van het feit, nog geen vijf jaren zijn verlopen
             sedert een vroegere veroordeling van de schuldige wegens een
             van deze misdrijven onherroepelijk is geworden, kan hij van
-            de uitoefening van dat beroep worden ontzet.</al>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>137f</nr>
-    </kop>
-    
-    
-    <al>Hij die deelneemt of geldelijke of andere stoffelijke steun
+            de uitoefening van dat beroep worden ontzet.</al></lid></artikel>
+    <artikel status="goed"><kop><label>Artikel</label><nr>137f</nr></kop><al>Hij die deelneemt of geldelijke of andere stoffelijke steun
         verleent aan activiteiten gericht op discriminatie van mensen
         wegens hun ras, hun godsdienst, hun levensovertuiging, hun
-        geslacht of hun hetero- of homoseksuele gerichtheid, wordt
+        geslacht, hun hetero- of homoseksuele gerichtheid of
+hun lichamelijke, psychische of verstandelijke
+handicap, wordt
         gestraft met gevangenisstraf van ten hoogste drie maanden of
-        geldboete van de tweede categorie.</al>
-</artikel>
+        geldboete van de tweede categorie.</al></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -15602,12 +15566,21 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
     </kop>
     
     
-    <al>Hij die in de uitoefening van een ambt, beroep of bedrijf
+    <lid><lidnr>1</lidnr><al>Hij die in de uitoefening van een ambt, beroep of bedrijf
         personen discrimineert wegens hun ras, hun godsdienst, hun
         levensovertuiging, hun geslacht of hun hetero- of homoseksuele
         gerichtheid wordt gestraft met hechtenis van ten hoogste twee
-        maanden of geldboete van de derde categorie.</al>
-</artikel>
+        maanden of geldboete van de derde categorie.</al></lid>
+<lid> <lidnr>2</lidnr><al>Met dezelfde
+straf wordt gestraft hij wiens handelen of nalaten in de uitoefening
+van een ambt, beroep of bedrijf zonder redelijke grond, ten doel heeft
+of ten gevolge kan hebben dat ten aanzien van personen met een
+lichamelijke, psychische of verstandelijke handicap de erkenning, het
+genot of de uitoefening op voet van gelijkheid van de rechten van de
+mens en de fundamentele vrijheden op politiek, economisch, sociaal of
+cultureel terrein of op andere terreinen van het maatschappelijk leven,
+wordt teniet gedaan of
+aangetast.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
