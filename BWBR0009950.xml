@@ -2094,20 +2094,21 @@ gronden, alsmede de opruiming daarvan, te gedogen.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>5.2</nr>
+        <nr status="officieel">5.2</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>De gemeente is belast met de co&#xF6;rdinatie van de binnen haar
-            grondgebied door aanbieders van openbare elektronische
-communicatienetwerken uit te
-            voeren werkzaamheden in verband met de aanleg en
-            instandhouding van kabels, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.1">artikel 5.1, eerste
-            lid</intref>. </al>
+        <lidnr status="redactioneel">1</lidnr>
+        <al>Burgemeester en
+wethouders zijn belast met de co&#xF6;rdinatie van de binnen het
+grondgebied van de gemeente door aanbieders van openbare
+telecommunicatienetwerken of van omroepnetwerken uit te voeren
+werkzaamheden in verband met de aanleg en instandhouding van kabels,
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.1">artikel 5.1, eerste
+lid</intref>.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Bij deze co&#xF6;rdinatie worden mede betrokken andere
             werkzaamheden en andere belangen dan waarin door deze wet
             wordt voorzien. De co&#xF6;rdinatie mag niet leiden tot een
@@ -2117,11 +2118,11 @@ communicatienetwerken uit te
             lid</intref>. </al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Een
 aanbieder van een openbaar elektronisch communicatienetwerk gaat slechts over tot het verrichten
             van werkzaamheden als bedoeld in het eerste lid indien deze: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>het voornemen daartoe heeft gemeld bij burgemeester
@@ -2136,10 +2137,10 @@ aanbieder van een openbaar elektronisch communicatienetwerk gaat slechts over to
         </lijst>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De gemeenteraad stelt bij verordening in ieder geval regels
             vast inzake: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>het tijdstip, voorafgaand aan het verrichten van de
@@ -2160,7 +2161,7 @@ aanbieder van een openbaar elektronisch communicatienetwerk gaat slechts over to
         </lijst>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>Burgemeester en wethouders kunnen, zonodig in afwijking van
             de melding, in het instemmingsbesluit het tijdstip van
             aanvang of voltooiing en de wijze van uitvoering van de
