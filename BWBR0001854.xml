@@ -3453,8 +3453,8 @@ aanmerking genomen.</al></artikel><artikel status="goed">
         hem door zijn ambt geschonken, kan de op het feit gestelde
         straf, met uitzondering van geldboete, met een derde worden verhoogd.</al>
 </artikel>
-</titeldeel><titeldeel><kop><label>Titel</label><nr>IIIa</nr><titel>Gronden voor vermindering van straf</titel><al><redactie type="extra">Treedt in werking per 01-04-2006</redactie></al></kop><artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">44a</nr><al><redactie type="extra">Treedt in werking per 01-04-2006</redactie></al></kop>
+</titeldeel><titeldeel><kop><label>Titel</label><nr>IIIa</nr><titel>Gronden voor vermindering van straf</titel></kop><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">44a</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Op vordering van de officier van justitie kan
 de rechter na een op grond van <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=226h" compleet="nee">artikel 226h, derde lid, van het Wetboek
 van Strafvordering</extref> gemaakte afspraak de straf verminderen die hij
@@ -9600,7 +9600,7 @@ hoogste vijf jaren of
     </kop>
     
     <lid>
-        <lidnr status="redactioneel">1</lidnr>
+        <lidnr>1</lidnr>
         <al>Hij die, wettelijk als getuige, als deskundige of als tolk
             opgeroepen, opzettelijk niet voldoet aan enige wettelijke
             verplichting die hij als zodanig te vervullen heeft, wordt
@@ -9618,9 +9618,15 @@ hoogste vijf jaren of
             </li>
         </lijst>
     </lid>
-    
+    <lid><lidnr>2</lidnr><al>Hij die na de
+totstandkoming van een afspraak met de officier van justitie ingevolge
+<extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=226h" compleet="nee">artikel 226h, derde lid</extref>, of <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=226k" compleet="nee">artikel 226k, eerste lid, van het Wetboek
+van Strafvordering</extref> wettelijk als getuige opgeroepen, opzettelijk niet
+voldoet aan zijn verplichting te verklaren, wordt gestraft met
+gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde
+categorie.</al></lid>
     <lid>
-        <lidnr status="redactioneel">2</lidnr>
+        <lidnr>3</lidnr>
         <al>Het bepaalde in het vorige lid van dit artikel is niet van
             toepassing op de partij in een burgerlijke procedure die,
             wanneer zij als getuige wordt gehoord, weigert op de haar
