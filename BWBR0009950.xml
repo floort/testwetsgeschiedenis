@@ -6257,8 +6257,8 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
-        <nr>15</nr>
-        <titel>Handhaving  </titel>
+        <nr status="officieel">15</nr>
+        <titel status="officieel">Handhaving  </titel>
     </kop>
     <paragraaf>
     <kop>
@@ -6817,7 +6817,15 @@ de raad van bestuur van de mededingingsautoriteit, van de overtreder de verschul
         nadat de overtreding is begaan. </al>
 </artikel>
 </paragraaf>
-</hoofdstuk>
+<paragraaf><kop><label>&#xA7;</label><nr status="officieel">15.3</nr><titel status="officieel">Uit
+de handel nemen van uitrusting</titel><al><redactie type="extra">Treedt in werking per 20-07-2007</redactie></al></kop><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">15.17</nr><al><redactie type="extra">Treedt in werking per 20-07-2007</redactie></al></kop><al>In
+afwijking van de <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A7" compleet="nee">artikelen 4:7</extref> en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A8" compleet="nee">4:8 van de Algemene wet bestuursrecht</extref>
+worden voorafgaand aan de beslissing tot toepassing van bestuursdwang
+waarbij uitrusting uit de handel wordt genomen die niet voldoet aan de
+bij of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.3">artikel 10.3 onderdeel a, b, c en e</intref> gestelde eisen,
+belanghebbenden in de gelegenheid gesteld hun zienswijzen naar voren te
+brengen.</al></artikel></paragraaf></hoofdstuk>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
@@ -7796,8 +7804,8 @@ toepassing.</al></artikel>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
-        <nr>20</nr>
-        <titel>Algemene overgangs- en slotbepalingen</titel>
+        <nr status="officieel">20</nr>
+        <titel status="officieel">Algemene overgangs- en slotbepalingen</titel>
     </kop>
     <artikel status="goed">
     <kop>
@@ -7941,7 +7949,16 @@ langer bestaat.</al></li></lijst>
             of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref>. </al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20.4a</nr><al><redactie type="extra">Treedt in werking per 20-07-2007</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>Uitrusting die voldoet aan de bij of
+krachtens de Telecommunicatiewet vastgestelde regels met
+betrekking tot de elektromagnetische compatibiliteit die van kracht
+waren op 19&#xA0;juli 2007, mag in afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel 10.1</intref> van de
+Telecommunicatiewet, tot 20&#xA0;juli 2009 in de handel worden
+gebracht of worden verhandeld.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Het
+bepaalde in het eerste lid is slechts van toepassing voorzover de daar
+bedoelde uitrusting voldoet aan bij of krachtens de Telecommunicatiewet
+gestelde regels die niet zien op elektromagnetische
+compatibiliteit.</al></lid></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>20.5</nr>
