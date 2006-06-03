@@ -7206,10 +7206,10 @@ categorie.</al></artikel>
 <artikel status="goed"><kop><label>Artikel</label><nr>130a</nr></kop><al>Indien een misdrijf, strafbaar gesteld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=123">artikel 123</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=124">124</intref>, is
 begaan met een terroristisch oogmerk, wordt de in deze artikelen bepaalde
 tijdelijke gevangenisstraf met de helft verhoogd.</al></artikel></titeldeel>
-    <titeldeel>
+    <titeldeel status="goed">
     <kop>
         <label>Titel</label>
-        <nr>V</nr>
+        <nr status="officieel">V</nr>
         <titel status="officieel">Misdrijven tegen de openbare orde</titel>
     </kop>
     <artikel status="goed">
@@ -7537,7 +7537,12 @@ hoogste een jaar of geldboete van de vierde categorie opgelegd.</al>
 	 </lijst> 
   </lid>
 </artikel>
-    <artikel status="goed">
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">138b</nr><al><redactie type="extra">Treedt in werking per 01-09-2006</redactie></al></kop>
+<al>Met gevangenisstraf van ten hoogste een jaar of geldboete van de
+vierde categorie wordt gestraft hij die opzettelijk en wederrechtelijk
+de toegang tot of het gebruik van een geautomatiseerd werk belemmert
+door daaraan gegevens aan te bieden of toe te
+zenden.</al></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>139</nr>
