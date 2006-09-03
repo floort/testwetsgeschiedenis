@@ -374,9 +374,16 @@ heeft bereikt dan wel aan een der misdrijven
 omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=300">artikelen 300 tot en met 303</intref>, voor zover het feit
 oplevert genitale verminking van een persoon van het vrouwelijke
 geslacht die de leeftijd van achttien jaren nog niet heeft
-bereikt.</al> 
+bereikt;</al> 
 		</li>
-	 </lijst> 
+	 <li><li.nr>4&#xB0;.</li.nr><al>aan een der
+misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138a">artikelen 138a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138b">138b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139c">139c</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139d">139d</intref>,
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161sexies">161sexies</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">225</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=226">226</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=227">227</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240a">240a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=326">326</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=326c">326c</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350a">350a</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=351">351</intref>, voor
+zover het feit valt onder de omschrijving van de artikelen 2 tot en met
+10 van het op 23&#xA0;november 2001 te Budapest tot stand gekomen
+Internationaal Verdrag inzake de bestrijding van strafbare feiten
+verbonden met elektronische netwerken (Trb. 2002, 18, en 2004,
+290).</al></li></lijst> 
   </lid>
     
   <lid> <lidnr status="officieel">2</lidnr><al>In de
@@ -5807,7 +5814,7 @@ volgt.</al></artikel><artikel status="goed">
 	 <nr>80quinquies</nr> 
   </kop> 
   <al>Onder gegevens wordt verstaan iedere weergave van feiten, begrippen of
-	 instructies, al dan niet op een overeengekomen wijze, geschikt voor overdracht,
+	 instructies, op een overeengekomen wijze, geschikt voor overdracht,
 	 interpretatie of verwerking door personen of geautomatiseerde werken.</al>
 </artikel>
     <artikel status="goed"> 
@@ -5816,7 +5823,8 @@ volgt.</al></artikel><artikel status="goed">
 	 <nr>80sexies</nr> 
   </kop>
   <al>Onder geautomatiseerd werk wordt verstaan een inrichting die bestemd is
-	 om langs elektronische weg gegevens op te slaan en te verwerken.</al>
+	 om langs elektronische weg gegevens op te slaan, te verwerken en over te
+dragen.</al>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -7531,44 +7539,41 @@ hoogste een jaar of geldboete van de vierde categorie opgelegd.</al>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>138a</nr> 
+	 <nr status="officieel">138a</nr> 
   </kop>
+  <lid>
+<lidnr status="officieel">1</lidnr><al>Met gevangenisstraf van ten hoogste een jaar of
+geldboete van de vierde categorie wordt, als schuldig aan
+computervredebreuk, gestraft hij die opzettelijk en wederrechtelijk
+binnendringt in een geautomatiseerd werk of in een deel daarvan. Van
+binnendringen is in ieder geval sprake indien de toegang tot het werk
+wordt
+verworven:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>door het doorbreken van een
+beveiliging,</al></li><li> <li.nr>b.</li.nr><al>door een technische
+ingreep,</al></li><li> <li.nr>c.</li.nr><al>met behulp van valse
+signalen of een valse sleutel, of</al></li><li>
+<li.nr>d.</li.nr><al>door het aannemen van een valse
+hoedanigheid.</al></li></lijst></lid> 
   <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>Met gevangenisstraf van ten hoogste zes maanden of geldboete van de
-		derde categorie wordt, als schuldig aan computervredebreuk, gestraft hij die
-		opzettelijk wederrechtelijk binnendringt in een geautomatiseerd werk voor de
-		opslag of verwerking van gegevens, of in een deel daarvan, indien hij </al> 
-	 <lijst> 
-		<li> 
-		  <li.nr>a.</li.nr> 
-		  <al>daarbij enige beveiliging doorbreekt of</al> 
-		</li> 
-		<li> 
-		  <li.nr>b.</li.nr> 
-		  <al>de toegang verwerft door een technische ingreep, met behulp van
-			 valse signalen of een valse sleutel dan wel door het aannemen van een valse
-			 hoedanigheid.</al> 
-		</li> 
-	 </lijst> 
-  </lid> 
-  <lid> 
-	 <lidnr>2</lidnr> 
+	 <lidnr status="officieel">2</lidnr> 
 	 <al> Met gevangenisstraf van ten hoogste vier jaren of geldboete van de
-		vierde categorie wordt gestraft computervredebreuk, indien de dader vervolgens
-		gegevens die zijn opgeslagen in een geautomatiseerd werk waarin hij zich
-		wederrechtelijk bevindt, overneemt en voor zichzelf of een ander vastlegt.</al>
+		vierde categorie wordt gestraft computervredebreuk, indien de dader
+vervolgens gegevens die zijn opgeslagen, worden verwerkt of
+overgedragen door middel van het geautomatiseerd werk waarin hij zich
+wederrechtelijk bevindt, voor zichzelf of een ander overneemt, aftapt
+of opneemt.</al>
 	 
   </lid> 
   <lid> 
-	 <lidnr>3</lidnr> 
+	 <lidnr status="officieel">3</lidnr> 
 	 <al> Met gevangenisstraf van ten hoogste vier jaren of geldboete van de
 		vierde categorie wordt gestraft computervredebreuk gepleegd door tussenkomst
 		van een openbaar telecommunicatienetwerk, indien de dader vervolgens </al> 
-	 <lijst> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
 		<li> 
 		  <li.nr>a.</li.nr> 
-		  <al>met het oogmerk zich wederrechtelijk te bevoordelen gebruik maakt
+		  <al>met het oogmerk zichzelf of een ander wederrechtelijk te bevoordelen gebruik maakt
 			 van verwerkingscapaciteit van een geautomatiseerd werk;</al> 
 		</li> 
 		<li> 
@@ -7580,7 +7585,7 @@ hoogste een jaar of geldboete van de vierde categorie opgelegd.</al>
 	 </lijst> 
   </lid>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">138b</nr><al><redactie type="extra">Treedt in werking per 01-09-2006</redactie></al></kop>
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">138b</nr></kop>
 <al>Met gevangenisstraf van ten hoogste een jaar of geldboete van de
 vierde categorie wordt gestraft hij die opzettelijk en wederrechtelijk
 de toegang tot of het gebruik van een geautomatiseerd werk belemmert
@@ -7650,22 +7655,18 @@ zenden.</al></artikel><artikel status="goed">
         </lijst>
     </lid>
     
+    
     <lid>
         <lidnr>2</lidnr>
-        <al> Met dezelfde straf wordt gestraft hij die gegevens die in
-            een woning, besloten lokaal of erf, door middel van een
-            geautomatiseerd werk worden overgedragen, met een technisch
-            hulpmiddel opzettelijk, zonder daartoe gerechtigd te zijn,
-            aftapt of opneemt.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Het eerste en tweede lid zijn niet van toepassing op het
-            aftappen of opnemen: </al>
+        <al>Het eerste lid is
+niet van toepassing op het opnemen:</al>
         <lijst>
             <li>
                 <li.nr>1&#xB0;.</li.nr>
-                <al>van telecommunicatie via een openbaar telecommunicatienetwerk,</al>
+                <al>van gegevens die worden
+verwerkt of overgedragen door middel van telecommunicatie of door
+middel van een geautomatiseerd
+werk;</al>
             </li>
             <li>
                 <li.nr>2&#xB0;.</li.nr>
@@ -7710,45 +7711,29 @@ zenden.</al></artikel><artikel status="goed">
             </li>
         </lijst>
     </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Met dezelfde straf wordt gestraft hij die
-            gegevensoverdracht elders dan in een woning, besloten lokaal
-            of erf door middel van een geautomatiseerd werk of
-            telecommunicatie, met een technisch hulpmiddel opzettelijk,
-            zonder daartoe gerechtigd te zijn, heimelijk aftapt of opneemt.</al>
-    </lid>
+    <lid> <lidnr>2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139a">Artikel 139a,
+tweede lid, onder 1&#xB0; en 3&#xB0;</intref>, is van overeenkomstige
+toepassing.</al></lid>
     
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Op het eerste en tweede lid is <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139a">artikel 139<nadruk type="cur">a</nadruk>, derde lid, onder 1&#xB0; en
-            3&#xB0;</intref>, van overeenkomstige toepassing. Op het
-            tweede lid is <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139c">artikel 139<nadruk type="cur">c</nadruk>, tweede lid</intref>, van
-            overeenkomstige toepassing.</al>
-    </lid>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>139c</nr>
+        <nr status="officieel">139c</nr>
     </kop>
     
+    <lid><lidnr status="officieel">1</lidnr><al>Met
+gevangenisstraf van ten hoogste een jaar of geldboete van de vierde
+categorie wordt gestraft hij die opzettelijk en wederrechtelijk met een
+technisch hulpmiddel gegevens aftapt of opneemt die niet voor hem
+bestemd zijn en die worden verwerkt of overgedragen door middel van
+telecommunicatie of door middel van een geautomatiseerd
+werk.</al></lid>
     <lid>
-        <lidnr>1</lidnr>
-        <al>Hij die door middel van een openbaar
-            telecommunicatienetwerk, of door middel van daarop
-            aangesloten randapparatuur overgedragen gegevens die niet
-            voor hem, mede voor hem of voor degeen in wiens opdracht hij
-            handelt, zijn bestemd, opzettelijk met een technisch
-            hulpmiddel aftapt of opneemt, wordt gestraft met
-            gevangenisstraf van ten hoogste een jaar of geldboete van de
-            vierde categorie.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Het eerste lid is niet van toepassing op het aftappen of
             opnemen: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>van door middel van een radio-ontvangapparaat
@@ -7777,16 +7762,33 @@ zenden.</al></artikel><artikel status="goed">
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>139d</nr>
+        <nr status="officieel">139d</nr>
     </kop>
     
-    <al>Met gevangenisstraf van ten hoogste zes maanden of geldboete van
+    <lid><lidnr status="officieel">1</lidnr><al>Met gevangenisstraf van ten hoogste een jaar of geldboete van
         de vierde categorie wordt gestraft hij die met het oogmerk dat
         daardoor een gesprek, telecommunicatie of andere
-        gegevensoverdracht door een geautomatiseerd werk wederrechtelijk
+        gegevensoverdracht of andere
+gegevensverwerking door een geautomatiseerd werk wederrechtelijk
         wordt afgeluisterd, afgetapt of opgenomen, een technisch
-        hulpmiddel op een bepaalde plaats aanwezig doet zijn.</al>
-</artikel>
+        hulpmiddel op een bepaalde plaats aanwezig doet zijn.</al></lid>
+<lid> <lidnr status="officieel">2</lidnr><al>Met dezelfde
+straf wordt gestraft hij die, met het oogmerk dat daarmee een misdrijf
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138a">artikel 138a, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138b">138b</intref> of <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139c">139c</intref> wordt
+gepleegd:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>een technisch hulpmiddel dat hoofdzakelijk
+geschikt gemaakt of ontworpen is tot het plegen van een zodanig
+misdrijf, vervaardigt, verkoopt, verwerft, invoert, verspreidt of
+anderszins ter beschikking stelt of voorhanden heeft, of</al></li><li>
+<li.nr>b.</li.nr><al>een computerwachtwoord, toegangscode of daarmee
+vergelijkbaar gegeven waardoor toegang kan worden gekregen tot een
+geautomatiseerd werk of een deel daarvan, verkoopt, verwerft,
+verspreidt of anderszins ter beschikking stelt of voorhanden
+heeft.</al></li></lijst></lid><lid><lidnr status="officieel">3</lidnr><al>Met gevangenisstraf van ten hoogste vier
+jaren of geldboete van de vierde categorie wordt gestraft hij die het
+in het tweede lid bedoelde feit pleegt terwijl zijn oogmerk is gericht
+op een misdrijf als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138a">artikel 138a, tweede of derde
+lid</intref>.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -7802,14 +7804,14 @@ zenden.</al></artikel><artikel status="goed">
                 naar hij weet of redelijkerwijs moet vermoeden, gegevens
                 zijn vastgelegd die door wederrechtelijk afluisteren,
                 aftappen of opnemen van een gesprek, telecommunicatie of
-                andere gegevensoverdracht door een geautomatiseerd werk
+                andere gegevensoverdracht of andere gegevensverwerking door een geautomatiseerd werk
                 zijn verkregen;</al>
         </li>
         <li>
             <li.nr>2&#xB0;.</li.nr>
             <al>hij die gegevens die hij door wederrechtelijk
                 afluisteren, aftappen of opnemen van een gesprek,
-                telecommunicatie of andere gegevensoverdracht door een
+                telecommunicatie of andere gegevensoverdracht of andere gegevensverwerking door een
                 geautomatiseerd werk heeft verkregen of die, naar hij
                 weet of redelijkerwijs moet vermoeden, ten gevolge van
                 zulk afluisteren, aftappen of opnemen te zijner kennis
@@ -8498,23 +8500,22 @@ hoogste twee jaren of geldboete van de vierde categorie, indien het
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>161sexies</nr>
+        <nr status="officieel">161sexies</nr>
     </kop>
     
-    <al>Hij die opzettelijk enig geautomatiseerd werk voor opslag of
-        verwerking van gegevens of enig werk voor telecommunicatie
+    <lid><lidnr status="officieel">1</lidnr><al>Hij die opzettelijk enig geautomatiseerd werk of enig werk voor telecommunicatie
         vernielt, beschadigt of onbruikbaar maakt, stoornis in de gang
         of in de werking van zodanig werk veroorzaakt, of een ten
         opzichte van zodanig werk genomen veiligheidsmaatregel
         verijdelt, wordt gestraft: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>1&#xB0;.</li.nr>
             <al>met gevangenisstraf van ten
 hoogste een jaar of
                 geldboete van de vijfde categorie, indien daardoor
-                wederrechtelijk verhindering of bemoeilijking van de
-                opslag of verwerking van gegevens ten algemene nutte of
+                wederrechtelijk verhindering of bemoeilijking van de opslag,
+verwerking of overdracht van gegevens ten algemene nutte of
                 stoornis in een openbaar telecommunicatienetwerk of in
                 de uitvoering van een openbare telecommunicatiedienst, ontstaat;</al>
         </li>
@@ -8538,27 +8539,40 @@ hoogste een jaar of
                 levensgevaar voor een ander te duchten is en het feit
                 iemands dood ten gevolge heeft.</al>
         </li>
-    </lijst>
-</artikel>
+    </lijst></lid>
+<lid> <lidnr status="officieel">2</lidnr><al>Met
+gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde
+categorie wordt gestraft hij die, met het oogmerk dat daarmee een
+misdrijf als bedoeld in het eerste lid wordt
+gepleegd:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>een technisch hulpmiddel dat hoofdzakelijk
+geschikt gemaakt of ontworpen is tot het plegen van een zodanig
+misdrijf, vervaardigt, verkoopt, verwerft, invoert, verspreidt of
+anderszins ter beschikking stelt of voorhanden heeft, of</al></li><li>
+<li.nr>b.</li.nr><al>een computerwachtwoord, toegangscode of daarmee
+vergelijkbaar gegeven waardoor toegang kan worden verkregen tot een
+geautomatiseerd werk of een deel daarvan, verkoopt, verwerft,
+verspreidt of anderszins ter beschikking stelt of voorhanden
+heeft.</al></li></lijst></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>161septies</nr>
+        <nr status="officieel">161septies</nr>
     </kop>
     
     <al>Hij aan wiens schuld te wijten is dat enig geautomatiseerd werk
-        voor opslag of verwerking van gegevens of enig werk voor
+        of enig werk voor
         telecommunicatie wordt vernield, beschadigd of onbruikbaar
         gemaakt, dat stoornis in de gang of in de werking van zodanig
         werk ontstaat, of dat een ten opzichte van zodanig werk genomen
         veiligheidsmaatregel wordt verijdeld, wordt gestraft: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>1&#xB0;.</li.nr>
             <al>met gevangenisstraf van ten
 hoogste zes maanden of geldboete van de vierde categorie, indien
-                daardoor verhindering of bemoeilijking van de opslag of
-                verwerking van gegevens ten algemenen nutte, stoornis in
+                daardoor verhindering of bemoeilijking van de opslag, verwerking of
+overdracht van gegevens ten algemenen nutte, stoornis in
                 een openbaar telecommunicatienetwerk of in de uitvoering
                 van een openbare telecommunicatiedienst, of gemeen
                 gevaar voor goederen of voor de verlening van diensten ontstaat;</al>
@@ -10716,29 +10730,30 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>232</nr>
+        <nr status="officieel">232</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>Hij die opzettelijk een betaalpas of waardekaart bedoeld
-            voor het verrichten van betalingen langs geautomatiseerde
-            weg, valselijk opmaakt of vervalst, met het oogmerk zichzelf
+        <lidnr status="officieel">1</lidnr>
+        <al>Hij die opzettelijk een betaalpas, waardekaart,
+enige andere voor het publiek beschikbare kaart of een voor het publiek
+beschikbare drager van
+identiteitsgegevens, bestemd voor het verrichten of
+verkrijgen van betalingen of andere prestaties langs geautomatiseerde
+weg, valselijk opmaakt of vervalst, met het oogmerk zichzelf
             of een ander te bevoordelen, wordt gestraft met
             gevangenisstraf van ten hoogste zes jaren of geldboete van
             de vijfde categorie.</al>
     </lid>
     
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Met dezelfde straf wordt gestraft hij die opzettelijk
-            gebruik maakt van een valse of vervalste betaalpas of
-            waardekaart als ware deze echt en onvervalst, dan wel
-            opzettelijk zodanige betaalpas of waardekaart aflevert, voorhanden heeft, ontvangt, zich verschaft, vervoert,
-verkoopt of overdraagt, terwijl hij weet of redelijkerwijs moet
-            vermoeden dat de betaalpas of waardekaart bestemd is voor
-            zodanig gebruik.</al>
-    </lid>
+    <lid> <lidnr status="officieel">2</lidnr><al>Met dezelfde
+straf wordt gestraft hij die opzettelijk gebruik maakt van de valse of
+vervalste pas of kaart als ware deze echt en onvervalst, dan wel
+opzettelijk zodanige pas of kaart aflevert, voorhanden heeft, ontvangt,
+zich verschaft, vervoert, verkoopt of overdraagt, terwijl hij weet of
+redelijkerwijs moet vermoeden dat de pas of kaart bestemd is voor
+zodanig
+gebruik.</al></lid>
 </artikel>
     
     <artikel status="goed">
@@ -11587,10 +11602,10 @@ bereikt dan wel bij het vertonen van afbeeldingen van dergelijke handelingen
     </lid>
 </artikel>
 </titeldeel>
-    <titeldeel>
+    <titeldeel status="goed">
     <kop>
         <label>Titel</label>
-        <nr>XVII</nr>
+        <nr status="officieel">XVII</nr>
         <titel status="officieel">Schending van geheimen</titel>
     </kop>
     <artikel status="goed">
@@ -11657,11 +11672,123 @@ bereikt dan wel bij het vertonen van afbeeldingen van dergelijke handelingen
             van de onderneming.</al>
     </lid>
 </artikel>
-</titeldeel>
-    <titeldeel><kop><label>Titel</label><nr>XVIII</nr><titel status="officieel">Misdrijven tegen de persoonlijke vrijheid</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>273a</nr></kop><lid><lidnr>1</lidnr><al>Als schuldig aan mensenhandel wordt met
+<artikel status="goed">
+  <kop><label>Artikel</label><nr status="officieel">273a</nr>
+  </kop>
+  
+  <al>De persoon werkzaam bij enige openbare instelling van vervoer die een aan
+	 zodanige instelling toevertrouwde brief, gesloten stuk of pakket opzettelijk en
+	 wederrechtelijk opent, daarvan inzage neemt of de inhoud aan een ander
+	 bekendmaakt, wordt gestraft met gevangenisstraf van ten hoogste een jaar en zes
+	 maanden of geldboete van de vierde categorie.</al>
+</artikel><artikel status="goed">
+  <kop>
+	 <label>Artikel</label><nr status="officieel">273b</nr>
+  </kop>
+  <lid><lidnr status="officieel">1</lidnr>
+	 <al>De persoon werkzaam bij enige openbare instelling van vervoer die een
+		aan zodanige instelling toevertrouwde brief, briefkaart, stuk of pakket
+		opzettelijk aan een ander dan de rechthebbende afgeeft, vernietigt, wegmaakt,
+		zich toe-eigent, of de inhoud wijzigt of enig daarin gesloten voorwerp zich
+		toe-eigent, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of
+		geldboete van de vierde categorie.</al>
+  </lid>
+  <lid> 
+	 <lidnr status="officieel">2</lidnr>
+	 <al>Indien zodanig stuk of voorwerp geldswaarde heeft, wordt de
+		toe-eigening gestraft met gevangenisstraf van ten hoogste zes jaren of
+		geldboete van de vierde categorie.</al>
+  </lid>
+</artikel><artikel status="goed">
+  <kop>
+	 <label>Artikel</label><nr status="officieel">273c</nr>
+  </kop> 
+  
+  <al>De persoon belast met de dienst van een ten algemenen nutte gebezigde
+	 telegraafinrichting wordt gestraft:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+	 <li>
+		<li.nr>a.</li.nr>
+		<al>met gevangenisstraf van ten hoogste een jaar en zes maanden of
+		  geldboete van de vierde categorie, indien hij de inhoud van een aan zodanige
+		  inrichting toevertrouwd bericht opzettelijk en wederrechtelijk aan een ander
+		  bekendmaakt of een telegram opzettelijk en wederrechtelijk opent, daarvan
+		  inzage neemt of de inhoud aan een ander bekendmaakt;</al>
+	 </li>
+	 <li> 
+		<li.nr>b.</li.nr>
+		<al>met gevangenisstraf van ten hoogste vier jaren of geldboete van de
+		  vierde categorie, indien hij een aan zodanige inrichting toevertrouwd bericht
+		  of een telegram opzettelijk aan een ander dan de rechthebbende afgeeft,
+		  vernietigt, wegmaakt, zich toe-eigent of de inhoud wijzigt.</al>
+	 </li>
+  </lijst>
+</artikel><artikel status="goed">
+  <kop>
+	 <label>Artikel</label><nr status="officieel">273d</nr>
+  </kop>
+  
+  <lid><lidnr status="officieel">1</lidnr>
+	 <al>Met gevangenisstraf van ten hoogste een jaar en zes maanden of
+		geldboete van de vierde categorie wordt gestraft de persoon werkzaam bij een
+		aanbieder van een openbaar telecommunicatienetwerk of een openbare
+		telecommunicatiedienst:</al>
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+		<li>
+		  <li.nr>a.</li.nr>
+		  <al>die opzettelijk en wederrechtelijk van gegevens kennisneemt die
+			 door tussenkomst van zodanig netwerk of zodanige dienst zijn opgeslagen, worden
+			 verwerkt of overgedragen en die niet voor hem zijn bestemd, zodanige gegevens
+			 voor zichzelf of een ander overneemt, aftapt of opneemt;</al>
+		</li>
+		<li> 
+		  <li.nr>b.</li.nr>
+		  <al>die de beschikking heeft over een voorwerp waaraan, naar hij weet
+			 of redelijkerwijs moet vermoeden, een gegeven kan worden ontleend, dat door
+			 wederrechtelijk overnemen, aftappen of opnemen van zodanige gegevens is
+			 verkregen;</al>
+		</li>
+		<li> 
+		  <li.nr>c.</li.nr>
+		  <al>die opzettelijk en wederrechtelijk de inhoud van zodanige gegevens
+			 aan een ander bekendmaakt;</al>
+		</li>
+		<li> 
+		  <li.nr>d.</li.nr>
+		  <al>die opzettelijk en wederrechtelijk een voorwerp waaraan een gegeven
+			 omtrent de inhoud van zodanige gegevens kan worden ontleend, ter beschikking
+			 stelt van een ander.</al>
+		</li>
+	 </lijst>
+  </lid>
+  <lid><lidnr status="officieel">2</lidnr>
+	 <al><redactie type="vervanging">Dit lid is nog niet in werking
+		getreden.</redactie></al>
+  </lid>
+</artikel><artikel status="goed">
+  <kop>
+	 <label>Artikel</label><nr status="officieel">273e</nr>
+  </kop> 
+  
+  <al>Enig in de
+	 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">artikelen 273a tot en met
+	 273d</intref> bedoeld persoon die opzettelijk toelaat dat een ander een
+	 der in deze artikelen vermelde feiten pleegt, of die ander daarbij als
+	 medeplichtige ter zijde staat, wordt gestraft met de straffen en naar de
+	 onderscheidingen in die bepalingen vastgesteld.</al>
+</artikel></titeldeel>
+    <titeldeel status="goed">
+    <kop>
+        <label>Titel</label>
+        <nr status="officieel">XVIII</nr>
+        <titel status="officieel">Misdrijven tegen de persoonlijke vrijheid</titel>
+    </kop>
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">273f</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Als schuldig aan mensenhandel wordt met
 gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde
 categorie
-gestraft:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1&#xB0;.</li.nr><al>degene die een ander door dwang, geweld of
+gestraft:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>1&#xB0;.</li.nr><al>degene die een ander door dwang, geweld of
 een andere feitelijkheid of door dreiging met geweld of een andere
 feitelijkheid, door afpersing, fraude, misleiding dan wel door misbruik
 van uit feitelijke omstandigheden voortvloeiend overwicht, door
@@ -11669,20 +11796,23 @@ misbruik van een kwetsbare positie of door het geven of ontvangen van
 betalingen of voordelen om de instemming van een persoon te verkrijgen
 die zeggenschap over die ander heeft, werft, vervoert, overbrengt,
 huisvest of opneemt, met het oogmerk van uitbuiting van die ander of de
-verwijdering van diens organen;</al></li><li><li.nr>2&#xB0;.</li.nr><al>degene die een ander werft, vervoert,
+verwijdering van diens organen;</al></li><li>
+<li.nr>2&#xB0;.</li.nr><al>degene die een ander werft, vervoert,
 overbrengt, huisvest of opneemt, met het oogmerk van uitbuiting van die
 ander of de verwijdering van diens organen, terwijl die ander de
-leeftijd van achttien jaren nog niet heeft bereikt;</al></li><li><li.nr>3&#xB0;.</li.nr><al>degene die een ander aanwerft, medeneemt
+leeftijd van achttien jaren nog niet heeft bereikt;</al></li><li>
+<li.nr>3&#xB0;.</li.nr><al>degene die een ander aanwerft, medeneemt
 of ontvoert met het oogmerk die ander in een ander land ertoe te
 brengen zich beschikbaar te stellen tot het verrichten van seksuele
-handelingen met of voor een derde tegen betaling;</al></li><li><li.nr>4&#xB0;.</li.nr><al>degene die een ander met een van de onder
+handelingen met of voor een derde tegen betaling;</al></li><li>
+<li.nr>4&#xB0;.</li.nr><al>degene die een ander met een van de onder
 1&#xB0; genoemde middelen dwingt of beweegt zich beschikbaar te
 stellen tot het verrichten van arbeid of diensten of zijn organen
 beschikbaar te stellen dan wel onder de onder 1&#xB0; genoemde
 omstandigheden enige handeling onderneemt waarvan hij weet of
 redelijkerwijs moet vermoeden dat die ander zich daardoor beschikbaar
 stelt tot het verrichten van arbeid of diensten of zijn organen
-beschikbaar stelt;</al></li><li><li.nr>5&#xB0;.</li.nr><al>degene
+beschikbaar stelt;</al></li><li> <li.nr>5&#xB0;.</li.nr><al>degene
 die een ander ertoe brengt zich beschikbaar te stellen tot het
 verrichten van seksuele handelingen met of voor een derde tegen
 betaling of zijn organen tegen betaling beschikbaar te stellen dan wel
@@ -11690,36 +11820,45 @@ ten aanzien van een ander enige handeling onderneemt waarvan hij weet
 of redelijkerwijs moet vermoeden dat die ander zich daardoor
 beschikbaar stelt tot het verrichten van die handelingen of zijn
 organen tegen betaling beschikbaar stelt, terwijl die ander de leeftijd
-van achttien jaren nog niet heeft bereikt;</al></li><li><li.nr>6&#xB0;.</li.nr><al>degene die opzettelijk voordeel trekt uit
-de uitbuiting van een ander;</al></li><li><li.nr>7&#xB0;.</li.nr><al>degene die opzettelijk voordeel trekt uit
+van achttien jaren nog niet heeft bereikt;</al></li><li>
+<li.nr>6&#xB0;.</li.nr><al>degene die opzettelijk voordeel trekt uit
+de uitbuiting van een ander;</al></li><li>
+<li.nr>7&#xB0;.</li.nr><al>degene die opzettelijk voordeel trekt uit
 de verwijdering van organen van een ander, terwijl hij weet of
 redelijkerwijs moet vermoeden dat diens organen onder de onder
-1&#xB0; bedoelde omstandigheden zijn verwijderd;</al></li><li><li.nr>8&#xB0;.</li.nr><al>degene die opzettelijk voordeel trekt uit
+1&#xB0; bedoelde omstandigheden zijn verwijderd;</al></li><li>
+<li.nr>8&#xB0;.</li.nr><al>degene die opzettelijk voordeel trekt uit
 seksuele handelingen van een ander met of voor een derde tegen betaling
 of de verwijdering van diens organen tegen betaling, terwijl die ander
-de leeftijd van achttien jaren nog niet heeft bereikt;</al></li><li><li.nr>9&#xB0;.</li.nr><al>degene die een ander met een van de onder
+de leeftijd van achttien jaren nog niet heeft bereikt;</al></li><li>
+<li.nr>9&#xB0;.</li.nr><al>degene die een ander met een van de onder
 1&#xB0; genoemde middelen dwingt dan wel beweegt hem te bevoordelen
 uit de opbrengst van diens seksuele handelingen met of voor een derde
-of van de verwijdering van diens organen.</al></li></lijst></lid><lid><lidnr>2</lidnr><al>Uitbuiting omvat ten minste uitbuiting van een
+of van de verwijdering van diens organen.</al></li></lijst></lid><lid>
+<lidnr status="officieel">2</lidnr><al>Uitbuiting omvat ten minste uitbuiting van een
 ander in de prostitutie, andere vormen van seksuele uitbuiting,
 gedwongen of verplichte arbeid of diensten, slavernij en met slavernij
-of dienstbaarheid te vergelijken praktijken.</al></lid><lid><lidnr>3</lidnr><al>De schuldige wordt gestraft met gevangenisstraf
+of dienstbaarheid te vergelijken praktijken.</al></lid><lid>
+<lidnr status="officieel">3</lidnr><al>De schuldige wordt gestraft met gevangenisstraf
 van ten hoogste acht jaren of geldboete van de vijfde categorie,
-indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1&#xB0;.</li.nr><al>de feiten, omschreven in het eerste lid,
-worden gepleegd door twee of meer verenigde personen;</al></li><li><li.nr>2&#xB0;.</li.nr><al>de persoon ten aanzien van wie de in het
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>1&#xB0;.</li.nr><al>de feiten, omschreven in het eerste lid,
+worden gepleegd door twee of meer verenigde personen;</al></li><li>
+<li.nr>2&#xB0;.</li.nr><al>de persoon ten aanzien van wie de in het
 eerste lid omschreven feiten worden gepleegd, de leeftijd van zestien
-jaren nog niet heeft bereikt.</al></li></lijst></lid><lid><lidnr>4</lidnr><al>De feiten, omschreven in het eerste lid, gepleegd
+jaren nog niet heeft bereikt.</al></li></lijst></lid><lid>
+<lidnr status="officieel">4</lidnr><al>De feiten, omschreven in het eerste lid, gepleegd
 door twee of meer verenigde personen onder de omstandigheid, bedoeld in
 het derde lid, onder 2&#xB0;, worden gestraft met gevangenisstraf van
 ten hoogste tien jaren of geldboete van de vijfde
-categorie.</al></lid><lid><lidnr>5</lidnr><al>Indien een van de in
+categorie.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Indien een van de in
 het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge
 heeft of daarvan levensgevaar voor een ander te duchten is, wordt
 gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde
-categorie opgelegd.</al></lid><lid><lidnr>6</lidnr><al>Indien een van
+categorie opgelegd.</al></lid><lid> <lidnr status="officieel">6</lidnr><al>Indien een van
 de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt
 gevangenisstraf van ten hoogste vijftien jaren of geldboete van de
-vijfde categorie opgelegd.</al></lid><lid><lidnr>7</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=251">Artikel
+vijfde categorie opgelegd.</al></lid><lid> <lidnr status="officieel">7</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=251">Artikel
 251</intref> is van overeenkomstige
 toepassing.</al></lid></artikel><artikel status="goed">
     <kop>
@@ -11732,7 +11871,8 @@ toepassing.</al></lid></artikel><artikel status="goed">
         opzettelijk daaraan middellijk of onmiddellijk deelneemt, wordt
         gestraft met gevangenisstraf van ten hoogste twaalf jaren of
         geldboete van de vijfde categorie.</al>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>275</nr>
@@ -11754,7 +11894,8 @@ toepassing.</al></lid></artikel><artikel status="goed">
             gevangenisstraf van ten hoogste vijftien jaren of geldboete
             van de vijfde categorie.</al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>276</nr>
@@ -11765,7 +11906,8 @@ toepassing.</al></lid></artikel><artikel status="goed">
         wordt, of vrijwillig in dienst blijft na die bestemming of dit
         gebruik te hebben vernomen, wordt gestraft met gevangenisstraf
         van ten hoogste negen jaren of geldboete van de vijfde categorie.</al>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>277</nr>
@@ -11777,7 +11919,8 @@ toepassing.</al></lid></artikel><artikel status="goed">
         verzekeren van een vaartuig, wetende dat het tot het drijven van
         slavenhandel bestemd is, wordt gestraft met gevangenisstraf van
         ten hoogste acht jaren of geldboete van de vijfde categorie.</al>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>278</nr>
@@ -11789,7 +11932,8 @@ toepassing.</al></lid></artikel><artikel status="goed">
         te brengen of om hem in hulpeloze toestand te verplaatsen,
         wordt, als schuldig aan mensenroof, gestraft met gevangenisstraf
         van ten hoogste twaalf jaren of geldboete van de vijfde categorie.</al>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>279</nr>
@@ -11811,7 +11955,8 @@ toepassing.</al></lid></artikel><artikel status="goed">
             of bedreiging met geweld is gebezigd, of indien de
             minderjarige beneden de twaalf jaren oud is.</al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>280</nr>
@@ -11860,7 +12005,8 @@ en handelt overeenkomstig de krachtens <intref status="actief" doc="1.0:v:BWBR00
             verblijf of vestiging aan degene die het gezag over de
             minderjarige uitoefent, bestanddelen.</al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>281</nr>
@@ -11918,7 +12064,8 @@ en handelt overeenkomstig de krachtens <intref status="actief" doc="1.0:v:BWBR00
             gesloten, heeft geen veroordeling plaats, dan nadat de
             nietigheid van het huwelijk is uitgesproken.</al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>282</nr>
@@ -11949,7 +12096,8 @@ en handelt overeenkomstig de krachtens <intref status="actief" doc="1.0:v:BWBR00
             op hem die opzettelijk tot de wederrechtelijke
             vrijheidsberoving een plaats verschaft.</al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>282a</nr>
@@ -11975,7 +12123,8 @@ en handelt overeenkomstig de krachtens <intref status="actief" doc="1.0:v:BWBR00
         <al> Het <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282">vierde lid van artikel
             282</intref> is toepasselijk.</al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
               <kop>
                 <label>Artikel</label>
                 <nr>282b</nr>
@@ -11991,7 +12140,8 @@ de vijfde categorie.</al>
                 <lidnr status="officieel">2</lidnr>
                 <al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282">Artikel 282, vierde lid</intref>, is van overeenkomstige toepassing.</al>
               </lid>
-            </artikel><artikel status="goed"><kop><label>Artikel</label><nr>282c</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282b">artikel 282b</intref> omschreven misdrijf wordt gestraft
+            </artikel>
+            <artikel status="goed"><kop><label>Artikel</label><nr>282c</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De samenspanning tot het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282b">artikel 282b</intref> omschreven misdrijf wordt gestraft
 met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde
 categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel><artikel status="goed">
     <kop>
@@ -12020,7 +12170,8 @@ maanden of
             gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete
 van de vierde categorie.</al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>284</nr>
@@ -12054,7 +12205,8 @@ van de vierde categorie.</al>
         <al> In het geval onder 2&#xB0; omschreven wordt het misdrijf niet
             vervolgd dan op klacht van hem tegen wie het gepleegd is.</al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>284a</nr>
@@ -12065,20 +12217,22 @@ van de vierde categorie.</al>
         tegen derden wederrechtelijk dwingt iets te doen, niet te doen
         of te dulden, wordt gestraft met gevangenisstraf van ten hoogste
         een jaar en zes maanden of geldboete van de vierde categorie.</al>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>285</nr>
+        <nr status="officieel">285</nr>
     </kop>
     
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Bedreiging met openlijk in vereniging geweld plegen
 tegen personen of goederen, met geweld tegen een internationaal
             beschermd persoon of diens beschermde goederen, met enig
-            misdrijf waardoor de algemene veiligheid van personen of
-            goederen in gevaar wordt gebracht, met verkrachting, met
+            misdrijf waardoor gevaar voor de algemene
+veiligheid van personen of goederen of gemeen gevaar voor de verlening
+van diensten ontstaat, met verkrachting, met
             feitelijke aanranding van de eerbaarheid, met enig misdrijf
             tegen het leven gericht, met gijzeling, met zware
             mishandeling of met brandstichting, wordt gestraft met
@@ -12087,7 +12241,7 @@ tegen personen of goederen, met geweld tegen een internationaal
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Indien deze bedreiging schriftelijk en onder een bepaalde
             voorwaarde geschiedt, wordt ze gestraft met gevangenisstraf
             van ten hoogste vier jaren of geldboete van de vierde categorie.</al>
@@ -12096,7 +12250,8 @@ tegen personen of goederen, met geweld tegen een internationaal
                 <lidnr status="officieel">3</lidnr>
                 <al>Bedreiging met een terroristisch misdrijf wordt gestraft met gevangenisstraf
 van ten hoogste zes jaren of geldboete van de vijfde categorie.</al>
-              </lid></artikel><artikel status="goed"> 
+              </lid></artikel>
+    <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr>285a</nr> 
@@ -12120,7 +12275,8 @@ van ten hoogste zes jaren of geldboete van de vijfde categorie.</al>
 		gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk
 		partij is.</al> 
   </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>285b</nr>
@@ -12140,7 +12296,8 @@ van ten hoogste zes jaren of geldboete van de vijfde categorie.</al>
         <al>Vervolging vindt niet plaats dan op klacht van hem tegen wie
             het misdrijf is begaan.</al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>286</nr>
@@ -12151,7 +12308,8 @@ van ten hoogste zes jaren of geldboete van de vijfde categorie.</al>
         285</intref> omschreven misdrijven, kan ontzetting van
         de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=28">artikel 28, eerste lid, onder 1&#xB0;, 2&#xB0;
             en 4&#xB0;</intref>, vermelde rechten worden uitgesproken.</al>
-</artikel></titeldeel>
+</artikel>
+</titeldeel>
     <titeldeel>
     <kop>
         <label>Titel</label>
@@ -13827,7 +13985,8 @@ ten hoogste zes jaren of
   <lid> 
 	 <lidnr>1</lidnr> 
 	 <al>Hij die opzettelijk en wederrechtelijk gegevens die door middel van een
-		geautomatiseerd werk zijn opgeslagen, worden verwerkt of overgedragen,
+		geautomatiseerd werk of door middel
+van telecommunicatie zijn opgeslagen, worden verwerkt of overgedragen,
 		verandert, wist, onbruikbaar of ontoegankelijk maakt, dan wel andere gegevens
 		daaraan toevoegt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren
 		of geldboete van de vierde categorie.</al> 
@@ -13843,8 +14002,8 @@ ten hoogste zes jaren of
   <lid> 
 	 <lidnr>3</lidnr> 
 	 <al> Hij die opzettelijk en wederrechtelijk gegevens ter beschikking stelt
-		of verspreidt die bedoeld zijn om schade aan te richten door zichzelf te
-		vermenigvuldigen in een geautomatiseerd werk, wordt gestraft met
+		of verspreidt die zijn bestemd om schade aan te richten in een geautomatiseerd
+werk, wordt gestraft met
 		gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde
 		categorie.</al> 
   </lid>
@@ -13864,7 +14023,8 @@ ten hoogste zes jaren of
     <lid>
         <lidnr>1</lidnr>
         <al>Hij aan wiens schuld te wijten is dat gegevens die door
-            middel van een geautomatiseerd werk zijn opgeslagen, worden
+            middel van een geautomatiseerd werk of door middel
+van telecommunicatie zijn opgeslagen, worden
             verwerkt of overgedragen, wederrechtelijk worden veranderd,
             gewist, onbruikbaar of ontoegankelijk gemaakt, dan wel dat
             andere gegevens daaraan worden toegevoegd, wordt, indien
@@ -13877,8 +14037,8 @@ ten hoogste zes jaren of
         <lidnr>2</lidnr>
         <al> Hij aan wiens schuld te wijten is dat gegevens
             wederrechtelijk ter beschikking gesteld of verspreid worden
-            die bedoeld zijn om schade aan te richten door zichzelf te
-            vermenigvuldigen in een geautomatiseerd werk, wordt gestraft
+            die zijn bestemd om schade aan te richten in een geautomatiseerd
+werk, wordt gestraft
             met gevangenisstraf of hechtenis van ten hoogste een maand
             of geldboete van de tweede categorie.</al>
     </lid>
@@ -13891,7 +14051,7 @@ ten hoogste zes jaren of
     
     
     <al>Hij die spoorweg- of elektriciteitswerken, geautomatiseerde
-        werken voor opslag of verwerking van gegevens of werken voor
+        werken of werken voor
         telecommunicatie, werken dienend tot waterkering, waterlozing,
         gas- of waterleiding of riolering, voor zover deze werken ten
         algemenen nutte gebezigd worden, dan wel goederen of werken ten
@@ -14429,164 +14589,38 @@ plaatsen met overschrijding van zijn
             onderzoekt of in beslag neemt.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>371</nr>
-    </kop>
-    
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De ambtenaar die, met overschrijding van zijn bevoegdheid,
-            zich doet overleggen of in beslag neemt een aan enige
-            openbare instelling van vervoer toevertrouwde brief,
-            briefkaart, stuk of pakket, of een telegrafisch bericht dat
-            zich in handen bevindt van een ambtenaar van de telegrafie
-            of van andere personen belast met de dienst van een ten
-            algemenen nutte gebezigde telegraafinrichting, wordt
-            gestraft met gevangenisstraf van ten hoogste twee jaren of
-            geldboete van de vierde categorie.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Dezelfde straf wordt opgelegd aan de ambtenaar die, met
-            overschrijding van zijn bevoegdheid, zich door een ambtenaar
-            van de telefonie of door andere personen belast met de
-            dienst van een ten algemenen nutte gebezigde
-            telefooninrichting, doet inlichten ter zake van enig verkeer
-            hetwelk door tussenkomst van die instelling is geschied.</al>
-    </lid>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">371</nr> 
+  </kop> 
+   
+   
+  <lid> 
+	 <lidnr status="officieel">1</lidnr> 
+	 <al>De ambtenaar die, met overschrijding van zijn bevoegdheid, zich doet
+		overleggen of in beslag neemt een aan enige openbare instelling van vervoer
+		toevertrouwde brief, briefkaart, stuk of pakket, of een telegrafisch bericht
+		dat zich in handen bevindt van een persoon belast met de dienst van een ten
+		algemenen nutte gebezigde telegraafinrichting, wordt gestraft met
+		gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde
+		categorie.</al> 
+  </lid> 
+   
+  <lid> 
+	 <lidnr status="officieel">2</lidnr> 
+	 <al>Met dezelfde straf wordt gestraft de ambtenaar die, met overschrijding
+		van zijn bevoegdheid, zich door een persoon werkzaam bij een aanbieder van een
+		openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst doet
+		inlichten ter zake van enig verkeer dat over dat netwerk dan wel met
+		gebruikmaking van die dienst is geschied.</al> 
+  </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>372</nr>
-    </kop>
-    
-    <al>De ambtenaar van of een persoon werkzaam bij enige openbare
-        instelling van vervoer die een aan zodanige instelling
-        toevertrouwde brief, gesloten stuk of pakket opzettelijk en
-        wederrechtelijk opent, daarvan inzage neemt of de inhoud aan een
-        ander bekendmaakt, wordt gestraft met gevangenisstraf van ten
-        hoogste een jaar en zes maanden of geldboete van de vierde categorie.</al>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>373</nr>
-    </kop>
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De ambtenaar van of een persoon werkzaam bij enige openbare
-            instelling van vervoer die een aan zodanige instelling
-            toevertrouwde brief, briefkaart, stuk of pakket opzettelijk
-            aan een ander dan de rechthebbende afgeeft, vernietigt,
-            wegmaakt, zich toe&#xEB;igent, of de inhoud wijzigt of enig
-            daarin gesloten voorwerp zich toe&#xEB;igent, wordt gestraft met
-            gevangenisstraf van ten hoogste vier jaren of geldboete van
-            de vierde categorie.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al> Indien zodanig stuk of voorwerp geldswaarde heeft, wordt de
-            toe&#xEB;igening gestraft met gevangenisstraf van ten hoogste zes
-            jaren of geldboete van de vierde categorie.</al>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>374</nr>
-    </kop>
     
     
-    <al>De ambtenaar van de telegrafie of enig ander persoon belast met
-        het toezicht op of met de dienst van een ten algemenen nutte
-        gebezigde telegraafinrichting, wordt gestraft: </al>
-    <lijst>
-        <li>
-            <li.nr>1&#xB0;.</li.nr>
-            <al>met gevangenisstraf van ten hoogste een jaar en zes
-                maanden of geldboete van de vierde categorie, indien hij
-                de inhoud van een aan de telegrafie of aan zodanige
-                inrichting toevertrouwd bericht opzettelijk en
-                wederrechtelijk aan een ander bekendmaakt of een
-                telegram opzettelijk en wederrechtelijk opent, daarvan
-                inzage neemt of de inhoud aan een ander bekendmaakt;</al>
-        </li>
-        
-        <li>
-            <li.nr>2&#xB0;.</li.nr>
-            <al>met gevangenisstraf van ten hoogste vier jaren of
-                geldboete van de vierde categorie, indien hij een aan de
-                telegrafie of aan zodanige inrichting toevertrouwd
-                bericht of een telegram opzettelijk aan een ander dan de
-                rechthebbende afgeeft, vernietigt, wegmaakt, zich
-                toe&#xEB;igent of de inhoud wijzigt.</al>
-        </li>
-    </lijst>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>374bis</nr>
-    </kop>
     
     
-    <al>Met gevangenisstraf van ten hoogste een jaar en zes maanden of
-        geldboete van de vierde categorie wordt gestraft de ambtenaar of
-        enig ander persoon belast met het toezicht op of met de dienst
-        ten behoeve van een openbaar telecommunicatienetwerk of een
-        openbare telecommunicatiedienst: </al>
-    <lijst>
-        <li>
-            <li.nr>1&#xB0;.</li.nr>
-            <al>die opzettelijk en wederrechtelijk een door tussenkomst
-                van deze infrastructuur verzorgde, niet voor hem of niet
-                mede voor hem bestemde gegevensoverdracht afluistert,
-                aftapt of opneemt;</al>
-        </li>
-        <li>
-            <li.nr>2&#xB0;.</li.nr>
-            <al>die de beschikking heeft over een voorwerp waaraan, naar
-                hij weet of redelijkerwijs moet vermoeden, een gegeven
-                kan worden ontleend, dat door wederrechtelijk
-                afluisteren, aftappen of opnemen van zodanige
-                gegevensoverdracht is verkregen;</al>
-        </li>
-        <li>
-            <li.nr>3&#xB0;.</li.nr>
-            <al>die opzettelijk en wederrechtelijk de inhoud van
-                zodanige gegevensoverdracht aan een ander bekendmaakt;</al>
-        </li>
-        
-        <li>
-            <li.nr>4&#xB0;.</li.nr>
-            <al>die opzettelijk en wederrechtelijk een voorwerp waaraan
-                een gegeven omtrent de inhoud van zodanige
-                gegevensoverdracht kan worden ontleend, ter beschikking
-                stelt van een ander.</al>
-        </li>
-    </lijst>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>375</nr>
-    </kop>
     
-    
-    <al>De ambtenaar van enige openbare instelling van vervoer of van de
-        telegrafie of telefonie of enig ander in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=372">artikelen 372 tot en met 374 <nadruk type="cur">bis</nadruk>
-        </intref> bedoeld persoon, die opzettelijk toelaat dat
-        een ander een der in deze artikelen vermelde feiten pleegt, of
-        die ander daarbij als medeplichtige ter zijde staat, wordt
-        gestraft met de straffen en naar de onderscheidingen in die
-        bepalingen vastgesteld.</al>
-</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -14671,9 +14705,7 @@ plaatsen met overschrijding van zijn
         <lidnr>2</lidnr>
         <al> Bij veroordeling wegens een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=359">artikelen 359</intref>,
                 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=362">362 tot en met
-            364</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=366">366</intref>,
-                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=373">373, laatste
-            lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=379">379, eerste
+            364</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=366">366</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=379">379, eerste
             lid</intref>, omschreven misdrijven kan ontzetting
             van het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=28">artikel 28, eerste lid, onder
             4&#xB0;</intref>, vermelde recht worden uitgesproken.</al>
