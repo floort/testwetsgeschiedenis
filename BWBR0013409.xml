@@ -197,8 +197,8 @@
     <paragraaf>
     <kop>
         <label>Paragraaf</label>
-        <nr>2.2</nr>
-        <titel>De Algemene Inlichtingen- en Veiligheidsdienst</titel>
+        <nr status="officieel">2.2</nr>
+        <titel status="officieel">De Algemene Inlichtingen- en Veiligheidsdienst</titel>
     </kop>
     <artikel status="goed">
     <kop>
@@ -252,12 +252,33 @@
         </lijst>
     </lid>
 </artikel>
-</paragraaf>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">6a</nr><al><redactie type="extra">Treedt in werking per 29-12-2006</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>De dreigings- en risicoanalyses, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6">artikel 6, tweede lid, onderdeel e</intref>, worden opgesteld naar aanleiding
+van gegevens die worden verstrekt
+door:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de personen, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=6" compleet="nee">artikelen 6, derde lid,
+onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=38" compleet="nee">38, eerste lid, onderdeel c, van de Politiewet
+1993</extref>;</al></li><li> <li.nr>b.</li.nr><al>degenen die belast zijn met de
+behartiging van de belangen van de personen, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=6" compleet="nee">artikelen 6,
+derde lid, onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=38" compleet="nee">38, eerste lid, onderdeel c, van de
+Politiewet 1993</extref>;</al></li><li> <li.nr>c.</li.nr><al>degenen die belast
+zijn met de behartiging van de belangen van de objecten of de diensten,
+die zijn aangewezen op grond van <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=15a" compleet="nee">artikel 15a van de Politiewet
+1993</extref>;</al></li><li> <li.nr>d.</li.nr><al>de diensten;</al></li><li>
+<li.nr>e.</li.nr><al>de politie; of</al></li><li>
+<li.nr>f.</li.nr><al>het openbaar
+ministerie.</al></li></lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>De
+Algemene Inlichtingen- en Veiligheidsdienst is slechts bevoegd gegevens
+te verzamelen ten behoeve van het opstellen van de dreigings- en
+risicoanalyses, bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6">artikel 6, tweede lid, onderdeel e</intref>, indien
+de gegevens die op grond van het eerste lid zijn verstrekt dat
+noodzakelijk
+maken.</al></lid></artikel></paragraaf>
     <paragraaf>
     <kop>
         <label>Paragraaf</label>
-        <nr>2.3</nr>
-        <titel>De Militaire Inlichtingen- en Veiligheidsdienst</titel>
+        <nr status="officieel">2.3</nr>
+        <titel status="officieel">De Militaire Inlichtingen- en Veiligheidsdienst</titel>
     </kop>
     <artikel status="goed">
     <kop>
@@ -344,7 +365,29 @@
         </lijst>
     </lid>
 </artikel>
-</paragraaf>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">7a</nr><al><redactie type="extra">Treedt in werking per 29-12-2006</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>De dreigingsanalyses, bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">artikel 7,
+tweede lid, onderdeel f</intref>, worden opgesteld naar aanleiding van gegevens
+die worden verstrekt
+door:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de personen, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=6" compleet="nee">artikelen 6, derde lid,
+onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=38" compleet="nee">38, eerste lid, onderdeel c, van de Politiewet
+1993</extref>;</al></li><li> <li.nr>b.</li.nr><al>degenen die belast zijn met de
+behartiging van de belangen van de personen, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=6" compleet="nee">artikelen 6,
+derde lid, onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=38" compleet="nee">38, eerste lid, onderdeel c, van de
+Politiewet 1993</extref>;</al></li><li> <li.nr>c.</li.nr><al>degenen die belast
+zijn met de behartiging van de belangen van de objecten of de diensten,
+die zijn aangewezen op grond van <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=15a" compleet="nee">artikel 15a van de Politiewet
+1993</extref>;</al></li><li> <li.nr>d.</li.nr><al>de diensten;</al></li><li>
+<li.nr>e.</li.nr><al>de politie; of</al></li><li>
+<li.nr>f.</li.nr><al>het openbaar
+ministerie.</al></li></lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>De
+Militaire Inlichtingen- en Veiligheidsdienst is slechts bevoegd
+gegevens te verzamelen ten behoeve van het opstellen van de
+dreigingsanalyses, bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">artikel 7, tweede lid, onderdeel f</intref>,
+indien de gegevens die op grond van het eerste lid zijn verstrekt dat
+noodzakelijk
+maken.</al></lid></artikel></paragraaf>
     <paragraaf>
     <kop>
         <label>Paragraaf</label>
