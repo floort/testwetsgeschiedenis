@@ -490,8 +490,8 @@ in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</
     <paragraaf>
     <kop>
         <label>&#xA7;</label>
-        <nr>3.2</nr>
-        <titel>Vergunningverlening voor het gebruik
+        <nr status="officieel">3.2</nr>
+        <titel status="officieel">Vergunningverlening voor het gebruik
             van frequentieruimte  </titel>
     </kop>
     <artikel status="goed">
@@ -931,7 +931,30 @@ is.</al>
             van de aanwijzing, bedoeld in het eerste lid, onderdeel a.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">3.4a</nr><al><redactie type="extra">Treedt in werking per 13-12-2006</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Indien vergunningen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel
+3.3, eerste lid</intref>, worden verleend volgens de procedure bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, vierde lid, onder b, of onder c</intref>, kan in het belang van een
+evenwichtige verdeling van schaarse frequentieruimte, voor bij
+ministeri&#xEB;le regeling aan te wijzen diensten, bij die regeling
+de maximale hoeveelheid frequentieruimte worden vastgesteld die een
+aanvrager bij verlening van bedoelde vergunningen kan
+verkrijgen.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Indien een aanvrager
+een onderneming is die rechtstreeks of middellijk een dominerende
+invloed kan uitoefenen op een andere aanvrager worden zij als
+&#xE9;&#xE9;n aanvrager aangemerkt.</al></lid><lid>
+<lidnr status="officieel">3</lidnr><al>Indien de andere aanvrager bedoeld in het tweede
+lid de rechtsvorm van een privaatrechtelijke rechtspersoon heeft, wordt
+dominerende invloed als bedoeld in het tweede lid vermoed te kunnen
+worden uitgeoefend wanneer de onderneming rechtstreeks of
+middellijk:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>over de meerderheid van de stemrechten, verbonden
+aan de door de rechtspersoon uitgegeven aandelen beschikt,
+of</al></li><li> <li.nr>b.</li.nr><al>meer dan de helft van de leden
+van het bestuur of het toezichthoudend orgaan
+benoemt.</al></li></lijst></lid><lid> <lidnr status="officieel">4</lidnr><al>Dit artikel
+blijft buiten toepassing als <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=82f" compleet="nee">artikel 82f van de Mediawet</extref> van toepassing
+is.</al></lid></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">3.5</nr>
@@ -6935,8 +6958,8 @@ buiten toepassing.</al></lid></artikel>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
-        <nr>18</nr>
-        <titel>Verdere bepalingen  </titel>
+        <nr status="officieel">18</nr>
+        <titel status="officieel">Verdere bepalingen  </titel>
     </kop>
     <artikel status="goed">
     <kop>
@@ -7445,7 +7468,16 @@ de beide kamers der Staten-Generaal.</al>
 						bieden.</al>
 				  </lid>
 				</artikel> 
-				<artikel status="goed"> 
+				<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.16a</nr><al><redactie type="extra">Treedt in werking per 13-12-2006</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Een certificatiedienstverlener die in het
+bezit is van een geldig bewijs van toetsing van een op grond van
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.16">artikel 18.16, eerste lid</intref>, aangewezen organisatie, wordt vermoed te
+voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste lid</intref>.</al></lid><lid>
+<lidnr status="officieel">2</lidnr><al>De certificaten die als gekwalificeerd aan het
+publiek worden aangeboden of afgegeven door een
+certificatiedienstverlener als bedoeld in het eerste lid, worden
+vermoed te voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, tweede
+lid</intref>.</al></lid></artikel><artikel status="goed"> 
 				  <kop> 
 					 <label>Artikel</label> 
 					 <nr>18.17</nr>
@@ -7500,7 +7532,34 @@ de beide kamers der Staten-Generaal.</al>
 						Minister de termijn verlengen.</al>
 				  </lid>
 				</artikel> 
-				<artikel status="goed"> 
+				<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.17a</nr><al><redactie type="extra">Treedt in werking per 13-12-2006</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Onze Minister kan een of meer instellingen
+aanwijzen die zijn belast met het beoordelen van de overeenstemming van
+een veilig middel voor het aanmaken van elektronische handtekeningen
+met de eisen bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17">artikel 18.17</intref> en het daartoe afgeven van
+verklaringen.</al></lid>			<lid> <lidnr status="officieel">2</lidnr><al>Bij of krachtens
+algemene maatregel van bestuur worden regels gesteld
+inzake:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de indiening van een aanvraag voor een
+aanwijzing;</al></li><li> <li.nr>b.</li.nr><al>de eisen waaraan
+instellingen moeten voldoen om voor een aanwijzing in aanmerking te
+komen;</al></li><li> <li.nr>c.</li.nr><al>voorschriften welke aan een
+aanwijzing kunnen worden verbonden, waaronder de duur waarvoor de
+aanwijzing geldt.</al></li></lijst></lid><lid>
+<lidnr status="officieel">3</lidnr><al>Onze Minister trekt een aanwijzing in indien de
+aangewezen instelling niet meer voldoet aan de haar gestelde eisen om
+voor een aanwijzing in aanmerking te komen en de instelling niet binnen
+een door Onze Minister gestelde termijn heeft aangetoond aan de eisen
+te voldoen.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Indien de aangewezen
+instelling aantoont redelijkerwijs niet binnen de gestelde termijn aan
+de gestelde eisen te kunnen voldoen, kan Onze Minister op verzoek van
+de aangewezen instelling de termijn bedoeld in het derde lid verlengen
+waarbinnen aan de criteria of voorschriften moet zijn
+voldaan.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Onze Minister kan een
+aanwijzing intrekken indien de aangewezen instelling de bij of
+krachtens deze wet gestelde regels, dan wel de aan een aanwijzing
+verbonden voorschriften niet
+nakomt.</al></lid></artikel><artikel status="goed"> 
 				  <kop> 
 					 <label>Artikel</label> 
 					 <nr status="officieel">18.18</nr>
