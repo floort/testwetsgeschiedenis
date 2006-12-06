@@ -2450,7 +2450,28 @@ communicatienetwerken zijn over en weer verplicht te voldoen aan
             redelijke vergoeding. </al>
     </lid>
 </artikel>
-    
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">5.11</nr>
+    <al><redactie type="extra">Treedt in werking per 01-02-2007</redactie></al></kop>
+    <lid><lidnr status="officieel">1</lidnr><al>Rechthebbenden op bomen of beplantingen of de
+beheerders van de grond waarop de bomen of beplantingen zich bevinden
+zijn verplicht op schriftelijk verzoek van de aanbieder van een
+openbaar elektronisch communicatienetwerk binnen twee weken de wortels
+daarvan in te korten, voor zover deze redelijkerwijs hinderlijk zijn of
+worden voor de instandhouding van kabels ten dienste van het netwerk
+waardoor de exploitatie van het netwerk in gevaar komt.</al></lid><lid>
+<lidnr status="officieel">2</lidnr><al>In geval van ernstige belemmering of storing van
+de communicatie kan een aanbieder van een openbaar elektronisch
+communicatienetwerk onmiddellijk tot het inkorten van wortels overgaan,
+waarna deze zo spoedig mogelijk hiervan schriftelijk aan de
+rechthebbende of beheerder kennis geeft, doch niet later dan de dag
+volgend op de werkzaamheden.</al></lid><lid> <lidnr status="officieel">3</lidnr><al>De
+aanbieder van een openbaar elektronisch communicatienetwerk vergoedt
+aan de rechthebbende of beheerder de schade voortvloeiend uit het
+inkorten van wortels.</al></lid>
+</artikel>
 </hoofdstuk>
             <hoofdstuk>
     <kop>
@@ -2614,8 +2635,8 @@ en bevoegdheden worden verleend aan het college.</al>
               </artikel>
 </hoofdstuk>
             <hoofdstuk><kop><label>Hoofdstuk</label>
-        <nr>6a</nr>
-        <titel>Verplichtingen voor ondernemingen die beschikken over een aanmerkelijke marktmacht</titel></kop><paragraaf><kop><label>&#xA7;</label>
+        <nr status="officieel">6a</nr>
+        <titel status="officieel">Verplichtingen voor ondernemingen die beschikken over een aanmerkelijke marktmacht</titel></kop><paragraaf><kop><label>&#xA7;</label>
         <nr>6a.1</nr>
         
     <titel>Vaststellen van aanmerkelijke marktmacht</titel></kop><artikel status="goed">
@@ -3451,7 +3472,53 @@ openbare onderneming buiten toepassing voor zover deze verplichting reeds
 voortvloeit uit een krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.8">artikel 6a.8</intref> door
 het college opgelegde of instandgehouden verplichting.</al>
                   </lid>
-                </artikel></paragraaf></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>6b</nr><titel>Consultatie</titel></kop><artikel status="goed">
+                </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr status="officieel">6a.7</nr><titel status="officieel">Verplichtingen
+voor aanbieders van programmadiensten die beschikken over een
+aanmerkelijke marktmacht</titel><al><redactie type="extra">Treedt in werking per 01-02-2007</redactie></al></kop><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">6a.21</nr><al><redactie type="extra">Treedt in werking per 01-02-2007</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Het college bepaalt in overeenstemming met de
+beginselen van het algemene Europese mededingingsrecht relevante
+markten voor het aanbieden van programmadiensten waarvan de kenmerken
+zodanig zijn dat het opleggen van de in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">6a.13</intref>,
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.14">6a.14</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.22">6a.22</intref> bedoelde verplichtingen passend kan
+zijn.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Het college onderzoekt de
+overeenkomstig het eerste lid bedoelde markten zo spoedig mogelijk. Het
+onderzoek is er in ieder geval op gericht om vast te
+stellen:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>of de desbetreffende markt al dan niet
+daadwerkelijk concurrerend is en of hierop ondernemingen die
+programmadiensten aanbieden actief zijn die beschikken over een
+aanmerkelijke marktmacht, en</al></li><li> <li.nr>b.</li.nr><al>welke
+verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">6a.13</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.14">6a.14</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.22">6a.22</intref>
+passend zijn voor de onder a bedoelde
+ondernemingen.</al></li></lijst></lid><lid> <lidnr status="officieel">3</lidnr><al>Indien
+uit een onderzoek, bedoeld in tweede lid, blijkt dat een relevante
+markt niet daadwerkelijk concurrerend is, stelt het college vast welke
+ondernemingen die programmadiensten aanbieden, beschikken over een
+aanmerkelijke marktmacht,
+en:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>legt hij ieder van hen, voor zover passend,
+verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">6a.13</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.14">6a.14</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.22">6a.22</intref>
+op;</al></li><li> <li.nr>b.</li.nr><al>houdt hij eerder opgelegde
+verplichtingen, voor zover zij betrekking hebben op deze markt, in
+stand indien zij nog steeds passend zijn, of</al></li><li>
+<li.nr>c.</li.nr><al>trekt hij eerder opgelegde verplichtingen, voor
+zover zij betrekking hebben op deze markt, in, indien zij niet langer
+passend zijn.</al></li></lijst></lid><lid> <lidnr status="officieel">4</lidnr><al>Voor de
+toepassing van dit artikel wordt onder &#xAB;eindgebruiker&#xBB;,
+bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12 tot en met 6a.14</intref>, verstaan: een
+natuurlijk persoon of rechtspersoon die gebruik maakt of verzoekt om
+een programmadienst.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>De <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikelen
+6a.1, zesde, zevende en achtste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">6a.2, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3, eerste en
+tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.4">6a.4</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.5">6a.5</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">6b.1</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.3">6b.3</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.6">6b.6</intref> zijn van overeenkomstige
+toepassing.</al></lid></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">6a.22</nr><al><redactie type="extra">Treedt in werking per 01-02-2007</redactie></al></kop> <al>Bij
+algemene maatregel van bestuur kunnen andere verplichtingen dan de
+verplichtingen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12 tot en met 6a.14</intref>, worden
+aangewezen die het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.21">artikel 6a.21, derde lid</intref>, kan
+opleggen aan ondernemingen die een aanmerkelijke marktmacht hebben bij
+het aanbieden van
+programmadiensten.</al></artikel></paragraaf></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>6b</nr><titel>Consultatie</titel></kop><artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">6b.1</nr>
