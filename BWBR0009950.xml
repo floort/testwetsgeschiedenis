@@ -32,19 +32,37 @@
         <nr>1</nr>
         <titel>Algemene bepalingen  </titel>
     </kop>
-    <artikel status="goed"><kop><label>Artikel</label><nr>1.1</nr></kop><al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al><lijst nr-sluiting=""><li><li.nr>a.</li.nr><al>Onze Minister: Onze Minister van Economische Zaken;</al></li><li><li.nr>b.</li.nr><al>college: college, genoemd in <extref status="actief" doc="1.0:v:BWBR0008807&amp;artikel=2" compleet="nee">artikel 2 van de Wet Onafhankelijke post-
-en telecommunicatieautoriteit</extref>;</al></li><li><li.nr>c.</li.nr><al>raad van bestuur van de mededingingsautoriteit: raad van bestuur van
-de Nederlandse mededingingsautoriteit als bedoeld in <extref status="actief" doc="1.0:v:BWBR0008691&amp;artikel=2" compleet="nee">artikel 2 van de Mededingingswet</extref>;</al></li><li><li.nr>d.</li.nr><al>nationale regelgevende instantie: instantie in een andere lidstaat
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">1.1</nr>
+    </kop>
+    
+    <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
+              <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
+                  <al>Onze Minister: Onze Minister van Economische Zaken;</al>
+                </li><li><li.nr>b.</li.nr>
+                  <al>college: college, genoemd in <extref status="actief" doc="1.0:v:BWBR0008807&amp;artikel=2" compleet="nee">artikel 2 van de Wet Onafhankelijke post-
+en telecommunicatieautoriteit</extref>;</al>
+                </li><li><li.nr>c.</li.nr>
+                  <al>raad van bestuur van de mededingingsautoriteit: raad van bestuur van
+de Nederlandse mededingingsautoriteit als bedoeld in <extref status="actief" doc="1.0:v:BWBR0008691&amp;artikel=2" compleet="nee">artikel 2 van de Mededingingswet</extref>;</al>
+                </li><li><li.nr>d.</li.nr>
+                  <al>nationale regelgevende instantie: instantie in een andere lidstaat
 van de Europese Unie die krachtens het recht van die lidstaat is belast met
 een of meer regelgevende of daarmee verband houdende uitvoerende taken die
 zijn toegekend in de <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijnen nrs. 2002/19/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2002/20/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2002/21/EG</extref>,
-<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2002/22/EG</extref> of&#xA0;<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2002/58/EG</extref>;</al></li><li><li.nr>e.</li.nr><al>elektronisch communicatienetwerk: transmissiesystemen, waaronder mede
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2002/22/EG</extref> of&#xA0;<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">2002/58/EG</extref>;</al>
+                </li><li><li.nr>e.</li.nr>
+                  <al>elektronisch communicatienetwerk: transmissiesystemen, waaronder mede
 begrepen de schakel- of routeringsapparatuur en andere middelen, die het mogelijk
 maken signalen over te brengen via kabels, radiogolven, optische of andere
 elektromagnetische middelen, waaronder satellietnetwerken, vaste en mobiele
 terrestrische netwerken, elektriciteitsnetten, voor zover deze voor overdracht
 van signalen worden gebruikt en netwerken voor radio- en televisieomroep en
-kabeltelevisienetwerken, ongeacht de aard van de overgebrachte informatie;</al></li><li><li.nr>f.</li.nr><al>elektronische communicatiedienst: gewoonlijk tegen vergoeding aangeboden
+kabeltelevisienetwerken, ongeacht de aard van de overgebrachte informatie;</al>
+                </li><li><li.nr>f.</li.nr>
+                  <al>elektronische communicatiedienst: gewoonlijk tegen vergoeding aangeboden
 dienst die geheel of hoofdzakelijk bestaat in het overbrengen van signalen
 via elektronische communicatienetwerken, waaronder telecommunicatiediensten
 en transmissiediensten op netwerken die voor omroep worden gebruikt, doch
@@ -52,133 +70,249 @@ niet de dienst waarbij met behulp van elektronische communicatienetwerken
 en -diensten overgebrachte inhoud wordt geleverd of redactioneel wordt gecontroleerd.
 Het omvat niet de diensten van de informatiemaatschappij zoals omschreven
 in artikel 1 van de notificatierichtlijn die niet geheel of hoofdzakelijk
-bestaan uit het overbrengen van signalen via elektronische communicatienetwerken;</al></li><li><li.nr>g.</li.nr><al>openbare elektronische communicatiedienst: elektronische communicatiedienst
-die beschikbaar is voor het publiek;</al></li><li><li.nr>h.</li.nr><al>openbaar elektronisch communicatienetwerk: elektronisch communicatienetwerk
+bestaan uit het overbrengen van signalen via elektronische communicatienetwerken;</al>
+                </li><li><li.nr>g.</li.nr>
+                  <al>openbare elektronische communicatiedienst: elektronische communicatiedienst
+die beschikbaar is voor het publiek;</al>
+                </li><li><li.nr>h.</li.nr>
+                  <al>openbaar elektronisch communicatienetwerk: elektronisch communicatienetwerk
 dat geheel of hoofdzakelijk wordt gebruikt om openbare elektronische communicatiediensten
 aan te bieden, waaronder mede wordt begrepen een netwerk, bestemd voor het
-verspreiden van programma's voor zover dit aan het publiek geschiedt;</al></li><li><li.nr>i.</li.nr><al>aanbieden van een elektronisch communicatienetwerk: het bouwen, exploiteren,
-beheren of beschikbaar stellen van een elektronisch communicatienetwerk;</al></li><li><li.nr>j.</li.nr><al>bijbehorende faciliteiten: bij een elektronisch communicatienetwerk
+verspreiden van programma's voor zover dit aan het publiek geschiedt;</al>
+                </li><li><li.nr>i.</li.nr>
+                  <al>aanbieden van een elektronisch communicatienetwerk: het bouwen, exploiteren,
+beheren of beschikbaar stellen van een elektronisch communicatienetwerk;</al>
+                </li><li><li.nr>j.</li.nr>
+                  <al>bijbehorende faciliteiten: bij een elektronisch communicatienetwerk
 of een elektronische communicatiedienst behorende faciliteiten die het aanbieden
 van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen,
-alsmede systemen voor voorwaardelijke toegang en elektronische programmagidsen;</al></li><li><li.nr>k.</li.nr><al>netwerkaansluitpunt: fysiek punt waarop een abonnee de toegang tot
+alsmede systemen voor voorwaardelijke toegang en elektronische programmagidsen;</al>
+                </li><li><li.nr>k.</li.nr>
+                  <al>netwerkaansluitpunt: fysiek punt waarop een abonnee de toegang tot
 een openbaar communicatienetwerk wordt geboden; in het geval van netwerken
 met schakelings- of routeringsfuncties wordt het netwerkaansluitpunt bepaald
 door middel van een specifiek netwerkadres, dat met een abonneenummer of -naam
-kan zijn verbonden;</al></li><li><li.nr>l.</li.nr><al>toegang: het aan een andere onderneming beschikbaar stellen van netwerkonderdelen,
+kan zijn verbonden;</al>
+                </li><li><li.nr>l.</li.nr>
+                  <al>toegang: het aan een andere onderneming beschikbaar stellen van netwerkonderdelen,
 bijbehorende faciliteiten of diensten onder uitdrukkelijke voorwaarden al
 dan niet op exclusieve basis ten behoeve van het aanbieden van
 elektronische communicatiediensten of het verspreiden van programma's aan
-het publiek door die onderneming;</al></li><li><li.nr>m.</li.nr><al>interconnectie: specifiek type toegang dat wordt gerealiseerd tussen
+het publiek door die onderneming;</al>
+                </li><li><li.nr>m.</li.nr>
+                  <al>interconnectie: specifiek type toegang dat wordt gerealiseerd tussen
 exploitanten van openbare netwerken, inhoudende het fysiek en logisch verbinden
 van openbare communicatienetwerken die door dezelfde of een andere onderneming
 worden gebruikt om het de gebruikers van een onderneming mogelijk te maken
 te communiceren met die van dezelfde of van een andere onderneming of toegang
-te hebben tot diensten die door een andere onderneming worden aangeboden;</al></li><li><li.nr>n.</li.nr><al>gebruiker: natuurlijke persoon of rechtspersoon die gebruik maakt van
-of verzoekt om een openbare elektronische communicatiedienst;</al></li><li><li.nr>o.</li.nr><al>eindgebruiker: natuurlijke persoon of rechtspersoon die van een openbare
+te hebben tot diensten die door een andere onderneming worden aangeboden;</al>
+                </li><li><li.nr>n.</li.nr>
+                  <al>gebruiker: natuurlijk persoon of rechtspersoon die gebruik maakt van
+of verzoekt om een openbare elektronische communicatiedienst;</al>
+                </li><li><li.nr>o.</li.nr>
+                  <al>eindgebruiker: natuurlijke persoon of rechtspersoon die van een openbare
 elektronische communicatiedienst gebruik maakt of wil gaan maken en die niet
 tevens openbare elektronische communicatienetwerken of openbare elektronische
-communicatiediensten aanbiedt;</al></li><li><li.nr>p.</li.nr><al>abonnee: natuurlijke persoon of rechtspersoon die partij is bij een
+communicatiediensten aanbiedt;</al>
+                </li><li><li.nr>p.</li.nr>
+                  <al>abonnee: natuurlijke persoon of rechtspersoon die partij is bij een
 overeenkomst met een aanbieder van openbare elektronische communicatiediensten
-voor de levering van dergelijke diensten;</al></li><li><li.nr>q.</li.nr><al>consument: natuurlijke persoon die gebruik maakt van of verzoekt om
+voor de levering van dergelijke diensten;</al>
+                </li><li><li.nr>q.</li.nr>
+                  <al>consument: natuurlijke persoon die gebruik maakt van of verzoekt om
 een openbare elektronische communicatiedienst voor andere dan bedrijfs- of
-beroepsdoeleinden;</al></li><li><li.nr>r.</li.nr><al>onderneming: onderneming in de zin van <extref status="slapend" doc="" compleet="nee">artikel 81, eerste lid, van
-het Verdrag tot oprichting van de Europese Gemeenschap</extref>;</al></li><li><li.nr>s.</li.nr><al>onderneming die beschikt over een aanmerkelijke marktmacht: onderneming
+beroepsdoeleinden;</al>
+                </li><li><li.nr>r.</li.nr>
+                  <al>onderneming: onderneming in de zin van <extref status="slapend" doc="" compleet="nee">artikel 81, eerste lid, van
+het Verdrag tot oprichting van de Europese Gemeenschap</extref>;</al>
+                </li><li><li.nr>s.</li.nr>
+                  <al>onderneming die beschikt over een aanmerkelijke marktmacht: onderneming
 die alleen of tezamen met andere ondernemingen over een economische kracht
 beschikt die haar in staat stelt zich in belangrijke mate onafhankelijk van
-haar concurrenten, klanten en uiteindelijk consumenten te gedragen;</al></li><li><li.nr>t.</li.nr><al>transnationale markt: bij beschikking, bedoeld in artikel 15, vierde
+haar concurrenten, klanten en uiteindelijk consumenten te gedragen;</al>
+                </li><li><li.nr>t.</li.nr>
+                  <al>transnationale markt: bij beschikking, bedoeld in artikel 15, vierde
 lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>, gedefinieerde markt die ten minste een
-gedeelte van Nederland beslaat;</al></li><li><li.nr>u.</li.nr><al>huurlijn: publiekelijk ter beschikking gestelde transparante transmissiecapaciteit
+gedeelte van Nederland beslaat;</al>
+                </li><li><li.nr>u.</li.nr>
+                  <al>huurlijn: publiekelijk ter beschikking gestelde transparante transmissiecapaciteit
 tussen twee netwerkaansluitpunten van een of meer elektronische communicatienetwerken,
 zonder routeringsfuncties waarover gebruikers kunnen beschikken als onderdeel
-van de geleverde huurlijn;</al></li><li><li.nr>v.</li.nr><al>minimumpakket van huurlijnen: door de Commissie van de Europese Gemeenschappen
+van de geleverde huurlijn;</al>
+                </li><li><li.nr>v.</li.nr>
+                  <al>minimumpakket van huurlijnen: door de Commissie van de Europese Gemeenschappen
 op grond van de artikelen 17 en 22 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> of de artikelen
 18 en 37 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref> vastgesteld minimumpakket van huurlijnen,
 zoals vermeld in een lijst van in het Publicatieblad van de Europese Gemeenschappen
-gepubliceerde normen;</al></li><li><li.nr>w.</li.nr><al>openbaar telefoonnetwerk: elektronisch communicatienetwerk dat wordt
+gepubliceerde normen;</al>
+                </li><li><li.nr>w.</li.nr>
+                  <al>openbaar telefoonnetwerk: elektronisch communicatienetwerk dat wordt
 gebruikt om openbare telefoondiensten aan te bieden; het ondersteunt de overdracht
 tussen netwerkaansluitpunten van spraakcommunicatie en ook andere vormen van
-communicatie, zoals fax en data;</al></li><li><li.nr>x.</li.nr><al>openbare telefoondienst: dienst die voor het publiek beschikbaar is
-voor uitgaande en binnenkomende gesprekken;</al></li><li><li.nr>y.</li.nr><al>programma: programma als bedoeld in <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, eerste lid, onder f,
-van de Mediawet</extref>;</al></li><li><li.nr>z.</li.nr><al>kabels: kabels en de daarbij behorende ondersteuningswerken, beschermingswerken
+communicatie, zoals fax en data;</al>
+                </li><li><li.nr>x.</li.nr>
+                  <al>openbare telefoondienst: dienst die voor het publiek beschikbaar is
+voor uitgaande en binnenkomende gesprekken;</al>
+                </li><li><li.nr>y.</li.nr>
+                  <al>programma: programma als bedoeld in <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, eerste lid, onder f,
+van de Mediawet</extref>;</al>
+                </li><li><li.nr>z.</li.nr>
+                  <al>kabels: kabels en de daarbij behorende ondersteuningswerken, beschermingswerken
 en signaalinrichtingen, alsmede inrichtingen, bestemd om daarin verbinding
 tot stand te brengen tussen kabels in, op of boven openbare gronden enerzijds
 en kabels in gebouwen en daarmee &#xE9;&#xE9;n geheel vormende gronden
-anderzijds dan wel tussen laatstgenoemde kabels onderling;</al></li><li><li.nr>aa.</li.nr><al>openbare gronden:</al><lijst nr-sluiting=""><li><li.nr>1&#xBA;.</li.nr><al>openbare wegen met inbegrip van de daartoe behorende stoepen,
+anderzijds dan wel tussen laatstgenoemde kabels onderling;</al>
+                  
+                </li><li><li.nr>aa.</li.nr>
+                      <al>openbare gronden:</al>
+                      <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr>
+                          <al>openbare wegen met inbegrip van de daartoe behorende stoepen,
 glooiingen, bermen, sloten, bruggen, viaducten, tunnels, duikers, beschoeiingen
-en andere werken;</al></li><li><li.nr>2&#xBA;.</li.nr><al>wateren met de daartoe behorende bruggen, plantsoenen, pleinen
-en andere plaatsen, die voor eenieder toegankelijk zijn;</al></li></lijst></li><li><li.nr>bb.</li.nr><al>nummer: cijfers, letters of andere symbolen, al dan niet in combinatie,
+en andere werken;</al>
+                        </li><li><li.nr>2&#xBA;.</li.nr>
+                          <al>wateren met de daartoe behorende bruggen, plantsoenen, pleinen
+en andere plaatsen, die voor eenieder toegankelijk zijn;</al>
+                        </li></lijst>
+                    </li><li><li.nr>bb.</li.nr>
+                      <al>nummer: cijfers, letters of andere symbolen, al dan niet in combinatie,
 die bestemd zijn voor toegang tot of identificatie van gebruikers, netwerkexploitanten,
-diensten, netwerkaansluitpunten of andere netwerkelementen;</al></li><li><li.nr>cc.</li.nr><al>nummeridentificatie:</al><lijst nr-sluiting=""><li><li.nr>1&#xBA;.</li.nr><al>faciliteit om het nummer van het oproepende netwerkaansluitpunt
+diensten, netwerkaansluitpunten of andere netwerkelementen;</al>
+                    </li><li><li.nr>cc.</li.nr>
+                      <al>nummeridentificatie:</al>
+                      <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr>
+                          <al>faciliteit om het nummer van het oproepende netwerkaansluitpunt
 dan wel een nummer waarmee een individuele gebruiker kan worden ge&#xEF;dentificeerd
 aan het opgeroepen netwerkaansluitpunt te verstrekken, voordat de verbinding
-tot stand wordt gebracht;</al></li><li><li.nr>2&#xBA;.</li.nr><al>faciliteit om het nummer van het opgeroepen netwerkaansluitpunt
+tot stand wordt gebracht;</al>
+                        </li><li><li.nr>2&#xBA;.</li.nr>
+                          <al>faciliteit om het nummer van het opgeroepen netwerkaansluitpunt
 dan wel het nummer waarmee een individuele gebruiker kan worden ge&#xEF;dentificeerd
 aan het oproepende netwerkaansluitpunt te verstrekken, voordat de verbinding
-tot stand wordt gebracht;</al></li></lijst></li><li><li.nr>dd.</li.nr><al>in de handel brengen: het voor de eerste maal afleveren na vervaardiging
+tot stand wordt gebracht;</al>
+                        </li></lijst>
+                    </li><li><li.nr>dd.</li.nr>
+                      <al>in de handel brengen: het voor de eerste maal afleveren na vervaardiging
 in de Europese Economische Ruimte, het invoeren in de Europese Economische
 Ruimte uit een land daarbuiten, alsmede het in gebruik nemen na vervaardiging
 of invoer uit een land buiten de Europese Economische Ruimte in de Europese
-Economische Ruimte;</al></li><li><li.nr>ee.</li.nr><al>openbaar telecommunicatienetwerk: elektronisch communicatienetwerk
+Economische Ruimte;</al>
+                    </li><li><li.nr>ee.</li.nr>
+                      <al>openbaar telecommunicatienetwerk: elektronisch communicatienetwerk
 dat geheel of gedeeltelijk wordt gebruikt om openbare telecommunicatiediensten
 aan te bieden, voor zover het netwerk niet gebruikt wordt voor het verspreiden
-van programma's;</al></li><li><li.nr>ff.</li.nr><al>openbare telecommunicatiedienst: voor het publiek beschikbare dienst
+van programma's;</al>
+                    </li><li><li.nr>ff.</li.nr>
+                      <al>openbare telecommunicatiedienst: voor het publiek beschikbare dienst
 die geheel of gedeeltelijk bestaat in het overbrengen van signalen via een
 elektronisch communicatienetwerk, voor zover deze dienst niet bestaat uit
-het verspreiden van programma's;</al></li><li><li.nr>gg.</li.nr><al>apparaten: elektrische en elektronische apparaten alsmede uitrustingen
-en installaties, die elektrische of elektronische componenten bevatten;</al></li><li><li.nr>hh.</li.nr><al>randapparaten:</al><lijst nr-sluiting=""><li><li.nr>1&#xBA;.</li.nr><al>apparaten die bestemd zijn om op een openbaar telecommunicatienetwerk
-te worden aangesloten, zodanig dat zij:</al><lijst nr-sluiting=""><li><li.nr>a.</li.nr><al>rechtstreeks op netwerkaansluitpunten kunnen worden aangesloten, of</al></li><li><li.nr>b.</li.nr><al>kunnen dienen voor interactie met een openbaar telecommunicatienetwerk
+het verspreiden van programma's;</al>
+                    </li><li><li.nr>gg.</li.nr>
+                      <al>apparaten: elektrische en elektronische apparaten alsmede uitrustingen
+en installaties, die elektrische of elektronische componenten bevatten;</al>
+                    </li><li><li.nr>hh.</li.nr>
+                      <al>randapparaten:</al>
+                      <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr>
+                          <al>apparaten die bestemd zijn om op een openbaar telecommunicatienetwerk
+te worden aangesloten, zodanig dat zij:</al>
+                          <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
+                              <al>rechtstreeks op netwerkaansluitpunten kunnen worden aangesloten, of</al>
+                            </li><li><li.nr>b.</li.nr>
+                              <al>kunnen dienen voor interactie met een openbaar telecommunicatienetwerk
 via directe of indirecte aansluiting op netwerkaansluitpunten ten behoeve
-van de overbrenging, verwerking of ontvangst van informatie;</al></li></lijst></li><li><li.nr>2&#xBA;.</li.nr><al>radiozendapparaten die geschikt zijn om op een openbaar telecommunicatienetwerk
-te worden aangesloten;</al></li><li><li.nr>3&#xBA;.</li.nr><al>apparaten voor satellietgrondstations tenzij bij of krachtens
+van de overbrenging, verwerking of ontvangst van informatie;</al>
+                            </li></lijst>
+                        </li><li><li.nr>2&#xBA;.</li.nr>
+                          <al>radiozendapparaten die geschikt zijn om op een openbaar telecommunicatienetwerk
+te worden aangesloten;</al>
+                        </li><li><li.nr>3&#xBA;.</li.nr>
+                          <al>apparaten voor satellietgrondstations tenzij bij of krachtens
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref> anders is bepaald, doch met uitsluiting van speciaal geconstrueerde
-apparatuur die bedoeld is voor gebruik als onderdeel van een openbaar telecommunicatienetwerk;</al></li></lijst></li><li><li.nr>ii.</li.nr><al>radiozendapparaten: apparaten die naar hun aard bestemd zijn voor
-het zenden of het zenden en ontvangen van radiocommunicatiesignalen;</al></li><li><li.nr>jj.</li.nr><al>elektromagnetische compatibiliteit: eigenschap van apparaten, om op
+apparatuur die bedoeld is voor gebruik als onderdeel van een openbaar telecommunicatienetwerk;</al>
+                        </li></lijst>
+                    </li><li><li.nr>ii.</li.nr>
+                      <al>radiozendapparaten: apparaten die naar hun aard bestemd zijn voor
+het zenden of het zenden en ontvangen van radiocommunicatiesignalen;</al>
+                    </li><li><li.nr>jj.</li.nr>
+                      <al>elektromagnetische compatibiliteit: eigenschap van apparaten, om op
 bevredigende wijze in hun elektromagnetische omgeving te kunnen functioneren
 zonder zelf elektromagnetische storingen te veroorzaken die ontoelaatbaar
-zijn voor alles wat zich in die omgeving bevindt;</al></li><li><li.nr>kk.</li.nr><al>systeem voor voorwaardelijke toegang: elke technische maatregel of
+zijn voor alles wat zich in die omgeving bevindt;</al>
+                    </li><li><li.nr>kk.</li.nr>
+                      <al>systeem voor voorwaardelijke toegang: elke technische maatregel of
 regeling waarbij toegang tot een beschermde radio- of televisie-omroepdienst
 in begrijpelijke vorm afhankelijk wordt gemaakt van een abonnement of een
-andere vorm van voorafgaande individuele machtiging;</al></li><li><li.nr>ll.</li.nr><al>applicatieprogramma-interface: een software interface tussen externe
+andere vorm van voorafgaande individuele machtiging;</al>
+                    </li><li><li.nr>ll.</li.nr>
+                      <al>applicatieprogramma-interface: een software interface tussen externe
 toepassingen, die beschikbaar is gesteld door omroepen, dienstenleveranciers,
-alsmede de hulpmiddelen in de eindapparatuur;</al></li><li><li.nr>mm.</li.nr><al>Internationaal Telecommunicatieverdrag: het op 22&#xA0;december 1992 te Gen&#xE8;ve tot stand gekomen Statuut en Verdrag van de Internationale
+alsmede de hulpmiddelen in de eindapparatuur;</al>
+                    </li><li><li.nr>mm.</li.nr>
+                      <al>Internationaal Telecommunicatieverdrag: het op 22&#xA0;december 1992 te Gen&#xE8;ve tot stand gekomen Statuut en Verdrag van de Internationale
 Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen
 (Trb. 1993, 138), de op 14&#xA0;oktober 1994 te Kyoto tot stand gekomen Akten
 van wijziging van het Statuut en het Verdrag van de Internationale Unie voor
 Telecommunicatie (Trb. 1995, 201) en de op 6&#xA0;november 1998 te Minneapolis
 tot stand gekomen Akten van wijziging van het Statuut en het Verdrag van de
-Internationale Unie voor Telecommunicatie (Trb. 2001, 90);</al></li><li><li.nr>nn.</li.nr><al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/19/EG</extref> van het Europees
+Internationale Unie voor Telecommunicatie (Trb. 2001, 90);</al>
+                    </li><li><li.nr>nn.</li.nr>
+                      <al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/19/EG</extref> van het Europees
 Parlement en de Raad van de Europese Unie van 7&#xA0;maart 2002 inzake de
 toegang tot en interconnectie van elektronische-communicatienetwerken en bijbehorende
-faciliteiten (Toegangsrichtlijn) (PbEG L&#xA0;108);</al></li><li><li.nr>oo.</li.nr><al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/20/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/20/EG</extref> van het Europees
+faciliteiten (Toegangsrichtlijn) (PbEG L&#xA0;108);</al>
+                    </li><li><li.nr>oo.</li.nr>
+                      <al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/20/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/20/EG</extref> van het Europees
 Parlement en de Raad van de Europese Unie van 7&#xA0;maart 2002 betreffende
 de machtiging voor elektronische-communicatienetwerken en -diensten (Machtigingsrichtlijn)
-(PbEG L&#xA0;108);</al></li><li><li.nr>pp.</li.nr><al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/21/EG</extref> van het Europees
+(PbEG L&#xA0;108);</al>
+                    </li><li><li.nr>pp.</li.nr>
+                      <al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/21/EG</extref> van het Europees
 Parlement en de Raad van de Europese Unie van 7&#xA0;maart 2002 inzake een
 gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken
-en -diensten (Kaderrichtlijn) (PbEG L&#xA0;108);</al></li><li><li.nr>qq.</li.nr><al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/22/EG</extref> van het Europees
+en -diensten (Kaderrichtlijn) (PbEG L&#xA0;108);</al>
+                    </li><li><li.nr>qq.</li.nr>
+                      <al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/22/EG</extref> van het Europees
 Parlement en de Raad van de Europese Unie van 7&#xA0;maart 2002 inzake de
 universele dienst en gebruikersrechten met betrekking tot elektronische-communicatienetwerken
-en -diensten (Universeledienstrichtlijn) (PbEG L&#xA0;108);</al></li><li><li.nr>rr.</li.nr><al>certificaat: elektronische bevestiging die gegevens voor het verifi&#xEB;ren
+en -diensten (Universeledienstrichtlijn) (PbEG L&#xA0;108);</al>
+                    </li><li><li.nr>rr.</li.nr>
+                      <al>certificaat: elektronische bevestiging die gegevens voor het verifi&#xEB;ren
 van een elektronische handtekening met een bepaalde persoon verbindt en de
-identiteit van die persoon bevestigt;</al></li><li><li.nr>ss.</li.nr><al>gekwalificeerd certificaat: certificaat dat voldoet aan de eisen,
+identiteit van die persoon bevestigt;</al>
+                    </li><li><li.nr>ss.</li.nr>
+                      <al>gekwalificeerd certificaat: certificaat dat voldoet aan de eisen,
 gesteld krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, tweede lid</intref>, en is afgegeven door een certificatiedienstverlener
-die voldoet aan de eisen, gesteld krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste lid</intref>;</al></li><li><li.nr>tt.</li.nr><al>certificatiedienstverlener: een natuurlijke persoon of rechtspersoon
+die voldoet aan de eisen, gesteld krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste lid</intref>;</al>
+                    </li><li><li.nr>tt.</li.nr>
+                      <al>certificatiedienstverlener: een natuurlijke persoon of rechtspersoon
 die certificaten afgeeft of andere diensten in verband met elektronische handtekeningen
-verleent;</al></li><li><li.nr>uu.</li.nr><al>middel voor het aanmaken van elektronische handtekeningen: geconfigureerde
+verleent;</al>
+                    </li><li><li.nr>uu.</li.nr>
+                      <al>middel voor het aanmaken van elektronische handtekeningen: geconfigureerde
 software of hardware die wordt gebruikt om de gegevens voor het aanmaken van
-elektronische handtekeningen te implementeren;</al></li><li><li.nr>vv.</li.nr><al>veilig middel voor het aanmaken van elektronische handtekeningen:
+elektronische handtekeningen te implementeren;</al>
+                    </li><li><li.nr>vv.</li.nr>
+                      <al>veilig middel voor het aanmaken van elektronische handtekeningen:
 een middel voor het aanmaken van elektronische handtekeningen dat voldoet
-aan de eisen gesteld krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17">artikel 18.17, eerste lid</intref>;</al></li><li><li.nr>ww.</li.nr><al>elektronische handtekening: elektronische handtekening als bedoeld
+aan de eisen gesteld krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17">artikel 18.17, eerste lid</intref>;</al>
+                    </li><li><li.nr>ww.</li.nr>
+                      <al>elektronische handtekening: elektronische handtekening als bedoeld
 in <extref status="actief" doc="1.0:v:BWBR0005291&amp;artikel=15a" compleet="nee">artikel 15a, vierde lid, van Titel 1, afdeling 1A van Boek 3 van het Burgerlijk
-Wetboek</extref>;</al></li><li><li.nr>xx.</li.nr><al>ondertekenaar: voor de toepassing van deze wet geldt de definitiebepaling
+Wetboek</extref>;</al>
+                    </li><li><li.nr>xx.</li.nr>
+                      <al>ondertekenaar: voor de toepassing van deze wet geldt de definitiebepaling
 van <extref status="actief" doc="1.0:v:BWBR0005291&amp;artikel=15a" compleet="nee">artikel 15a, vijfde lid, van Titel 1, afdeling 1A van Boek 3 van het Burgerlijk
-Wetboek</extref>;</al></li><li><li.nr>yy.</li.nr><al>openbare betaaltelefoon: voor het publiek toegankelijk telefoontoestel
+Wetboek</extref>;</al>
+                    </li><li><li.nr>yy.</li.nr>
+                      <al>openbare betaaltelefoon: voor het publiek toegankelijk telefoontoestel
 waarmee uitgaande gesprekken gevoerd kunnen worden en waarvan de betaling
 voor het gebruik kan geschieden door middel van munten, krediet- of debetkaarten
-of vooruitbetaalde telefoonkaarten;</al></li><li><li.nr>zz.</li.nr><al>notificatierichtlijn: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 98/34/EG</extref> van het Europees Parlement
+of vooruitbetaalde telefoonkaarten;</al>
+                    </li><li><li.nr>zz.</li.nr>
+                      <al>notificatierichtlijn: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 98/34/EG</extref> van het Europees Parlement
 en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure
 op het gebied van normen en technische voorschriften en regels betreffende
-de diensten van de informatiemaatschappij (PbEG L&#xA0;204).</al></li></lijst></artikel>
+de diensten van de informatiemaatschappij (PbEG L&#xA0;204).</al>
+                    </li></lijst></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -253,7 +387,7 @@ en dat een andere minder ingrijpende maatregel niet effectief is.</al>
               <artikel status="goed">
                 <kop>
                   <label>Artikel</label>
-                  <nr>2.1</nr>
+                  <nr status="officieel">2.1</nr>
                 </kop>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
@@ -275,7 +409,8 @@ in de Staatscourant.</al>
                   <lidnr status="officieel">3</lidnr>
                   <al>De gegevens, bedoeld in het tweede lid, worden slechts verzameld ten behoeve
 van de goede uitvoering van deze wet en zijn beperkt tot hetgeen strikt noodzakelijk
-is voor het vaststellen van de identificatie van degene, bedoeld in het eerste
+is voor het vaststellen van de identiteit en de
+hoedanigheid van degene, bedoeld in het eerste
 lid.</al>
                 </lid>
                 <lid>
@@ -617,10 +752,9 @@ in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</
                 <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, onder dd, van de
             Mediawet</extref> betreft, de keuze geschiedt door
             Onze Minister in overeenstemming met Onze Minister van
-            Onderwijs, Cultuur en Wetenschappen. Daarbij wordt, met
-            inachtneming van het frequentieplan en het beginsel van
-            non-discriminatie, tevens nader de bestemming van de
-            frequentieruimte  bepaald waarop de keuze betrekking heeft. </al>
+            Onderwijs, Cultuur en Wetenschappen. Daarbij kan, met inachtneming van het frequentieplan, tevens
+nader de bestemming van de frequentieruimte worden bepaald waarop de
+keuze betrekking heeft.</al>
     </lid>
     <lid>
         <lidnr status="officieel">6</lidnr>
@@ -931,7 +1065,7 @@ is.</al>
             van de aanwijzing, bedoeld in het eerste lid, onderdeel a.</al>
     </lid>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">3.4a</nr><al><redactie type="extra">Treedt in werking per 13-12-2006</redactie></al></kop>
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">3.4a</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Indien vergunningen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel
 3.3, eerste lid</intref>, worden verleend volgens de procedure bedoeld in
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, vierde lid, onder b, of onder c</intref>, kan in het belang van een
@@ -1004,13 +1138,13 @@ communicatienetwerken of openbare elektronische communicatiediensten stelt Onze 
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>3.6</nr>
+        <nr status="officieel">3.6</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Een vergunning wordt door Onze Minister geweigerd indien: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>verlening daarvan in strijd is met het
@@ -1030,12 +1164,11 @@ communicatienetwerken of openbare elektronische communicatiediensten stelt Onze 
             </li>
             <li>
                 <li.nr>d.</li.nr>
-                <al>deze is gevraagd voor het verspreiden van
-                    programma's, waarvoor geen zendtijd is
-                    verkregen op grond van de <extref status="actief" doc="1.0:v:BWBR0004149" compleet="nee">Mediawet</extref>,
-                    of, voorzover toestemming is vereist krachtens de
-                        <extref status="actief" doc="1.0:v:BWBR0004149" compleet="nee">Mediawet</extref>,
-                    deze toestemming niet is verleend; </al>
+                <al>deze is gevraagd voor het
+verspreiden van programma&#x2019;s, door een instelling die op grond
+van de <extref status="actief" doc="1.0:v:BWBR0004149" compleet="nee">Mediawet</extref> zendtijd heeft verkregen en de vergunning anders dan
+bij voorrang als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, tweede lid</intref>, wordt
+verleend;</al>
             </li>
             <li>
                 <li.nr>e.</li.nr>
@@ -1055,10 +1188,10 @@ communicatienetwerken of openbare elektronische communicatiediensten stelt Onze 
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Een vergunning kan door Onze Minister worden geweigerd,
             indien: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>een eerder verleende vergunning is ingetrokken
@@ -1102,13 +1235,13 @@ communicatienetwerken of openbare elektronische communicatiediensten stelt Onze 
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>3.7</nr>
+        <nr status="officieel">3.7</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Een vergunning wordt door Onze Minister ingetrokken indien: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de houder van de vergunning hierom verzoekt; </al>
@@ -1123,10 +1256,10 @@ communicatienetwerken of openbare elektronische communicatiediensten stelt Onze 
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Een vergunning kan door Onze Minister voorts slechts worden
             ingetrokken indien: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de houder van de vergunning niet meer voldoet aan de
@@ -1136,8 +1269,8 @@ communicatienetwerken of openbare elektronische communicatiediensten stelt Onze 
             <li>
                 <li.nr>b.</li.nr>
                 <al>de houder van de vergunning de bij of krachtens deze
-                    wet, dan wel bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=82e" compleet="nee">artikelen
-                    82e</extref> of <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=82f" compleet="nee">82f van de
+                    wet, dan wel bij of krachtens de  <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=82a" compleet="nee">artikelen 82a</extref>,
+<extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=82e" compleet="nee">82e</extref>, of <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=82f" compleet="nee">82f van de
                     Mediawet</extref> gestelde regels dan wel de
                     aan de vergunning verbonden voorschriften niet
                     nakomt; </al>
@@ -1163,11 +1296,20 @@ communicatienetwerken of openbare elektronische communicatiediensten stelt Onze 
                 <al>de instandhouding van de vergunning de
                     daadwerkelijke mededinging op de relevante markt in
                     aanzienlijke mate zou beperken. </al>
-            </li>
+            </li><li><li.nr>g.</li.nr>
+                <al>de vergunning met toepassing van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4a">artikel 3.4a</intref> is verleend en de
+zeggenschap over het gebruik van de vergunning is overgegaan naar een
+andere vergunninghouder aan wie eveneens met toepassing van dat artikel
+een vergunning is verleend voor frequentieruimte met een zelfde
+bestemming, en daardoor de maximale hoeveelheid te verkrijgen
+frequentieruimte wordt overschreden en rekeninghoudend met de dan
+geldende omstandigheden een evenwichtige verdeling van schaarse
+frequentieruimte het in stand laten van de vergunning niet langer
+rechtvaardigt.</al></li>
         </lijst>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Op de gronden, genoemd in het tweede lid, kan Onze Minister
             in plaats van de vergunning intrekken deze ook wijzigen. </al>
     </lid>
@@ -1175,23 +1317,25 @@ communicatienetwerken of openbare elektronische communicatiediensten stelt Onze 
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>3.8</nr>
+        <nr status="officieel">3.8</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Een vergunning kan op aanvraag van de houder van die
-            vergunning aan een ander worden overgedragen met toestemming
-            van Onze Minister. </al>
+vergunning geheel of gedeeltelijk aan een ander worden overgedragen met toestemming
+            van Onze Minister onverminderd hetgeen is bepaald in het
+derde lid. </al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
-        <al>Een toestemming kan onder beperkingen worden verleend. Aan
-            een toestemming kunnen voorschriften worden verbonden. Deze
-            kunnen worden gewijzigd. </al>
-    </lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>De
+voorschriften en beperkingen die aan een geheel of gedeeltelijk over te
+dragen vergunning zijn verbonden kunnen met het oog op het waarborgen
+van bestaande belangen worden gewijzigd dan wel aangevuld met nieuwe
+voorschriften of beperkingen.</al></lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>
             De
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikelen 3.3, tiende lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.6">3.6</intref> zijn
@@ -1202,9 +1346,11 @@ communicatienetwerken of openbare elektronische communicatiediensten stelt Onze 
                 <al>Indien de toestemming betrekking heeft op de overdracht van een vergunning
 voor het gebruik van frequentieruimte die bestemd is voor het aanbieden van
 openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten,
-doet Onze Minister mededeling van het besluit tot die toestemming, van het
-al dan niet verbonden zijn van voorschriften aan die toestemming, alsmede
-van een besluit tot wijzigingen van die voorschriften in de Staatscourant.</al>
+doet Onze Minister mededeling in
+de Staatscourant van het besluit tot die toestemming, van het al dan
+niet gewijzigd zijn van de aan de vergunning verbonden voorschriften
+alsmede van het besluit nieuwe voorschriften aan de vergunning te
+verbinden.</al>
               </lid></artikel>
 </paragraaf>
     <paragraaf>
@@ -1230,11 +1376,11 @@ van een besluit tot wijzigingen van die voorschriften in de Staatscourant.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>3.10</nr>
+        <nr status="officieel">3.10</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Onze Minister kan, in overeenstemming met Onze Minister van
             Justitie, toestemming geven tot een gebruik van de
             frequentieruimte dat afwijkt van het bepaalde bij of
@@ -1242,7 +1388,7 @@ van een besluit tot wijzigingen van die voorschriften in de Staatscourant.</al>
             be&#xEB;indiging van strafbaar gedrag jegens een persoon. </al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Onze Minister kan, in overeenstemming met Onze Minister van
             Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk
             Onze Minister van Defensie, toestemming geven tot een
@@ -1251,30 +1397,27 @@ van een besluit tot wijzigingen van die voorschriften in de Staatscourant.</al>
             ter uitvoering van de aan de Algemene Inlichtingen- en
             Veiligheidsdienst onderscheidenlijk Militaire Inlichtingen-
             en Veiligheidsdienst opgedragen taken in de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en
-                veiligheidsdiensten 2002</extref>. De
-                <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet
-            bestuursrecht</extref> is niet van toepassing op de
-            voorbereiding, totstandkoming en tenuitvoerlegging van een
-            besluit als bedoeld in de eerste volzin.</al>
+                veiligheidsdiensten 2002</extref>.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>In overeenstemming met Onze Minister van Justitie
             onderscheidenlijk Onze Minister van Binnenlandse Zaken en
-            Koninkrijksrelaties, kan bij ministeri&#xEB;le regeling van het
+            Koninkrijksrelaties of Onze Minister van
+Defensie, kan bij ministeri&#xEB;le regeling van het
             toestemmingsvereiste, bedoeld in het eerste of tweede lid,
             vrijstelling worden verleend onder bij die regeling te
             stellen voorschriften. </al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>In afwijking van het eerste lid is gebruik van
             frequentieruimte dat afwijkt van het bepaalde bij of
             krachtens dit hoofdstuk eveneens mogelijk wanneer dit nodig
             is teneinde toepassing te kunnen geven aan de
             strafvorderlijke bevoegdheden tot het onderzoek van
             telecommunicatie, mits: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>dit gebruik plaatsvindt met behulp van apparatuur
@@ -1297,7 +1440,11 @@ het belang van de strafvordering dient.</al>
             </li>
         </lijst>
     </lid>
-</artikel>
+<lid>
+<lidnr status="officieel">5</lidnr><al>De <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet bestuursrecht</extref> is niet van
+toepassing op de voorbereiding, totstandkoming en tenuitvoerlegging van
+een besluit, genomen bij of krachtens het eerste tot en met derde
+lid.</al></lid></artikel>
 </paragraaf>
     <paragraaf>
     <kop>
@@ -1373,24 +1520,22 @@ die geschikt zijn voor het verspreiden van programma's een
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>3.12</nr>
+        <nr status="officieel">3.12</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Bij of krachtens algemene maatregel van bestuur kunnen
             nadere regels gesteld worden met betrekking tot
-            antenne-opstelpunten en tevens, voor zover het betreft openbare elektronische
-communicatienetwerken die bestaan uit radiozendapparaten die geschikt zijn
-voor het verspreiden van programma's, met betrekking tot
-            antennesystemen en antennes. Hierbij kunnen aan het college
+            het
+bepaalde in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikel 3.11</intref>. Hierbij kunnen aan het college
             taken worden opgedragen en bevoegdheden worden verleend.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De in het eerste lid bedoelde regels kunnen in ieder geval
             betrekking hebben op:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de door degene, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikel 3.11, eerste of
@@ -1437,12 +1582,37 @@ regeling te geven voorschriften.</al>
         <nr>4</nr>
         <titel>Nummerbeleid en nummerbeheer  </titel>
     </kop>
-    <artikel status="goed"><kop><label>Artikel</label><nr>4.1</nr></kop><lid><lidnr>1</lidnr><al>Onze Minister stelt, na overleg met het college,
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">4.1</nr>
+    </kop>
+    
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Onze Minister stelt, na overleg met het college,
             nummerplannen vast waarin in ieder geval de bestemming van
-            de daarin opgenomen nummers wordt aangegeven. </al></lid><lid><lidnr>2</lidnr><al>Op de voorbereiding van een nummerplan is <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de Algemene wet
-            bestuursrecht</extref> van toepassing. </al></lid><lid><lidnr>3</lidnr><al>Het is verboden voor een bestemming die voorkomt in een
+            de daarin opgenomen nummers wordt aangegeven. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Op de voorbereiding van een nummerplan is <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de Algemene wet
+            bestuursrecht</extref> van toepassing. </al>
+    </lid>
+    
+    <lid><lidnr status="officieel">3</lidnr><al>Het
+tweede lid is niet van toepassing indien het vast te stellen nummerplan
+slechts betrekking heeft op het uitbreiden van nummercapaciteit, welke
+het gevolg is van een toewijzing van nummers aan Nederland door een
+internationale organisatie en de belangen van degenen, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">artikel 4.2, eerste lid, onderdelen a, b en c</intref>, niet worden
+geschaad.</al></lid><lid>
+        <lidnr status="officieel">4</lidnr>
+        <al>Het is verboden voor een bestemming die voorkomt in een
             nummerplan andere nummers te gebruiken dan de nummers die in
-            dat plan voor die bestemming zijn opgenomen.  </al></lid></artikel>
+            dat plan voor die bestemming zijn opgenomen.  </al>
+    </lid>
+</artikel>
     <artikel status="goed">
               <kop>
                 <label>Artikel</label>
@@ -1893,25 +2063,26 @@ de reservering vermeld.
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>4.10</nr>
+        <nr status="officieel">4.10</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Bij algemene maatregel van bestuur kan worden bepaald dat
             een aanbieder van een bij die maatregel aan te wijzen
             categorie van openbare elektronische communicatiediensten verplicht is
             degene die op grond van een met hem gesloten overeenkomst
             die elektronische communicatiedienst afneemt: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de mogelijkheid te bieden het in het kader van de
                     afgenomen elektronische communicatiedienst bij hem in gebruik
-                    zijnde nummer te blijven gebruiken indien hij er bij
-                    be&#xEB;indiging van de overeenkomst voor kiest de
-                    desbetreffende elektronische communicatiedienst voortaan van
-                    een andere aanbieder af te nemen; </al>
+                    zijnde nummer te blijven gebruiken na
+be&#xEB;indiging van de levering van de dienst in het geval de
+be&#xEB;indiging van de levering plaatsvindt ten gevolge van een
+rechtsgeldige be&#xEB;indiging van de
+overeenkomst; </al>
             </li>
             <li>
                 <li.nr>b.</li.nr>
@@ -1931,7 +2102,7 @@ de reservering vermeld.
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Een aanbieder van krachtens het eerste lid aangewezen
             categorie van elektronische communicatiediensten op wie een
             verplichting als bedoeld in dat lid, onderdeel a, rust, is tevens verplicht aan degene met wie hij overeenkomt de
@@ -1941,10 +2112,10 @@ de reservering vermeld.
             gebruiken. </al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Bij een verplichting opgelegd, krachtens het eerste lid,
             onderdeel a, gaat: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>in het geval het betreffende nummer is toegekend aan
@@ -1968,7 +2139,7 @@ de reservering vermeld.
         </lijst>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>Het college kan categorie&#xEB;n van nummers aanwijzen waarvoor
             geldt dat, in het geval een nummer uit die categorie na een
             overgang op grond van het derde lid niet langer in gebruik
@@ -1976,7 +2147,7 @@ de reservering vermeld.
             aan wie het nummer op basis van een aanvraag was toegekend. </al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>Een aanbieder die een nummer behorende tot een door het
             college op grond van het vierde lid aangewezen categorie
             niet heeft toegekend gekregen op grond van een aanvraag
@@ -1987,7 +2158,7 @@ de reservering vermeld.
             het vierde lid is teruggegaan hiervan op de hoogte. </al>
     </lid>
     <lid>
-        <lidnr>6</lidnr>
+        <lidnr status="officieel">6</lidnr>
         <al>De in het derde lid bedoelde aanbieders stellen het college
             binnen een door het college te bepalen termijn en op een
             door het college te bepalen wijze op de hoogte van de
@@ -2000,7 +2171,7 @@ de reservering vermeld.
             volzin, bekend in de Staatscourant. </al>
     </lid>
     <lid>
-        <lidnr>7</lidnr>
+        <lidnr status="officieel">7</lidnr>
         <al>Een aanbieder van een openbaar elektronisch communicatienetwerk waarover
 een krachtens het eerste lid aangewezen categorie van openbare elektronische
 communicatiediensten wordt verzorgd:</al>
@@ -2018,7 +2189,7 @@ en</al></li>
 lid opgelegde verplichting een kostengeori&#xEB;nteerd tarief vast.</al></li></lijst>
     </lid>
     <lid>
-        <lidnr>8</lidnr>
+        <lidnr status="officieel">8</lidnr>
         <al>Bij of krachtens algemene maatregel van bestuur kunnen
             regels worden gesteld met betrekking tot de doorberekening
             van kosten van een krachtens het eerste lid opgelegde
@@ -2026,7 +2197,7 @@ lid opgelegde verplichting een kostengeori&#xEB;nteerd tarief vast.</al></li></l
 eindgebruikers. </al>
     </lid>
     <lid>
-        <lidnr>9</lidnr>
+        <lidnr status="officieel">9</lidnr>
         <al>Bij ministeri&#xEB;le regeling kunnen nadere regels worden
             gesteld met betrekking tot een krachtens het eerste lid
             opgelegde verplichting. </al>
@@ -2476,8 +2647,8 @@ inkorten van wortels.</al></lid>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
-        <nr>6</nr>
-        <titel>Interoperabiliteit van diensten</titel>
+        <nr status="officieel">6</nr>
+        <titel status="officieel">Interoperabiliteit van diensten en vertrouwelijkheid van informatie</titel>
     </kop>
     <artikel status="goed">
                 <kop>
@@ -2600,7 +2771,7 @@ proportioneel en niet-discriminerend.</al>
               <artikel status="goed">
                 <kop>
                   <label>Artikel</label>
-                  <nr>6.5</nr>
+                  <nr status="officieel">6.5</nr>
                 </kop>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
@@ -2614,14 +2785,15 @@ van openbare telefoonnetwerken of openbare telefoondiensten regels gesteld:</al>
             <li>
                 <li.nr>b.</li.nr>
                 
-              <al>die er op gericht zijn dat zich in Nederland bevindende eindgebruikers
-die gebruik maken van een door het college krachtens <intref status="slapend">artikel 4.2, eerste lid</intref>,
+              <al>die er op gericht zijn dat zich in Nederland bevindende abonnees
+die gebruik maken van een door het college krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">artikel 4.2, eerste lid</intref>,
 toegekend niet-geografisch nummer op dit nummer kunnen worden opgeroepen door
 zich in andere lidstaten van de Europese Unie bevindende eindgebruikers;</al></li><li>
                 <li.nr>c.</li.nr>
                 
-              <al>die er op gericht zijn dat zich in andere lidstaten van de Europese
-Unie bevindende eindgebruikers die gebruik maken van een niet-geografisch
+              <al>die er op gericht zijn dat zich in andere lidstaten van de
+Europese Unie bevindende
+abonnees die gebruik maken van een niet-geografisch
 nummer dat is toegekend door een nationale regelgevende instantie op dit nummer
 kunnen worden opgeroepen door zich in Nederland bevindende eindgebruikers.</al></li></lijst>
                   
@@ -2633,7 +2805,11 @@ kunnen worden opgeroepen door zich in Nederland bevindende eindgebruikers.</al><
 en bevoegdheden worden verleend aan het college.</al>
                 </lid>
               </artikel>
-</hoofdstuk>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">6.6</nr></kop>
+<al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.1">Artikel 6.1, tweede lid</intref>, is van overeenkomstige toepassing op
+onderhandelingen tot het verkrijgen van toegang tot het netwerk van een
+aanbieder van elektronische
+communicatienetwerken.</al></artikel></hoofdstuk>
             <hoofdstuk><kop><label>Hoofdstuk</label>
         <nr status="officieel">6a</nr>
         <titel status="officieel">Verplichtingen voor ondernemingen die beschikken over een aanmerkelijke marktmacht</titel></kop><paragraaf><kop><label>&#xA7;</label>
@@ -3112,24 +3288,91 @@ van de boekhouding en het aan het college verstrekken van boekhoudkundige
 documenten met inbegrip van gegevens over van derden ontvangen inkomsten.</al>
                   </lid>
                 </artikel>
-                <artikel status="goed"><kop><label>Artikel</label><nr>6a.11</nr></kop><lid><lidnr status="officieel">1</lidnr><al>In uitzonderlijke omstandigheden kan het college aan een onderneming waarvan
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">6a.11</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1</lidnr>
+                    <al>In uitzonderlijke omstandigheden kan het college aan een onderneming waarvan
 door het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, is vastgesteld dat
 zij beschikt over een aanmerkelijke marktmacht bij de aanbieding van openbare
 elektronische communicatienetwerken of bijbehorende faciliteiten, andere bij
 ministeri&#xEB;le regeling aan te wijzen verplichtingen die verband houden
-met toegang opleggen, voor zover deze passend zijn.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Bij de ministeri&#xEB;le regeling, bedoeld in het eerste lid, kunnen regels
+met toegang opleggen, voor zover deze passend zijn.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2</lidnr>
+                    <al>Bij de ministeri&#xEB;le regeling, bedoeld in het eerste lid, kunnen regels
 worden gesteld met betrekking tot het opleggen door het college van bij die
 regeling aangewezen verplichtingen. Deze regels hebben in elk geval betrekking
-op:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>de omstandigheden die zich moeten voordoen alvorens deze verplichtingen
-kunnen worden opgelegd, en</al></li><li><li.nr>b.</li.nr><al>de aard van de verplichtingen.</al></li></lijst></lid><lid><lidnr status="officieel">3</lidnr><al>Het college trekt een besluit als bedoeld in het eerste lid in, indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">artikel 6a.3, eerste lid</intref>, heeft bepaald dat de desbetreffende
+op:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>de omstandigheden die zich moeten voordoen alvorens deze verplichtingen
+kunnen worden opgelegd, en</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>de aard van de verplichtingen.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3</lidnr>
+                    <al>Het college trekt een besluit als bedoeld in het eerste lid in, indien:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>het op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">artikel 6a.3, eerste lid</intref>, heeft bepaald dat de desbetreffende
 relevante onderscheidenlijk transnationale markt daadwerkelijk concurrerend
-is;</al></li><li><li.nr>b.</li.nr><al>op grond <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">artikel 6a.3, tweede lid</intref>, is gebleken dat de onderneming als
-bedoeld in het eerste lid geen aanmerkelijke marktmacht meer heeft.</al></li></lijst></lid><lid><lidnr status="officieel">4</lidnr><al>Het college trekt een besluit als bedoeld in het eerste lid tevens in,
-indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>er geen sprake van uitzonderlijke omstandigheden meer is, of</al></li><li><li.nr>b.</li.nr><al>de opgelegde of in stand gehouden verplichting niet langer passend
-is.</al></li></lijst></lid><lid><lidnr status="officieel">5</lidnr><al>Uiterlijk binnen achttien maanden nadat een besluit als bedoeld in het
+is;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>op grond <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">artikel 6a.3, tweede lid</intref>, is gebleken dat de onderneming als
+bedoeld in het eerste lid geen aanmerkelijke marktmacht meer heeft.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4</lidnr>
+                    <al>Het college trekt een besluit als bedoeld in het eerste lid tevens in,
+indien:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>er geen sprake van uitzonderlijke omstandigheden meer is, of</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>de opgelegde of in stand gehouden verplichting niet langer passend
+is.</al></li></lijst>
+                    
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5</lidnr>
+                    <al>Uiterlijk binnen achttien maanden nadat een besluit als bedoeld in het
 eerste lid in werking is getreden, onderzoekt het college of er nog sprake
 is van uitzonderlijke omstandigheden en of de opgelegde of in stand gehouden
-verplichting nog passend is en besluit het college op grond van:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het eerste lid om het besluit in stand te houden, of</al></li><li><li.nr>b.</li.nr><al>het vierde lid om het besluit in te trekken.</al></li></lijst></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label>
+verplichting nog passend is en besluit het college op grond van:</al>
+                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>het eerste lid om het besluit in stand te houden, of</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>het vierde lid om het besluit in te trekken.</al></li></lijst>
+                    
+                  </lid>
+                <lid><lidnr status="officieel">6</lidnr><al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">Artikel
+6a.2, derde lid</intref>, is van overeenkomstige
+toepassing.</al></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label>
         <nr>6a.3</nr>
         <titel>Verplichtingen op eindgebruikersniveau</titel></kop><artikel status="goed">
                   <kop>
@@ -3889,13 +4132,19 @@ en elektronische programmagidsen
     </kop>
     
     
-    <artikel status="goed"><kop><label>Artikel</label><nr>8.3</nr></kop><al>Onze Minister wijst, in overeenstemming met Onze Minister van Onderwijs,
+    <artikel status="goed">
+    <kop>
+                <label>Artikel</label>
+                <nr status="officieel">8.3</nr>
+              </kop>
+              <al>Onze Minister wijst, in overeenstemming met Onze Minister van Onderwijs,
 Cultuur en Wetenschappen, ten minste een aanbieder van een openbaar elektronisch
 communicatienetwerk dat bestaat uit radiozendapparaten die geschikt zijn voor
 het verspreiden van programma's, aan om programma's uit te zenden die hem
 in overeenstemming met de <extref status="actief" doc="1.0:v:BWBR0004149" compleet="nee">Mediawet</extref> ter uitzending worden aangeboden door de
 Stichting Radio Nederland Wereldomroep of door instellingen die zendtijd als
-bedoeld in <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, onderdeel ij, van de Mediawet</extref>, hebben verkregen.</al></artikel>
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, onderdeel hh, van de Mediawet</extref>, hebben verkregen.</al>
+</artikel>
 
     <artikel status="goed">
     <kop>
@@ -4358,21 +4607,22 @@ bijdrage verschuldigd.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>10.1</nr>
+        <nr status="officieel">10.1</nr>
     </kop>
     
     <al>Bij of krachtens algemene maatregel van bestuur worden regels
         gesteld inzake de voorschriften waaraan apparaten moeten
         voldoen. Deze voorschriften worden onderscheiden in
         voorschriften betreffende: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>a.</li.nr>
             <al>de elektromagnetische compatibiliteit; </al>
         </li>
         <li>
             <li.nr>b.</li.nr>
-            <al>de veiligheid; </al>
+            <al>de veiligheid of de
+gezondheid;</al>
         </li>
         <li>
             <li.nr>c.</li.nr>
@@ -4395,14 +4645,14 @@ bijdrage verschuldigd.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>10.1a</nr>
+        <nr status="officieel">10.1a</nr>
     </kop>
     <al>Bij ministeri&#xEB;le regeling worden ter uitvoering van een bindend
         besluit van de Raad van de Europese Unie, van het Europees
         Parlement en de Raad gezamenlijk of van de Commissie van de
         Europese Gemeenschappen regels gesteld ter zake van apparaten
         bestemd voor de ontvangst en weergave van
-        televisieprogramma's als bedoeld <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, onder h, van de
+        televisieprogramma's als bedoeld in <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, onder h, van de
         Mediawet</extref>, en van apparaten bestemd voor het
         ontsleutelen van versleutelde digitale televisiesignalen. </al>
 </artikel>
@@ -4418,14 +4668,14 @@ van bekendmaking van die informatie.</al>
             </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>10.2</nr>
+        <nr status="officieel">10.2</nr>
     </kop>
     
-    <al>Bij of krachtens algemene maatregel van bestuur worden regels
+    <lid><lidnr status="officieel">1</lidnr><al>Bij of krachtens algemene maatregel van bestuur worden regels
         gesteld inzake de certificatie van apparaten, die per aangewezen
         categorie van apparaten kunnen verschillen. Deze regels kunnen
         worden onderscheiden in regels betreffende: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>a.</li.nr>
             <al>het onderzoek naar de overeenstemming met de in
@@ -4439,24 +4689,28 @@ van bekendmaking van die informatie.</al>
                 aanbrengen van markeringen. </al>
         </li>
     </lijst>
-</artikel>
+</lid><lid> <lidnr status="officieel">2</lidnr><al>Bij of
+krachtens algemene maatregel van bestuur worden regels gesteld over de
+informatie die aan de gebruiker van apparaten wordt
+verstrekt.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>10.3</nr>
+        <nr status="officieel">10.3</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Onze Minister kan instanties aanwijzen die bevoegd zijn de
-            certificatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2</intref>,
+            certificatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2, eerste
+lid</intref>,
             uit te voeren. </al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Bij of krachtens algemene maatregel van bestuur worden
             regels gesteld inzake: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de criteria waaraan instanties moeten voldoen om
@@ -4470,55 +4724,60 @@ van bekendmaking van die informatie.</al>
         </lijst>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Onze Minister kan een aanwijzing intrekken indien niet meer
             wordt voldaan aan de criteria of voorschriften, bedoeld in
             het tweede lid. </al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>Onze Minister zendt binnen vijf jaar na de inwerkingtreding
             van deze wet en vervolgens telkens na vier jaar aan de
             Staten-Generaal een verslag over de doeltreffendheid en
             doelmatigheid van de toepassing van de certificatie, bedoeld
-            in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2</intref>. </al>
+            in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2, eerste
+lid</intref>. </al>
     </lid>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>10.4</nr>
+        <nr status="officieel">10.4</nr>
     </kop>
     
     <al>Bij of krachtens algemene maatregel van bestuur kunnen regels
         worden gesteld inzake: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>a.</li.nr>
-            <al>de middelen die Onze Minister kan gebruiken om het in de
-                handel brengen en verhandelen van apparaten of
-                categorie&#xEB;n van apparaten te be&#xEB;indigen of te beperken,
-                indien de betrokken apparaten niet voldoen aan de in
-                    <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel
-                10.1</intref> bedoelde voorschriften; </al>
-        </li>
+            <al>de middelen die Onze
+Minister kan gebruiken om het in de handel brengen of verhandelen van
+apparaten of categorie&#xEB;n van apparaten te be&#xEB;indigen of
+te beperken, indien de betrokken apparaten niet voldoen aan de bij of
+krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel 10.1</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">10.2</intref> gestelde regels dan wel om het in de
+handel brengen of verhandelen van radiozendapparaten of
+categorie&#xEB;n van radiozendapparaten te be&#xEB;indigen of te
+beperken, indien de vrees is gewettigd dat door de betrokken
+radiozendapparaten ontoelaatbare belemmeringen worden veroorzaakt in
+het etherverkeer, in andere radiozendapparaten of in
+ontvangapparaten.</al></li>
         <li>
             <li.nr>b.</li.nr>
             <al>de behandeling van klachten over elektromagnetische
                 storingen, ondervonden van het gebruik van apparaten, of
                 over belemmeringen, welke bij het gebruik van
-                radiozendapparaten of randapparaten worden ondervonden. </al>
+                radiozendapparaten of randapparaten worden ondervonden.</al>
         </li>
     </lijst>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>10.5</nr>
+        <nr status="officieel">10.5</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Het is verboden apparaten in de handel te brengen indien
             niet wordt voldaan aan de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel 10.1</intref> of
                 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2</intref>
@@ -4526,15 +4785,16 @@ van bekendmaking van die informatie.</al>
             voorschriften. </al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
-        <al>Het is verboden apparaten te verhandelen indien niet wordt
-            voldaan aan de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2, onder
-            b</intref>, bedoelde regels betreffende het
-            beschikbaar hebben van documenten en het aanbrengen van
-            markeringen. </al>
+        <lidnr status="officieel">2</lidnr>
+        <al>Het is
+verboden apparaten te verhandelen indien niet wordt voldaan aan de in
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2, eerste lid, onder b</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2, tweede lid</intref>,
+bedoelde regels betreffende het beschikbaar hebben van documenten, het
+aanbrengen van markeringen en het verstrekken van
+informatie.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Onverminderd het eerste en tweede lid is het verboden
             apparaten bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1a">artikel 10.1a</intref>
             te verkopen, te verhuren of anderszins ter beschikking te
@@ -4703,17 +4963,7 @@ van bekendmaking van die informatie.</al>
         <nr>10.2.2</nr>
         <titel>Randapparaten  </titel>
     </kop>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>10.10</nr>
-    </kop>
     
-    <al>Degene die randapparaten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1">artikel 1.1, onder hh, 1&#xB0; en
-        3&#xB0;</intref>, in de handel brengt, geeft aan of deze
-        randapparaten al dan niet bestemd zijn voor aansluiting op een
-        openbaar telecommunicatienetwerk. </al>
-</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4728,12 +4978,13 @@ van bekendmaking van die informatie.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>10.12</nr>
+        <nr status="officieel">10.12</nr>
     </kop>
     
     <al>Het is verboden randapparaten aan te sluiten of aangesloten te
         houden op een openbaar telecommunicatienetwerk die niet voldoen
-        aan de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2</intref>
+        aan de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2,
+eerste lid</intref>,
         gestelde regels met betrekking tot het aanbrengen van
         markeringen. </al>
 </artikel>
@@ -5453,42 +5704,126 @@ waarmee wordt voorkomen dat hem een ongevraagde communicatie wordt overgebracht.
         <nr>11.2</nr>
         <titel>Nummeridentificatie  </titel>
     </kop>
-    <artikel status="goed"><kop><label>Artikel</label><nr>11.9</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder
+    <artikel status="goed">
+    <kop>
+                <label>Artikel</label>
+                <nr status="officieel">11.9</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>De aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder
 van een openbare elektronische communicatiedienst die door middel van dat
-netwerk of als onderdeel van die dienst nummeridentificatie aanbiedt, biedt:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>aan iedere oproepende gebruiker onderscheidenlijk abonnee mogelijkheden
+netwerk of als onderdeel van die dienst nummeridentificatie aanbiedt, biedt:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>aan iedere oproepende gebruiker onderscheidenlijk abonnee mogelijkheden
 aan om kosteloos de verstrekking van het nummer van het oproepende netwerkaansluitpunt
 dan wel een nummer waarmee een individuele gebruiker kan worden ge&#xEF;dentificeerd
 te blokkeren onderscheidenlijk de verstrekking van nummers van oproepende
 netwerkaansluitpunten dan wel nummers waarmee individuele gebruikers kunnen
-worden ge&#xEF;dentificeerd voor elke afzonderlijke abonneelijn te blokkeren;</al></li><li><li.nr>b.</li.nr><al>aan iedere opgeroepen abonnee mogelijkheden aan om:</al></li><li><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1&#xB0;.</li.nr><al>de verstrekking van het nummer van het oproepende netwerkaansluitpunt
+worden ge&#xEF;dentificeerd voor elke afzonderlijke abonneelijn te blokkeren;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              
+                
+                
+              <al>aan iedere opgeroepen abonnee mogelijkheden aan om:</al></li><li>
+                
+                
+              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>1&#xB0;.</li.nr>
+                
+              <al>de verstrekking van het nummer van het oproepende netwerkaansluitpunt
 dan wel een nummer waarmee een individuele gebruiker kan worden ge&#xEF;dentificeerd
-te verhinderen;</al></li><li><li.nr>2&#xB0;.</li.nr><al>oproepen waarbij de verstrekking van het nummer van het oproepende
+te verhinderen;</al></li>
+            <li>
+                <li.nr>2&#xB0;.</li.nr>
+                
+              <al>oproepen waarbij de verstrekking van het nummer van het oproepende
 netwerkaansluitpunt dan wel een nummer waarmee een individuele gebruiker kan
-worden ge&#xEF;dentificeerd is geblokkeerd, te weigeren;</al></li><li><li.nr>3&#xB0;.</li.nr><al>indien nummeridentificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1">artikel 1.1, onderdeel
+worden ge&#xEF;dentificeerd is geblokkeerd, te weigeren;</al></li><li>
+                <li.nr>3&#xB0;.</li.nr>
+                
+              <al>indien nummeridentificatie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1">artikel 1.1, onderdeel
 cc, onder 2&#xB0;</intref>, wordt aangeboden, kosteloos de verstrekking van het nummer
 van het opgeroepen netwerkaansluitpunt dan wel een nummer waarmee een individuele
 gebruiker kan worden ge&#xEF;dentificeerd aan het oproepende netwerkaansluitpunt
-te blokkeren.</al></li></lijst></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>Bij ministeri&#xEB;le regeling worden nadere regels gesteld met betrekking
-tot:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>mogelijkheden tot blokkering en weigering;</al></li><li><li.nr>b.</li.nr><al>de voorwaarden waaronder de abonnee de identificatie van het nummer
+te blokkeren.</al></li></lijst></li></lijst>
+                
+                
+                
+                
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Bij ministeri&#xEB;le regeling worden nadere regels gesteld met betrekking
+tot:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>mogelijkheden tot blokkering en weigering;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>de voorwaarden waaronder de abonnee de identificatie van het nummer
 van oproepende netwerkaansluitpunten dan wel een nummer waarmee een individuele
-gebruiker kan worden ge&#xEF;dentificeerd kan doen verhinderen;</al></li><li><li.nr>c.</li.nr><al>de wijze waarop uitvoering aan nummeridentificatie in het internationale
-elektronische communicatieverkeer kan worden gegeven, en</al></li><li><li.nr>d.</li.nr><al>de wijze waarop de aanbieders gebruikers en abonnees voorlichten over
-het gebruik van nummeridentificatie.</al></li></lijst></lid></artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>11.10</nr></kop><lid><lidnr>1</lidnr><al>De aanbieder van een openbaar elektronisch communicatienetwerk
+gebruiker kan worden ge&#xEF;dentificeerd kan doen verhinderen;</al></li><li>
+                <li.nr>c.</li.nr>
+                
+              <al>de wijze waarop uitvoering aan nummeridentificatie in het internationale
+elektronische communicatieverkeer kan worden gegeven, en</al></li><li>
+                <li.nr>d.</li.nr>
+                
+              <al>de wijze waarop de aanbieders, gebruikers
+en abonnees voorlichten over
+het gebruik van nummeridentificatie.</al></li></lijst>
+                
+                
+                
+              </lid>
+</artikel>
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">11.10</nr>
+    </kop>
+    
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De aanbieder van een openbaar elektronisch communicatienetwerk
 en de aanbieder van een openbare elektronische communicatiedienst die nummeridentificatie aanbiedt, is verplicht aan
             de door Onze Minister van Binnenlandse Zaken en
             Koninkrijksrelaties, in overeenstemming met Onze Minister,
             aangewezen beheerders van een alarmnummer voor publieke
             diensten, indien er elektronische communicatie met een alarmnummer
-            wordt afgewikkeld, gelijktijdig: </al><lijst><li><li.nr>a.</li.nr><al>het nummer van het oproepende netwerkaansluitpunt te
+            wordt afgewikkeld, gelijktijdig: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>het nummer van het oproepende netwerkaansluitpunt te
                     verstrekken, ook indien bij dat netwerkaansluitpunt
                     gebruik wordt gemaakt van een in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.9">artikel 11.9, tweede
                         lid, onder a</intref>, bedoelde
-                    blokkeringsmogelijkheid; </al></li><li><li.nr>b.</li.nr><al>de naam, en de beschikbare adres-, postcode- en
+                    blokkeringsmogelijkheid; </al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de naam, en de beschikbare adres-, postcode- en
                     woonplaatsgegevens van de abonnee, dan wel de
                     locatie van de openbare betaaltelefoon, die onder
                     het desbetreffende nummer is aangesloten, te
-                    verstrekken. </al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>De aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder
+                    verstrekken. </al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>De aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder
 van een openbare elektronische communicatiedienst, die locatiegegevens kan
 verwerken omtrent abonnees of gebruikers, is verplicht aan de aangewezen beheerders
 van een alarmnummer voor publieke diensten, bedoeld in het eerste lid, indien
@@ -5497,7 +5832,10 @@ de daarop betrekking hebbende locatiegegevens te verstrekken, ook indien de
 abonnee of gebruiker, voor zover het betreft de locatiegegevens als bedoeld
 in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5a">artikel 11.5a</intref>, op de voet van het vijfde lid van dat artikel, gebruik heeft
 gemaakt van de mogelijkheid om tijdelijk de verwerking van de hem betreffende
-locatiegegevens te beletten.</al></lid><lid><lidnr>3</lidnr><al>De verstrekte nummers, alsmede de in het eerste lid, onder
+locatiegegevens te beletten.</al>
+              </lid><lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>De verstrekte nummers, alsmede de in het eerste lid, onder
             b, en de in het
 tweede lid, bedoelde gegevens worden door de beheerders, bedoeld in
             het eerste lid, vastgelegd met het oog op de hulpverlening
@@ -5505,40 +5843,86 @@ tweede lid, bedoelde gegevens worden door de beheerders, bedoeld in
             alarmnummer voor publieke diensten. De beheerders zijn
             verantwoordelijke in de zin van <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1, onderdeel d, van de
                 Wet bescherming persoonsgegevens</extref> voor
-            deze vastlegging.</al></lid><lid><lidnr>4</lidnr><al>Verstrekking van nummers en gegevens door de beheerder vindt
+            deze vastlegging.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al>Verstrekking van nummers en gegevens door de beheerder vindt
             slechts plaats met het oog op de hulpverlening in
             noodsituaties of de bestrijding van het misbruik van een
             alarmnummer voor publieke diensten. De beheerder is
             verantwoordelijke in de zin van <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1, onderdeel d, van de
                 Wet bescherming persoonsgegevens</extref> voor
-            deze verstrekkingen.</al></lid><lid><lidnr>5</lidnr><al>Verstrekking van nummers en gegevens met het oog op de
+            deze verstrekkingen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al>Verstrekking van nummers en gegevens met het oog op de
             hulpverlening in noodsituaties vindt slechts plaats aan de
             door Onze Minister van Binnenlandse Zaken en
             Koninkrijksrelaties, in overeenstemming met Onze Minister,
-            aangewezen publieke diensten belast met hulpverleningstaken. </al></lid><lid><lidnr>6</lidnr><al>Verstrekking van nummers en gegevens met het oog op de
+            aangewezen publieke diensten belast met hulpverleningstaken. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">6</lidnr>
+        <al>Verstrekking van nummers en gegevens met het oog op de
             bestrijding van het misbruik van een alarmnummer voor
             publieke diensten vindt slechts plaats aan degene die op
             grond van <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=141" compleet="nee">artikel 141</extref> of
                 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=142" compleet="nee">142 van het Wetboek van
             Strafvordering</extref> is belast met de opsporing
-            van strafbare feiten. </al></lid><lid><lidnr>7</lidnr><al>De termijn gedurende welke de nummers en gegevens door de
-            beheerder worden bewaard bedraagt ten hoogste: </al><lijst><li><li.nr>a.</li.nr><al>een maand indien de nummers en gegevens betrekking
+            van strafbare feiten. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">7</lidnr>
+        <al>De termijn gedurende welke de nummers en gegevens door de
+            beheerder worden bewaard bedraagt ten hoogste: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>twee
+maanden indien de nummers en gegevens betrekking
                     hebben op gevallen waarin kennelijk sprake is van
-                    een verzoek om hulpverlening in een noodsituatie; </al></li><li><li.nr>b.</li.nr><al>zes maanden indien de nummers en gegevens betrekking
+                    een verzoek om hulpverlening in een noodsituatie; </al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>zes maanden indien de nummers en gegevens betrekking
                     hebben op gevallen waarin kennelijk sprake is van
-                    misbruik van een alarmnummer voor publieke diensten; </al></li><li><li.nr>c.</li.nr><al>24 uur in alle overige gevallen. </al></li></lijst></lid><lid><lidnr>8</lidnr><al>De op grond van het eerste lid aangewezen beheerder vergoedt
+                    misbruik van een alarmnummer voor publieke diensten; </al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>24 uur in alle overige gevallen. </al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">8</lidnr>
+        <al>De op grond van het eerste lid aangewezen beheerder vergoedt
             de kosten die zijn gemoeid met het verstrekken van de in het
             eerste lid, onder a en b, en de
-in het tweede lid bedoelde gegevens. </al></lid><lid><lidnr>9</lidnr><al>De bekendmaking van het besluit tot aanwijzing van de
+in het tweede lid bedoelde gegevens. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">9</lidnr>
+        <al>De bekendmaking van het besluit tot aanwijzing van de
             beheerders, bedoeld in het eerste lid, en de publieke
             diensten, bedoeld in het vierde lid, geschiedt door
             plaatsing in de Staatscourant door Onze Minister van
-            Binnenlandse Zaken en Koninkrijksrelaties. </al></lid><lid><lidnr>10</lidnr><al>De beheerders, bedoeld in het eerste lid, zijn bevoegd om
+            Binnenlandse Zaken en Koninkrijksrelaties. </al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">10</lidnr>
+        <al>De beheerders, bedoeld in het eerste lid, zijn bevoegd om
             ten behoeve van de controle op de effectiviteit van de
             hulpverlening in noodsituaties de bij het alarmnummer voor
             publieke diensten ingekomen oproepen vast te leggen en voor
-            ten hoogste een maand te bewaren. Bij de vastlegging worden
-            de datum en het tijdstip van de oproep geregistreerd.  </al></lid></artikel>
+            ten hoogste twee
+maanden te bewaren. Bij de vastlegging worden
+            de datum en het tijdstip van de oproep geregistreerd.  </al>
+    </lid>
+</artikel>
 <artikel status="goed">
               <kop>
                 <label>Artikel</label>
@@ -6322,33 +6706,33 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>14.6</nr>
+        <nr status="officieel">14.6</nr>
     </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Onze Minister kan na overleg met Onze Ministers van
-            Binnenlandse Zaken en Koninkrijksrelaties en van Defensie
-            voor aanbieders van openbare telecommunicatienetwerken,
-            openbare telecommunicatiediensten, huurlijnen en voor
-            gebruikers van de frequentieruimte regels stellen ten
-            aanzien van de door hen te nemen organisatorische en
-            personele maatregelen en te treffen bijzondere voorzieningen
-            met betrekking tot de voorbereiding van het verzorgen van
-            elektronisch transport van gegevens in buitengewone
-            omstandigheden als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=14.2">artikel 14.2</intref> en
-            de door hen daarover aan Onze Minister te verstrekken
-            informatie. Bij deze regeling wordt bepaald welke kosten van
-            de uitvoering redelijkerwijze ten laste van aanbieders van
-            openbare telecommunicatienetwerken, openbare
-            telecommunicatiediensten, huurlijnen en van gebruikers van
-            de frequentieruimte dienen te komen.  </al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
+    <lid><lidnr status="officieel">1</lidnr><al>Onze Minister kan na
+overleg met Onze Ministers van Binnenlandse Zaken en
+Koninkrijksrelaties en van Defensie regels stellen ten aanzien van de
+te nemen organisatorische en personele maatregelen en de te treffen
+bijzondere voorzieningen met betrekking tot de voorbereiding van het
+verzorgen van elektronisch transport van gegevens in buitengewone
+omstandigheden als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=14.2">artikel 14.2</intref>, alsmede omtrent de aan Onze
+Minister daaromtrent te verstrekken
+informatie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De regels, bedoeld in
+het eerste lid, zijn uitsluitend van toepassing op door Onze Minister
+na overleg met Onze Ministers van Binnenlandse Zaken en
+Koninkrijksrelaties en van Defensie aan te wijzen aanbieders van
+openbare telecommunicatienetwerken, openbare telecommunicatiediensten,
+huurlijnen en gebruikers van de
+frequentieruimte.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Bij de regeling,
+bedoeld in het eerste lid, wordt bepaald welke kosten van de uitvoering
+redelijkerwijze ten laste van de aangewezen aanbieders van openbare
+telecommunicatienetwerken, openbare telecommunicatiediensten,
+huurlijnen en van gebruikers van de frequentieruimte dienen te
+komen.</al></lid><lid>
+        <lidnr status="officieel">4</lidnr>
         <al>De in het eerste lid bedoelde bijzondere voorzieningen
             hebben betrekking op: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de beschikbaarheid van openbare
@@ -6390,27 +6774,84 @@ werking treden.</redactie></al><al>Onze Minister is bevoegd aan aanbieders van o
         <nr>15.1</nr>
         <titel>Algemeen  </titel>
     </kop>
-    <artikel status="goed"><kop><label>Artikel</label><nr>15.1</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Met het toezicht op de naleving van het bepaalde bij of krachtens deze
+    <artikel status="goed">
+    <kop>
+                <label>Artikel</label>
+                <nr status="officieel">15.1</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>Met het toezicht op de naleving van het bepaalde bij of krachtens deze
 wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren, voorzover
-het betreft de bepalingen die betrekking hebben op:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>het gebruik van frequentieruimte, met uitzondering van die bepalingen
-die betrekking hebben op het aanbieden van openbare elektronische communicatienetwerken
-of openbare elektronische communicatiediensten en niet zien op de technische
-aspecten van het gebruik;</al></li><li><li.nr>b.</li.nr><al>prioritering van alarmnummers als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=7.7">artikel 7.7, derde of
-vierde lid</intref>;</al></li><li><li.nr>c.</li.nr><al>openbare elektronische communicatienetwerken als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.3">artikel
-8.3</intref>;</al></li><li><li.nr>d.</li.nr><al>het verstrekken van een opdracht tot verzorging van tot de universele
+het betreft de bepalingen die betrekking hebben op:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+              <li>
+                <li.nr>a.</li.nr>
+                
+              <al>het gebruik van frequentieruimte;</al></li>
+            <li>
+                <li.nr>b.</li.nr>
+                
+              <al>prioritering van alarmnummers als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=7.7">artikel 7.7, derde of
+vierde lid</intref>;</al></li><li><li.nr>c.</li.nr>
+                
+              <al>technische regelingen
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.4a">artikel 8.4a</intref>;</al></li><li>
+                <li.nr>d.</li.nr>
+                
+              <al>openbare elektronische communicatienetwerken als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.3">artikel
+8.3</intref>;</al></li><li>
+                <li.nr>e.</li.nr>
+                
+              <al>het verstrekken van een opdracht tot verzorging van tot de universele
 dienst behorende diensten of voorzieningen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=9.2">artikel 9.2, eerste
-en derde tot en met tiende lid</intref>;</al></li><li><li.nr>e.</li.nr><al>de aan apparatuur te stellen eisen als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref>;</al></li><li><li.nr>f.</li.nr><al>bevoegd aftappen als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=13">hoofdstuk 13</intref>;</al></li><li><li.nr>g.</li.nr><al>buitengewone omstandigheden als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=14">hoofdstuk 14</intref>;</al></li><li><li.nr>h.</li.nr><al>verdere onderwerpen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.4">artikelen 12.4</intref>, voor zover het
+en derde tot en met tiende lid</intref>;</al></li><li>
+                <li.nr>f.</li.nr>
+                
+              <al>apparaten als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk
+10</intref>;</al></li>
+            <li>
+                <li.nr>g.</li.nr>
+                
+              <al>bevoegd aftappen als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=13">hoofdstuk 13</intref>;</al></li><li>
+                <li.nr>h.</li.nr>
+                
+              <al>buitengewone omstandigheden als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=14">hoofdstuk 14</intref>;</al></li><li>
+                <li.nr>i.</li.nr>
+                
+              <al>verdere onderwerpen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.4">artikelen 12.4</intref>, voor zover het
 bevoegdheden betreft van Onze Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.1">18.1</intref>, voor zover het bevoegdheden
 betreft van Onze Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.2">18.2</intref>, voor zover het bevoegdheden betreft van Onze
 Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.4">18.4, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.7">18.7</intref>, voor zover het bevoegdheden betreft van
 Onze Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.9">18.9</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.12">18.12</intref>, voor zover het bevoegdheden betreft van Onze Minister,
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.16">18.16</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17">18.17</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=20.2">20.2</intref>, voor zover het bevoegdheden betreft van Onze Minister,
-en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=20.14">20.14</intref>.</al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>Met het toezicht op de naleving van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.20">artikel 6a.20, derde lid</intref>, zijn belast
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.16">18.16</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17">18.17</intref>,  <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17a">18.17a</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=20.2">20.2</intref>, voor zover het bevoegdheden betreft van Onze Minister,
+en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=20.14">20.14</intref>.</al></li></lijst>
+                
+                
+                
+                
+                
+                
+                
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Met het toezicht op de naleving van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.20">artikel 6a.20, derde lid</intref>, zijn belast
 de bij besluit van de raad van bestuur van de mededingingsautoriteit
-aangewezen ambtenaren.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Met het toezicht op de naleving van het bepaalde bij of krachtens andere
+aangewezen ambtenaren.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Met het toezicht op de naleving van het bepaalde bij of krachtens andere
 bepalingen van deze wet dan bedoeld in het eerste en tweede lid zijn belast
-de bij besluit van het college aangewezen ambtenaren.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Van een besluit als bedoeld in het eerste, tweede, en derde lid wordt
-mededeling gedaan door plaatsing in de Staatscourant.</al></lid></artikel>
+de bij besluit van het college aangewezen ambtenaren.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>Van een besluit als bedoeld in het eerste, tweede, en derde lid wordt
+mededeling gedaan door plaatsing in de Staatscourant.</al>
+              </lid>
+</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -6844,13 +7285,13 @@ de raad van bestuur van de mededingingsautoriteit, heeft meegedeeld dat geen
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>15.12</nr>
+        <nr status="officieel">15.12</nr>
     </kop>
     <al>De werking van een beschikking als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.10">artikel 15.10, eerste
-        lid</intref>, wordt opgeschort totdat de beroepstermijn
-        is verstreken of, indien beroep is ingesteld, op het beroep is
-        beslist. </al>
-</artikel>
+lid</intref>, wordt, voorzover bij die beschikking een boete wordt opgelegd,
+opgeschort totdat de beroepstermijn is verstreken of, indien beroep is
+ingesteld, op het beroep is
+beslist.</al></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -7501,41 +7942,31 @@ de beide kamers der Staten-Generaal.</al>
 				<artikel status="goed"> 
 				  <kop> 
 					 <label>Artikel</label> 
-					 <nr>18.16</nr>
-				  </kop> 
-				  <lid> 
-					 <lidnr>1</lidnr> 
-					 <al>Onze Minister kan een of meer organisaties aanwijzen, die
-						certificatiedienstverleners toetsen op de overeenstemming met de bij en
-						krachtens deze wet gestelde eisen, indien de reglementen van de organisatie
-						voldoende waarborgen bieden dat een overeenkomstig deze regeling, door de
-						aangewezen organisatie beoordeelde certificatiedienstverlener voldoet aan
-						<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste lid</intref> en dat de door een zodanige
-						certificatiedienstverlener aan het publiek aangeboden of afgegeven
-						gekwalificeerde certificaten voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, tweede lid</intref>.</al>
-				  </lid> 
-				  <lid> 
-					 <lidnr>2</lidnr> 
-					 <al>Een certificatiedienstverlener die in het bezit is van een
-						geldig bewijs van toetsing van een op grond van het eerste lid aangewezen
-						organisatie, wordt vermoed te voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste lid</intref>.</al>
-				  </lid> 
-				  <lid> 
-					 <lidnr>3</lidnr> 
-					 <al>De certificaten die als gekwalificeerd aan het publiek
-						worden aangeboden of afgegeven door een certificatiedienstverlener als bedoeld
-						in het tweede lid, worden vermoed te voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, tweede
-						lid</intref>.</al>
-				  </lid>
-				  <lid> 
-					 <lidnr>4</lidnr> 
-					 <al>Een aanwijzing als bedoeld in het eerste lid geldt voor
-						bepaalde tijd, en kan worden ingetrokken indien blijkt dat de reglementen van
-						de aangewezen organisatie niet meer de in het eerste lid bedoelde waarborg
-						bieden.</al>
-				  </lid>
+					 <nr status="officieel">18.16</nr>
+				  </kop><lid><lidnr status="officieel">1</lidnr><al>Onze Minister kan een of meer organisaties
+aanwijzen die bevoegd zijn certificatiedienstverleners te toetsen op
+overeenstemming met de bij en krachtens deze wet gestelde eisen en
+daartoe een bewijs van toetsing af te geven.</al></lid><lid>
+<lidnr status="officieel">2</lidnr><al>Bij of krachtens algemene maatregel van bestuur
+worden regels gesteld
+inzake:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de indiening van een aanvraag voor een
+aanwijzing;</al></li><li> <li.nr>b.</li.nr><al>de eisen waaraan
+organisaties en de reglementen van organisaties moeten voldoen om voor
+een aanwijzing in aanmerking te komen;</al></li><li>
+<li.nr>c.</li.nr><al>voorschriften welke aan een aanwijzing kunnen
+worden verbonden, waaronder de duur waarvoor de aanwijzing
+geldt.</al></li></lijst></lid><lid> <lidnr status="officieel">3</lidnr><al>Onze Minister
+kan een aanwijzing intrekken
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de aangewezen organisatie niet meer voldoet aan de
+haar gestelde eisen om in aanmerking te komen voor een
+aanwijzing;</al></li><li> <li.nr>b.</li.nr><al>de aangewezen
+organisatie de bij of krachtens deze wet gestelde regels, dan wel de
+aan de aanwijzing verbonden voorschriften niet
+nakomt.</al></li></lijst></lid>
 				</artikel> 
-				<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.16a</nr><al><redactie type="extra">Treedt in werking per 13-12-2006</redactie></al></kop>
+				<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.16a</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Een certificatiedienstverlener die in het
 bezit is van een geldig bewijs van toetsing van een op grond van
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.16">artikel 18.16, eerste lid</intref>, aangewezen organisatie, wordt vermoed te
@@ -7547,59 +7978,20 @@ vermoed te voldoen aan <intref status="actief" doc="1.0:v:BWBR0009950&amp;artike
 lid</intref>.</al></lid></artikel><artikel status="goed"> 
 				  <kop> 
 					 <label>Artikel</label> 
-					 <nr>18.17</nr>
-				  </kop>
-				  <lid> 
-					 <lidnr>1</lidnr> 
-					 <al>Degene die een veilig middel voor het aanmaken van
-						elektronische handtekeningen op de markt brengt, zorgt ervoor dat het veilige
-						middel voldoet aan de bij of krachtens algemene maatregel van bestuur te
-						stellen eisen.</al>
-				  </lid>
-				  <lid> 
-					 <lidnr>2</lidnr> 
-					 <al>Onze Minister kan een instelling aanwijzen die belast is
-						met het beoordelen van de overeenstemming van een veilig middel voor het
-						aanmaken van elektronische handtekeningen met de eisen, bedoeld in het eerste
-						lid.</al>
-				  </lid> 
-				  <lid> 
-					 <lidnr>3</lidnr> 
-					 <al>Degene die een veilig middel voor het aanmaken van
-						elektronische handtekeningen op de markt brengt, zorgt ervoor dat dit middel is
-						voorzien van een verklaring van de instelling, bedoeld in het tweede lid, of
-						van een verklaring van een door de bevoegde autoriteiten van een andere
-						lidstaat van de Europese Gemeenschap dan wel van een van de overige staten die
-						partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte,
-						aangewezen instelling, dat het middel voldoet aan de eisen, bedoeld in het
-						eerste lid.</al>
-				  </lid> 
-				  <lid> 
-					 <lidnr>4</lidnr> 
-					 <al>De verklaring, bedoeld in het derde lid, betreft ofwel een
-						afzonderlijk veilig middel, ofwel een type.</al>
-				  </lid> 
-				  <lid> 
-					 <lidnr>5</lidnr> 
-					 <al>De instelling die in aanmerking wenst te komen voor een
-						aanwijzing als bedoeld in het tweede lid, toont aan dat zij voldoet aan de bij
-						of krachtens algemene maatregel van bestuur vastgestelde eisen.</al>
-				  </lid> 
-				  <lid> 
-					 <lidnr>6</lidnr> 
-					 <al>Indien Onze Minister heeft vastgesteld dat de aangewezen
-						instelling niet meer aan de in het vijfde lid bedoelde eisen voldoet en de
-						instelling niet binnen een door Onze Minister gestelde termijn heeft aangetoond
-						aan de eisen te voldoen, wordt de aanwijzing ingetrokken.</al>
-				  </lid> 
-				  <lid> 
-					 <lidnr>7</lidnr> 
-					 <al>Indien de aangewezen instelling aantoont redelijkerwijs
-						niet binnen de gestelde termijn aan de eisen te kunnen voldoen, kan Onze
-						Minister de termijn verlengen.</al>
-				  </lid>
+					 <nr status="officieel">18.17</nr>
+				  </kop><al>Degene die een veilig middel voor het aanmaken van elektronische
+handtekeningen op de markt brengt, zorgt er voor dat het veilig middel
+voldoet aan de bij of krachtens algemene maatregel van bestuur te
+stellen eisen en, ten bewijze daarvan, dat het veilig middel is
+voorzien van een verklaring van een door Onze Minister aangewezen
+instelling als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17a">artikel 18.17a</intref> of van een verklaring van een
+instelling die is aangewezen door de bevoegde autoriteiten van een
+andere lidstaat van de Europese Gemeenschap dan wel van een van de
+overige staten die partij zijn bij de Overeenkomst betreffende de
+Europese Economische Ruimte, dat het middel voldoet aan de
+eisen.</al>
 				</artikel> 
-				<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.17a</nr><al><redactie type="extra">Treedt in werking per 13-12-2006</redactie></al></kop>
+				<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.17a</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Onze Minister kan een of meer instellingen
 aanwijzen die zijn belast met het beoordelen van de overeenstemming van
 een veilig middel voor het aanmaken van elektronische handtekeningen
@@ -7937,13 +8329,22 @@ tot dit gebruik toestemming te hebben verleend, tenzij hij binnen een termijn
 van twee maanden na verzending van de mededeling schriftelijk aan de desbetreffende
 aanbieder te kennen heeft gegeven dat voor het desbetreffende gebruik geen
 toestemming wordt gegeven.</al></li></lijst></artikel>
-              <artikel status="goed"><kop><label>Artikel</label><nr>19.10</nr></kop><al>Na inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader
-voor de elektronische communicatiesector 2002</extref> geldt:</al><lijst nr-sluiting=""><li><li.nr>a.</li.nr><al>dat <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.6">artikel 11.6</intref> niet van toepassing is op edities van gedrukte algemeen
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">19.10</nr>
+                </kop>
+                <al>Na inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader
+voor de elektronische communicatiesector 2002</extref> geldt:</al>
+                <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
+                    <al>dat <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.6">artikel 11.6</intref> niet van toepassing is op edities van gedrukte algemeen
 beschikbare abonneelijsten en algemeen beschikbare abonneelijsten die in elektronische
 vorm, anders dan met gebruikmaking van een elektronisch communicatienetwerk
 of een elektronische communicatiedienst, worden uitgegeven, indien deze edities
 zijn uitgegeven dan wel gereed gemaakt zijn voor uitgifte, voor de datum van
-inwerkingtreding van dat artikel;</al></li><li><li.nr>b.</li.nr><al>een ieder die een algemeen beschikbare abonneelijst uitgeeft of een
+inwerkingtreding van dat artikel;</al>
+                  </li><li><li.nr>b.</li.nr>
+                    <al>dat een ieder die een algemeen beschikbare abonneelijst uitgeeft of een
 algemeen beschikbare abonnee-informatiedienst verzorgt, binnen zes maanden
 na inwerkingtreding van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.6">artikel 11.6</intref> de abonnee van een openbare telefoondienst
 wiens persoonsgegevens op het moment van inwerkingtreding van dat artikel
@@ -7953,7 +8354,9 @@ gebruikte abonneebestand, op de hoogte stelt van de informatie, bedoeld in
 om verzet aan te tekenen tegen het feit dat hem betreffende persoonsgegevens
 in de abonneelijst of in het voor de abonnee-informatiedienst gebruikte abonneebestand
 zijn opgenomen. Indien de abonnee verzet aantekent, is <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=41" compleet="nee">artikel 41, tweede
-lid, van de Wet bescherming persoonsgegevens</extref> van overeenkomstige toepassing.</al></li></lijst></artikel>
+lid, van de Wet bescherming persoonsgegevens</extref> van overeenkomstige toepassing.</al>
+                  </li></lijst>
+              </artikel>
               <artikel status="goed"><kop><label>Artikel</label><nr>19.11</nr></kop><al>Op besluiten die door het college zijn genomen op grond van hoofdstuk
 6, waartegen bezwaar of beroep kon worden ingesteld voor de inwerkingtreding
 van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader voor de elektronische
@@ -8004,11 +8407,10 @@ langer bestaat.</al></li></lijst>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>20.2</nr>
+        <nr status="officieel">20.2</nr>
     </kop>
-    
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Een vergunning die is verleend krachtens <extref status="actief" doc="" compleet="nee">artikel 13a, eerste lid, van de
                 Wet op de telecommunicatievoorzieningen</extref>
             wordt gelijkgesteld met een vergunning, verleend krachtens
@@ -8016,7 +8418,7 @@ langer bestaat.</al></li></lijst>
             lid</intref>. </al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Voor de houder van een vergunning als bedoeld in het eerste
             lid blijft het bepaalde bij of krachtens de <extref status="actief" doc="" compleet="nee">artikelen 13c</extref>,
                 <extref status="actief" doc="" compleet="nee">13g</extref>, met dien
@@ -8028,10 +8430,10 @@ langer bestaat.</al></li></lijst>
                 <extref status="actief" doc="" compleet="nee">13t</extref>, voorzover het
             betreft de verwijzing naar <extref status="actief" doc="" compleet="nee">artikel 11, eerste tot en met
                 derde lid, en vijfde tot en met zevende
-            lid</extref>, <extref status="actief" doc="" compleet="nee">13u</extref>,
+            lid</extref>,
                 <extref status="actief" doc="" compleet="nee">13v</extref>,
                 <extref status="actief" doc="" compleet="nee">13x</extref> en
-                <extref status="slapend" doc="" compleet="nee">13y van de Wet op de
+                <extref status="actief" doc="" compleet="nee">13y van de Wet op de
             telecommunicatievoorzieningen</extref> van
             toepassing. </al>
     </lid>
@@ -8081,23 +8483,9 @@ langer bestaat.</al></li></lijst>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>20.4</nr>
+        <nr status="officieel">20.4</nr>
     </kop>
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Regels vastgesteld krachtens de <extref status="actief" doc="" compleet="nee">hoofdstukken
-            IV</extref>, <extref status="actief" doc="" compleet="nee">V</extref> en
-                <extref status="actief" doc="" compleet="nee">VII van de Wet op de
-            telecommunicatievoorzieningen</extref>, alsmede het
-            bepaalde bij of krachtens het <extref status="actief" doc="" compleet="nee">Besluit radio-elektrische
-            inrichtingen</extref>, worden gelijkgesteld met
-            regels vastgesteld krachtens de <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstukken 3</intref>,
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">10</intref> en
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=16">16</intref>. </al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Apparaten die op het tijdstip van inwerkingtreding van deze
+    <al>Apparaten die op het tijdstip van inwerkingtreding van deze
             wet in gebruik zijn bij de houder van de concessie, bedoeld
             in <extref status="actief" doc="" compleet="nee">artikel 3, eerste lid, van de
                 Wet op de
@@ -8107,8 +8495,7 @@ langer bestaat.</al></li></lijst>
             het bepaalde bij of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10 van deze
             wet</intref>, geacht te voldoen aan het bepaalde bij
             of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref>. </al>
-    </lid>
-</artikel>
+    </artikel>
     <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20.4a</nr><al><redactie type="extra">Treedt in werking per 20-07-2007</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>Uitrusting die voldoet aan de bij of
 krachtens de Telecommunicatiewet vastgestelde regels met
 betrekking tot de elektromagnetische compatibiliteit die van kracht
@@ -8121,10 +8508,10 @@ gestelde regels die niet zien op elektromagnetische
 compatibiliteit.</al></lid></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>20.5</nr>
+        <nr status="officieel">20.5</nr>
     </kop>
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Met betrekking tot de instandhouding, de verplaatsing en de
             opruiming van kabels en kabelwerken, voorzover de kabels en
             kabelwerken zijn aangelegd met toepassing van
@@ -8138,15 +8525,15 @@ compatibiliteit.</al></lid></artikel><artikel status="goed">
             telecommunicatievoorzieningen</extref> worden
             gelijkgesteld met kabels, aangelegd in en op openbare
             gronden als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1">artikel 1.1, onderdeel
-            s</intref>, van deze wet. </al>
+            aa</intref>, van deze wet. </al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Ten aanzien van kabels en kabelwerken, bedoeld in het eerste
             lid, die deel uitmaken van een telecommunicatienetwerk dat
             tot gebruik strekt van het Ministerie van Defensie geldt
             dat: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>gedurende een periode van vijf jaar na het tijdstip
@@ -8200,177 +8587,14 @@ compatibiliteit.</al></lid></artikel><artikel status="goed">
             deze wet. </al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>20.7</nr>
-    </kop>
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Een vergunning zonder gebiedsbeperking die is verleend
-            krachtens <extref status="actief" doc="1.0:v:BWBR0007973&amp;artikel=2" compleet="nee">artikel 2, eerste lid, van de
-                Vergunningenwet kabelgebonden
-            telecommunicatie-infrastructuur</extref> wordt
-            gelijkgesteld met een registratie als aanbieder van een
-            openbaar telecommunicatienetwerk als bedoeld in
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel 2.3</intref>. </al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Voor een geregistreerde als bedoeld in het eerste lid
-            blijven de <extref status="actief" doc="" compleet="nee">artikelen 4b van de Wet op de
-            telecommunicatievoorzieningen</extref> en
-                <extref status="actief" doc="1.0:v:BWBR0007973&amp;artikel=21" compleet="nee">21 van de Vergunningenwet
-                kabelgebonden
-            telecommunicatie-infrastructuur</extref> nog van
-            toepassing gedurende vijf jaar na het tijdstip van
-            inwerkingtreding van deze wet. </al>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>20.8</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Ten aanzien van degene op wie ingevolge <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</intref> een
-            verplichting tot registratie rust, blijft <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</intref>
-            buiten toepassing gedurende zes maanden na het tijdstip van
-            inwerkingtreding van deze wet, en indien binnen die termijn
-            een aanvraag tot registratie is ingediend, ook nadien, tot
-            zes weken na de datum van de beschikking waarbij op de
-            aanvraag is beslist. </al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Een registratie als bedoeld in <extref status="actief" doc="" compleet="nee">artikel 4ac van de Wet op de
-            telecommunicatievoorzieningen</extref> wordt
-            gelijkgesteld met een registratie als bedoeld in
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</intref> van
-            deze wet. </al>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>20.9</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Het frequentieplan wordt voor de eerste maal vastgesteld
-            binnen zes maanden na het tijdstip van inwerkingtreding van
-            deze wet. </al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Tot het tijdstip waarop het frequentieplan voor de eerste
-            maal is vastgesteld, worden vergunningen voor
-            frequentieruimte als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, eerste
-            lid</intref>, verleend door middel van de procedure
-            op volgorde van binnenkomst. </al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>In afwijking van het tweede lid geldt dat indien een
-            aanvraag voor een vergunning betrekking heeft op
-            frequentieruimte die naar het oordeel van Onze Minister
-            behoort tot een categorie van gebruik waarvoor vergunningen
-            zullen worden verleend door middel van een veiling of een
-            vergelijkende toets, kan Onze Minister besluiten een van
-            genoemde procedures toe te passen. </al>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>20.10</nr>
-    </kop>
-    
-    <al>Het frequentieregister is beschikbaar binnen zes maanden na het
-        tijdstip van inwerkingtreding van deze wet. </al>
-</artikel>
     
     
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>20.13</nr>
-    </kop>
-    <al>Ten aanzien van degene op wie het voorschrift van
-            <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.1">artikel 13.1</intref> van
-        toepassing is, blijft dat artikel gedurende negen maanden na het
-        tijdstip van inwerkingtreding van deze wet buiten toepassing,
-        indien de door hem aangeboden openbare telecommunicatienetwerken
-        of openbare telecommunicatiediensten nog niet aftapbaar zijn.  </al>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>20.14</nr>
-    </kop>
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Ten aanzien van de instelling die zendtijd als bedoeld in
-                <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, onder hh, van de
-            Mediawet</extref> heeft verkregen en die ingevolge
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3</intref> een
-            vergunning voor het gebruik van frequentieruimte op het
-            terrein van de publieke omroep behoeft, blijft dat artikel
-            voor dat doel buiten toepassing gedurende zes maanden na het
-            tijdstip van inwerkingtreding van deze wet, en indien binnen
-            die termijn een aanvraag voor een vergunning is ingediend,
-            ook nadien, tot zes weken na de datum van de beschikking
-            waarbij op de aanvraag is beslist. </al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Zolang en voorzover <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3</intref>
-            buiten toepassing blijft ten aanzien van het gebruik van
-            frequentieruimte op het terrein van de publieke omroep,
-            blijft de Nederlandsche Omroep-Zender-Maatschappij &#xAB;NOZEMA&#xBB;,
-            genoemd in <extref status="actief" doc="1.0:v:BWBR0001965&amp;artikel=1" compleet="nee">artikel 1 van de
-                Radio-Omroep-Zender-Wet 1935</extref>, bevoegd
-            gebruik te maken van de frequentieruimte op het terrein van
-            de publieke omroep, voorzover die frequentieruimte aan haar
-            overeenkomstig <extref status="actief" doc="1.0:v:BWBR0001965&amp;artikel=2" compleet="nee">artikel 2 van de
-                Radio-Omroep-Zender-Wet 1935</extref> door Onze
-            Minister is toegewezen. </al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Zolang en voorzover <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3</intref>
-            buiten toepassing blijft ten aanzien van het gebruik van
-            frequentieruimte op het terrein van de publieke omroep,
-            blijft de NOZEMA, in afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.16">artikel 10.16</intref>,
-            bevoegd radiozendapparaten aan te leggen en te gebruiken ten
-            behoeve van het verzorgen van diensten, waarbij gebruik
-            wordt gemaakt van de frequentieruimte op het terrein van de
-            publieke omroep. </al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>Zolang en voorzover <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3</intref>
-            buiten toepassing blijft ten aanzien van het gebruik van
-            frequentieruimte op het terrein van de publieke omroep,
-            blijven de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3</intref>
-            gestelde regels ten aanzien van het gebruik van
-            frequentieruimte op het terrein van de publieke omroep ten
-            aanzien van de NOZEMA eveneens buiten toepassing. </al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al>De frequentieruimte op het terrein van de publieke omroep
-            die op het tijdstip van inwerkingtreding van deze wet
-            overeenkomstig <extref status="actief" doc="1.0:v:BWBR0001965&amp;artikel=2" compleet="nee">artikel 2 van de
-                Radio-Omroep-Zender-Wet 1935</extref> door Onze
-            Minister aan de NOZEMA is toegewezen, wordt door de NOZEMA
-            uiterlijk zes maanden na het tijdstip van inwerkingtreding
-            van deze wet aan Onze Minister ter beschikking gesteld. </al>
-    </lid>
-</artikel>
+    
+    
+    
+    
+    
+    
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -8404,37 +8628,8 @@ compatibiliteit.</al></lid></artikel><artikel status="goed">
             toepassing. </al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>20.16</nr>
-    </kop>
-    <al>De tekst van de <extref status="actief" doc="1.0:v:BWBR0004149" compleet="nee">Mediawet</extref>  wordt in het
-        Staatsblad geplaatst. </al>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>20.17</nr>
-    </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>De <extref status="actief" doc="" compleet="nee">Wet op de
-            telecommunicatievoorzieningen</extref> wordt
-            ingetrokken op een bij koninklijk besluit te bepalen
-            tijdstip, dat voor de verschillende artikelen of onderdelen
-            daarvan verschillend kan worden vastgesteld. </al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>De <extref status="actief" doc="1.0:v:BWBR0007973" compleet="nee">Vergunningenwet kabelgebonden
-            telecommunicatie-infrastructuur</extref> wordt
-            ingetrokken op een bij koninklijk besluit te bepalen
-            tijdstip, dat voor de verschillende artikelen of onderdelen
-            daarvan verschillend kan worden vastgesteld. </al>
-    </lid>
-</artikel>
+    
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
