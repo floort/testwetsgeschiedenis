@@ -203,17 +203,17 @@
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>6</nr>
+        <nr status="officieel">6</nr>
     </kop>
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Er is een Algemene Inlichtingen- en Veiligheidsdienst.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De Algemene Inlichtingen- en Veiligheidsdienst heeft in het
             belang van de nationale veiligheid tot taak:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>het verrichten van onderzoek met betrekking tot
@@ -232,7 +232,7 @@
             <li>
                 <li.nr>c.</li.nr>
                 <al>het bevorderen van maatregelen ter bescherming van
-                    de <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6">onder a</intref>
+                    de onder a
                     genoemde belangen, waaronder begrepen maatregelen
                     ter beveiliging van gegevens waarvan de
                     geheimhouding door de nationale veiligheid wordt
@@ -247,12 +247,19 @@
                 <al>het verrichten van onderzoek betreffende andere
                     landen ten aanzien van onderwerpen die door Onze
                     Minister-President, Minister van Algemene Zaken, in
-                    overeenstemming met Onze betrokken Ministers zijn aangewezen.</al>
+                    overeenstemming met Onze betrokken Ministers zijn aangewezen;</al>
             </li>
-        </lijst>
+        <li><li.nr>e.</li.nr><al>het opstellen van
+dreigings- en risicoanalyses op verzoek van Onze Minister van
+Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie
+gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in
+de <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=6" compleet="nee">artikelen 6, derde lid, onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=38" compleet="nee">38, eerste lid, onderdeel c,
+van de Politiewet 1993</extref> en de bewaking en de beveiliging van de objecten
+en de diensten die zijn aangewezen op grond van <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=15a" compleet="nee">artikel 15a van die
+wet</extref>.</al></li></lijst>
     </lid>
 </artikel>
-<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">6a</nr><al><redactie type="extra">Treedt in werking per 29-12-2006</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>De dreigings- en risicoanalyses, bedoeld in
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">6a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De dreigings- en risicoanalyses, bedoeld in
 <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6">artikel 6, tweede lid, onderdeel e</intref>, worden opgesteld naar aanleiding
 van gegevens die worden verstrekt
 door:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
@@ -340,8 +347,8 @@ maken.</al></lid></artikel></paragraaf>
                         <li.nr>3&#xB0;.</li.nr>
                         <al>ten behoeve van een ongestoorde
                             voorbereiding en inzet van de krijgsmacht
-                            als bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">onderdeel a,
-                                onder 2&#xB0;</intref>.</al>
+                            als bedoeld in onderdeel a,
+                                onder 2&#xB0;.</al>
                     </li>
                 </lijst>
             </li>
@@ -349,7 +356,7 @@ maken.</al></lid></artikel></paragraaf>
                 <li.nr>d.</li.nr>
                 <al>
                     het bevorderen van
-                    maatregelen ter bescherming van de <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">onder c</intref>
+                    maatregelen ter bescherming van de onder c
                     genoemde belangen, waaronder begrepen maatregelen
                     ter beveiliging van gegevens betreffende de
                     krijgsmacht waarvan de geheimhouding is geboden;</al>
@@ -360,12 +367,20 @@ maken.</al></lid></artikel></paragraaf>
                     landen, ten aanzien van onderwerpen met een
                     militaire relevantie die door Onze
                     Minister-President, Minister van Algemene Zaken, in
-                    overeenstemming met Onze betrokken Ministers, zijn aangewezen.</al>
+                    overeenstemming met Onze betrokken Ministers, zijn aangewezen;</al>
             </li>
-        </lijst>
+        <li><li.nr>f.</li.nr><al>het opstellen van dreigingsanalyses op verzoek van Onze Minister van
+Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie
+gezamenlijk ten behoeve van de beveiliging van de personen, bedoeld in
+de <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=6" compleet="nee">artikelen 6, derde lid, onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=38" compleet="nee">38, eerste lid, onderdeel c,
+van de Politiewet 1993</extref> en de bewaking en de beveiliging van de objecten
+en de diensten die zijn aangewezen op grond van <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=15a" compleet="nee">artikel 15a van die
+wet</extref>, voor zover het betreft personen, objecten en diensten met een
+militaire
+relevantie.</al></li></lijst>
     </lid>
 </artikel>
-<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">7a</nr><al><redactie type="extra">Treedt in werking per 29-12-2006</redactie></al></kop>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">7a</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>De dreigingsanalyses, bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">artikel 7,
 tweede lid, onderdeel f</intref>, worden opgesteld naar aanleiding van gegevens
 die worden verstrekt
@@ -592,14 +607,14 @@ maken.</al></lid></artikel></paragraaf>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>13</nr>
+        <nr status="officieel">13</nr>
     </kop>
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De verwerking van persoonsgegevens door de Algemene
             Inlichtingen- en Veiligheidsdienst kan slechts betrekking
             hebben op personen:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>die aanleiding geven tot het ernstige vermoeden dat
@@ -628,27 +643,53 @@ maken.</al></lid></artikel></paragraaf>
             </li>
             <li>
                 <li.nr>f.</li.nr>
-                <al>die werkzaam zijn of zijn geweest voor een dienst.</al>
+                <al>die werkzaam zijn of zijn geweest voor een dienst;</al>
             </li>
-        </lijst>
+        <li><li.nr>g.</li.nr><al>omtrent wie
+dat noodzakelijk is in het kader van het opstellen van de dreigings- en
+risicoanalyses, bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6">artikel 6, tweede lid, onderdeel
+e</intref>.</al></li></lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
-        <al>Het eerste lid is van overeenkomstige toepassing op de
-            Militaire Inlichtingen- en Veiligheidsdienst met dien
-            verstande dat voor <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=13">onderdeel a</intref>
-            wordt gelezen: die aanleiding geven tot het ernstige
-            vermoeden dat zij een gevaar vormen voor de veiligheid of de
-            paraatheid van de krijgsmacht.</al>
-    </lid>
+        <lidnr status="officieel">2</lidnr>
+        
+    <al>De verwerking van persoonsgegevens door de
+Militaire Inlichtingen- en Veiligheidsdienst kan slechts betrekking
+hebben op
+personen:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>die aanleiding geven tot het ernstige vermoeden
+dat zij een gevaar vormen voor de veiligheid of de paraatheid van de
+krijgsmacht;</al></li><li> <li.nr>b.</li.nr><al>die toestemming hebben
+verleend voor een veiligheidsonderzoek;</al></li><li>
+<li.nr>c.</li.nr><al>omtrent wie dat noodzakelijk is in het kader van
+het onderzoek betreffende andere landen;</al></li><li>
+<li.nr>d.</li.nr><al>over wie door een andere inlichtingen- of
+veiligheidsdienst gegevens zijn ingewonnen;</al></li><li>
+<li.nr>e.</li.nr><al>wier gegevens noodzakelijk zijn ter ondersteuning
+van een goede taakuitvoering door de dienst;</al></li><li>
+<li.nr>f.</li.nr><al>die werkzaam zijn of zijn geweest voor een
+dienst;</al></li><li> <li.nr>g.</li.nr><al>omtrent wie dat noodzakelijk
+is in het kader van een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">artikel 7, tweede lid,
+onderdeel a, sub 2&#xB0;</intref>;</al></li><li> <li.nr>h.</li.nr><al>omtrent
+wie dat noodzakelijk is in het kader van het opstellen van de
+dreigingsanalyses, bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">artikel 7, tweede lid, onderdeel
+f</intref>;</al></li><li> <li.nr>i.</li.nr><al>omtrent wie dat noodzakelijk is
+in het kader van het opstellen van een analyse door de Militaire
+Inlichtingen- en Veiligheidsdienst, in opdracht van onze minister van
+Defensie, van potenti&#xEB;le dreigingen tegen een bij de krijgsmacht
+werkzaam persoon of een bij de krijgsmacht in gebruik zijnd object,
+welke niet ingevolge de <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=6" compleet="nee">artikelen 6, derde lid, onderdeel b</extref>, en <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=38" compleet="nee">38,
+eerste lid, onderdeel c</extref>, respectievelijk <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=15a" compleet="nee">artikel 15a van de Politiewet
+1993</extref> is
+aangewezen.</al></li></lijst></lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De verwerking van persoonsgegevens wegens iemands godsdienst
             of levensovertuiging, ras, gezondheid en seksuele leven
             vindt niet plaats.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De verwerking van persoonsgegevens die betrekking hebben op
             de in het derde lid bedoelde kenmerken vindt slechts plaats
             in aanvulling op de verwerking van andere gegevens en
@@ -914,19 +955,19 @@ maken.</al></lid></artikel></paragraaf>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>21</nr>
+        <nr status="officieel">21</nr>
     </kop>
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De diensten zijn bevoegd tot:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de inzet van natuurlijke personen, al dan niet onder
                     dekmantel van een aangenomen identiteit of
                     hoedanigheid, die onder verantwoordelijkheid en
                     onder instructie van een dienst zijn belast met:</al>
-                <lijst>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                     <li>
                         <li.nr>1&#xB0;.</li.nr>
                         <al>het gericht gegevens verzamelen omtrent
@@ -950,7 +991,7 @@ maken.</al></lid></artikel></paragraaf>
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Onze betrokken Minister kan daarvoor in aanmerking komende
             bestuursorganen schriftelijk opdragen die medewerking te
             verlenen die noodzakelijk is om een natuurlijke persoon als
@@ -961,7 +1002,7 @@ maken.</al></lid></artikel></paragraaf>
             het verrichten van die werkzaamheden buiten toepassing.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De natuurlijke persoon, bedoeld in het eerste lid, onder a,
             kan bij instructie van de dienst tevens worden belast met
             het verrichten van handelingen die tot gevolg kunnen hebben
@@ -973,7 +1014,7 @@ maken.</al></lid></artikel></paragraaf>
             daartoe noodzaakt.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De natuurlijke persoon, bedoeld in het eerste lid, onder a,
             mag bij de uitvoering van de instructie door zijn optreden
             een persoon niet brengen tot ander handelen betreffende het
@@ -981,10 +1022,10 @@ maken.</al></lid></artikel></paragraaf>
             opzet reeds tevoren was gericht.</al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>Bij de instructie, bedoeld in het derde lid, wordt aan de
             desbetreffende persoon aangegeven:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>onder welke omstandigheden deze ter uitvoering van
@@ -1004,17 +1045,17 @@ maken.</al></lid></artikel></paragraaf>
         </lijst>
     </lid>
     <lid>
-        <lidnr>6</lidnr>
+        <lidnr status="officieel">6</lidnr>
         <al>De instructie aan de natuurlijke persoon, bedoeld in het
             eerste lid, onder a, wordt schriftelijk vastgelegd.</al>
     </lid>
     <lid>
-        <lidnr>7</lidnr>
+        <lidnr status="officieel">7</lidnr>
         <al>Bij of krachtens algemene maatregel van bestuur, op
             voordracht van Onze betrokken Ministers en Onze Minister van
             Justitie gezamenlijk, kunnen nadere regels worden gesteld
             met betrekking tot:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de voorwaarden waaronder en de gevallen waarin ter
@@ -1033,11 +1074,11 @@ maken.</al></lid></artikel></paragraaf>
         </lijst>
     </lid>
     <lid>
-        <lidnr>8</lidnr>
+        <lidnr status="officieel">8</lidnr>
         <al>Met betrekking tot het oprichten van rechtspersonen als
             bedoeld in het eerste lid, onderdeel b, blijft
-                <extref status="actief" doc="1.0:v:BWBR0003075&amp;artikel=29" compleet="nee">artikel 29, eerste en tweede lid,
-                van de Comptabiliteitswet</extref> buiten toepassing.</al>
+                <extref status="actief" doc="1.0:v:BWBR0013891&amp;artikel=34" compleet="nee">artikel 34, eerste en tweede lid, van de Comptabiliteitswet
+2001</extref> buiten toepassing.</al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -3782,28 +3823,25 @@ vervaardigd.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>89</nr>
+        <nr status="officieel">89</nr>
     </kop>
     <lid>
-        <lidnr>1</lidnr>
-        <al>Overtreding van de <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=23">artikelen 23, zevende
-            lid</intref>, <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=24">24, derde lid</intref>,
-                <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=25">25, zevende lid</intref>,
-                <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=28">28, zesde lid</intref>,
-            en <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=29">29, vierde lid</intref>,
-            is strafbaar.</al>
+        <lidnr status="officieel">1</lidnr>
+        <al>Overtreding van de
+<intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=23">artikelen 23, zevende lid</intref>, <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=24">24, derde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=25">25, zevende lid</intref>, is
+strafbaar.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Overtredingen van de in het eerste lid strafbaar gestelde
             feiten zijn misdrijven, voor zover zij opzettelijk zijn
             begaan. Voor zover zij geen misdrijven zijn, zijn zij overtredingen.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Overtreding van de in het eerste lid strafbaar gestelde
             feiten wordt gestraft</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>in geval van een misdrijf, met gevangenisstraf van
@@ -3834,18 +3872,16 @@ vervaardigd.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>91</nr>
+        <nr status="officieel">91</nr>
     </kop>
-    <al>De <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet
-        bestuursrecht</extref> is niet van toepassing op de
-        voorbereiding, totstandkoming en tenuitvoerlegging van besluiten
-        op grond van <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6">artikel 6, tweede lid, onder
-        d</intref>, <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">artikel 7, tweede lid, onder
-        e</intref>, alsmede op grond van de <intref status="actief" doc="1.0:v:BWBR0013409&amp;hoofdstuk=3">hoofdstukken 3</intref> en
-            <intref status="actief" doc="1.0:v:BWBR0013409&amp;hoofdstuk=5">5</intref> in het kader van de
-        uitvoering van de taken, bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6">artikel 6, tweede lid, onder a, c en
-        d</intref>, en <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">artikel 7, tweede lid, onder a, c, d
-            en e</intref>.</al>
+    <al>De <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet bestuursrecht</extref> is niet van toepassing op de
+voorbereiding, totstandkoming en tenuitvoerlegging van besluiten op
+grond van <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6">artikel 6, tweede lid, onder d en e</intref>, <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">artikel 7, tweede lid,
+onder e en f</intref>, op grond van de <intref status="actief" doc="1.0:v:BWBR0013409&amp;hoofdstuk=3">hoofdstukken 3</intref> en <intref status="actief" doc="1.0:v:BWBR0013409&amp;hoofdstuk=5">5</intref> in het kader van de
+uitvoering van de taken, bedoeld in <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6">artikel 6, tweede lid, onder a, c,
+d en e</intref>, en <intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7">artikel 7, tweede lid, onder a, c, d, e en f</intref>, alsmede
+<intref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=86">artikel 86, tweede lid, eerste
+volzin</intref>.</al>
 </artikel>
     <artikel status="goed">
     <kop>
