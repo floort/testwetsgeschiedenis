@@ -753,15 +753,15 @@ nadelen verband houdende met de grond ras op te heffen of te verminderen en slec
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>21</nr>
+        <nr status="officieel">21</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Het verbod om persoonsgegevens betreffende iemands
             gezondheid te verwerken als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=16">artikel 16</intref>, is niet
             van toepassing indien de verwerking geschiedt door:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>hulpverleners, instellingen of voorzieningen voor
@@ -773,29 +773,16 @@ nadelen verband houdende met de grond ras op te heffen of te verminderen en slec
             </li>
             <li>
                 <li.nr>b.</li.nr>
-                <al>verzekeraars als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006509&amp;artikel=1" compleet="nee">artikel 1, eerste lid,
-                        onder h, van de Wet toezicht
-                    verzekeringsbedrijf&#xA0;1993</extref>,
-                    verzekeraars als bedoeld in <extref status="actief" doc="1.0:v:BWBR0007477&amp;artikel=1" compleet="nee">artikel 1, onder c, van
-                        de Wet toezicht
-                    natura-uitvaartverzekeringsbedrijf</extref>
-                    en financi&#xEB;le
-dienstverleners die bemiddelen in verzekeringen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0018329&amp;artikel=1" compleet="nee">artikel
-1 van de Wet financi&#xEB;le
-dienstverlening</extref>, voor
-                    zover dat noodzakelijk is voor:</al>
-                <lijst>
-                    <li>
-                        <li.nr>1&#xB0;.</li.nr>
-                        <al>de beoordeling van het door verzekeraar te
-                            verzekeren risico en de betrokkene geen
-                            bezwaar heeft gemaakt of</al>
-                    </li>
-                    <li>
-                        <li.nr>2&#xB0;.</li.nr>
-                        <al>de uitvoering van de verzekeringsovereenkomst;</al>
-                    </li>
-                </lijst>
+                <al>verzekeraars als bedoeld
+in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A1" compleet="nee">artikel 1:1 van de Wet op het financieel toezicht</extref> en
+financi&#xEB;le dienstverleners die bemiddelen in verzekeringen als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0020368&amp;artikel=1%3A1" compleet="nee">artikel 1:1 van die wet</extref>, voorzover dat noodzakelijk is
+voor:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>1&#xB0;.</li.nr><al>de beoordeling van het door de verzekeraar
+te verzekeren risico en de betrokkene geen bezwaar heeft gemaakt;
+of</al></li><li> <li.nr>2&#xB0;.</li.nr><al>de uitvoering van de
+overeenkomst van
+verzekering;</al></li></lijst>
             </li>
             <li>
                 <li.nr>c.</li.nr>
@@ -826,7 +813,7 @@ Wetboek</extref>, voor zover dat
                 <al>bestuursorganen, pensioenfondsen, werkgevers of
                     instellingen die te hunnen behoeve werkzaam zijn
                     voor zover dat noodzakelijk is voor:</al>
-                <lijst>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                     <li>
                         <li.nr>1&#xB0;.</li.nr>
                         <al>een goede uitvoering van wettelijke
@@ -846,7 +833,7 @@ Wetboek</extref>, voor zover dat
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>In de gevallen als bedoeld in het eerste lid worden de
             gegevens alleen verwerkt door personen die uit hoofde van
             ambt, beroep of wettelijk voorschrift, dan wel krachtens een
@@ -861,7 +848,7 @@ Wetboek</extref>, voor zover dat
             verwerking daarvan.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Het verbod om andere persoonsgegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=16">artikel
             16</intref> te verwerken, is niet van toepassing voor zover dit
             noodzakelijk is in aanvulling op de verwerking van
@@ -870,12 +857,12 @@ Wetboek</extref>, voor zover dat
             behandeling of verzorging van de betrokkene. </al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>Persoonsgegevens betreffende erfelijke eigenschappen mogen
             slechts worden verwerkt voor zover deze verwerking
             plaatsvindt met betrekking tot de betrokkene bij wie de
             betreffende gegevens zijn verkregen, tenzij:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>een zwaarwegend geneeskundig belang prevaleert of</al>
@@ -891,7 +878,7 @@ Wetboek</extref>, voor zover dat
         </lijst>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>Bij algemene maatregel van bestuur kunnen omtrent de
             toepassing van het eerste lid, onder b en f, nadere regels
             worden gesteld.</al>
