@@ -3523,37 +3523,37 @@ toepassing.</al></lid></artikel></titeldeel><titeldeel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>46</nr>
+        <nr status="officieel">46</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Voorbereiding van een misdrijf waarop naar de wettelijke
             omschrijving een gevangenisstraf van acht jaren of meer is
             gesteld is strafbaar, wanneer de dader opzettelijk
             voorwerpen, stoffen,  informatiedragers, ruimten of
-            vervoermiddelen kennelijk bestemd tot het begaan van dat
+            vervoermiddelen bestemd tot het begaan van dat
             misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert
             of voorhanden heeft.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Het maximum van de hoofdstraffen op het misdrijf gesteld
             wordt bij voorbereiding met de helft verminderd.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Geldt het een misdrijf waarop levenslange gevangenisstraf is
             gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste
             vijftien jaren.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De bijkomende straffen zijn voor voorbereiding dezelfde als
             voor het voltooide misdrijf.</al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.</al>
     </lid>
 </artikel>
@@ -5866,17 +5866,30 @@ dragen.</al>
         redelijkerwijs verwacht mag worden in staat is buiten het
         moederlichaam in leven te blijven.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>83</nr></kop><al>Onder terroristisch misdrijf wordt verstaan:</al><lijst nr-sluiting=""><li><li.nr>1&#xBA;.</li.nr><al>elk van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92 tot en met
+    <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">83</nr>
+              </kop>
+              <al>Onder terroristisch misdrijf wordt verstaan:</al>
+              <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr>
+                  <al>elk van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92 tot en met
 96</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=108">108, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">115, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">117, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=121">121</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=122">122</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=157">157, onderdeel
 3&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161quater">161quater, onderdeel 2&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=164">164, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">166, onderdeel 3&#xB0;</intref>,
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=168">168, onderdeel 2&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=170">170, onderdeel 3&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=174">174, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=289">289</intref>, alsmede
 in <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80" compleet="nee">artikel 80, tweede lid, Kernenergiewet</extref>, indien het misdrijf is begaan met
-een terroristisch oogmerk;</al></li><li><li.nr>2&#xBA;.</li.nr><al>elk van de misdrijven waarop ingevolge de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=114a">artikelen 114a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=114b">114b</intref>,
+een terroristisch oogmerk;</al>
+                </li><li><li.nr>2&#xBA;.</li.nr>
+                  <al>elk van de misdrijven waarop ingevolge de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=114a">artikelen 114a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=114b">114b</intref>,
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=120a">120a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=120b">120b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=130a">130a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=176a">176a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=176b">176b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282c">282c</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=289a">289a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=304a">304a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=304b">304b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=415a">415a</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=415b">415b</intref>, alsmede
-<extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80" compleet="nee">artikel 80, derde lid, van de Kernenergiewet</extref> gevangenisstraf is gesteld;</al></li><li><li.nr>3&#xBA;.</li.nr><al>elk van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=140a">artikelen 140a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282b">282b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285,
+<extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80" compleet="nee">artikel 80, derde lid, van de Kernenergiewet</extref> gevangenisstraf is gesteld;</al>
+                </li><li><li.nr>3&#xBA;.</li.nr>
+                  <al>elk van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=140a">artikelen 140a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282b">282b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285,
 derde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=288a">288a</intref>, alsmede in <extref status="actief" doc="1.0:v:BWBR0008804&amp;artikel=55" compleet="nee">artikel 55, vijfde lid, van de Wet wapens en
-munitie</extref>, <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=6" compleet="nee">artikel 6, vierde lid, van de Wet op de economische delicten</extref>, <extref status="actief" doc="1.0:v:BWBR0006803&amp;artikel=33a" compleet="nee">artikel
-33a van de Wet explosieven voor civiel gebruik</extref> en <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79" compleet="nee">artikel 79 van de Kernenergiewet</extref>.</al></li></lijst></artikel>
+munitie</extref>, <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=6" compleet="nee">artikel 6, vierde lid, van de Wet op de economische delicten</extref>, <extref status="actief" doc="1.0:v:BWBR0006803&amp;artikel=33b" compleet="nee">artikel 33b van de Wet explosieven voor civiel
+gebruik</extref> en <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79" compleet="nee">artikel 79 van de Kernenergiewet</extref>.</al>
+                </li></lijst>
+            </artikel>
     <artikel status="goed"><kop><label>Artikel</label><nr>83a</nr></kop><al>Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking
 of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel
 een overheid of internationale organisatie wederrechtelijk te dwingen iets
@@ -7363,44 +7376,44 @@ tijdelijke gevangenisstraf met de helft verhoogd.</al></artikel></titeldeel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>135</nr>
+        <nr status="officieel">135</nr>
     </kop>
     
     
-    <al>Hij die, kennis dragende van een samenspanning tot een der in de
-            <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen 92-95<nadruk type="cur">a</nadruk>
-        </intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=102">102</intref> of <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=121">121</intref> bedoelde
-        misdrijven, op een tijdstip waarop het plegen van deze
+    <al>Hij die, kennis dragende van een strafbare
+samenspanning, op een tijdstip waarop het plegen van deze
         misdrijven nog kan worden voorkomen, opzettelijk nalaat daarvan
         tijdig voldoende kennis te geven, hetzij aan de ambtenaren van
         de justitie of politie, hetzij aan de bedreigde, wordt, indien
         het misdrijf is gevolgd, gestraft met gevangenisstraf van ten
-        hoogste een jaar of geldboete van de derde categorie.</al>
+        hoogste twee jaren of geldboete van de
+vierde categorie.</al>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>136</nr>
+        <nr status="officieel">136</nr>
     </kop>
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die, kennis dragende van een voornemen tot het plegen
             van een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=92">artikelen
             92-110</intref> omschreven misdrijven, tot desertie
             in tijd van oorlog, tot militair verraad, tot moord,
-            mensenroof of verkrachting of tot een der in <intref status="slapend" verwijzing-id="1520522">Titel VII van dit
-            Boek</intref> omschreven misdrijven voor zover
+            mensenroof of verkrachting of tot een der in <intref status="actief" doc="1.0:v:BWBR0001854&amp;titeldeel=VII">Titel VII van dit
+            Boek</intref> omschreven misdrijven dan wel een terroristisch misdrijf voor zover
             daardoor levensgevaar wordt veroorzaakt, op een tijdstip
             waarop het plegen van deze misdrijven nog kan worden
             voorkomen, opzettelijk nalaat daarvan tijdig voldoende
             kennis te geven, hetzij aan de ambtenaren van de justitie of
             politie, hetzij aan de bedreigde, wordt, indien het misdrijf
-            is gevolgd, gestraft met gevangenisstraf van ten hoogste zes
-            maanden of geldboete van de derde categorie.</al>
+            is gevolgd, gestraft met gevangenisstraf van ten hoogste een
+jaar of geldboete van de vierde
+categorie.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Dezelfde straf is toepasselijk op hem die, kennis dragende
             van enig in het eerste lid vermeld reeds gepleegd misdrijf
             waardoor levensgevaar is ontstaan, op een tijdstip waarop de
@@ -7863,27 +7876,29 @@ lid</intref>.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>140</nr>
+        <nr status="officieel">140</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Deelneming aan een organisatie die tot oogmerk heeft het
             plegen van misdrijven, wordt gestraft met gevangenisstraf
             van ten hoogste zes jaren of geldboete van de vijfde categorie.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
-        <al> Deelneming aan de voortzetting van de werkzaamheid van een
-            rechtspersoon die bij onherroepelijke rechterlijke
-            beslissing verboden is verklaard en deswege is ontbonden
-            wordt gestraft met gevangenisstraf van ten hoogste een jaar
-            of geldboete van de derde categorie.</al>
-    </lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Deelneming
+aan de voortzetting van de werkzaamheid van een organisatie die bij
+onherroepelijke rechterlijke beslissing verboden is verklaard of van
+rechtswege is verboden of ten aanzien waarvan een onherroepelijke
+verklaring als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009192&amp;artikel=5a" compleet="nee">artikel 5a, eerste lid, van de Wet
+conflictenrecht corporaties</extref> is afgegeven, wordt gestraft met
+gevangenisstraf van ten hoogste een jaar of geldboete van de derde
+categorie.</al></lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Ten aanzien van de oprichters, leiders of bestuurders
             kunnen de gevangenisstraffen met een derde worden verhoogd.</al>
     </lid>
@@ -9575,19 +9590,18 @@ hoogste vijf jaren of
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>189</nr> 
+	 <nr status="officieel">189</nr> 
   </kop>
     
 
   <lid> 
-	 <lidnr>1</lidnr> 
+	 <lidnr status="officieel">1</lidnr> 
 	 <al>Met gevangenisstraf van ten hoogste zes maanden of geldboete van de
 		derde categorie wordt gestraft: </al> 
-	 <lijst> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
 		<li> 
 		  <li.nr>1&#xB0;.</li.nr> 
-		  <al>hij die opzettelijk iemand die schuldig is aan of vervolgd wordt
-			 ter zake van enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan
+		  <al>hij die opzettelijk iemand die schuldig is aan of verdachte is van enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan
 			 de nasporing van of aanhouding door de ambtenaren van de justitie of
 			 politie;</al> 
 		</li>
@@ -9604,8 +9618,7 @@ hoogste vijf jaren of
 		  <li.nr>3&#xB0;.</li.nr> 
 		  <al>hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan
 			 de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=36e">artikel 36<nadruk type="cur">e</nadruk>
-			 </intref> aan te tonen, met het oogmerk om de inbeslagneming daarvan te
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=36e">artikel 36e</intref> aan te tonen, met het oogmerk om de inbeslagneming daarvan te
 			 beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan
 			 het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel
 			 door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die
@@ -9613,9 +9626,13 @@ hoogste vijf jaren of
 		</li> 
 	 </lijst> 
   </lid>
-    
+    <lid> <lidnr status="officieel">2</lidnr><al>In het geval
+het misdrijf, bedoeld in het eerste lid, een terroristisch misdrijf
+betreft, kan een gevangenisstraf van ten hoogste vier jaren of
+geldboete van de vijfde categorie worden
+opgelegd.</al></lid>
   <lid> 
-	 <lidnr>2</lidnr> 
+	 <lidnr status="officieel">3</lidnr> 
 	 <al> Deze bepalingen zijn niet van toepassing op hem die de daarin vermelde
 		handelingen verricht ten einde gevaar van vervolging te ontgaan of af te wenden
 		van een van zijn bloedverwanten of aangehuwden in de rechte linie of in de
@@ -9624,7 +9641,7 @@ hoogste vijf jaren of
   </lid>
     
   <lid> 
-	 <lidnr>3</lidnr> 
+	 <lidnr status="officieel">4</lidnr> 
 	 <al>Met ambtenaren van de justitie of politie worden gelijkgesteld:
 		personen in de openbare dienst van een internationaal gerecht dat zijn
 		rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is, die
