@@ -1463,11 +1463,11 @@ lid.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>3.11</nr>
+        <nr status="officieel">3.11</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De houders van een vergunning voor het gebruik van
             frequentieruimte die bestemd is voor het aanbieden van
             openbare telecommunicatienetwerken of openbare
@@ -1477,12 +1477,12 @@ lid.</al></lid></artikel>
             technische mogelijkheden in acht genomen. </al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>In het geval dat voor het verlenen van medegebruik
             toestemming van een derde is vereist, is deze daartoe
             slechts gehouden indien het een redelijk verzoek betreft en
             hij: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>direct of indirect een relevant economisch belang
@@ -1502,7 +1502,7 @@ lid.</al></lid></artikel>
         </lijst>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De houder, bedoeld in het eerste lid, en de derde die op
             grond van het tweede lid gehouden is toestemming te
             verlenen, stellen het medegebruik ter beschikking tegen een
@@ -1510,18 +1510,16 @@ lid.</al></lid></artikel>
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
-        <al>De houders van een vergunning voor het gebruik van
-            frequentieruimte die is bestemd voor het verspreiden van
-            programma's, alsmede degenen die in opdracht van die
-            houders door middel van hun openbaar elektronisch communicatienetwerk dat bestaat uit radiozendapparaten
-die geschikt zijn voor het verspreiden van programma's een
-            programma verspreiden, zijn over en weer verplicht te
-            voldoen aan redelijke verzoeken tot het medegebruik van
-            antenne-opstelpunten, antennesystemen en antennes. Hierbij
-            worden in ieder geval de technische mogelijkheden in acht
-            genomen. Het tweede en derde lid zijn van
-            overeenkomstige toepassing.</al>
+        <lidnr status="officieel">4</lidnr>
+        <al>Aanbieders
+van elektronische communicatienetwerken die bestaan uit
+radiozendapparaten die geschikt zijn voor het verspreiden van
+programma&#x2019;s, alsmede aanbieders van antenne-opstelpunten welke
+bestemd zijn om genoemde genoemde netwerken te ondersteunen, voldoen
+aan redelijke verzoeken tot medegebruik van antenne-opstelpunten,
+antennesystemen of antennes. Het tweede en derde lid zijn van
+overeenkomstige
+toepassing.</al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -2745,7 +2743,7 @@ als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.15">
     <artikel status="goed">
                 <kop>
                   <label>Artikel</label>
-                  <nr>6.1</nr>
+                  <nr status="officieel">6.1</nr>
                 </kop>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
@@ -2760,9 +2758,19 @@ eindverbindingen tot stand worden gebracht.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>De bij de onderhandelingen betrokken aanbieders zijn verplicht de bij
-onderhandelingen verkregen vertrouwelijke bedrijfsgegevens als zodanig te behandelen en slechts te gebruiken voor het doel waarvoor ze zijn
-verstrekt.</al>
+                  <al>Aanbieders
+van elektronische communicatienetwerken of aanbieders van elektronische
+communicatiediensten mogen informatie die voor of tijdens
+onderhandelingen over interoperabiliteitovereenkomsten aan hen is
+verstrekt, alsmede informatie die bij de uitvoering van de overeenkomst
+is of kan worden verkregen uitsluitend gebruiken voor het doel waarvoor
+deze informatie is verstrekt, respectievelijk uitsluitend gebruiken
+voor de uitvoering van de overeenkomst. De verkregen of opgeslagen
+informatie wordt vertrouwelijk behandeld en wordt niet doorgegeven aan
+enige andere partij, in het bijzonder andere afdelingen,
+dochterondernemingen of partners, die door die informatie
+concurrentievoordeel zouden kunnen
+behalen.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">3</lidnr>
