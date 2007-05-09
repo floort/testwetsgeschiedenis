@@ -368,7 +368,7 @@ geweigerd.</al></lid></artikel>
 		<li> 
 		  <li.nr>3&#xB0;.</li.nr> 
 		  <al>aan een der misdrijven omschreven in de
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">273a</intref>, voor zover het
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">273f</intref>, voor zover het
 			 feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet
 heeft bereikt dan wel aan een der misdrijven
 omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=300">artikelen 300 tot en met 303</intref>, voor zover het feit
@@ -395,15 +395,15 @@ wordt.</al></lid>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>5a</nr> 
+	 <nr status="officieel">5a</nr> 
   </kop> 
   <lid> 
-	 <lidnr>1</lidnr> 
+	 <lidnr status="officieel">1</lidnr> 
 	 <al>De Nederlandse strafwet is toepasselijk op de vreemdeling die in
 		Nederland een vaste woon- of verblijfplaats heeft en zich buiten Nederland
 		schuldig maakt aan een der misdrijven omschreven in de
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref> en
-<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">273a</intref>, voor zover het
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">273f</intref>, voor zover het
 		feit is gepleegd ten aanzien van een persoon die de
 leeftijd van achttien jaren nog niet heeft
 bereikt dan wel aan een der misdrijven
@@ -415,7 +415,7 @@ in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 
 lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317, derde lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>.</al> 
   </lid> 
   <lid> 
-	 <lidnr>2</lidnr> 
+	 <lidnr status="officieel">2</lidnr> 
 	 <al>De vervolging kan ook plaatshebben, indien de verdachte eerst na het
 		begaan van het feit een vaste woon- of verblijfplaats in Nederland heeft
 		gekregen.</al> 
@@ -4219,7 +4219,7 @@ gesteld.</al></lid>
 		<al>bij de misdrijven omschreven in de
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>,
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref> en
-<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">273a</intref>, en gepleegd ten aanzien van een
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">273f</intref>, en gepleegd ten aanzien van een
 		  persoon die de
 leeftijd van achttien jaren nog niet heeft
 bereikt, op de dag na die waarop die persoon achttien jaren is
@@ -4634,27 +4634,27 @@ aanving. Bij herroeping van een voorwaardelijke
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77d</nr>
+        <nr status="officieel">77d</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De verjaringstermijn van het recht tot strafvordering,
             genoemd in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=70">artikel 70</intref>,
             wordt ten aanzien van misdrijven tot de helft van de daar
             bedoelde duur ingekort.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Het eerste lid is niet van toepassing op misdrijven
             omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met
             250</intref> en
-<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273a">273a</intref>, gepleegd door een persoon die ten
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">273f</intref>, gepleegd door een persoon die ten
             tijde van het begaan van het strafbaar feit de leeftijd van
             zestien jaren heeft bereikt, ten aanzien van een persoon die de
 leeftijd van achttien jaren nog niet heeft
 bereikt.</al>
-    </lid><lid><lidnr>3</lidnr><al>Het
+    </lid><lid><lidnr status="officieel">3</lidnr><al>Het
 recht tot strafvordering voor misdrijven waarop levenslange
 gevangenisstraf is gesteld, verjaart in twintig
 jaren.</al></lid>
