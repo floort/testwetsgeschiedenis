@@ -196,10 +196,12 @@ aan het oproepende netwerkaansluitpunt te verstrekken, voordat de verbinding
 tot stand wordt gebracht;</al>
                         </li></lijst>
                     </li><li><li.nr>dd.</li.nr>
-                      <al>in de handel brengen: het voor de eerste maal afleveren na vervaardiging
-in de Europese Economische Ruimte, het invoeren in de Europese Economische
-Ruimte uit een land daarbuiten, alsmede het in gebruik nemen na vervaardiging
-of invoer uit een land buiten de Europese Economische Ruimte in de Europese
+                      <al>in de handel
+brengen: het voor de eerste maal afleveren na vervaardiging in de
+Europese Economische Ruimte, het in gebruik nemen na vervaardiging in
+de Europese Economische Ruimte, het invoeren in de Europese Economische
+Ruimte uit een land daarbuiten, of het in gebruik nemen na invoer uit
+een land buiten de Europese Economische Ruimte in de Europese
 Economische Ruimte;</al>
                     </li><li><li.nr>ee.</li.nr>
                       <al>openbaar telecommunicatienetwerk: elektronisch communicatienetwerk
@@ -212,114 +214,117 @@ die geheel of gedeeltelijk bestaat in het overbrengen van signalen via een
 elektronisch communicatienetwerk, voor zover deze dienst niet bestaat uit
 het verspreiden van programma's;</al>
                     </li><li><li.nr>gg.</li.nr>
-                      <al>apparaten: elektrische en elektronische apparaten alsmede uitrustingen
-en installaties, die elektrische of elektronische componenten bevatten;</al>
+                      <al>uitrusting: elk apparaat of vaste
+installatie;</al>
                     </li><li><li.nr>hh.</li.nr>
-                      <al>randapparaten:</al>
-                      <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>1&#xBA;.</li.nr>
-                          <al>apparaten die bestemd zijn om op een openbaar telecommunicatienetwerk
-te worden aangesloten, zodanig dat zij:</al>
-                          <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
-                              <al>rechtstreeks op netwerkaansluitpunten kunnen worden aangesloten, of</al>
-                            </li><li><li.nr>b.</li.nr>
-                              <al>kunnen dienen voor interactie met een openbaar telecommunicatienetwerk
-via directe of indirecte aansluiting op netwerkaansluitpunten ten behoeve
-van de overbrenging, verwerking of ontvangst van informatie;</al>
-                            </li></lijst>
-                        </li><li><li.nr>2&#xBA;.</li.nr>
-                          <al>radiozendapparaten die geschikt zijn om op een openbaar telecommunicatienetwerk
-te worden aangesloten;</al>
-                        </li><li><li.nr>3&#xBA;.</li.nr>
-                          <al>apparaten voor satellietgrondstations tenzij bij of krachtens
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref> anders is bepaald, doch met uitsluiting van speciaal geconstrueerde
-apparatuur die bedoeld is voor gebruik als onderdeel van een openbaar telecommunicatienetwerk;</al>
-                        </li></lijst>
+                      <al>apparaten: elektrische en
+elektronische apparaten;</al>
                     </li><li><li.nr>ii.</li.nr>
-                      <al>radiozendapparaten: apparaten die naar hun aard bestemd zijn voor
-het zenden of het zenden en ontvangen van radiocommunicatiesignalen;</al>
+                      <al>vaste installatie: een specifieke
+combinatie van verschillende soorten apparaten en eventuele andere
+inrichtingen, die samengebouwd, ge&#xEF;nstalleerd en bestemd zijn
+voor permanent gebruik op een van te voren vastgestelde
+locatie;</al>
                     </li><li><li.nr>jj.</li.nr>
-                      <al>elektromagnetische compatibiliteit: eigenschap van apparaten, om op
-bevredigende wijze in hun elektromagnetische omgeving te kunnen functioneren
-zonder zelf elektromagnetische storingen te veroorzaken die ontoelaatbaar
-zijn voor alles wat zich in die omgeving bevindt;</al>
-                    </li><li><li.nr>kk.</li.nr>
+                      <al>randapparaten:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>1&#xB0;.</li.nr><al>uitrusting die bestemd is om op een
+openbaar telecommunicatienetwerk te worden aangesloten, zodanig dat
+zij: rechtstreeks op netwerkaansluitpunten kan worden aangesloten, of
+kan dienen voor interactie met een openbaar telecommunicatienetwerk via
+directe of indirecte aansluiting op netwerkaansluitpunten ten behoeve
+van overbrenging, verwerking of ontvangst van informatie;</al></li><li>
+<li.nr>2&#xB0;.</li.nr><al>Radiozendapparaten die geschikt zijn om op
+een openbaar telecommunicatienetwerk te worden
+aangesloten;</al></li><li> <li.nr>3&#xB0;.</li.nr><al>Uitrusting voor
+satellietgrondstations tenzij bij of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref> anders is
+bepaald, doch met uitsluiting van speciaal geconstrueerde uitrusting
+die bedoeld is voor gebruik als onderdeel van een openbaar
+telecommunicatienetwerk;</al></li></lijst>
+                    </li><li><li.nr>kk.</li.nr><al>radiozendapparaten: uitrusting
+die naar haar aard bestemd is voor het zenden of het zenden en
+ontvangen van
+radiocommunicatiesignalen;</al></li><li><li.nr>ll.</li.nr>
                       <al>systeem voor voorwaardelijke toegang: elke technische maatregel of
 regeling waarbij toegang tot een beschermde radio- of televisie-omroepdienst
 in begrijpelijke vorm afhankelijk wordt gemaakt van een abonnement of een
 andere vorm van voorafgaande individuele machtiging;</al>
-                    </li><li><li.nr>ll.</li.nr>
+                    </li><li><li.nr>mm.</li.nr>
                       <al>applicatieprogramma-interface: een software interface tussen externe
 toepassingen, die beschikbaar is gesteld door omroepen, dienstenleveranciers,
 alsmede de hulpmiddelen in de eindapparatuur;</al>
-                    </li><li><li.nr>mm.</li.nr>
-                      <al>Internationaal Telecommunicatieverdrag: het op 22&#xA0;december 1992 te Gen&#xE8;ve tot stand gekomen Statuut en Verdrag van de Internationale
+                    </li><li>
+                      <li.nr>nn.</li.nr><al>Internationaal Telecommunicatieverdrag: het op 22&#xA0;december 1992 te Gen&#xE8;ve tot stand gekomen Statuut en Verdrag van de Internationale
 Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen
 (Trb. 1993, 138), de op 14&#xA0;oktober 1994 te Kyoto tot stand gekomen Akten
 van wijziging van het Statuut en het Verdrag van de Internationale Unie voor
 Telecommunicatie (Trb. 1995, 201) en de op 6&#xA0;november 1998 te Minneapolis
 tot stand gekomen Akten van wijziging van het Statuut en het Verdrag van de
 Internationale Unie voor Telecommunicatie (Trb. 2001, 90);</al>
-                    </li><li><li.nr>nn.</li.nr>
-                      <al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/19/EG</extref> van het Europees
+                    </li><li>
+                      <li.nr>oo.</li.nr><al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/19/EG</extref> van het Europees
 Parlement en de Raad van de Europese Unie van 7&#xA0;maart 2002 inzake de
 toegang tot en interconnectie van elektronische-communicatienetwerken en bijbehorende
 faciliteiten (Toegangsrichtlijn) (PbEG L&#xA0;108);</al>
-                    </li><li><li.nr>oo.</li.nr>
-                      <al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/20/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/20/EG</extref> van het Europees
+                    </li><li>
+                      <li.nr>pp.</li.nr><al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/20/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/20/EG</extref> van het Europees
 Parlement en de Raad van de Europese Unie van 7&#xA0;maart 2002 betreffende
 de machtiging voor elektronische-communicatienetwerken en -diensten (Machtigingsrichtlijn)
 (PbEG L&#xA0;108);</al>
-                    </li><li><li.nr>pp.</li.nr>
-                      <al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/21/EG</extref> van het Europees
+                    </li><li>
+                      <li.nr>qq.</li.nr><al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/21/EG</extref> van het Europees
 Parlement en de Raad van de Europese Unie van 7&#xA0;maart 2002 inzake een
 gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken
 en -diensten (Kaderrichtlijn) (PbEG L&#xA0;108);</al>
-                    </li><li><li.nr>qq.</li.nr>
-                      <al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/22/EG</extref> van het Europees
+                    </li><li>
+                      <li.nr>rr.</li.nr><al><extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref>: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">Richtlijn nr. 2002/22/EG</extref> van het Europees
 Parlement en de Raad van de Europese Unie van 7&#xA0;maart 2002 inzake de
 universele dienst en gebruikersrechten met betrekking tot elektronische-communicatienetwerken
 en -diensten (Universeledienstrichtlijn) (PbEG L&#xA0;108);</al>
-                    </li><li><li.nr>rr.</li.nr>
-                      <al>certificaat: elektronische bevestiging die gegevens voor het verifi&#xEB;ren
+                    </li><li>
+                      <li.nr>ss.</li.nr><al>certificaat: elektronische bevestiging die gegevens voor het verifi&#xEB;ren
 van een elektronische handtekening met een bepaalde persoon verbindt en de
 identiteit van die persoon bevestigt;</al>
-                    </li><li><li.nr>ss.</li.nr>
-                      <al>gekwalificeerd certificaat: certificaat dat voldoet aan de eisen,
+                    </li><li>
+                      <li.nr>tt.</li.nr><al>gekwalificeerd certificaat: certificaat dat voldoet aan de eisen,
 gesteld krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, tweede lid</intref>, en is afgegeven door een certificatiedienstverlener
 die voldoet aan de eisen, gesteld krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste lid</intref>;</al>
-                    </li><li><li.nr>tt.</li.nr>
-                      <al>certificatiedienstverlener: een natuurlijke persoon of rechtspersoon
+                    </li><li>
+                      <li.nr>uu.</li.nr><al>certificatiedienstverlener: een natuurlijke persoon of rechtspersoon
 die certificaten afgeeft of andere diensten in verband met elektronische handtekeningen
 verleent;</al>
-                    </li><li><li.nr>uu.</li.nr>
-                      <al>middel voor het aanmaken van elektronische handtekeningen: geconfigureerde
+                    </li><li>
+                      <li.nr>vv.</li.nr><al>middel voor het aanmaken van elektronische handtekeningen: geconfigureerde
 software of hardware die wordt gebruikt om de gegevens voor het aanmaken van
 elektronische handtekeningen te implementeren;</al>
-                    </li><li><li.nr>vv.</li.nr>
-                      <al>veilig middel voor het aanmaken van elektronische handtekeningen:
+                    </li><li>
+                      <li.nr>ww.</li.nr><al>veilig middel voor het aanmaken van elektronische handtekeningen:
 een middel voor het aanmaken van elektronische handtekeningen dat voldoet
 aan de eisen gesteld krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.17">artikel 18.17, eerste lid</intref>;</al>
-                    </li><li><li.nr>ww.</li.nr>
-                      <al>elektronische handtekening: elektronische handtekening als bedoeld
+                    </li><li>
+                      <li.nr>xx.</li.nr><al>elektronische handtekening: elektronische handtekening als bedoeld
 in <extref status="actief" doc="1.0:v:BWBR0005291&amp;artikel=15a" compleet="nee">artikel 15a, vierde lid, van Titel 1, afdeling 1A van Boek 3 van het Burgerlijk
 Wetboek</extref>;</al>
-                    </li><li><li.nr>xx.</li.nr>
-                      <al>ondertekenaar: voor de toepassing van deze wet geldt de definitiebepaling
+                    </li><li>
+                      <li.nr>yy.</li.nr><al>ondertekenaar: voor de toepassing van deze wet geldt de definitiebepaling
 van <extref status="actief" doc="1.0:v:BWBR0005291&amp;artikel=15a" compleet="nee">artikel 15a, vijfde lid, van Titel 1, afdeling 1A van Boek 3 van het Burgerlijk
 Wetboek</extref>;</al>
-                    </li><li><li.nr>yy.</li.nr>
-                      <al>openbare betaaltelefoon: voor het publiek toegankelijk telefoontoestel
+                    </li><li>
+                      <li.nr>zz.</li.nr><al>openbare betaaltelefoon: voor het publiek toegankelijk telefoontoestel
 waarmee uitgaande gesprekken gevoerd kunnen worden en waarvan de betaling
 voor het gebruik kan geschieden door middel van munten, krediet- of debetkaarten
 of vooruitbetaalde telefoonkaarten;</al>
-                    </li><li><li.nr>zz.</li.nr>
-                      <al>notificatierichtlijn: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 98/34/EG</extref> van het Europees Parlement
+                    </li><li>
+                      <li.nr>aaa.</li.nr><al>notificatierichtlijn: <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 98/34/EG</extref> van het Europees Parlement
 en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure
 op het gebied van normen en technische voorschriften en regels betreffende
 de diensten van de informatiemaatschappij (PbEG L&#xA0;204);</al>
                     </li><li><li.nr>aaa.</li.nr><al>programmadienst: dienst die geheel of hoofdzakelijk bestaat uit het
 aanbieden van programma&#x2019;s aan het algemene publiek of een deel
-daarvan.</al></li></lijst></artikel>
+daarvan;</al></li><li><li.nr>bbb.</li.nr><al>conformiteitsrichtlijn: richtlijn van het Europees Parlement en de Raad
+van de Europese Unie, die geheel of gedeeltelijk berust op artikel 95
+van het EG-Verdrag en regels stelt over het op de markt brengen of het
+gebruik van
+apparaten.</al></li></lijst></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4793,675 +4798,252 @@ bijdrage verschuldigd.</al>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
-        <nr>10</nr>
-        <titel>Randapparaten, radiozendapparaten en
-            overige apparaten  </titel>
+        <nr status="officieel">10</nr>
+        <titel status="officieel">Uitrusting</titel>
     </kop>
-    <titeldeel>
-    <kop>
-        <label>Titel</label>
-        <nr>10.1</nr>
-        <titel status="officieel">Algemene bepalingen voor apparaten  </titel>
-    </kop>
-    <paragraaf>
-    <kop>
-        <label>&#xA7;</label>
-        <nr>10.1.1</nr>
-        <titel>Vereisten en certificatie  </titel>
-    </kop>
-    <artikel status="goed">
+    <paragraaf><kop><label>&#xA7;</label><nr status="officieel">10.1</nr><titel status="officieel">Europese
+bepalingen voor
+uitrusting</titel></kop><sub-paragraaf status="goed"><kop><label>&#xA7;</label><nr status="officieel">10.1.1</nr><titel status="officieel">Conformiteiteisen
+en wederzijdse erkenning van conformiteit</titel></kop><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.1</nr>
     </kop>
-    
-    <al>Bij of krachtens algemene maatregel van bestuur worden regels
-        gesteld inzake de voorschriften waaraan apparaten moeten
-        voldoen. Deze voorschriften worden onderscheiden in
-        voorschriften betreffende: </al>
-    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-        <li>
-            <li.nr>a.</li.nr>
-            <al>de elektromagnetische compatibiliteit; </al>
-        </li>
-        <li>
-            <li.nr>b.</li.nr>
-            <al>de veiligheid of de
-gezondheid;</al>
-        </li>
-        <li>
-            <li.nr>c.</li.nr>
-            <al>de interactie met openbare telecommunicatienetwerken; </al>
-        </li>
-        <li>
-            <li.nr>d.</li.nr>
-            <al>de interactie via openbare telecommunicatienetwerken; </al>
-        </li>
-        <li>
-            <li.nr>e.</li.nr>
-            <al>de aan te brengen bijzondere voorzieningen, en </al>
-        </li>
-        <li>
-            <li.nr>f.</li.nr>
-            <al>een effici&#xEB;nt gebruik van het frequentiespectrum. </al>
-        </li>
-    </lijst>
+    <lid><lidnr status="officieel">1</lidnr><al>Het is verboden uitrusting die niet voldoet
+aan de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.3">artikel 10.3, onderdeel a, b, c en e</intref> gestelde
+voorschriften, in de handel te brengen of te
+verhandelen.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Bij of krachtens
+algemene maatregel van bestuur kunnen nadere regels worden gesteld over
+uitzonderingen op het in het eerste lid bedoelde
+verbod.</al></lid>
 </artikel>
     <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">10.1a</nr>
-    </kop>
-    <al>Bij ministeri&#xEB;le regeling worden ter uitvoering van een bindend
-        besluit van de Raad van de Europese Unie, van het Europees
-        Parlement en de Raad gezamenlijk of van de Commissie van de
-        Europese Gemeenschappen regels gesteld ter zake van apparaten
-        bestemd voor de ontvangst en weergave van
-        televisieprogramma's als bedoeld in <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, onder h, van de
-        Mediawet</extref>, en van apparaten bestemd voor het
-        ontsleutelen van versleutelde digitale televisiesignalen. </al>
-</artikel>
-    <artikel status="goed">
-              <kop>
-                <label>Artikel</label>
-                <nr status="officieel">10.1b</nr>
-              </kop>
-              <al>Bij algemene maatregel van bestuur worden regels gesteld inzake de door
-een aanbieder van een openbaar telecommunicatienetwerk te verstrekken informatie
-over de technische specificaties van de netwerkaansluitpunten en de wijze
-van bekendmaking van die informatie.</al>
-            </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.2</nr>
     </kop>
-    
-    <lid><lidnr status="officieel">1</lidnr><al>Bij of krachtens algemene maatregel van bestuur worden regels
-        gesteld inzake de certificatie van apparaten, die per aangewezen
-        categorie van apparaten kunnen verschillen. Deze regels kunnen
-        worden onderscheiden in regels betreffende: </al>
-    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-        <li>
-            <li.nr>a.</li.nr>
-            <al>het onderzoek naar de overeenstemming met de in
-                    <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel
-                10.1</intref> bedoelde voorschriften; </al>
-        </li>
-        <li>
-            <li.nr>b.</li.nr>
-            <al>de afgifte, het beschikbaar hebben en de intrekking van
-                documenten met betrekking tot apparaten, alsmede het
-                aanbrengen van markeringen. </al>
-        </li>
-    </lijst>
-</lid><lid> <lidnr status="officieel">2</lidnr><al>Bij of
-krachtens algemene maatregel van bestuur worden regels gesteld over de
-informatie die aan de gebruiker van apparaten wordt
-verstrekt.</al></lid></artikel>
+    <lid><lidnr status="officieel">1</lidnr><al>Bij of krachtens algemene maatregel van
+bestuur kunnen regels worden gesteld over speciale maatregelen
+betreffende de ingebruikneming of het gebruik van uitrusting die
+voldoet aan de bij of krachtens dit hoofdstuk gestelde voorschriften.
+Deze regels
+betreffen:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>maatregelen om een bestaand of te verwachten
+probleem in verband met de eisen waar uitrusting aan moet voldoen op
+een bepaalde locatie te verhelpen;</al></li><li>
+<li.nr>b.</li.nr><al>maatregelen die om veiligheidsredenen genomen
+worden om openbare elektronische communicatienetwerken of apparaten die
+naar hun aard bestemd zijn voor het zenden of ontvangen van
+radiocommunicatiesignalen te beschermen, indien deze worden gebruikt
+voor veiligheidsdoeleinden in duidelijk gedefinieerde
+spectrumsituaties.</al></li></lijst></lid><lid>
+<lidnr status="officieel">2</lidnr><al>Bij of krachtens algemene maatregel van bestuur
+kunnen regels worden gesteld over de middelen die Onze Minister kan
+gebruiken om het in de handel brengen of verhandelen van
+radiozendapparaten of categorie&#xEB;n van radiozendapparaten te
+be&#xEB;indigen of te beperken, indien de vrees is gewettigd dat door
+de betrokken radiozendapparaten ontoelaatbare belemmeringen worden
+veroorzaakt in het etherverkeer, in andere radiozendapparaten of in
+ontvangapparaten.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.3</nr>
     </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Onze Minister kan instanties aanwijzen die bevoegd zijn de
-            certificatie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2, eerste
-lid</intref>,
-            uit te voeren. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Bij of krachtens algemene maatregel van bestuur worden
-            regels gesteld inzake: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de criteria waaraan instanties moeten voldoen om
-                    voor aanwijzing in aanmerking te komen; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de voorschriften welke aan een zodanige aanwijzing
-                    kunnen worden verbonden. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Onze Minister kan een aanwijzing intrekken indien niet meer
-            wordt voldaan aan de criteria of voorschriften, bedoeld in
-            het tweede lid. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>Onze Minister zendt binnen vijf jaar na de inwerkingtreding
-            van deze wet en vervolgens telkens na vier jaar aan de
-            Staten-Generaal een verslag over de doeltreffendheid en
-            doelmatigheid van de toepassing van de certificatie, bedoeld
-            in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2, eerste
-lid</intref>. </al>
-    </lid>
+    <al>Bij of
+krachtens algemene maatregel van bestuur kunnen ter implementatie van
+conformiteitsrichtlijnen en bijlage II van de Overeenkomst betreffende
+de Europese Economische Ruimte regels worden gesteld,
+inzake:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>eisen waar uitrusting aan moet
+voldoen;</al></li><li> <li.nr>b.</li.nr><al>de conformiteitsbeoordeling
+van uitrusting;</al></li><li> <li.nr>c.</li.nr><al>het aanbrengen van
+markeringen;</al></li><li> <li.nr>d.</li.nr><al>de aanwijzing,
+accreditatie en bevoegdheden van instanties die betrokken kunnen worden
+bij de conformiteitsbeoordeling, alsmede de intrekking van de
+aanwijzing;</al></li><li> <li.nr>e.</li.nr><al>informatieverplichtingen
+met betrekking tot uitrusting;</al></li><li> <li.nr>f.</li.nr><al>de
+aansluiting van uitrusting op openbare elektronische
+communicatienetwerken, alsmede het afsluiten of buiten
+gebruikstellen van die uitrusting;</al></li><li>
+<li.nr>g.</li.nr><al>de door een aanbieder van een openbaar
+elektronisch communicatienetwerk te verstrekken informatie over de
+technische specificaties van
+netwerkaansluitpunten.</al></li></lijst>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.4</nr>
     </kop>
-    
-    <al>Bij of krachtens algemene maatregel van bestuur kunnen regels
-        worden gesteld inzake: </al>
-    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-        <li>
-            <li.nr>a.</li.nr>
-            <al>de middelen die Onze
-Minister kan gebruiken om het in de handel brengen of verhandelen van
-apparaten of categorie&#xEB;n van apparaten te be&#xEB;indigen of
-te beperken, indien de betrokken apparaten niet voldoen aan de bij of
-krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel 10.1</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">10.2</intref> gestelde regels dan wel om het in de
-handel brengen of verhandelen van radiozendapparaten of
-categorie&#xEB;n van radiozendapparaten te be&#xEB;indigen of te
-beperken, indien de vrees is gewettigd dat door de betrokken
-radiozendapparaten ontoelaatbare belemmeringen worden veroorzaakt in
-het etherverkeer, in andere radiozendapparaten of in
-ontvangapparaten.</al></li>
-        <li>
-            <li.nr>b.</li.nr>
-            <al>de behandeling van klachten over elektromagnetische
-                storingen, ondervonden van het gebruik van apparaten, of
-                over belemmeringen, welke bij het gebruik van
-                radiozendapparaten of randapparaten worden ondervonden.</al>
-        </li>
-    </lijst>
-</artikel>
-    <artikel status="goed">
+    <al>Bij of
+krachtens algemene maatregel van bestuur kunnen regels gesteld worden
+ter uitvoering van tussen de Europese Gemeenschap en derde landen
+gesloten overeenkomsten inzake wederzijdse erkenning van
+conformiteitsbeoordelingen van uitrusting, ondermeer over de aanwijzing
+van instanties die betrokken kunnen worden bij de
+conformiteitsbeoordeling, alsmede de intrekking van de
+aanwijzing.</al>
+</artikel></sub-paragraaf><sub-paragraaf status="goed"><kop>
+<label>&#xA7;</label><nr status="officieel">10.1.2</nr><titel status="officieel">Digitale
+televisie</titel></kop><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.5</nr>
     </kop>
+    <lid><lidnr status="officieel">1</lidnr><al>Bij ministeri&#xEB;le regeling worden ter
+uitvoering van een bindend besluit van de Raad van de Europese Unie,
+van het Europees Parlement en de Raad gezamenlijk of van de Commissie
+van de Europese Gemeenschappen regels gesteld ter zake van apparaten
+bestemd voor de ontvangst en weergave van televisieprogramma&#x2019;s
+als bedoeld in <extref status="actief" doc="1.0:v:BWBR0004149&amp;artikel=1" compleet="nee">artikel 1, onderdeel h, van de Mediawet</extref>, en van
+apparaten bestemd voor het ontsleutelen van versleutelde digitale
+televisiesignalen.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Het is verboden
+apparaten als bedoeld in het eerste lid te verkopen, te verhuren of
+anderszins ter beschikking te stellen indien niet wordt voldaan aan de
+krachtens het eerste lid gestelde
+regels.</al></lid></artikel></sub-paragraaf></paragraaf>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Het is verboden apparaten in de handel te brengen indien
-            niet wordt voldaan aan de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel 10.1</intref> of
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2</intref>
-            terzake van de desbetreffende apparaten gestelde
-            voorschriften. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Het is
-verboden apparaten te verhandelen indien niet wordt voldaan aan de in
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2, eerste lid, onder b</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2, tweede lid</intref>,
-bedoelde regels betreffende het beschikbaar hebben van documenten, het
-aanbrengen van markeringen en het verstrekken van
-informatie.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Onverminderd het eerste en tweede lid is het verboden
-            apparaten bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1a">artikel 10.1a</intref>
-            te verkopen, te verhuren of anderszins ter beschikking te
-            stellen indien niet wordt voldaan aan de krachtens
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1a">artikel 10.1a</intref>
-            terzake van de betreffende apparaten gestelde regels.</al>
-    </lid>
-</artikel>
-    <artikel status="goed">
+    <paragraaf><kop>
+<label>&#xA7;</label><nr status="officieel">10.2</nr><titel status="officieel">Bepalingen van nationale
+oorsprong</titel></kop><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.6</nr>
     </kop>
-    
-    <al>Bij of krachtens algemene maatregel van bestuur kunnen regels
-        worden gesteld inzake het maken van handelsreclame voor
-        apparaten waarvan het in de handel brengen of het verhandelen op
-        grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.5">artikel 10.5</intref> is
-        verboden. </al>
-</artikel>
-</paragraaf>
-    <paragraaf>
-    <kop>
-        <label>&#xA7;</label>
-        <nr>10.1.2</nr>
-        <titel>Uitzonderingsbepalingen  </titel>
-    </kop>
-    <artikel status="goed">
+    <al>Bij of
+krachtens algemene maatregel van bestuur kunnen regels worden gesteld
+inzake het maken van reclame voor uitrusting waarvan het in de handel
+brengen of het verhandelen op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel 10.1</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.5">artikel 10.5</intref> is
+verboden.</al>
+</artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.7</nr>
     </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Het bij of krachtens dit hoofdstuk bepaalde is niet van
-            toepassing op het in de handel brengen of het verhandelen
-            van apparaten, indien de belanghebbende aantoont dat dit
-            geschiedt om die apparaten: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>naar een land buiten de Europese Economische Ruimte
-                    uit te voeren; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>in overeenstemming te brengen met de krachtens dit
-                    hoofdstuk ten aanzien van die apparaten gestelde
-                    regels; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>ten toon te stellen op beurzen of soortgelijke
-                    exposities; </al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>te gebruiken voor experimenten. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Bij ministeri&#xEB;le regeling kunnen nadere regels worden
-            gesteld inzake het gebruik van apparaten voor activiteiten
-            als bedoeld in het eerste lid, onder c en d. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Het bij of krachtens deze titel met betrekking tot de
-            elektromagnetische compatibiliteit bepaalde is voorts niet
-            van toepassing op radiozendapparaten ten behoeve van
-            radiozendamateurs voorzover deze apparaten niet in de handel
-            verkrijgbaar zijn. </al>
-    </lid>
-</artikel>
-</paragraaf>
-</titeldeel>
-    <titeldeel>
-    <kop>
-        <label>Titel</label>
-        <nr>10.2</nr>
-        <titel status="officieel">Bijzondere bepalingen  </titel>
-    </kop>
-    <paragraaf>
-    <kop>
-        <label>&#xA7;</label>
-        <nr>10.2.1</nr>
-        <titel>Elektromagnetische compatibiliteit  </titel>
-    </kop>
+    <al>Bij of
+krachtens algemene maatregel van bestuur kunnen regels worden gesteld
+inzake de behandeling van klachten over elektromagnetische storingen,
+ondervonden van het gebruik van uitrusting, of over belemmeringen,
+welke bij het gebruik van radiozendapparaten of randapparaten worden
+ondervonden.</al></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.8</nr>
     </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Bij ministeri&#xEB;le regeling kunnen regels worden gesteld
-            inzake de installatie van apparaten ter voorkoming van
-            elektromagnetische storingen in de werking van een openbaar
-            telecommunicatienetwerk of in om veiligheidsredenen
-            gebruikte apparaten die naar hun aard bestemd zijn voor het
-            zenden of ontvangen van radiocommunicatiesignalen. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Indien van de ingebruikneming of het gebruik van een in dit
-            hoofdstuk bedoeld apparaat op een bepaalde plaats problemen
-            zijn te verwachten of bestaan in verband met de
-            elektromagnetische compatibiliteit kan Onze Minister: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>aan de houder van het apparaat aanwijzingen geven
-                    met betrekking tot de ingebruikneming of het gebruik
-                    van dat apparaat; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>aan een vergunning voor het gebruik van
-                    frequentieruimte op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstuk
-                    3</intref> voorschriften verbinden met
-                    betrekking tot de ingebruikneming of het gebruik van
-                    dat apparaat; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>aan de houders van apparaten de ingebruikneming of
-                    het gebruik van die apparaten verbieden zonder
-                    voorafgaande vergunning van Onze Minister. </al>
-            </li>
-        </lijst>
-    </lid>
+    <al>Voor de
+toepassing van de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9">artikelen 10.9 tot en met 10.11</intref> worden met
+radiozendapparaten gelijk
+gesteld:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>elke samenvoeging van onderdelen geschikt om een
+radiozendapparaat dan wel een ingevolge het bepaalde onder b daarmee
+gelijkgesteld apparaat te vormen;</al></li><li> <li.nr>b.</li.nr><al>de
+bij of krachtens algemene maatregel van bestuur te omschrijven
+elektrische of elektronische apparaten die geschikt zijn om door
+gebruik tezamen met een radiozendapparaat een radiozendapparaat te
+vormen met andere technische
+eigenschappen.</al></li></lijst>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.9</nr>
     </kop>
-    <al>Bij de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.8">artikel 10.8, eerste
-        lid</intref>, bedoelde regeling kunnen categorie&#xEB;n van
-        apparaten van de toepassing van het bij of krachtens dit
-        hoofdstuk terzake van de elektromagnetische compatibiliteit
-        bepaalde worden uitgezonderd, indien: </al>
-    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-        <li>
-            <li.nr>a.</li.nr>
-            <al>zij geen elektromagnetische storingen kunnen veroorzaken
-                of hun werking daardoor niet kan worden aangetast, of </al>
-        </li>
-        <li>
-            <li.nr>b.</li.nr>
-            <al>met betrekking tot de elektromagnetische compatibiliteit
-                van die apparaten reeds regels zijn gesteld ter
-                uitvoering van een bindend besluit van een orgaan van de
-                Europese Unie. </al>
-        </li>
-    </lijst>
-</artikel>
-</paragraaf>
-    <paragraaf>
-    <kop>
-        <label>&#xA7;</label>
-        <nr>10.2.2</nr>
-        <titel>Randapparaten  </titel>
-    </kop>
-    
+    <lid><lidnr status="officieel">1</lidnr><al>Het aanleggen, het geheel of gedeeltelijk
+aangelegd aanwezig hebben, of het gebruik van radiozendapparaten is
+slechts toegestaan indien voor het gebruik ervan aan de houder van die
+radiozendapparaten op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstuk 3</intref> een vergunning voor het
+gebruik van frequentieruimte is verleend.</al></lid><lid>
+<lidnr status="officieel">2</lidnr><al>In afwijking van het eerste lid, is het aanleggen,
+het geheel of gedeeltelijk aanwezig hebben, of het gebruik van
+radiozendapparaten zonder dat aan de houder een vergunning is verleend
+voor het gebruik van frequentieruimte, toegestaan,
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstuk 3</intref> geen vergunning is vereist
+voor het gebruik van frequentieruimte;</al></li><li>
+<li.nr>b.</li.nr><al>de houder van het radiozendappararaat met de
+houder van een vergunning voor het gebruik van frequentieruimte een
+overeenkomst heeft gesloten voor de aanleg en het instandhouden van een
+radiozendapparaat ten behoeve van het verzorgen van diensten van de
+opdrachtgever waarbij gebruik wordt gemaakt van de aan de opdrachtgever
+toegewezen frequentieruimte;</al></li><li> <li.nr>c.</li.nr><al>deze
+apparaten worden gebruikt aan boord van andere dan Nederlandse schepen
+of luchtvaartuigen en daarvoor een vergunning is afgegeven in
+overeenstemming met het Internationaal Telecommunicatieverdrag,
+of</al></li><li> <li.nr>d.</li.nr><al>deze apparaten worden gebruikt
+door niet-ingezetenen van Nederland die tijdelijk hier te lande
+verblijven en daartoe voor Nederland bindende afspraken zijn
+gemaakt.</al></li></lijst></lid></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">10.10</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Onze Minister kan, in afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.9">artikel
+10.9, eerste lid</intref>, een vergunning verlenen voor het aanleggen van
+radiozendapparaten zonder dat aan de houder een vergunning is verleend
+voor gebruik van frequentieruimte. Een vergunning kan onder beperkingen
+worden verleend. Aan een vergunning kunnen voorschriften worden
+verbonden.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>De vergunning kan
+worden geweigerd,
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>het ernstige vermoeden bestaat dat de vergunning
+zal worden misbruikt;</al></li><li> <li.nr>b.</li.nr><al>een eerder
+verleende vergunning is ingetrokken wegens overtreding van de bij of
+krachtens deze wet gestelde regels dan wel van de aan de vergunning
+verbonden voorschriften;</al></li><li> <li.nr>c.</li.nr><al>de aanvraag
+niet voldoet aan de bij of krachtens deze wet gestelde regels,
+of</al></li><li> <li.nr>d.</li.nr><al>de aanvrager naar het oordeel van
+Onze Minister geen gerechtvaardigd belang heeft bij verlening van de
+vergunning.</al></li></lijst></lid><lid> <lidnr status="officieel">3</lidnr><al>De
+vergunning kan worden ingetrokken,
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de houder van de vergunning de bij of krachtens
+deze wet gestelde regels dan wel de aan de vergunning verbonden
+voorschriften of beperkingen niet nakomt, of</al></li><li>
+<li.nr>b.</li.nr><al>de gronden waarop de vergunning is verleend zijn
+vervallen.</al></li></lijst></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">10.11</nr>
     </kop>
-    
-    <al>Bij of krachtens algemene maatregel van bestuur kunnen regels
-        worden gesteld betreffende de eisen van vakbekwaamheid waaraan
-        moet worden voldaan voor het beroeps- of bedrijfsmatig aanleggen
-        en onderhouden van randapparaten. </al>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">10.12</nr>
-    </kop>
-    
-    <al>Het is verboden randapparaten aan te sluiten of aangesloten te
-        houden op een openbaar telecommunicatienetwerk die niet voldoen
-        aan de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.2">artikel 10.2,
-eerste lid</intref>,
-        gestelde regels met betrekking tot het aanbrengen van
-        markeringen. </al>
-</artikel>
-    <artikel status="goed">
-              <kop>
-                <label>Artikel</label>
-                <nr status="officieel">10.13</nr>
-              </kop>
-              <al>Bij algemene maatregel van bestuur worden regels gesteld inzake het aansluiten
-op openbare telecommunicatienetwerken van randapparaten die voldoen aan de
-bij of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel 10.1</intref> gestelde regels, alsmede het afsluiten of buiten
-gebruik stellen van die apparaten.</al>
-            </artikel>
-    
-</paragraaf>
-    <paragraaf>
-    <kop>
-        <label>&#xA7;</label>
-        <nr>10.2.3</nr>
-        <titel>Radiozendapparaten  </titel>
-    </kop>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">10.15</nr>
-    </kop>
-    
-    <al>Voor de toepassing van deze paragraaf worden met
-        radiozendapparaten gelijkgesteld: </al>
-    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-        <li>
-            <li.nr>a.</li.nr>
-            <al>elke samenvoeging van onderdelen, geschikt om daarmede
-                een radiozendapparaat dan wel ingevolge het bepaalde
-                onder b daarmee gelijkgesteld apparaat te vormen; </al>
-        </li>
-        <li>
-            <li.nr>b.</li.nr>
-            <al>de bij algemene maatregel van bestuur te omschrijven
-                elektrische of elektronische apparaten die geschikt zijn
-                om door gebruik tezamen met een radiozendapparaat een
-                radiozendapparaat te vormen met andere technische
-                eigenschappen. </al>
-        </li>
-    </lijst>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">10.16</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig
-            hebben, of het gebruik van radiozendapparaten is slechts
-            toegestaan indien voor het gebruik ervan aan de houder van
-            die radiozendapparaten op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstuk 3</intref> een
-            vergunning voor het gebruik van frequentieruimte is
-            verleend. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>In afwijking van het eerste lid is het aanleggen, het geheel
-            of gedeeltelijk aangelegd aanwezig hebben, of het gebruik
-            van radiozendapparaten zonder dat aan de houder een
-            vergunning is verleend voor het gebruik van
-            frequentieruimte, toegestaan, indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstuk
-                    3</intref> geen vergunning is vereist voor
-                    het gebruik van frequentieruimte; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de houder van het radiozendapparaat met de houder
-                    van een vergunning voor het gebruik van
-                    frequentieruimte een overeenkomst heeft gesloten
-                    voor de aanleg en het instandhouden van een
-                    radiozendapparaat ten behoeve van het verzorgen van
-                    diensten van de opdrachtgever waarbij gebruik wordt
-                    gemaakt van de aan de opdrachtgever toegewezen
-                    frequentieruimte; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>deze apparaten worden gebruikt aan boord van andere
-                    dan Nederlandse schepen of luchtvaartuigen en
-                    daarvoor een vergunning is afgegeven in
-                    overeenstemming met het Internationaal
-                    Telecommunicatieverdrag, of </al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>deze apparaten worden gebruikt door niet-ingezetenen
-                    van Nederland die tijdelijk hier te lande verblijven
-                    en daartoe voor Nederland bindende afspraken zijn
-                    gemaakt. </al>
-            </li>
-        </lijst>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">10.17</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Onze Minister kan, in afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.16">artikel 10.16, eerste
-            lid</intref>, een vergunning verlenen voor het
-            aanleggen van radiozendapparaten zonder dat aan de houder
-            een vergunning is verleend voor gebruik van
-            frequentieruimte. Een vergunning kan onder beperkingen
-            worden verleend. Aan een vergunning kunnen voorschriften
-            worden verbonden. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>De vergunning kan worden geweigerd, indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>ernstig vermoeden bestaat dat de vergunning zal
-                    worden misbruikt; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>een eerder verleende vergunning is ingetrokken
-                    wegens overtreding van de bij of krachtens deze wet
-                    gestelde regels dan wel van de aan de vergunning
-                    verbonden voorschriften; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>de aanvraag niet voldoet aan de daarvoor bij of
-                    krachtens deze wet gestelde regels, of </al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>de aanvrager naar het oordeel van Onze Minister geen
-                    gerechtvaardigd belang heeft bij verlening van de
-                    vergunning.  </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>De vergunning kan worden ingetrokken, indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de houder van de vergunning de bij of krachtens deze
-                    wet gestelde regels dan wel de aan de vergunning
-                    verbonden voorschriften en beperkingen niet nakomt,
-                    of </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de gronden waarop de vergunning is verleend zijn
-                    vervallen. </al>
-            </li>
-        </lijst>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">10.18</nr>
-    </kop>
-    <al>
-        <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.11">Artikel 10.11</intref> is
-        van overeenkomstige toepassing op radiozendapparaten. </al>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">10.19</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Het is verboden: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>een radiozendapparaat te gebruiken om aan boord van
-                    een schip of luchtvaartuig buiten elk nationaal
-                    gebied programma's uit te zenden; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>een radiozendapparaat, bestemd voor een gebruik als
-                    onder a bedoeld, te exploiteren; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>een radiozendapparaat ter beschikking te stellen of
-                    aan te leggen in de wetenschap, dat het is bestemd
-                    voor een gebruik als bedoeld onder a; </al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>een schip of luchtvaartuig ter beschikking te
-                    stellen in de wetenschap, dat dit is bestemd om aan
-                    boord daarvan uitzendingen te doen als onder a
-                    bedoeld. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Het is verboden aan overtreding van een der in het eerste
-            lid bedoelde verboden opzettelijk mee te werken door daarbij
-            behulpzaam te zijn dan wel daartoe gelegenheid, middelen of
-            inlichtingen te verschaffen. Als handelingen van medewerking
-            worden in elk geval beschouwd: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>het ter beschikking stellen van materiaal ten
-                    behoeve van het schip of luchtvaartuig dan wel van
-                    het radiozendapparaat; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>het onderhouden of herstellen van het schip of
-                    luchtvaartuig dan wel van het radiozendapparaat; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>het bevoorraden van het schip of luchtvaartuig; </al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>het vervoeren van personen of goederen naar of van
-                    het schip of luchtvaartuig dan wel het ter
-                    beschikking stellen van middelen tot dat vervoer; </al>
-            </li>
-            <li>
-                <li.nr>e.</li.nr>
-                <al>het vervaardigen van programma's of onderdelen
-                    daarvan, bestemd om te worden uitgezonden; </al>
-            </li>
-            <li>
-                <li.nr>f.</li.nr>
-                <al>het geven van opdrachten tot het uitzenden van
-                    programma's of onderdelen daarvan dan wel het
-                    verlenen van bemiddeling bij het verkrijgen van
-                    zodanige opdrachten. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Het tweede lid blijft buiten toepassing, indien de aldaar
-            bedoelde handelingen worden verricht teneinde in geval van
-            nood het schip of luchtvaartuig bij te staan of mensenlevens
-            te beschermen. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>Onder schip of luchtvaartuig wordt in dit artikel mede
-            begrepen elk ander drijvend of door de lucht gedragen
-            voorwerp. </al>
-    </lid>
-</artikel>
-</paragraaf>
-</titeldeel>
+    <lid><lidnr status="officieel">1</lidnr><al>Het is
+verboden:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>een radiozendapparaat te gebruiken om aan boord
+van een schip of luchtvaartuig buiten elk nationaal gebied programma's
+uit te zenden;</al></li><li> <li.nr>b.</li.nr><al>een
+radiozendapparaat, bestemd voor een gebruik als onder a bedoeld, te
+exploiteren;</al></li><li> <li.nr>c.</li.nr><al>een radiozendapparaat
+ter beschikking te stellen of aan te leggen in de wetenschap, dat het
+is bestemd voor een gebruik als bedoeld onder a;</al></li><li>
+<li.nr>d.</li.nr><al>een schip of luchtvaartuig ter beschikking te
+stellen in de wetenschap, dat dit is bestemd om aan boord daarvan
+uitzendingen te doen als onder a bedoeld.</al></li></lijst></lid><lid>
+<lidnr status="officieel">2</lidnr><al>Het is verboden aan overtreding van een der in het
+eerste lid bedoelde verboden opzettelijk mee te werken door daarbij
+behulpzaam te zijn dan wel daartoe gelegenheid, middelen of
+inlichtingen te verschaffen. Als handelingen van medewerking worden in
+elk geval
+beschouwd:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>het ter beschikking stellen van materiaal ten
+behoeve van het schip of luchtvaartuig dan wel van het
+radiozendapparaat;</al></li><li> <li.nr>b.</li.nr><al>het onderhouden
+of herstellen van het schip of luchtvaartuig dan wel van het
+radiozendapparaat;</al></li><li> <li.nr>c.</li.nr><al>het bevoorraden
+van het schip of luchtvaartuig;</al></li><li> <li.nr>d.</li.nr><al>het
+vervoeren van personen of goederen naar of van het schip of
+luchtvaartuig dan wel het ter beschikking stellen van middelen tot dat
+vervoer;</al></li><li> <li.nr>e.</li.nr><al>het vervaardigen van
+programma's of onderdelen daarvan, bestemd om te worden
+uitgezonden;</al></li><li> <li.nr>f.</li.nr><al>het geven van
+opdrachten tot het uitzenden van programma's of onderdelen daarvan dan
+wel het verlenen van bemiddeling bij het verkrijgen van zodanige
+opdrachten.</al></li></lijst></lid><lid> <lidnr status="officieel">3</lidnr><al>Het
+tweede lid blijft buiten toepassing, indien de aldaar bedoelde
+handelingen worden verricht teneinde in geval van nood het schip of
+luchtvaartuig bij te staan of mensenlevens te
+beschermen.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Onder schip of
+luchtvaartuig wordt in dit artikel mede begrepen elk ander drijvend of
+door de lucht gedragen
+voorwerp.</al></lid>
+</artikel></paragraaf>
 </hoofdstuk>
             <hoofdstuk>
     <kop>
@@ -7036,9 +6618,9 @@ als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.4a">
 8.3</intref>;</al></li><li>
                 <li.nr>e.</li.nr>
                 
-              <al>het verstrekken van een opdracht tot verzorging van tot de universele
-dienst behorende diensten of voorzieningen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=9.2">artikel 9.2, eerste
-en derde tot en met tiende lid</intref>;</al></li><li>
+              <al>ter zake van uitrusting
+gestelde voorschriften als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=20">hoofdstuk
+20</intref>;</al></li><li>
                 <li.nr>f.</li.nr>
                 
               <al>apparaten als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk
@@ -7620,8 +7202,8 @@ de raad van bestuur van de mededingingsautoriteit, van de overtreder de verschul
 </artikel>
 </paragraaf>
 <paragraaf><kop><label>&#xA7;</label><nr status="officieel">15.3</nr><titel status="officieel">Uit
-de handel nemen van uitrusting</titel><al><redactie type="extra">Treedt in werking per 20-07-2007</redactie></al></kop><artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">15.17</nr><al><redactie type="extra">Treedt in werking per 20-07-2007</redactie></al></kop><al>In
+de handel nemen van uitrusting</titel></kop><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">15.17</nr></kop><al>In
 afwijking van de <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A7" compleet="nee">artikelen 4:7</extref> en <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=4%3A8" compleet="nee">4:8 van de Algemene wet bestuursrecht</extref>
 worden voorafgaand aan de beslissing tot toepassing van bestuursdwang
 waarbij uitrusting uit de handel wordt genomen die niet voldoet aan de
@@ -7797,7 +7379,9 @@ grondslag vinden in artikel 86, derde lid, van het Verdrag tot oprichting
 van de Europese Gemeenschap en die betrekking hebben op de elektronische communicatiesector.</al>
                 </li></lijst>
 </artikel>
-    <artikel status="goed">
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.2a</nr><al><redactie type="extra">Treedt in werking per 17-08-2007</redactie></al></kop>
+<al>Het college is de nationale regelgevende instantie, bedoeld in de
+roamingverordening.</al></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">18.3</nr>
@@ -8751,7 +8335,7 @@ langer bestaat.</al></li></lijst>
             wet</intref>, geacht te voldoen aan het bepaalde bij
             of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref>. </al>
     </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20.4a</nr><al><redactie type="extra">Treedt in werking per 20-07-2007</redactie></al></kop><lid><lidnr status="officieel">1</lidnr><al>Uitrusting die voldoet aan de bij of
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20.4a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Uitrusting die voldoet aan de bij of
 krachtens de Telecommunicatiewet vastgestelde regels met
 betrekking tot de elektromagnetische compatibiliteit die van kracht
 waren op 19&#xA0;juli 2007, mag in afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=10.1">artikel 10.1</intref> van de
