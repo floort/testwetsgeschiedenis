@@ -324,7 +324,13 @@ daarvan;</al></li><li><li.nr>bbb.</li.nr><al>conformiteitsrichtlijn: richtlijn v
 van de Europese Unie, die geheel of gedeeltelijk berust op artikel 95
 van het EG-Verdrag en regels stelt over het op de markt brengen of het
 gebruik van
-apparaten.</al></li></lijst></artikel>
+apparaten;</al></li><li><li.nr>ccc.</li.nr><al><redactie type="vervanging">dit onderdeel is nog niet in werking getreden;</redactie></al></li><li><li.nr>ddd.</li.nr><al><redactie type="vervanging">dit onderdeel is nog niet in werking getreden;</redactie></al></li><li><li.nr>eee.</li.nr><al>roamingverordening: verordening
+nr. 717/2007 van het Europees Parlement en de Raad van de Europese Unie
+van 27 juni 2007 betreffende roaming op openbare mobiele
+telefoonnetwerken binnen de Gemeenschap en tot wijziging van Richtlijn
+2002/21/EG inzake een gemeenschappelijk regelgevingskader voor
+elektronische-communicatienetwerken en -diensten (PbEU L
+171).</al></li></lijst></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -5914,7 +5920,8 @@ aanbieders en ondernemingen, onderscheidenlijk tussen ondernemingen een geschil
 is ontstaan inzake de nakoming van een op een houder van een vergunning, een
 aanbieder of een onderneming die openbare elektronische communicatienetwerken,
 bijbehorende faciliteiten of openbare elektronische communicatiediensten aanbiedt
-op grond van een bij of krachtens deze wet rustende verplichting, kan het
+op grond van een bij of krachtens deze wet of bij de
+roamingverordening rustende verplichting, kan het
 college op aanvraag van een bij dat geschil betrokken partij het geschil beslechten,
 tenzij de beslechting van dat geschil op grond van deze wet aan een andere
 instantie is opgedragen.</al>
@@ -6045,7 +6052,9 @@ aanvraag.</al>
 elektronische communicatienetwerken of openbare elektronische communicatiediensten
 aanbiedt een geschil is gerezen inzake de schending door die aanbieder of
 onderneming van bij of krachtens deze wet gestelde regels ter uitvoering van
-<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref>, niet zijnde een geschil als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.1">artikel 12.1</intref>,
+<extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref>, niet zijnde een geschil als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.1">artikel 12.1</intref>, of inzake de schending door
+die aanbieder of onderneming van de
+roamingverordening
 kan het college op aanvraag van de desbetreffende consument, het geschil beslechten.</al>
                   </lid>
                   <lid>
@@ -6063,7 +6072,7 @@ kan daarbij termijnen stellen.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">4</lidnr>
-                    <al>De artikelen <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.3">12.3 tot en met 12.5</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.7">12.7</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.8">12.8</intref> zijn van overeenkomstige
+                    <al>De <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.3">artikelen 12.3 tot en met 12.5</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.7">12.7</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.8">12.8</intref> zijn van overeenkomstige
 toepassing.</al>
                   </lid>
                 </artikel></sub-paragraaf></paragraaf><paragraaf><kop><label>&#xA7;</label>
@@ -6658,7 +6667,9 @@ aangewezen ambtenaren.</al>
               <lid>
                 <lidnr status="officieel">3</lidnr>
                 <al>Met het toezicht op de naleving van het bepaalde bij of krachtens andere
-bepalingen van deze wet dan bedoeld in het eerste en tweede lid zijn belast
+bepalingen van deze wet dan bedoeld in het eerste en tweede lid en met het toezicht op
+de naleving van de bepalingen van de
+roamingverordening zijn belast
 de bij besluit van het college aangewezen ambtenaren. De vorige
 volzin is niet van toepassing op het bepaalde bij of krachtens de
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.1">artikelen 5.1</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.4">5.4</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.5">5.5</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.6">5.6, tweede, derde lid, vierde en vijfde lid</intref>,
@@ -6820,7 +6831,9 @@ ingeval van:</al>
                 <li.nr>a.</li.nr>
                 
               <al>overtreding van de bij of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=6a">hoofdstuk 6a</intref> gestelde voorschriften,
-met uitzondering van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.20">artikel 6a.20</intref>;</al></li>
+met uitzondering van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.20">artikel 6a.20</intref>, of van de bij de
+roamingverordening gestelde
+voorschriften;</al></li>
             <li>
                 <li.nr>b.</li.nr>
                 
@@ -7228,14 +7241,16 @@ brengen.</al></artikel></paragraaf></hoofdstuk>
             regels gesteld over de vergoeding van de kosten die is
             verschuldigd door degene ten behoeve van wie werkzaamheden
             of diensten zijn verricht ingevolge het bepaalde bij of
-            krachtens deze wet voorzover de vergoeding verband houdt met
+            krachtens deze wet of bij de
+roamingverordening voorzover de vergoeding verband houdt met
             deze werkzaamheden of diensten.  </al>
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
         <al>Bij het vaststellen van de vergoeding kunnen mede worden
             betrokken kosten, verband houdend met het toezicht op de
-            naleving van het bepaalde bij of krachtens deze wet ten
+            naleving van het bepaalde bij of krachtens deze wet of bij de
+roamingverordening ten
             aanzien van de desbetreffende werkzaamheden of diensten. </al>
     </lid>
     <lid>
@@ -7379,7 +7394,7 @@ grondslag vinden in artikel 86, derde lid, van het Verdrag tot oprichting
 van de Europese Gemeenschap en die betrekking hebben op de elektronische communicatiesector.</al>
                 </li></lijst>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.2a</nr><al><redactie type="extra">Treedt in werking per 17-08-2007</redactie></al></kop>
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.2a</nr></kop>
 <al>Het college is de nationale regelgevende instantie, bedoeld in de
 roamingverordening.</al></artikel><artikel status="goed">
     <kop>
@@ -7519,7 +7534,8 @@ elektronische communicatiediensten die in Nederland of in een
               <lid>
                 <lidnr status="officieel">1</lidnr>
                 <al>Onze Minister, onderscheidenlijk het college, is bevoegd voor een juiste
-uitvoering van het bepaalde bij of krachtens deze wet van een ieder te allen
+uitvoering van het bepaalde bij of krachtens deze wet of bij de
+roamingverordening van een ieder te allen
 tijde inlichtingen te vorderen voor zover dit redelijkerwijs voor de vervulling
 van zijn taak nodig is.</al>
               </lid>
