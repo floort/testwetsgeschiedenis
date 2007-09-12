@@ -1608,7 +1608,9 @@ regeling te geven voorschriften.</al>
         <lidnr status="officieel">1</lidnr>
         <al>Onze Minister stelt, na overleg met het college,
             nummerplannen vast waarin in ieder geval de bestemming van
-            de daarin opgenomen nummers wordt aangegeven. </al>
+            de daarin opgenomen nummers wordt aangegeven. In een nummerplan kan worden bepaald dat
+eenzelfde nummer aan meerdere aanvragers kan worden
+toegekend.</al>
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
@@ -1616,13 +1618,20 @@ regeling te geven voorschriften.</al>
             bestuursrecht</extref> van toepassing. </al>
     </lid>
     
-    <lid><lidnr status="officieel">3</lidnr><al>Het
-tweede lid is niet van toepassing indien het vast te stellen nummerplan
-slechts betrekking heeft op het uitbreiden van nummercapaciteit, welke
-het gevolg is van een toewijzing van nummers aan Nederland door een
-internationale organisatie en de belangen van degenen, bedoeld in
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">artikel 4.2, eerste lid, onderdelen a, b en c</intref>, niet worden
-geschaad.</al></lid><lid>
+    <lid><lidnr status="officieel">3</lidnr><al>Het tweede
+lid is niet van toepassing indien het vast te stellen nummerplan
+slechts betrekking heeft
+op:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>het uitbreiden van nummercapaciteit, welke het
+gevolg is van een toewijzing van nummers aan Nederland door een
+internationale organisatie,</al></li><li> <li.nr>b.</li.nr><al>de
+implementatie van een besluit van het Europees Parlement en de Raad van
+de Europese Unie, van de Raad van de Europese Unie of van de Commissie
+van de Europese Gemeenschappen, of</al></li><li>
+<li.nr>c.</li.nr><al>overige wijzigingen die van ondergeschikte aard
+zijn en waarvan in het nummerplan is opgenomen dat op een dergelijke
+wijziging artikel 4.1, tweede lid, niet van toepassing
+is.</al></li></lijst></lid><lid>
         <lidnr status="officieel">4</lidnr>
         <al>Het is verboden voor een bestemming die voorkomt in een
             nummerplan andere nummers te gebruiken dan de nummers die in
@@ -1703,7 +1712,9 @@ op de door Onze Minister aangewezen nummers.</al>
                 <al>Indien meer aanvragen met een gelijke voorkeur om toekenning van een bepaald
 nummer, dan wel bepaalde nummers op dezelfde dag bij het college ter behandeling
 zijn ingediend, besluit het college op die aanvragen door middel van het lot.
-Van deze procedure zijn uitgesloten nummers als bedoeld in het zevende lid.</al>
+Van deze procedure zijn uitgesloten nummers als bedoeld in het
+zevende lid en nummers als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2b">artikel
+4.2b</intref>.</al>
               </lid>
               <lid>
                 <lidnr status="officieel">7</lidnr>
@@ -1771,7 +1782,7 @@ niet eerder dan een jaar nadat de maximumtermijn van de toekenning is verstreken
 in gebruik genomen, indien het nummer door de daarop volgende toekenning van
 nummerhouder verandert.</al>
               </lid>
-            </artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">4.2b</nr><al><redactie type="extra">Treedt in werking per 12-09-2007</redactie></al></kop><al>In
+            </artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">4.2b</nr></kop><al>In
 de gevallen waarin samenwerking tussen nummerhouders noodzakelijk is
 voor het kunnen gebruiken van een nummer dat aan twee of meer
 nummerhouders is toegekend, sluiten de nummerhouders binnen een periode
