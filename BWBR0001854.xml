@@ -4674,10 +4674,10 @@ aanving. Bij herroeping van een voorwaardelijke
     </lid>
 </artikel>
     
-</titeldeel><titeldeel>
+</titeldeel><titeldeel status="goed">
     <kop>
         <label>Titel</label>
-        <nr>VIII A</nr>
+        <nr status="officieel">VIII A</nr>
         <titel status="officieel">Bijzondere bepalingen voor jeugdige personen</titel>
     </kop>
     <artikel status="goed">
@@ -5509,7 +5509,90 @@ gevallen,
             kinderbescherming inwinnen omtrent de plaats van de tenuitvoerlegging.</al>
     </lid>
 </artikel>
-    
+    <artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">77wa</nr><al><redactie type="extra">Treedt in werking per 01-02-2008</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>De rechter kan bepalen dat het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77w">artikel
+77w, derde lid</intref>, bedoelde programma geheel of ten dele komt te bestaan
+uit een vorm van zorg als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=5" compleet="nee">artikel 5, tweede lid, onderdelen
+a en b, van de Wet op de jeugdzorg</extref>, indien de stichting, bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van die wet</extref> ten aanzien van de verdachte een
+besluit heeft genomen waaruit blijkt dat deze op deze vorm van zorg is
+aangewezen. Het besluit wordt overgelegd bij het advies van de raad
+voor de kinderbescherming.</al></lid><lid><lidnr status="officieel">2</lidnr><al>In
+afwijking van het eerste lid kan de rechter, indien de stichting als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet op de jeugdzorg</extref> een besluit
+waaruit blijkt of de verdachte op deze vorm van zorg is aangewezen niet
+of niet tijdig neemt, op een daartoe strekkend advies van de raad voor
+de kinderbescherming bepalen dat het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77w">artikel 77w, derde lid</intref>,
+bedoelde programma geheel of ten dele komt te bestaan uit een vorm van
+zorg als bedoeld in het eerste
+lid.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien de rechter toepassing
+heeft gegeven aan het bepaalde in het tweede lid, doet de raad daarvan
+onverwijld mededeling aan de stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder
+f, van de Wet op de jeugdzorg</extref>.</al></lid></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">77wb</nr><al><redactie type="extra">Treedt in werking per 01-02-2008</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Indien het gedrag van de veroordeelde daartoe
+aanleiding geeft of wijziging van de maatregel in het belang is van de
+ontwikkeling van de veroordeelde, kan de rechter, op vordering van het
+openbaar ministerie, beslissen dat de maatregel een andere invulling
+krijgt.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De rechter beslist slechts
+tot een andere invulling van de maatregel, nadat hij zich een met
+redenen omkleed, gedagtekend en ondertekend advies heeft doen
+overleggen van de raad voor de
+kinderbescherming.</al></lid><lid><lidnr status="officieel">3</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77w">Artikel 77w,
+tweede lid, eerste volzin, derde tot en met vijfde, zevende en achtste
+lid</intref>, is van overeenkomstige toepassing op de beslissing tot wijziging
+van de maatregel.</al></lid></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">77wc</nr><al><redactie type="extra">Treedt in werking per 01-02-2008</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>In het vonnis waarbij de maatregel
+betreffende het gedrag van de jeugdige wordt opgelegd, beveelt de
+rechter voor het geval dat de veroordeelde niet naar behoren aan de
+tenuitvoerlegging van de maatregel heeft meegewerkt, dat vervangende
+jeugddetentie zal worden
+toegepast.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De duur van de
+vervangende jeugddetentie wordt in gehele dagen, weken of maanden
+vastgesteld. Voor elke maand waarvoor de maatregel is opgelegd beloopt
+de vervangende jeugddetentie maximaal een
+maand.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Wanneer een gedeelte van de
+maatregel ten uitvoer is gelegd, vermindert de duur van de vervangende
+jeugddetentie naar
+evenredigheid.</al></lid><lid><lidnr status="officieel">4</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77p">Artikel 77p</intref> is van
+overeenkomstige toepassing.</al></lid></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">77wd</nr><al><redactie type="extra">Treedt in werking per 01-02-2008</redactie></al></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Indien het gedrag van de veroordeelde daartoe
+aanleiding geeft en verlenging in het belang is van de ontwikkeling van
+de veroordeelde, kan de rechter de termijn van de maatregel, op
+vordering van het openbaar ministerie, eenmaal verlengen voor ten
+hoogste dezelfde tijd als waarvoor de maatregel was opgelegd. Niet
+eerder dan twee maanden en niet later dan een maand voor het tijdstip
+waarop de maatregel door tijdsverloop zal eindigen, kan het openbaar
+ministerie een vordering indienen tot verlenging van de maatregel.
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77u">Artikel 77u</intref> is van overeenkomstige
+toepassing.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Een vordering als
+bedoeld in het eerste lid, die later dan een maand voor het tijdstip
+waarop de maatregel door tijdsverloop zal eindigen, doch binnen een
+redelijke termijn is ingediend, is niettemin ontvankelijk, indien er
+bijzondere omstandigheden zijn waardoor de verdere ontwikkeling van de
+jeugdige de verlenging van de maatregel
+eist.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Bij de vordering worden
+overgelegd:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>een recent opgemaakt, met redenen omkleed advies,
+afkomstig van de raad voor de kinderbescherming;</al></li><li>
+<li.nr>b.</li.nr><al>een afschrift van de aantekeningen omtrent het
+gedrag van de veroordeelde, afkomstig van de instelling of organisatie
+die belast is met de uitvoering van de
+maatregel.</al></li></lijst></lid><lid> <lidnr status="officieel">4</lidnr><al>In de
+beslissing omtrent de verlenging geeft de rechter aan waaruit de
+verlenging van de maatregel bestaat. De verlenging kan inhouden dat het
+programma waaraan de veroordeelde deelneemt wordt verlengd. De
+verlenging kan ook inhouden dat de veroordeelde deelneemt aan een door
+de rechter aan te wijzen programma in een daarbij aan te wijzen
+inrichting of dat de veroordeelde een door de rechter aan te wijzen
+ambulant programma zal volgen onder begeleiding van een in de
+beslissing aangewezen
+organisatie.</al></lid><lid><lidnr status="officieel">5</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wa">Artikel 77wa</intref> is van
+overeenkomstige toepassing op de beslissing tot
+verlenging.</al></lid></artikel>
     <artikel status="goed"><kop><label>Artikel</label><nr>77x</nr></kop><lid><lidnr>1</lidnr><al>In geval van veroordeling tot jeugddetentie, vervangende jeugddetentie
 		daaronder niet begrepen, tot taakstraf,
 tot geldboete, tot plaatsing in een inrichting voor jeugdigen of tot
