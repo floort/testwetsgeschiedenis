@@ -137,11 +137,11 @@
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>2</nr> 
+	 <nr status="officieel">2</nr> 
   </kop> 
    
   <lid> 
-	 <lidnr>1</lidnr> 
+	 <lidnr status="officieel">1</lidnr> 
 	 <al>Deze wet is van toepassing op de geheel of gedeeltelijk
 		geautomatiseerde verwerking van persoonsgegevens, alsmede de niet
 		geautomatiseerde verwerking van persoonsgegevens die in een bestand zijn
@@ -149,10 +149,10 @@
   </lid> 
    
   <lid> 
-	 <lidnr>2</lidnr> 
+	 <lidnr status="officieel">2</lidnr> 
 	 <al>Deze wet is niet van toepassing op verwerking van
 		persoonsgegevens:</al> 
-	 <lijst> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
 		<li> 
 		  <li.nr>a.</li.nr> 
 		  <al>ten behoeve van activiteiten met uitsluitend persoonlijke of
@@ -167,8 +167,10 @@
 		</li> 
 		<li> 
 		  <li.nr>c.</li.nr> 
-		  <al>ten behoeve van de uitvoering van de politietaak, omschreven in
-			 <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=2" compleet="nee">artikel 2 van de Politiewet 1993</extref>;</al> 
+		  <al>2. ten behoeve van de
+uitvoering van de politietaak, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=2" compleet="nee">artikelen 2</extref> en <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=6" compleet="nee">6, eerste
+lid, van de Politiewet
+1993</extref>;</al> 
 		</li> 
 		<li> 
 		  <li.nr>d.</li.nr> 
@@ -189,7 +191,7 @@
   </lid> 
    
   <lid> 
-	 <lidnr>3</lidnr> 
+	 <lidnr status="officieel">3</lidnr> 
 	 <al>Deze wet is niet van toepassing op verwerking van persoonsgegevens door
 		de krijgsmacht indien Onze Minister van Defensie daartoe beslist met het oog op
 		de inzet of het ter beschikking stellen van de krijgsmacht ter handhaving of
@@ -887,24 +889,22 @@ Wetboek</extref>, voor zover dat
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>22</nr>
+        <nr status="officieel">22</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Het verbod om strafrechtelijke persoonsgegevens te verwerken
             als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=16">artikel 16</intref>, is niet van toepassing indien de
             verwerking geschiedt door organen die krachtens de wet zijn
             belast met de toepassing van het strafrecht, alsmede door
-            verantwoordelijken die deze hebben verkregen krachtens de
-                <extref status="actief" doc="1.0:v:BWBR0004798" compleet="nee">Wet
-            politieregisters</extref> of de <extref status="actief" doc="1.0:v:BWBR0014194" compleet="nee">Wet justiti&#xEB;le en strafvorderlijke gegevens</extref>.</al>
+            verantwoordelijken die deze hebben verkregen krachtens de <extref status="actief" doc="1.0:v:BWBR0022463" compleet="nee">Wet politiegegevens</extref> of de <extref status="actief" doc="1.0:v:BWBR0014194" compleet="nee">Wet justiti&#xEB;le en strafvorderlijke gegevens</extref>.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Het verbod is niet van toepassing op de verantwoordelijke
             die deze gegevens ten eigen behoeve verwerkt ter:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>beoordeling van een verzoek van betrokkene om een
@@ -922,17 +922,17 @@ Wetboek</extref>, voor zover dat
         </lijst>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De verwerking van deze gegevens over personeel in dienst van
             de verantwoordelijke, vindt plaats overeenkomstig regels die
             zijn vastgesteld in overeenstemming met de procedure als
             bedoeld in de <extref status="actief" doc="1.0:v:BWBR0002747" compleet="nee">Wet op de ondernemingsraden</extref>.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>Het verbod is niet van toepassing wanneer deze gegevens ten
             behoeve van derden worden verwerkt:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>door verantwoordelijken die optreden krachtens een
@@ -956,7 +956,7 @@ Wetboek</extref>, voor zover dat
         </lijst>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>Het verbod om andere persoonsgegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=16">artikel
             16</intref>, te verwerken, is niet van toepassing voor zover dit
             noodzakelijk is in aanvulling op de verwerking van
@@ -964,14 +964,14 @@ Wetboek</extref>, voor zover dat
             gegevens worden verwerkt.</al>
     </lid>
     <lid>
-        <lidnr>6</lidnr>
+        <lidnr status="officieel">6</lidnr>
         <al>Het tweede tot en met vijfde lid is van overeenkomstige
             toepassing op persoonsgegevens betreffende een door de
             rechter opgelegd verbod naar aanleiding van onrechtmatig of
             hinderlijk gedrag.</al>
     </lid>
     <lid>
-        <lidnr>7</lidnr>
+        <lidnr status="officieel">7</lidnr>
         <al>Bij algemene maatregel van bestuur kunnen regels worden
             gesteld over de passende en specifieke waarborgen, bedoeld
             in het vierde lid, onder c.</al>
