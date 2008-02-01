@@ -477,19 +477,19 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>9</nr>
+        <nr status="officieel">9</nr>
     </kop>
     
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De straffen zijn: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             
             <li>
                 <li.nr>a.</li.nr>
                 <al>hoofdstraffen: </al>
-                <lijst>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                     
                     <li>
                         <li.nr>1&#xB0;.</li.nr>
@@ -516,7 +516,7 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
             <li>
                 <li.nr>b.</li.nr>
                 <al>bijkomende straffen: </al>
-                <lijst>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                     
                     <li>
                         <li.nr>1&#xB0;.</li.nr>
@@ -538,23 +538,22 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Ten aanzien van misdrijven die worden bedreigd met een
             vrijheidsstraf of een geldboete of ten aanzien van
-            overtredingen die worden bedreigd met een vrijheidsstraf kan
-            de rechter in de plaats daarvan een taakstraf opleggen. Een
+            overtredingen die worden bedreigd met een vrijheidsstraf kan in plaats daarvan een taakstraf worden
+opgelegd. Een
             taakstraf bestaat uit een werkstraf, zijnde het verrichten
             van onbetaalde arbeid, of een leerstraf,  zijnde het volgen
             van een leerproject, of een combinatie van beide.</al>
     </lid>
+    <lid> <lidnr status="officieel">3</lidnr><al>In het
+geval gevangenisstraf, hechtenis, vervangende hechtenis daaronder niet
+begrepen, of een taakstraf wordt opgelegd, kan tevens een geldboete
+worden
+opgelegd.</al></lid>
     <lid>
-        <lidnr>3</lidnr>
-        <al>In geval van veroordeling tot gevangenisstraf, tot
-            hechtenis, vervangende hechtenis daaronder niet begrepen, of
-            tot taakstraf kan de rechter tevens een geldboete opleggen.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>In geval van veroordeling tot gevangenisstraf of tot
             hechtenis, vervangende hechtenis daaronder niet begrepen,
             waarvan het onvoorwaardelijk ten uitvoer te leggen deel ten
@@ -562,7 +561,7 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
             taakstraf opleggen.</al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al> Een bijkomende straf kan, in de gevallen waarin de wet haar
             oplegging toelaat, zowel afzonderlijk als te zamen met
             hoofdstraffen en met andere bijkomende straffen worden opgelegd.</al>
@@ -1586,35 +1585,40 @@ toepassing.</al></lid></artikel><artikel status="goed">
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>22c</nr>
+        <nr status="officieel">22c</nr>
     </kop>
     
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>Het vonnis vermeldt of de taakstraf bestaat uit een
+        <lidnr status="officieel">1</lidnr>
+        <al>Het vonnis dan wel de
+strafbeschikking vermeldt of de taakstraf bestaat uit een
             werkstraf, een leerstraf of een combinatie van beide,
-            alsmede het aantal uren dat de straf zal duren. Het vonnis
+            alsmede het aantal uren dat de straf zal duren. Het vonnis dan wel de
+strafbeschikking
             kan de aard van de te verrichten werkzaamheden of het te
             volgen leerproject vermelden.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Het aantal uren dat de taakstraf duurt bedraagt ten hoogste
             vierhonderdentachtig, waarvan niet meer dan
             tweehonderdenveertig uren werkstraf.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De termijn binnen welke de taakstraf moet worden voltooid
             bedraagt een jaar na het onherroepelijk worden van het
-            vonnis. Het openbaar ministerie kan ambtshalve of op verzoek
-            van de veroordeelde deze termijn eenmaal met een jaar
+            vonnis,
+dan wel zes maanden na het onherroepelijk worden van de
+strafbeschikking. Het openbaar ministerie kan ambtshalve of op verzoek
+            van de veroordeelde deze termijn eenmaal met eenzelfde
+termijn
             verlengen. Het zendt hiervan zo spoedig mogelijk een
             kennisgeving aan de veroordeelde.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De termijn binnen welke de taakstraf moet worden verricht
             wordt verlengd met de tijd dat de veroordeelde rechtens zijn
             vrijheid is ontnomen alsmede met de tijd dat hij ongeoorloofd afwezig is.</al>
@@ -1712,7 +1716,8 @@ toepassing.</al></lid></artikel><artikel status="goed">
     
     <lid>
         <lidnr>1</lidnr>
-        <al>Indien de tot een taakstraf veroordeelde niet aanvangt met
+        <al>Indien de door de
+rechter tot een taakstraf veroordeelde niet aanvangt met
             de taakstraf of het openbaar ministerie van oordeel is dat
             de veroordeelde de opgelegde taakstraf niet naar behoren
             verricht of heeft verricht, kan het openbaar ministerie de
@@ -1804,11 +1809,13 @@ toepassing.</al></lid></artikel><artikel status="goed">
     <lid>
         <lidnr status="officieel">1</lidnr>
         <al>Hij die tot een geldboete is veroordeeld is verplicht tot
-            betaling van het bij de rechterlijke uitspraak vastgestelde
+            betaling van het vastgestelde
             bedrag aan de staat binnen de termijn door het openbaar
-            ministerie dat met de tenuitvoerlegging van het vonnis of
+            ministerie dat met de tenuitvoerlegging van de
+strafbeschikking of het vonnis of
             arrest is belast, te stellen.</al>
     </lid>
+
     <lid>
         <lidnr status="officieel">2</lidnr>
         <al> Het bedrag van de geldboete is ten minste &#x20AC; 3.</al>
@@ -1833,16 +1840,16 @@ categorie&#xEB;n:</al><al>de eerste categorie,
     <lid>
         <lidnr status="officieel">5</lidnr>
         <al> Voor een overtreding, onderscheidenlijk een misdrijf,
-            waarop geen geldboete is gesteld, kan de rechter een
-            geldboete opleggen tot ten hoogste het bedrag van de eerste,
+            waarop geen geldboete is gesteld, kan een geldboete worden
+opgelegd tot ten hoogste het bedrag van de eerste,
             onderscheidenlijk de derde categorie.</al>
     </lid>
     <lid>
         <lidnr status="officieel">6</lidnr>
         <al> Voor een overtreding, onderscheidenlijk een misdrijf,
             waarop een geldboete is gesteld, maar waarvoor geen
-            boetecategorie is bepaald, kan de rechter een geldboete
-            opleggen tot ten hoogste het bedrag van de eerste,
+            boetecategorie is bepaald, kan een geldboete worden
+opgelegd tot ten hoogste het bedrag van de eerste,
             onderscheidenlijk de derde categorie, indien dit bedrag
             hoger is dan het bedrag van de op het betrokken strafbare
             feit gestelde geldboete.</al>
@@ -1878,59 +1885,63 @@ bepaald.</al></lid></artikel>
         <nr>24</nr>
     </kop>
     
-    <al>Bij de vaststelling van de geldboete houdt de rechter rekening
-        met de draagkracht van de verdachte in de mate waarin hij dat
-        nodig acht met het oog op een passende bestraffing van de
+    <al>Bij de vaststelling van de geldboete wordt rekening gehouden met de
+draagkracht van de verdachte in de mate waarin dat nodig
+is met het oog op een passende bestraffing van de
         verdachte zonder dat deze in zijn inkomen en vermogen
         onevenredig wordt getroffen.</al>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>24a</nr>
+        <nr status="officieel">24a</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>Indien bij het vonnis een of meer geldboeten zijn opgelegd
-            tot een bedrag van ten minste &#x20AC; 225, is de rechter bevoegd
-            bij de uitspraak te bepalen, dat de veroordeelde het bedrag
-            in gedeelten mag voldoen. Elk van die gedeelten wordt
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien een of meer geldboeten
+worden opgelegd tot een bedrag van ten minste &#x20AC;&#xA0;225, kan
+in de uitspraak dan wel de strafbeschikking worden bepaald dat degene
+aan wie de geldboete is opgelegd het bedrag in gedeelten mag
+voldoen. Elk van die gedeelten wordt
             daarbij op ten minste &#x20AC; 45 bepaald.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
-        <al> In geval van toepassing van het eerste lid stelt de rechter
-            bij de uitspraak tevens termijnen vast voor de betaling van
+        <lidnr status="officieel">2</lidnr>
+        <al> In geval van toepassing van het eerste lid worden in de uitspraak of strafbeschikking
+tevens termijnen vastgesteld voor de betaling van
             het tweede en - zo de geldboete in meer gedeelten mag worden
             voldaan - de volgende gedeelten.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Deze termijnen worden op ten minste &#xE9;&#xE9;n en ten hoogste drie
-            maanden gesteld. Zij mogen te zamen een tijdvak van twee
-            jaar niet overschrijden.</al>
+            maanden gesteld. Zij mogen in het geval van een uitspraak tezamen een tijdvak
+van twee jaar niet overschrijden; in het geval van een strafbeschikking
+mogen zij een tijdvak van een jaar niet
+overschrijden.</al>
     </lid>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>24b</nr>
+        <nr status="officieel">24b</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>Wanneer een ingevolge een onherroepelijke veroordeling tot
-            geldboete te betalen bedrag binnen de daarvoor gestelde
+        <lidnr status="officieel">1</lidnr>
+        <al>Wanneer een ingevolge een voor tenuitvoerlegging vatbare geldboete te betalen bedrag binnen de daarvoor gestelde
             termijn niet in zijn geheel is voldaan, wordt de
             veroordeelde door het openbaar ministerie schriftelijk tot
-            betaling aangemaand. Het bedrag wordt dan van rechtswege
+            betaling aangemaand. Het bedrag wordt daarbij, in het geval de
+rechterlijke veroordeling of strafbeschikking onherroepelijk
+is, van rechtswege
             verhoogd met &#x20AC; 15. Het openbaar ministerie wijst de
             veroordeelde op het bepaalde in het tweede lid.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Is het overeenkomstig het eerste lid verhoogde bedrag na
             verloop van de bij de aanmaning gestelde termijn geheel of
             ten dele onbetaald gebleven, dan wordt het bedrag, dan wel
@@ -1939,16 +1950,15 @@ bepaald.</al></lid></artikel>
 30.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
-        <al> Een geldboete die krachtens een rechterlijke beslissing
-            overeenkomstig <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24a">artikel 24<nadruk type="cur">a</nadruk>
-            </intref> in gedeelten mag worden voldaan, of ten
+        <lidnr status="officieel">3</lidnr>
+        <al> Een geldboete die
+            overeenkomstig <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24a">artikel 24a</intref> in gedeelten mag worden voldaan, of ten
             aanzien waarvan het openbaar ministerie betaling in
             termijnen heeft toegestaan, is onmiddellijk in haar geheel
             opeisbaar, zodra een verhoging krachtens het eerste lid is ingetreden.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> In gevallen waarin het openbaar ministerie, nadat de
             veroordeelde reeds in verzuim was, alsnog uitstel van
             betaling heeft verleend, dan wel afbetaling heeft
@@ -1958,7 +1968,7 @@ bepaald.</al></lid></artikel>
     </lid>
     
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al> Betalingen door de veroordeelde gedaan, worden geacht in de
             eerste plaats tot voldoening van de krachtens het eerste en
             tweede lid ingetreden verhogingen te strekken.</al>
@@ -1967,12 +1977,12 @@ bepaald.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>24c</nr>
+        <nr status="officieel">24c</nr>
     </kop>
     
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Bij de uitspraak waarbij geldboete wordt opgelegd, beveelt
             de rechter voor het geval dat noch volledige betaling noch
             volledig verhaal van het verschuldigde bedrag volgt, dat
@@ -1981,19 +1991,19 @@ bepaald.</al></lid></artikel>
             achterwege. Artikel 51, laatste lid, is van overeenkomstige toepassing.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> De duur van de vervangende hechtenis wordt in gehele dagen,
             weken of maanden vastgesteld.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> De vervangende hechtenis beloopt ten minste &#xE9;&#xE9;n dag en ten
             hoogste een jaar. Voor elke volle &#x20AC; 25 van de geldboete
             wordt niet meer dan &#xE9;&#xE9;n dag opgelegd.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> Wanneer een gedeelte van het verschuldigde bedrag is
             voldaan, vermindert de duur van de vervangende hechtenis
             naar evenredigheid. Heeft deze vermindering tot gevolg dat
@@ -2002,12 +2012,16 @@ bepaald.</al></lid></artikel>
             plaats tot het naaste aantal gehele dagen.</al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al> Het vorige lid is ook van toepassing in gevallen waarin de
             betaling geschiedt nadat reeds een deel van de vervangende
             hechtenis ten uitvoer is gelegd.</al>
     </lid>
-</artikel>
+<lid><lidnr status="officieel">6</lidnr><al>Indien ter zake van
+het strafbare feit waarvoor de vervangende hechtenis wordt bepaald of
+ten uitvoer gelegd tevens gijzeling is toegepast, wordt de tijd die in
+gijzeling is doorgebracht in mindering gebracht op de vervangende
+hechtenis.</al></lid></artikel>
     
     <artikel status="goed">
     <kop>
@@ -2053,7 +2067,9 @@ bepaald.</al></lid></artikel>
         <al>Bij het opleggen van tijdelijke gevangenisstraf, hechtenis
             of taakstraf beveelt de rechter, dat de tijd die door de
             veroordeelde v&#xF3;&#xF3;r de tenuitvoerlegging van de uitspraak in
-            verzekering, in voorlopige hechtenis, in een psychiatrisch
+            verzekering, in voorlopige hechtenis, in gijzeling
+ingevolge <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=578b" compleet="nee">artikel 578b van het Wetboek van
+Strafvordering</extref>, in een psychiatrisch
             ziekenhuis of een inrichting voor klinische observatie
             bestemd ingevolge een bevel tot observatie of in detentie in
             het buitenland ingevolge een Nederlands verzoek om
@@ -2086,8 +2102,9 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
         <al> De voorgaande leden van dit artikel zijn ook van toepassing
             in gevallen waarin, bij gelijktijdige vervolging wegens twee
             of meer feiten, de veroordeling wordt uitgesproken ter zake
-            van een ander feit dan dat waarvoor de verzekering of de
-            voorlopige hechtenis is bevolen.</al>
+            van een ander feit dan dat waarvoor de verzekering , de voorlopige hechtenis of de gijzeling ingevolge <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=578b" compleet="nee">artikel 578b
+van het Wetboek van
+Strafvordering</extref> is bevolen.</al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -2448,14 +2465,14 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>36b</nr>
+        <nr status="officieel">36b</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Onttrekking aan het verkeer van in beslag genomen voorwerpen
-            kan worden uitgesproken: </al>
-        <lijst>
+            kan worden opgelegd: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>bij de rechterlijke uitspraak waarbij iemand wegens
@@ -2464,8 +2481,7 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
             <li>
                 <li.nr>2&#xB0;.</li.nr>
                 <al>bij de rechterlijke uitspraak waarbij overeenkomstig
-                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=9a">artikel 9<nadruk type="cur">a</nadruk>
-                    </intref> wordt bepaald dat geen straf zal
+                        <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=9a">artikel 9a</intref> wordt bepaald dat geen straf zal
                     worden opgelegd;</al>
             </li>
             <li>
@@ -2479,20 +2495,20 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
             <li>
                 <li.nr>4&#xB0;.</li.nr>
                 <al>bij een afzonderlijke rechterlijke beschikking op
-                    vordering van het openbaar ministerie.</al>
+                    vordering van het openbaar ministerie;</al>
             </li>
-        </lijst>
+        <li><li.nr>5&#xB0;.</li.nr><al>bij een
+strafbeschikking.</al></li></lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
-        <al> De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=33b">artikelen 33<nadruk type="cur">b</nadruk>
-            </intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=33c">33<nadruk type="cur">c</nadruk>, tweede en derde
+        <lidnr status="officieel">2</lidnr>
+        <al> De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=33b">artikelen 33b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=33c">33c, tweede en derde
             lid</intref>, alsmede <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=446" compleet="nee">artikel 446 van het Wetboek van
             Strafvordering</extref>, zijn van overeenkomstige toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> De maatregel kan te zamen met straffen en met andere
             maatregelen worden opgelegd.</al>
     </lid>
@@ -2629,39 +2645,40 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>36f</nr>
+        <nr status="officieel">36f</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>Bij een rechterlijke uitspraak waarbij iemand wegens een
-            strafbaar feit wordt veroordeeld, kan hem de verplichting
-            worden opgelegd tot betaling aan de staat van een som geld
-            ten behoeve van het slachtoffer. De staat keert een
+        <lidnr status="officieel">1</lidnr>
+        <al>Aan degene die bij rechterlijke uitspraak wegens
+een strafbaar feit wordt veroordeeld dan wel jegens wie een
+strafbeschikking wordt uitgevaardigd, kan de verplichting worden
+opgelegd tot betaling aan de staat van een som gelds ten behoeve van
+het slachtoffer. De staat keert een
             ontvangen bedrag onverwijld uit aan het slachtoffer.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
-        <al> De rechter kan de maatregel opleggen indien en voor zover
+        <lidnr status="officieel">2</lidnr>
+        <al> De maatregel kan worden
+opgelegd indien en voor zover
             de verdachte jegens het slachtoffer naar burgerlijk recht
             aansprakelijk is voor de schade die door het strafbare feit
             is toegebracht.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> De maatregel kan te zamen met straffen en andere
             maatregelen worden opgelegd.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
-        <al> De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24a">artikelen 24<nadruk type="cur">a</nadruk>
-            </intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24b">24<nadruk type="cur">b</nadruk>, eerste tot en met vierde
+        <lidnr status="officieel">4</lidnr>
+        <al> De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24a">artikelen 24a</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24b">24b, eerste tot en met vierde
             lid</intref>, zijn van overeenkomstige toepassing,
             met dien verstande dat de verhoging van het ingevolge de
             maatregel verschuldigde bedrag vervalt aan de staat.</al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al> Betalingen door de veroordeelde aan de staat verricht,
             strekken in de eerste plaats tot voldoening van de maatregel
             en vervolgens tot voldoening van de krachtens het vierde lid
@@ -2669,7 +2686,7 @@ of om overlevering is doorgebracht, bij de uitvoering van die straf
     </lid>
     
     <lid>
-        <lidnr>6</lidnr>
+        <lidnr status="officieel">6</lidnr>
         <al>De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24c">artikelen 24c</intref>
             en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77l">77l, tweede tot en met zesde
             lid</intref>, zijn van overeenkomstige toepassing,
@@ -3251,33 +3268,66 @@ jaren, worden verlengd.</al>
 		is gegeven.</al> 
   </lid>
 </artikel>
-</afdeling><afdeling><kop><nr>Derde</nr><label>afdeling</label><titel status="officieel">Plaatsing in een inrichting voor stelselmatige daders</titel></kop><artikel status="goed"><kop><label>Artikel</label><nr>38m</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De rechter kan op vordering van het openbaar ministerie de maatregel opleggen
+</afdeling><afdeling><kop><nr>Derde</nr><label>afdeling</label><titel status="officieel">Plaatsing in een inrichting voor stelselmatige daders</titel></kop><artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">38m</nr>
+    </kop>
+    
+    <lid>
+                <lidnr status="officieel">1</lidnr>
+                <al>De rechter kan op vordering van het openbaar ministerie de maatregel opleggen
 tot plaatsing van een verdachte in een inrichting voor stelselmatige daders,
-indien:</al><lijst><li><li.nr>1&#xB0;.</li.nr><al>het door de verdachte begane feit een misdrijf betreft waarvoor
+indien:</al>
+                <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>1&#xB0;.</li.nr><al>het door de verdachte begane feit een misdrijf betreft waarvoor
 voorlopige hechtenis is toegelaten;</al></li><li><li.nr>2&#xB0;.</li.nr><al>de verdachte in de vijf jaren voorafgaand aan het door hem begane
 feit ten minste driemaal wegens een misdrijf onherroepelijk tot een vrijheidsbenemende
 straf of maatregel, een vrijheidsbeperkende maatregel of een taakstraf is
-veroordeeld, het feit is begaan na tenuitvoerlegging van deze
+veroordeeld dan wel bij onherroepelijke
+strafbeschikking een taakstraf is opgelegd, het feit is begaan na tenuitvoerlegging van deze
 straffen of maatregelen en er voorts ernstig rekening mede moet worden gehouden
 dat de verdachte wederom een misdrijf zal begaan, en</al></li><li><li.nr>3&#xB0;.</li.nr><al>de veiligheid van personen of goederen het opleggen van de maatregel
-eist.</al></li></lijst></lid><lid><lidnr status="officieel">2</lidnr><al>De maatregel strekt tot beveiliging van de maatschappij en de be&#xEB;indiging
-van de recidive van de verdachte.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien de verdachte verslaafde is dan wel ten aanzien van hem andere specifieke
+eist.</al></li></lijst>
+                
+                
+              </lid>
+              <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>De maatregel strekt tot beveiliging van de maatschappij en de be&#xEB;indiging
+van de recidive van de verdachte.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">3</lidnr>
+                <al>Indien de verdachte verslaafde is dan wel ten aanzien van hem andere specifieke
 problematiek bestaat waarmee het plegen van strafbare feiten samenhangt, strekt
 de maatregel er mede toe een bijdrage te leveren aan de oplossing van zijn
-verslavingsproblematiek dan wel van die andere problematiek.</al></lid><lid><lidnr status="officieel">4</lidnr><al>De rechter legt de maatregel slechts op, nadat hij een met redenen omkleed,
+verslavingsproblematiek dan wel van die andere problematiek.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">4</lidnr>
+                <al>De rechter legt de maatregel slechts op, nadat hij een met redenen omkleed,
 gedagtekend en ondertekend advies over de wenselijkheid of noodzakelijkheid
 van de maatregel heeft doen overleggen. Indien dit advies eerder dan een jaar
 voor de aanvang van de terechtzitting is gedagtekend, kan de rechter hiervan
-slechts gebruik maken met instemming van het openbaar ministerie en de verdachte.</al></lid><lid><lidnr>5</lidnr><al>Het vierde lid blijft buiten toepassing indien de verdachte
+slechts gebruik maken met instemming van het openbaar ministerie en de verdachte.</al>
+              </lid><lid>
+        <lidnr status="officieel">5</lidnr>
+        <al>Het vierde lid blijft buiten toepassing indien de verdachte
             weigert medewerking te verlenen aan het onderzoek dat ten
             behoeve van het advies moet worden verricht. Voor zover mogelijk wordt over de reden van de weigering rapport opgemaakt. De rechter doet zich zo veel mogelijk een ander
             advies of rapport dat hem over de wenselijkheid of
             noodzakelijkheid van de maatregel kan voorlichten en aan de
             totstandkoming waarvan de verdachte wel bereid is om
-            medewerking te verlenen, overleggen.</al></lid><lid><lidnr>6</lidnr><al>Bij het opleggen van de maatregel neemt de rechter de inhoud
+            medewerking te verlenen, overleggen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">6</lidnr>
+        <al>Bij het opleggen van de maatregel neemt de rechter de inhoud
             van de overige adviezen en rapporten die over de verdachte
             zijn uitgebracht, alsmede de veelheid van misdrijven
-            waarvoor deze eerder is veroordeeld in aanmerking.</al></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>38n</nr></kop><lid><lidnr>1</lidnr><al>De maatregel geldt voor de tijd van ten hoogste twee jaren,
+            waarvoor deze eerder is veroordeeld in aanmerking.</al>
+    </lid>
+</artikel><artikel status="goed"><kop><label>Artikel</label><nr>38n</nr></kop><lid><lidnr>1</lidnr><al>De maatregel geldt voor de tijd van ten hoogste twee jaren,
             te rekenen van de dag waarop de rechterlijke uitspraak
             waarbij hij is opgelegd, onherroepelijk is geworden.</al></lid><lid><lidnr>2</lidnr><al>Bij het bepalen van de duur van de maatregel kan de rechter
             rekening houden met de tijd die door de veroordeelde v&#xF3;&#xF3;r
@@ -3945,7 +3995,7 @@ te maken.</al></artikel></titeldeel><titeldeel>
         <al>Bij samenloop van feiten die als op zichzelf staande
             handelingen moeten worden beschouwd en meer dan &#xE9;&#xE9;n misdrijf
             opleveren waarop gelijksoortige hoofdstraffen zijn gesteld,
-            wordt &#xE9;&#xE9;n straf uitgesproken.</al>
+            wordt &#xE9;&#xE9;n straf opgelegd.</al>
     </lid>
     
     <lid>
@@ -3965,7 +4015,7 @@ te maken.</al></artikel></titeldeel><titeldeel>
     <al>Bij samenloop van feiten die als op zichzelf staande handelingen
         moeten worden beschouwd en meer dan &#xE9;&#xE9;n misdrijf opleveren
         waarop ongelijksoortige hoofdstraffen zijn gesteld, kan elk van
-        die straffen worden uitgesproken, doch deze mogen - voor zover
+        die straffen worden opgelegd, doch deze mogen - voor zover
         het gevangenisstraf en hechtenis betreft - te zamen in duur de
         langstdurende niet meer dan een derde overtreffen.</al>
 </artikel>
@@ -4092,10 +4142,11 @@ te maken.</al></artikel></titeldeel><titeldeel>
     </kop>
     
     
-    <al>Indien iemand, na veroordeling tot straf, opnieuw wordt schuldig
-        verklaard aan misdrijf of overtreding v&#xF3;&#xF3;r die veroordeling
-        gepleegd, zijn de bepalingen van deze titel voor het geval van
-        gelijktijdige berechting van toepassing.</al>
+    <al>Indien iemand, nadat hem een straf is opgelegd, schuldig wordt
+verklaard aan een misdrijf of een overtreding voor die strafoplegging
+gepleegd, zijn de bepalingen van deze titel voor het geval gelijktijdig
+straf wordt opgelegd van
+toepassing.</al>
 </artikel>
     
 </titeldeel><titeldeel>
@@ -4261,7 +4312,7 @@ te maken.</al></artikel></titeldeel><titeldeel>
     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>1&#xB0;.</li.nr>
-            <al>in twee jaren voor alle overtredingen;</al>
+            <al>in drie jaren voor alle overtredingen;</al>
         </li>
         <li>
             <li.nr>2&#xB0;.</li.nr>
@@ -4635,7 +4686,8 @@ geldende verjaringstermijn.</al>
     <lid>
         <lidnr status="officieel">1</lidnr>
         <al>De termijn van verjaring vangt aan op de dag na die waarop
-            de rechterlijke uitspraak kan worden ten uitvoer gelegd.</al>
+            de rechterlijke uitspraak of de
+strafbeschikking kan worden ten uitvoer gelegd.</al>
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
@@ -4658,7 +4710,8 @@ aanving. Bij herroeping van een voorwaardelijke
     <lid>
         <lidnr status="officieel">4</lidnr>
         <al> Wanneer een geldboete wegens een overtreding is opgelegd en
-            de rechter heeft beslist dat het bedrag daarvan in gedeelten
+            in de uitspraak dan wel de strafbeschikking is
+bepaald dat het bedrag daarvan in gedeelten
             mag worden voldaan, dan wel het openbaar ministerie aan de
             veroordeelde op diens verzoek uitstel van betaling heeft
             verleend of betaling in termijnen heeft toegestaan, wordt de
@@ -4735,19 +4788,21 @@ is.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77b</nr>
+        <nr status="officieel">77b</nr>
     </kop>
     
-    <al>Ten aanzien van degene die ten tijde van het begaan van een
+    <lid><lidnr status="officieel">1</lidnr><al>Ten aanzien van degene die ten tijde van het begaan van een
         strafbaar feit de leeftijd van zestien jaren doch nog niet die
         van achttien jaren heeft bereikt, kan de rechter de
-            <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77g">artikelen 77<nadruk type="cur">g</nadruk> tot en met 77<nadruk type="cur">gg</nadruk>
-        </intref> buiten toepassing laten en recht doen
+            <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77g">artikelen 77g tot en met 77gg</intref> buiten toepassing laten en recht doen
         overeenkomstig de bepalingen in de voorgaande titels vervat,
         indien hij daartoe grond vindt in de ernst van het begane feit,
         de persoonlijkheid van de dader of de omstandigheden waaronder
-        het feit is begaan.</al>
-</artikel>
+        het feit is begaan.</al></lid>
+<lid>
+<lidnr status="officieel">2</lidnr><al>Bij toepassing van het eerste lid kan levenslange
+gevangenisstraf niet worden
+opgelegd.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4864,44 +4919,17 @@ jaren.</al></lid>
         <label>Artikel</label>
         <nr status="officieel">77f</nr>
     </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Bij toepassing van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74">artikel 74, eerste
-            lid</intref>, kan de officier van justitie tevens
-            als voorwaarde stellen dat de verdachte </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>zich zal richten naar de aanwijzingen van een stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet
-op de jeugdzorg</extref>, voor
-                    een daarbij te bepalen termijn van ten hoogste zes maanden;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>onbetaalde arbeid of arbeid tot herstel van de door
-                    het strafbare feit aangerichte schade verricht dan
-                    wel een leerproject volgt gedurende een door hem te
-                    bepalen duur van ten hoogste veertig uren binnen een
-                    door hem te bepalen termijn van ten hoogste drie maanden.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Op de in het eerste lid, onder b, bedoelde voorwaarden zijn
-            de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77m">artikelen 77m, eerste en negende
-            lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">77o, eerste
-            lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77">77ff, vierde
-            lid</intref>, met betrekking tot taakstraffen van
-            overeenkomstige toepassing.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al> De geldsom vermeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74">artikel 74, tweede lid, onder
-                    a</intref>, bedraagt ten hoogste het maximum van een geldboete van de
-tweede categorie.</al>
-    </lid>
+    <lid><lidnr status="officieel">1</lidnr><al>In een strafbeschikking kan de officier van
+justitie tevens de aanwijzing geven dat de verdachte zich zal richten
+naar de aanwijzingen van een stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1,
+onderdeel f, van de Wet op de jeugdzorg</extref>, voor een daarbij te bepalen
+termijn van ten hoogste zes maanden.</al></lid><lid>
+<lidnr status="officieel">2</lidnr><al>In afwijking van <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=257a" compleet="nee">artikel 257a, tweede lid,
+onderdeel a, van het Wetboek van Strafvordering</extref> kan de officier van
+justitie in een strafbeschikking een taakstraf opleggen voor ten
+hoogste zestig uren, te verrichten binnen een termijn van ten hoogste
+drie maanden. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77m">Artikel 77m, negende lid</intref>, is van overeenkomstige
+toepassing.</al></lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -4914,34 +4942,25 @@ tweede categorie.</al>
         <al>In plaats van de op een feit gestelde straffen worden de
             straffen en maatregelen opgelegd, in deze Titel voorzien.</al>
     </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Naast de maatregel van plaatsing in een inrichting voor
-            jeugdigen wordt voor hetzelfde feit geen geldboete of een
-            taakstraf opgelegd, behoudens het bepaalde in
-                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77x, tweede lid</intref>.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>In geval van veroordeling tot een geldboete of
-            jeugddetentie, vervangende jeugddetentie daaronder niet
-            begrepen, waarvan het onvoorwaardelijk ten uitvoer te leggen
-            deel ten hoogste zes
-maanden bedraagt, kan de rechter
-            tevens een taakstraf opleggen.</al>
-    </lid>
+    <lid><lidnr status="officieel">2</lidnr><al>Een
+hoofdstraf kan zowel afzonderlijk als tezamen met andere hoofdstraffen
+of met bijkomende straffen worden
+opgelegd.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Een maatregel kan zowel
+afzonderlijk als tezamen met hoofdstraffen, met bijkomende straffen en
+met andere maatregelen worden
+opgelegd.</al></lid>
 </artikel>
     
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77h</nr>
+        <nr status="officieel">77h</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De hoofdstraffen zijn:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>in geval van misdrijf: jeugddetentie, taakstraf of geldboete;</al>
@@ -4954,9 +4973,9 @@ maanden bedraagt, kan de rechter
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Een taakstraf bestaat uit:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>een werkstraf, zijnde het verrichten van onbetaalde
@@ -4976,9 +4995,9 @@ maanden bedraagt, kan de rechter
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> De bijkomende straffen zijn: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>verbeurdverklaring;</al>
@@ -4991,23 +5010,25 @@ maanden bedraagt, kan de rechter
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> De maatregelen zijn: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>plaatsing in een inrichting voor jeugdigen;</al>
             </li>
-            <li>
-                <li.nr>b.</li.nr>
+            <li><li.nr>b.</li.nr><al>maatregel
+betreffende het gedrag van de
+jeugdige;</al></li><li>
+                <li.nr>c.</li.nr>
                 <al>onttrekking aan het verkeer;</al>
             </li>
             <li>
-                <li.nr>c.</li.nr>
+                <li.nr>d.</li.nr>
                 <al>ontneming van wederrechtelijk verkregen voordeel;</al>
             </li>
             <li>
-                <li.nr>d.</li.nr>
+                <li.nr>e.</li.nr>
                 <al>schadevergoeding.</al>
             </li>
         </lijst>
@@ -5101,11 +5122,10 @@ maanden bedraagt, kan de rechter
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77k</nr>
+        <nr status="officieel">77k</nr>
     </kop>
     
-    <al>De straf van jeugddetentie kan door de rechter die de straf
-        heeft opgelegd op vordering van het openbaar ministerie of op
+    <al>De straf van jeugddetentie kan door de rechter op vordering van het openbaar ministerie of op
         verzoek van de veroordeelde geheel of gedeeltelijk worden
         vervangen door een van de straffen genoemd in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=9">artikel 9, eerste
         lid</intref>, indien de tenuitvoerlegging van de
@@ -5126,8 +5146,10 @@ maanden bedraagt, kan de rechter
 geldboete is ten minste het bedrag, genoemd in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=23">artikel 23, tweede lid</intref>,
 en ten hoogste het maximum van een geldboete van de tweede
 categorie. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24a">Artikel 24a</intref> is van overeenkomstige toepassing met dien
-            verstande dat de rechter bij elke geldboete kan bepalen dat
-            het bedrag in gedeelten kan worden voldaan. De rechter stelt
+            verstande dat de rechter of de officier van
+justitie bij elke geldboete kan bepalen dat
+            het bedrag in gedeelten kan worden voldaan. De rechter of de officier van
+justitie stelt
             daarbij de hoogte van elk van die gedeelten vast.</al>
     </lid>
     
@@ -5160,13 +5182,13 @@ categorie. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24a">Artik
             De straf kan slechts worden opgelegd zolang de veroordeelde
             de leeftijd van achttien jaren niet heeft bereikt.</al>
     </lid>
-    <lid>
-        <lidnr status="officieel">5</lidnr>
-        <al>Indien de veroordeelde de leeftijd van achttien jaren heeft
-            bereikt, legt de rechter vervangende hechtenis op, tenzij
-            naar zijn oordeel de veroordeelde in aanmerking komt voor
-            vervangende jeugddetentie.</al>
-    </lid>
+    <lid><lidnr status="officieel">5</lidnr><al>Indien
+de veroordeelde bij aanvang van de tenuitvoerlegging van de vervangende
+jeugddetentie meerderjarig is, wordt deze ten uitvoer gelegd als
+vervangende hechtenis, tenzij in het vonnis of de beslissing op grond
+van het derde lid is bepaald dat de veroordeelde ook in geval van
+meerderjarigheid in aanmerking komt voor vervangende
+jeugddetentie.</al></lid>
     <lid>
         <lidnr status="officieel">6</lidnr>
         <al>De duur van de vervangende jeugddetentie of vervangende
@@ -5174,7 +5196,7 @@ categorie. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24a">Artik
             Voor elke volle &#x20AC; 15 van de nog te betalen geldboete wordt
             niet meer dan &#xE9;&#xE9;n dag opgelegd. Door betaling van het nog te
             betalen bedrag vervalt de vervangende jeugddetentie of de
-            vervangende hechtenis.<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24c"> Artikel 24<nadruk type="cur">c</nadruk>, vierde lid</intref>, is
+            vervangende hechtenis.<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24c"> Artikel 24c, vierde lid</intref>, is
             van overeenkomstige toepassing.</al>
     </lid>
     <lid>
@@ -5188,61 +5210,65 @@ categorie. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24a">Artik
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>77m</nr> 
+	 <nr status="officieel">77m</nr> 
   </kop>
     
   <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>Het vonnis vermeldt of de taakstraf bestaat uit een werkstraf, een
+	 <lidnr status="officieel">1</lidnr> 
+	 <al>Het vonnis of de
+strafbeschikking vermeldt of de taakstraf bestaat uit een werkstraf, een
 		leerstraf of een combinatie van beide, alsmede het aantal uren dat de straf zal
-		duren. Het vonnis kan de aard en inhoud van de te verrichten werkzaamheden of
+		duren. Het vonnis of de
+strafbeschikking kan de aard en inhoud van de te verrichten werkzaamheden of
 		het te volgen leerproject vermelden.</al> 
   </lid>
     
   <lid> 
-	 <lidnr>2</lidnr> 
-	 <al>De duur van de onbetaalde arbeid of van de arbeid tot herstel van de
+	 <lidnr status="officieel">2</lidnr> 
+	 <al>De duur van de door de
+rechter opgelegde onbetaalde arbeid of van de arbeid tot herstel van de
 		door het strafbare feit aangerichte schade, is ten hoogste tweehonderd
 		uren.</al> 
   </lid> 
   <lid> 
-	 <lidnr>3</lidnr> 
+	 <lidnr status="officieel">3</lidnr> 
 	 <al>De termijn waarbinnen de arbeid moet zijn verricht bedraagt ten hoogste
 		zes maanden indien niet meer dan honderd uren is opgelegd en overigens ten
 		hoogste een jaar. Het openbaar ministerie kan evenwel bij toepassing van
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">artikel 77<nadruk type="cur">o</nadruk>, tweede
+		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">artikel 77o, tweede
 		lid</intref>, de duur verlengen.</al> 
   </lid>
     
   <lid> 
-	 <lidnr>4</lidnr> 
+	 <lidnr status="officieel">4</lidnr> 
 	 <al>De duur van een leerproject is ten hoogste tweehonderd uren.</al> 
   </lid> 
   <lid> 
-	 <lidnr>5</lidnr> 
+	 <lidnr status="officieel">5</lidnr> 
 	 <al>De termijn waarbinnen een leerproject plaatsvindt bedraagt ten hoogste
 		zes maanden. </al> 
   </lid> 
   <lid> 
-	 <lidnr>6</lidnr> 
+	 <lidnr status="officieel">6</lidnr> 
 	 <al>Indien meer dan &#xE9;&#xE9;n taakstraf wordt opgelegd, bedraagt het totaal
 		aantal uren niet meer dan tweehonderdenveertig.</al> 
   </lid> 
   <lid> 
-	 <lidnr>7</lidnr> 
+	 <lidnr status="officieel">7</lidnr> 
 	 <al>
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=27">Artikel 27, eerste en vierde lid</intref>, is
-		bij veroordeling tot een taakstraf van overeenkomstige toepassing.</al> 
+		bij veroordeling tot een taakstraf door de
+rechter van overeenkomstige toepassing.</al> 
   </lid> 
   <lid> 
-	 <lidnr>8</lidnr> 
+	 <lidnr status="officieel">8</lidnr> 
 	 <al>Het openbaar ministerie kan de termijn, genoemd in het derde en vijfde
 		lid, ambtshalve of op verzoek van de veroordeelde, eenmaal met een zelfde
 		periode verlengen. Het openbaar ministerie zendt hiervan zo spoedig mogelijk
 		een kennisgeving aan de veroordeelde.</al> 
   </lid> 
   <lid> 
-	 <lidnr>9</lidnr> 
+	 <lidnr status="officieel">9</lidnr> 
 	 <al>De termijnen, genoemd in het derde en vijfde lid, worden verlengd met
 		de tijd dat de veroordeelde uit anderen hoofde rechtens zijn vrijheid is
 		ontnomen alsmede met de tijd dat
@@ -5287,11 +5313,11 @@ is.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77o</nr>
+        <nr status="officieel">77o</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De raad voor de kinderbescherming heeft tot taak de
             voorbereiding en de ondersteuning van de tenuitvoerlegging
             van taakstraffen. Over de wijze waarop de veroordeelde de
@@ -5306,19 +5332,20 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Het openbaar ministerie kan na overleg met de raad voor de
             kinderbescherming en de veroordeelde, de opgelegde straf,
             behoudens voor wat betreft het aantal opgelegde uren,
             wijzigen indien het van oordeel is dat de veroordeelde de
-            taakstraf niet geheel overeenkomstig het vonnis kan of heeft
+            taakstraf niet geheel overeenkomstig het vonnis of de
+strafbeschikking kan of heeft
             kunnen volbrengen. Hij benadert daarbij zo veel mogelijk de
             opgelegde taakstraf. Het openbaar ministerie geeft hiervan
             kennis aan de veroordeelde en de raad voor de kinderbescherming.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Het openbaar ministerie doet deze kennisgeving zo spoedig
             mogelijk aan de veroordeelde betekenen. De kennisgeving
             behelst het aantal uren dat naar het oordeel van het
@@ -5327,7 +5354,7 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> Tegen de kennisgeving, bedoeld in het derde lid, kan de
             veroordeelde binnen veertien dagen na de betekening een
             bezwaarschrift indienen bij de rechter die de straf oplegde.
@@ -5335,21 +5362,46 @@ tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status
             wijzigen. Het tweede lid is van overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>77p</nr></kop><lid><lidnr>1</lidnr><al>Indien de tot een taakstraf veroordeelde niet aanvangt met
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">77p</nr>
+    </kop>
+    
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien de door de
+rechter tot een taakstraf veroordeelde niet aanvangt met
             de taakstraf of het openbaar ministerie van oordeel is dat
-            de veroordeelde de opgelegde taakstraf niet naar behoren
+            de veroordeelde de door de
+rechter opgelegde taakstraf niet naar behoren
             verricht of heeft verricht, kan het openbaar ministerie de
             tenuitvoerlegging van de vervangende jeugddetentie bevelen.
             Het openbaar ministerie geeft hiervan kennis aan de
-            veroordeelde en de raad voor de kinderbescherming.</al></lid><lid><lidnr>2</lidnr><al>Het openbaar ministerie doet deze kennisgeving zo spoedig
+            veroordeelde en de raad voor de kinderbescherming.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al>Het openbaar ministerie doet deze kennisgeving zo spoedig
             mogelijk aan de veroordeelde betekenen. De kennisgeving
             behelst het aantal uren taakstraf dat naar het oordeel van
             het openbaar ministerie is verricht, alsmede het aantal
-            dagen vervangende jeugddetentie.</al></lid><lid><lidnr>3</lidnr><al>Tegen de kennisgeving, bedoeld in het tweede lid, kan de
+            dagen vervangende jeugddetentie.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>Tegen de kennisgeving, bedoeld in het tweede lid, kan de
             veroordeelde binnen veertien dagen na de betekening daarvan
             een bezwaarschrift indienen bij de rechter die de straf
             oplegde. De rechter kan de beslissing van het openbaar
-            ministerie wijzigen.</al></lid></artikel>
+            ministerie wijzigen.</al>
+    </lid>
+<lid><lidnr status="officieel">4</lidnr><al>Indien
+de veroordeelde bij aanvang van de tenuitvoerlegging meerderjarig is,
+wordt de vervangende jeugddetentie ten uitvoer gelegd als vervangende
+hechtenis, tenzij in het vonnis is bepaald dat de veroordeelde ook in
+geval van meerderjarigheid in aanmerking komt voor vervangende
+jeugddetentie.</al></lid></artikel>
     <artikel status="goed"><kop><label>Artikel</label><nr>77q</nr></kop><lid><lidnr>1</lidnr><al>Het openbaar ministerie kan slechts een beslissing nemen of
             een bevel
 geven krachtens <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">artikel 77o, tweede
@@ -5548,8 +5600,53 @@ gevallen,
             kinderbescherming inwinnen omtrent de plaats van de tenuitvoerlegging.</al>
     </lid>
 </artikel>
-    <artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">77wa</nr><al><redactie type="extra">Treedt in werking per 01-02-2008</redactie></al></kop>
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">77w</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>De maatregel betreffende het gedrag van de
+jeugdige kan slechts worden opgelegd,
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>hetzij de ernst van het begane misdrijf, hetzij de
+veelvuldigheid van de begane misdrijven, hetzij voorafgegane
+veroordelingen wegens misdrijf hiertoe aanleiding geven,
+en</al></li><li> <li.nr>b.</li.nr><al>de maatregel in het belang is van
+een zo gunstig mogelijke verdere ontwikkeling van de
+verdachte.</al></li></lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>De rechter
+legt de maatregel slechts op, nadat hij zich een met redenen omkleed,
+gedagtekend en ondertekend advies heeft doen overleggen van de raad
+voor de kinderbescherming, dat wordt ondersteund door ten minste een
+gedragsdeskundige. Indien dit advies eerder dan een jaar voor de
+aanvang van de terechtzitting is gedagtekend kan de rechter hier
+slechts gebruik van maken met instemming van het openbaar ministerie en
+de verdachte.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De rechter geeft in
+zijn uitspraak aan waar de maatregel uit bestaat. De maatregel kan
+inhouden dat de veroordeelde aan een programma deelneemt in een door de
+rechter aan te wijzen instelling of dat de veroordeelde een ambulant
+programma zal volgen onder begeleiding van een door de rechter aan te
+wijzen organisatie.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het programma,
+bedoeld in het derde lid, mag de vrijheid van de veroordeelde zijn
+godsdienst of levensovertuiging te belijden, en de staatkundige
+vrijheid niet beperken.</al></lid><lid><lidnr status="officieel">5</lidnr><al>De
+instellingen of organisaties, bedoeld in het derde lid, stellen voor de
+uitvoering van het programma een plan vast dat is afgestemd op de
+problematiek van de veroordeelde. Bij of krachtens algemene maatregel
+van bestuur kunnen regels worden gesteld omtrent de eisen waaraan het
+plan, alsmede waaraan de programma&#x2019;s en de instellingen of
+organisaties, bedoeld in het derde lid, moeten voldoen. Bij of
+krachtens algemene maatregel van bestuur kunnen voorts regels worden
+gesteld omtrent de werkwijze van de instellingen of organisaties,
+bedoeld in het derde lid.</al></lid><lid><lidnr status="officieel">6</lidnr><al>De
+maatregel wordt opgelegd voor de tijd van ten minste zes maanden en ten
+hoogste een jaar. De termijn gaat in nadat de rechterlijke uitspraak
+onherroepelijk is geworden.</al></lid><lid><lidnr status="officieel">7</lidnr><al>De
+jeugdreclassering heeft tot taak de voorbereiding en de ondersteuning
+van de tenuitvoerlegging van de maatregel. Over de wijze waarop de
+veroordeelde de maatregel uitvoert, kan het openbaar ministerie
+inlichtingen inwinnen bij de
+jeugdreclassering.</al></lid><lid><lidnr status="officieel">8</lidnr><al>De termijn van
+de maatregel loopt niet gedurende de tijd dat aan de veroordeelde uit
+anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd
+dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig
+is.</al></lid></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">77wa</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>De rechter kan bepalen dat het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77w">artikel
 77w, derde lid</intref>, bedoelde programma geheel of ten dele komt te bestaan
 uit een vorm van zorg als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=5" compleet="nee">artikel 5, tweede lid, onderdelen
@@ -5569,7 +5666,7 @@ lid.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien de rechter toe
 heeft gegeven aan het bepaalde in het tweede lid, doet de raad daarvan
 onverwijld mededeling aan de stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder
 f, van de Wet op de jeugdzorg</extref>.</al></lid></artikel><artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">77wb</nr><al><redactie type="extra">Treedt in werking per 01-02-2008</redactie></al></kop>
+<label>Artikel</label><nr status="officieel">77wb</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Indien het gedrag van de veroordeelde daartoe
 aanleiding geeft of wijziging van de maatregel in het belang is van de
 ontwikkeling van de veroordeelde, kan de rechter, op vordering van het
@@ -5582,7 +5679,7 @@ kinderbescherming.</al></lid><lid><lidnr status="officieel">3</lidnr><al><intref
 tweede lid, eerste volzin, derde tot en met vijfde, zevende en achtste
 lid</intref>, is van overeenkomstige toepassing op de beslissing tot wijziging
 van de maatregel.</al></lid></artikel><artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">77wc</nr><al><redactie type="extra">Treedt in werking per 01-02-2008</redactie></al></kop>
+<label>Artikel</label><nr status="officieel">77wc</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>In het vonnis waarbij de maatregel
 betreffende het gedrag van de jeugdige wordt opgelegd, beveelt de
 rechter voor het geval dat de veroordeelde niet naar behoren aan de
@@ -5597,7 +5694,7 @@ maatregel ten uitvoer is gelegd, vermindert de duur van de vervangende
 jeugddetentie naar
 evenredigheid.</al></lid><lid><lidnr status="officieel">4</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77p">Artikel 77p</intref> is van
 overeenkomstige toepassing.</al></lid></artikel><artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">77wd</nr><al><redactie type="extra">Treedt in werking per 01-02-2008</redactie></al></kop>
+<label>Artikel</label><nr status="officieel">77wd</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Indien het gedrag van de veroordeelde daartoe
 aanleiding geeft en verlenging in het belang is van de ontwikkeling van
 de veroordeelde, kan de rechter de termijn van de maatregel, op
@@ -5632,31 +5729,37 @@ beslissing aangewezen
 organisatie.</al></lid><lid><lidnr status="officieel">5</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wa">Artikel 77wa</intref> is van
 overeenkomstige toepassing op de beslissing tot
 verlenging.</al></lid></artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>77x</nr></kop><lid><lidnr>1</lidnr><al>In geval van veroordeling tot jeugddetentie, vervangende jeugddetentie
-		daaronder niet begrepen, tot taakstraf,
-tot geldboete, tot plaatsing in een inrichting voor jeugdigen of tot
-ontzegging van de bevoegdheid motorrijtuigen te
-besturen, kan de rechter bepalen dat deze of een gedeelte daarvan, niet zal
-		worden ten uitvoer gelegd.</al></lid><lid><lidnr>2</lidnr><al> In geval van veroordeling tot jeugddetentie of in geval van plaatsing
-		in een inrichting voor jeugdigen, met toepassing van het eerste lid, kan de
-		rechter tevens geldboete opleggen.</al></lid><lid><lidnr>3</lidnr><al>In geval van veroordeling tot jeugddetentie, met toepassing van het
-		eerste lid, kan de rechter tevens een taakstraf opleggen.</al></lid></artikel>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">77x</nr> 
+  </kop>
+    <al>In geval van een veroordeling tot jeugddetentie, vervangende
+jeugddetentie daaronder niet begrepen, tot taakstraf, tot geldboete,
+tot plaatsing in een inrichting voor jeugdigen, tot de maatregel
+betreffende het gedrag van de jeugdige of tot ontzegging van de
+bevoegdheid motorrijtuigen te besturen, kan de rechter bepalen dat deze
+geheel of gedeeltelijk niet ten uitvoer zal worden gelegd. De rechter
+kan de werking van de bijzondere voorwaarden beperken tot een bij de
+uitspraak te bepalen tijdsduur binnen de
+proeftijd.</al>
+</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77y</nr>
+        <nr status="officieel">77y</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De rechter die bepaalt dat een door hem opgelegde straf of
             maatregel niet zal worden ten uitvoer gelegd, stelt daarbij
             een proeftijd vast van ten hoogste twee jaren.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De proeftijd gaat in: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>indien een kennisgeving als bedoeld in
@@ -5681,25 +5784,28 @@ besturen, kan de rechter bepalen dat deze of een gedeelte daarvan, niet zal
             </li>
         </lijst>
     </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al> De proeftijd loopt niet gedurende de tijd dat de
-            veroordeelde rechtens zijn vrijheid is ontnomen.</al>
-    </lid>
+    <lid><lidnr status="officieel">3</lidnr><al>De
+proeftijd loopt niet gedurende de tijd dat de veroordeelde rechtens
+zijn vrijheid is ontnomen of de veroordeelde uit zodanige
+vrijheidsontneming ongeoorloofd afwezig
+is.</al></lid>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>77z</nr></kop><lid><lidnr>1</lidnr><al>Toepassing van
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77<nadruk type="cur">x</nadruk></intref> geschiedt onder de algemene voorwaarde dat de veroordeelde
-		zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar
-		feit. Bovendien kunnen bijzondere voorwaarden, het gedrag van de veroordeelde
-		betreffende, worden gesteld. Deze mogen de vrijheid van de veroordeelde zijn
-		godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet
-		beperken. De rechter kan de werking van de bijzondere voorwaarden beperken tot
-		een bij de uitspraak te bepalen tijdsduur binnen de proeftijd.</al></lid><lid><lidnr>2</lidnr><al> Als bijzondere voorwaarde kan worden gesteld dat de veroordeelde zich
-		zal laten opnemen in een inrichting, niet
-zijnde een inrichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0011756&amp;artikel=1" compleet="nee">artikel 1, onderdeel b, van de
-Beginselenwet justiti&#xEB;le
-jeugdinrichtingen</extref>, gedurende een door de rechter te bepalen
-		termijn, korter dan de proeftijd.</al></lid></artikel>
+    <artikel status="goed"> 
+  <kop> 
+	 <label>Artikel</label> 
+	 <nr status="officieel">77z</nr> 
+  </kop>
+    <al>Toepassing van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77x</intref> geschiedt onder de algemene voorwaarde
+dat de veroordeelde zich voor het einde van de proeftijd niet schuldig
+maakt aan een strafbaar feit. Bij algemene maatregel van bestuur wordt
+bepaald welke bijzondere voorwaarden die het gedrag van de veroordeelde
+betreffen daarnaast kunnen worden gesteld. Deze mogen de vrijheid van
+de verdachte zijn godsdienst of levensovertuiging te belijden, en de
+staatkundige vrijheid niet beperken. De rechter kan de werking van de
+bijzondere voorwaarden beperken tot een bij de uitspraak te bepalen
+tijdsduur binnen de
+proeftijd.</al>
+</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -5785,7 +5891,7 @@ tweede en derde lid.</al>
     
     <lid>
         <lidnr status="officieel">1</lidnr>
-        <al>Onverminderd het bepaalde in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77">artikel 77cc</intref> kan de rechter, indien enige gestelde
+        <al>Onverminderd het bepaalde in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77cc">artikel 77cc</intref> kan de rechter, indien enige gestelde
             voorwaarde niet wordt nageleefd en hij daartoe termen vindt,
             na ontvangst van de vordering van het openbaar ministerie: </al>
         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
@@ -5803,19 +5909,22 @@ tweede en derde lid.</al>
             </li>
         </lijst>
     </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>
-            <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14g">Artikel 14g, tweede, derde en
-                vijfde lid</intref>, is van overeenkomstige
-            toepassing, met dien verstande dat indien bij
-            overeenkomstige toepassing van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14g">artikel 14 g, derde lid, onder a</intref>, het daar bedoelde strafbaar feit wordt
-            vervolgd voor de politierechter, deze tevens bevoegd is tot
-            toepassing van het eerste lid voor zover de ten uitvoer te
-            leggen straf een geldboete of een jeugddetentie van niet
-            meer dan zes maanden betreft.</al>
-    </lid>
-</artikel>
+    <lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14g">Artikel 14g,
+tweede, derde en vijfde lid</intref> is van overeenkomstige toepassing, met dien
+verstande dat indien bij overeenkomstige toepassing van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14g">artikel 14g,
+derde lid, onder a</intref>, het daar bedoelde strafbare feit wordt vervolgd
+voor de politierechter, deze tevens bevoegd is tot toepassing van het
+eerste lid voor zover de ten uitvoer te leggen straf een geldboete, een
+taakstraf, een jeugddetentie van niet meer dan twaalf maanden of een
+gedragsmaatregel
+betreft.</al></lid>
+<lid><lidnr status="officieel">3</lidnr><al>Indien de
+veroordeelde bij aanvang van de tenuitvoerlegging meerderjarig is,
+wordt de jeugddetentie waarvan de rechter op grond van het eerste lid
+de tenuitvoerlegging heeft gelast, ten uitvoer gelegd als
+gevangenisstraf, tenzij de veroordeelde naar het oordeel van de rechter
+ook in geval van meerderjarigheid in aanmerking komt voor
+jeugddetentie.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -5877,13 +5986,17 @@ tweede en derde lid.</al>
         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
-                <al>projecten als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77e">artikelen 77e</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77f">77f, eerste lid, onder b</intref>, en</al>
+                <al>projecten als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77e">artikelen 77e</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77f">77f, eerste lid, onder b</intref>,</al>
             </li>
             <li>
                 <li.nr>b.</li.nr>
-                <al>taakstraffen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77h">artikel 77h, tweede lid</intref>.</al>
+                <al>taakstraffen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77h">artikel 77h, tweede lid</intref>,
+en</al>
             </li>
-        </lijst>
+        <li><li.nr>c.</li.nr><al>maatregelen
+betreffende het gedrag van de jeugdige als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77h">artikel 77h,
+vierde lid, onderdeel
+b</intref>.</al></li></lijst>
     </lid>
     <lid>
         <lidnr status="officieel">4</lidnr>
@@ -5918,13 +6031,19 @@ tweede en derde lid.</al>
             met betrekking tot straffen van toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>77hh</nr></kop><lid><lidnr>1</lidnr><al>De raad voor de kinderbescherming heeft tot taak toezicht te houden op
+    <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">77hh</nr>
+                  </kop>
+                  <lid><lidnr status="officieel">1</lidnr><al>De raad voor de kinderbescherming heeft tot taak toezicht te houden op
 de uitvoering van reclasseringswerkzaamheden als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77f">artikel 77f, eerste
-lid, onder a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77j">artikel 77j, vierde en vijfde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s, achtste lid</intref>,
+lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77j">artikel 77j, vierde en vijfde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s, achtste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77w">77w, derde en zevende lid</intref>,
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77aa">artikel 77aa, tweede en derde lid</intref>, van het Wetboek van Strafrecht, en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=493" compleet="nee">artikel
 493 van het Wetboek van Strafvordering</extref>, en is in dat kader bevoegd de stichting,
 bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet op de jeugdzorg</extref> aanwijzingen te
-geven.</al></lid><lid><lidnr>2</lidnr><al>In door Onze
+geven.</al>
+                </lid><lid><lidnr status="officieel">2</lidnr><al>In door Onze
 Minister van Justitie aan te wijzen gevallen kan de raad voor de
 kinderbescherming de stichting inschakelen voor vrijwillige begeleiding
 van een
@@ -5975,7 +6094,7 @@ omtrent:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><l
 dient te voldoen, onder meer met het oog op de onschendbaarheid van
 vastgelegde waarnemingen;</al></li><li> <li.nr>b.</li.nr><al>de
 controle op de naleving van de eisen, bedoeld onder
-a.</al></li></lijst></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">78b</nr><al><redactie type="extra">Treedt in werking per 01-02-2008</redactie></al></kop>
+a.</al></li></lijst></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">78b</nr></kop>
 <al>Waar van veroordeling wordt gesproken wordt daaronder een
 strafbeschikking begrepen, voorzover niet uit enige bepaling het
 tegendeel
