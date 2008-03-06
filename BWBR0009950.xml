@@ -1071,17 +1071,24 @@ is.</al>
                 <al>tot gebruik strekt van door Onze Minister aan te
                     wijzen overheidsorganen, belast met de zorg voor de
                     veiligheid van de staat, de defensie alsmede de
-                    handhaving van de rechtsorde. </al>
-            </li>
+                    handhaving van de rechtsorde; </al>
+            </li><li><li.nr>c.</li.nr><al>voor een in het frequentieplan
+aangegeven bestemming vergunningvrij mag worden
+gebruikt.</al></li>
         </lijst>
     </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Bij of krachtens algemene maatregel van bestuur worden
-            regels gesteld terzake van het gebruik van de aangewezen
-            frequentieruimte, bedoeld in het eerste lid, alsmede terzake
-            van de aanwijzing, bedoeld in het eerste lid, onderdeel a.</al>
-    </lid>
+    <lid><lidnr status="officieel">2</lidnr><al>Bij of krachtens
+algemene maatregel van bestuur kunnen regels worden gesteld met
+betrekking
+tot:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>het gebruik van aangewezen frequentieruimte,
+bedoeld in het eerste lid;</al></li><li> <li.nr>b.</li.nr><al>de
+aanwijzing bedoeld in het eerste lid, onderdeel a;</al></li><li>
+<li.nr>c.</li.nr><al>eisen voor gebruikers van
+frequentieruimte;</al></li><li> <li.nr>d.</li.nr><al>een meldings- en
+registratieplicht voor het gebruik van frequentieruimte als bedoeld in
+het eerste lid, onder
+c.</al></li></lijst></lid>
 </artikel>
     <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">3.4a</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Indien vergunningen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel
@@ -4977,8 +4984,11 @@ het geheel of gedeeltelijk aanwezig hebben, of het gebruik van
 radiozendapparaten zonder dat aan de houder een vergunning is verleend
 voor het gebruik van frequentieruimte, toegestaan,
 indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
-<li.nr>a.</li.nr><al>krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstuk 3</intref> geen vergunning is vereist
-voor het gebruik van frequentieruimte;</al></li><li>
+<li.nr>a.</li.nr><al>krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstuk 3</intref> geen
+vergunning is vereist voor het gebruik van frequentieruimte en, indien
+voor het gebruik melding en registratie verplicht zijn krachtens
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4">artikel 3.4, tweede lid, onder d</intref>, indien melding en registratie heeft
+plaatsgevonden;</al></li><li>
 <li.nr>b.</li.nr><al>de houder van het radiozendappararaat met de
 houder van een vergunning voor het gebruik van frequentieruimte een
 overeenkomst heeft gesloten voor de aanleg en het instandhouden van een
@@ -7484,9 +7494,10 @@ elektronisch communicatieverkeer wordt verzorgd leeft de
     <lid>
         <lidnr status="officieel">2</lidnr>
         <al>Degene aan wie door Onze Minister een vergunning is verleend
-            voor het gebruik van frequentieruimte, welk gebruik
-            schadelijke storingen kan veroorzaken in de radiodiensten
-            van andere landen, leeft de verplichtingen na die
+            voor het gebruik van frequentieruimte of degene die
+overeenkomstig <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4">artikel 3.4, eerste lid, onderdeel c</intref>, vergunningvrij
+gebruik maakt van
+frequentieruimte, leeft de verplichtingen na die
             voortvloeien uit het Internationaal Telecommunicatieverdrag
             en uit andere Nederland bindende verdragen of besluiten van
             volkenrechtelijke organisaties terzake van dit gebruik. </al>
