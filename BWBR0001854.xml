@@ -1866,7 +1866,8 @@ opgelegd tot ten hoogste het bedrag van de eerste,
         <lidnr status="officieel">8</lidnr>
         <al> Het voorgaande lid is van overeenkomstige toepassing bij
             veroordeling van een vennootschap zonder
-            rechtspersoonlijkheid, maatschap of doelvermogen.</al>
+            rechtspersoonlijkheid, maatschap, rederij of
+doelvermogen.</al>
     </lid>
 <lid> <lidnr status="officieel">9</lidnr><al>De in het
 vierde lid genoemde bedragen worden elke twee jaar, met ingang van 1
@@ -5184,10 +5185,11 @@ justitie stelt
     </lid>
     <lid><lidnr status="officieel">5</lidnr><al>Indien
 de veroordeelde bij aanvang van de tenuitvoerlegging van de vervangende
-jeugddetentie meerderjarig is, wordt deze ten uitvoer gelegd als
+jeugddetentie de leeftijd van achttien jaren heeft
+bereikt, wordt deze ten uitvoer gelegd als
 vervangende hechtenis, tenzij in het vonnis of de beslissing op grond
-van het derde lid is bepaald dat de veroordeelde ook in geval van
-meerderjarigheid in aanmerking komt voor vervangende
+van het derde lid is bepaald dat de veroordeelde ook in het geval hij de leeftijd van achttien jaren heeft
+bereikt in aanmerking komt voor vervangende
 jeugddetentie.</al></lid>
     <lid>
         <lidnr status="officieel">6</lidnr>
@@ -5196,7 +5198,7 @@ jeugddetentie.</al></lid>
             Voor elke volle &#x20AC; 15 van de nog te betalen geldboete wordt
             niet meer dan &#xE9;&#xE9;n dag opgelegd. Door betaling van het nog te
             betalen bedrag vervalt de vervangende jeugddetentie of de
-            vervangende hechtenis.<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24c"> Artikel 24c, vierde lid</intref>, is
+            vervangende hechtenis. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24c">Artikel 24c, vierde lid</intref>, is
             van overeenkomstige toepassing.</al>
     </lid>
     <lid>
@@ -5397,10 +5399,11 @@ rechter opgelegde taakstraf niet naar behoren
             ministerie wijzigen.</al>
     </lid>
 <lid><lidnr status="officieel">4</lidnr><al>Indien
-de veroordeelde bij aanvang van de tenuitvoerlegging meerderjarig is,
+de veroordeelde bij aanvang van de tenuitvoerlegging de leeftijd van achttien jaren heeft
+bereikt,
 wordt de vervangende jeugddetentie ten uitvoer gelegd als vervangende
-hechtenis, tenzij in het vonnis is bepaald dat de veroordeelde ook in
-geval van meerderjarigheid in aanmerking komt voor vervangende
+hechtenis, tenzij in het vonnis is bepaald dat de veroordeelde ook in het geval hij de leeftijd van achttien jaren heeft
+bereikt in aanmerking komt voor vervangende
 jeugddetentie.</al></lid></artikel>
     <artikel status="goed"><kop><label>Artikel</label><nr>77q</nr></kop><lid><lidnr>1</lidnr><al>Het openbaar ministerie kan slechts een beslissing nemen of
             een bevel
@@ -5604,10 +5607,10 @@ gevallen,
 <lid><lidnr status="officieel">1</lidnr><al>De maatregel betreffende het gedrag van de
 jeugdige kan slechts worden opgelegd,
 indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
-<li.nr>a.</li.nr><al>hetzij de ernst van het begane misdrijf, hetzij de
-veelvuldigheid van de begane misdrijven, hetzij voorafgegane
-veroordelingen wegens misdrijf hiertoe aanleiding geven,
-en</al></li><li> <li.nr>b.</li.nr><al>de maatregel in het belang is van
+<li.nr>a.</li.nr><al>de
+ernst van het begane misdrijf of de veelvuldigheid van de begane
+misdrijven of voorafgegane veroordelingen wegens misdrijf hiertoe
+aanleiding geven, en</al></li><li> <li.nr>b.</li.nr><al>de maatregel in het belang is van
 een zo gunstig mogelijke verdere ontwikkeling van de
 verdachte.</al></li></lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>De rechter
 legt de maatregel slechts op, nadat hij zich een met redenen omkleed,
@@ -5919,11 +5922,13 @@ taakstraf, een jeugddetentie van niet meer dan twaalf maanden of een
 gedragsmaatregel
 betreft.</al></lid>
 <lid><lidnr status="officieel">3</lidnr><al>Indien de
-veroordeelde bij aanvang van de tenuitvoerlegging meerderjarig is,
+veroordeelde bij aanvang van de tenuitvoerlegging de leeftijd van achttien jaren heeft
+bereikt,
 wordt de jeugddetentie waarvan de rechter op grond van het eerste lid
 de tenuitvoerlegging heeft gelast, ten uitvoer gelegd als
 gevangenisstraf, tenzij de veroordeelde naar het oordeel van de rechter
-ook in geval van meerderjarigheid in aanmerking komt voor
+ook in het geval hij de leeftijd van achttien jaren heeft
+bereikt in aanmerking komt voor
 jeugddetentie.</al></lid></artikel>
     <artikel status="goed">
     <kop>
