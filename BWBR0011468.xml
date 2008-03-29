@@ -1734,25 +1734,26 @@ wet</extref> van toepassing.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>39</nr>
+        <nr status="officieel">39</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De verantwoordelijke kan voor een bericht als bedoeld in
             <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=35">artikel 35</intref> een bij of krachtens algemene maatregel van
             bestuur vast te stellen vergoeding van kosten verlangen die
-            ten hoogste f&#xA0;10 bedraagt.</al>
+            ten hoogste &#x20AC;
+5 bedraagt.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De vergoeding wordt teruggegeven in geval de
             verantwoordelijke op verzoek van de betrokkene, op
             aanbeveling van het College of op bevel van de rechter tot
             verbetering, aanvulling, verwijdering of afscherming is overgegaan.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Het bedrag genoemd in het eerste lid kan in bijzondere
             gevallen bij algemene maatregel van bestuur worden gewijzigd.</al>
     </lid>
