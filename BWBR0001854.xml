@@ -9547,10 +9547,10 @@ levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren opgelegd.
 3&#xB0; en 4&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=162">162</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=164">164</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">166</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=168">168</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=170">170</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=172">172</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173a</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=174">174</intref> omschreven misdrijven,
 te begaan met een terroristisch oogmerk, wordt gestraft met gevangenisstraf
 van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=96">Artikel 96, tweede lid</intref>, is van overeenkomstige toepassing.</al></lid></artikel></titeldeel>
-    <titeldeel>
+    <titeldeel status="goed">
     <kop>
         <label>Titel</label>
-        <nr>VIII</nr>
+        <nr status="officieel">VIII</nr>
         <titel status="officieel">Misdrijven tegen het openbaar gezag</titel>
     </kop>
     <artikel status="goed">
@@ -10063,7 +10063,23 @@ categorie.</al></lid>
         gevangenisstraf van ten hoogste vier maanden of geldboete van de
         tweede categorie.</al>
 </artikel>
-    <artikel status="goed">
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">192b</nr><al><redactie type="extra">Treedt in werking per 09-05-2008</redactie></al></kop>
+<al>Hij die opzettelijk niet voldoet aan een vordering van een
+parlementaire enqu&#xEA;tecommissie tot het verstrekken van
+schriftelijke inlichtingen, wordt gestraft met gevangenisstraf van ten
+hoogste drie maanden of een geldboete van de tweede
+categorie.</al></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">192c</nr><al><redactie type="extra">Treedt in werking per 09-05-2008</redactie></al></kop> <al>Hij die
+opzettelijk een parlementaire enqu&#xEA;tecommissie of door haar
+aangewezen personen belet, belemmert of verhindert een plaats te
+betreden, wordt gestraft met gevangenisstraf van ten hoogste drie
+maanden of een geldboete van de tweede
+categorie.</al></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">192d</nr><al><redactie type="extra">Treedt in werking per 09-05-2008</redactie></al></kop> <al>De
+misdrijven genoemd in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=192">artikelen 192 tot en met 192c</intref> worden niet
+vervolgd, indien zij zijn begaan door een lid van de Staten-Generaal,
+een minister of een
+staatssecretaris.</al></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>193</nr>
