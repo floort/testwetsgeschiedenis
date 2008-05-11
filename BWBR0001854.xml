@@ -338,7 +338,8 @@ geweigerd.</al></lid></artikel>
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;titeldeel=I">Titels I</intref> en
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;titeldeel=II">II van het Tweede
 			 Boek</intref>, en in de
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197a">artikelen 197a</intref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=192a">artikelen 192a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=192b">192b</intref>,
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=192c">192c</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197a">197a</intref>,
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197b">197b</intref>,
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197c">197c</intref>,
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=206">206</intref>,
@@ -10058,24 +10059,26 @@ categorie.</al></lid>
         <nr status="officieel">192a</nr>
     </kop>
     <al>Hij die opzettelijk niet voldoet aan de vordering van een
-        parlementaire enqu&#xEA;tecommissie tot het hebben van inzage in of
-        het nemen van afschrift van bescheiden wordt gestraft met
+        parlementaire enqu&#xEA;tecommissie tot het hebben van
+inzage in of het nemen van afschrift van of het op andere wijze
+kennisnemen van
+documenten wordt gestraft met
         gevangenisstraf van ten hoogste vier maanden of geldboete van de
         tweede categorie.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">192b</nr><al><redactie type="extra">Treedt in werking per 09-05-2008</redactie></al></kop>
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">192b</nr></kop>
 <al>Hij die opzettelijk niet voldoet aan een vordering van een
 parlementaire enqu&#xEA;tecommissie tot het verstrekken van
 schriftelijke inlichtingen, wordt gestraft met gevangenisstraf van ten
 hoogste drie maanden of een geldboete van de tweede
 categorie.</al></artikel><artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">192c</nr><al><redactie type="extra">Treedt in werking per 09-05-2008</redactie></al></kop> <al>Hij die
+<label>Artikel</label><nr status="officieel">192c</nr></kop> <al>Hij die
 opzettelijk een parlementaire enqu&#xEA;tecommissie of door haar
 aangewezen personen belet, belemmert of verhindert een plaats te
 betreden, wordt gestraft met gevangenisstraf van ten hoogste drie
 maanden of een geldboete van de tweede
 categorie.</al></artikel><artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">192d</nr><al><redactie type="extra">Treedt in werking per 09-05-2008</redactie></al></kop> <al>De
+<label>Artikel</label><nr status="officieel">192d</nr></kop> <al>De
 misdrijven genoemd in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=192">artikelen 192 tot en met 192c</intref> worden niet
 vervolgd, indien zij zijn begaan door een lid van de Staten-Generaal,
 een minister of een
