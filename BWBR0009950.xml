@@ -324,7 +324,11 @@ daarvan;</al></li><li><li.nr>bbb.</li.nr><al>conformiteitsrichtlijn: richtlijn v
 van de Europese Unie, die geheel of gedeeltelijk berust op artikel 95
 van het EG-Verdrag en regels stelt over het op de markt brengen of het
 gebruik van
-apparaten;</al></li><li><li.nr>ccc.</li.nr><al><redactie type="vervanging">dit onderdeel is nog niet in werking getreden;</redactie></al></li><li><li.nr>ddd.</li.nr><al><redactie type="vervanging">dit onderdeel is nog niet in werking getreden;</redactie></al></li><li><li.nr>eee.</li.nr><al>roamingverordening: verordening
+apparaten;</al></li><li><li.nr>ccc.</li.nr><al>nummerhouder:
+degene aan wie het college op aanvraag een nummer heeft
+toegekend;</al></li><li><li.nr>ddd.</li.nr><al>nummergebruiker: degene
+die een nummer
+gebruikt;</al></li><li><li.nr>eee.</li.nr><al>roamingverordening: verordening
 nr. 717/2007 van het Europees Parlement en de Raad van de Europese Unie
 van 27 juni 2007 betreffende roaming op openbare mobiele
 telefoonnetwerken binnen de Gemeenschap en tot wijziging van Richtlijn
@@ -1827,12 +1831,7 @@ nummer.</al></artikel><artikel status="goed">
             </li>
             <li>
                 <li.nr>d.</li.nr>
-                <al>de aanvrager een nummer aanvraagt, behorende tot de
-                    in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.11">artikel 4.11, eerste
-                    lid</intref>, bedoelde categorie&#xEB;n van
-                    nummers, en niet bereid is te verklaren dat hij zich
-                    zal houden aan de gedragscode, bedoeld in dat
-                    artikel; </al>
+                <al><redactie type="vervanging">vervallen;</redactie></al>
             </li>
             <li>
                 <li.nr>e.</li.nr>
@@ -1863,9 +1862,11 @@ nummer.</al></artikel><artikel status="goed">
             </li>
             <li>
                 <li.nr>c.</li.nr>
-                <al>een eerdere toekenning is ingetrokken op grond van
-                        <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.7">artikel 4.7, derde of
-                        vierde lid</intref>; </al>
+                <al>het college
+eerder een aanvraag heeft geweigerd of een eerdere toekenning heeft
+opgeschort of ingetrokken op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.7">artikel 4.7, derde, vierde of
+vijfde
+lid</intref>;</al>
             </li>
             <li>
                 <li.nr>d.</li.nr>
@@ -1876,7 +1877,21 @@ nummer.</al></artikel><artikel status="goed">
         <li><li.nr>e.</li.nr><al>het in de aanvraag omschreven voorgenomen gebruik de toekenning van
 de gevraagde nummers niet noodzakelijk maakt.</al></li></lijst>
     </lid>
-</artikel>
+<lid><lidnr status="officieel">3</lidnr><al>Met betrekking
+tot bij ministeri&#xEB;le regeling aangewezen categorie&#xEB;n van
+nummers kan een toekenning geheel of gedeeltelijk worden geweigerd
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de aanvrager gevestigd is buiten de Europese
+Economische Ruimte;</al></li><li> <li.nr>b.</li.nr><al>wordt voldaan
+aan de voorwaarden van <extref status="actief" doc="1.0:v:BWBR0013798&amp;artikel=3" compleet="nee">artikel 3 van de Wet bevordering
+integriteitsbeoordelingen door het openbaar
+bestuur</extref>.</al></li></lijst></lid><lid> <lidnr status="officieel">4</lidnr><al>Voordat
+toepassing wordt gegeven aan het derde lid, onderdeel b, kan het Bureau
+bevordering integriteitsbeoordelingen door het openbaar bestuur,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0013798&amp;artikel=8" compleet="nee">artikel 8 van de Wet bevordering integriteitsbeoordelingen
+door het openbaar bestuur</extref>, door het college om een advies als bedoeld
+in <extref status="actief" doc="1.0:v:BWBR0013798&amp;artikel=9" compleet="nee">artikel 9 van die wet</extref> worden
+gevraagd.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -1926,42 +1941,11 @@ de gevraagde nummers niet noodzakelijk maakt.</al></li></lijst>
         <nr status="officieel">4.5</nr>
     </kop>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Een toekenning of reservering kan op aanvraag van de
-            desbetreffende houder van een nummer of houder van een
-            reservering worden gewijzigd of worden ingetrokken. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Een wijziging of intrekking van een reservering inhoudende
-            een aanvraag om toekenning van een deel van de voor de
-            aanvrager gereserveerde nummers, onderscheidenlijk
-            toekenning van alle voor de aanvrager gereserveerde nummers,
-            wordt slechts geweigerd indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de reservering geen betrekking heeft op het
-                    voorgenomen gebruik, of </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>naar het oordeel van het college niet aannemelijk is
-                    dat de ontwikkeling van de activiteit die ten
-                    grondslag ligt aan de reservering, de gevraagde
-                    toekenning noodzakelijk maakt. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Met betrekking tot andere aanvragen om een wijziging is
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.3">artikel 4.3</intref>,
-            of, indien het een aanvraag om wijziging van een reservering
-            betreft, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref> van
-            toepassing. </al>
-    </lid>
+    <lid><lidnr status="officieel">1</lidnr><al>Het
+college kan op aanvraag van de nummerhouder een toekenning wijzigen of
+intrekken.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Op een aanvraag tot
+wijziging is <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.3">artikel 4.3</intref> van overeenkomstige
+toepassing.</al></lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -1969,9 +1953,8 @@ de gevraagde nummers niet noodzakelijk maakt.</al></li></lijst>
         <nr status="officieel">4.6</nr>
     </kop>
     <al>Het college kan op gezamenlijke aanvraag van de desbetreffende
-        houder van een nummer of reservering en een derde toestaan dat
-        de toekenning of reservering overgaat op de derde.
-            <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">Artikel 4.2, vierde
+nummerhouder en een derde toestaan dat de toekenning overgaat op de
+derde. <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">Artikel 4.2, vierde
         lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.3">artikel 4.3</intref> zijn
         van overeenkomstige toepassing. </al>
 </artikel>
@@ -1981,74 +1964,52 @@ de gevraagde nummers niet noodzakelijk maakt.</al></li></lijst>
         <nr status="officieel">4.7</nr>
     </kop>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Een toekenning of reservering wordt door het college
-            gewijzigd of ingetrokken, indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>een wijziging van het desbetreffende nummerplan
-                    daartoe noodzaakt, voorzover de houder van een
-                    nummer of de houder van een reservering aanspraak
-                    behoudt op toekenning dan wel reservering van
-                    hetzelfde aantal nummers; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de redenen die ten grondslag lagen aan de toekenning
-                    of reservering zijn vervallen; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>het doelmatig gebruik van nummers in het algemeen
-                    maatschappelijk en economisch belang dit vordert. </al>
-            </li>
-        </lijst>
-    </lid>
+    <lid> <lidnr status="officieel">1</lidnr><al>Een
+toekenning wordt door het college gewijzigd of ingetrokken,
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>een wijziging van het desbetreffende nummerplan
+daartoe noodzaakt, voor zover de nummerhouder aanspraak behoudt op
+toekenning van hetzelfde aantal nummers;</al></li><li>
+<li.nr>b.</li.nr><al>de redenen die ten grondslag lagen aan de
+toekenning zijn vervallen;</al></li><li> <li.nr>c.</li.nr><al>het
+doelmatig gebruik van nummers in het algemeen maatschappelijk en
+economisch belang dit
+vordert.</al></li></lijst></lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
-        <al>Een toekenning of reservering wordt voorts door het college
+        <al>Een toekenning wordt voorts door het college
             gewijzigd indien dit noodzakelijk is om feitelijke
             onjuistheden van eenvoudige aard weg te nemen. </al>
     </lid>
     <lid>
         <lidnr status="officieel">3</lidnr>
-        <al>Een toekenning of reservering wordt voorts door het college
+        <al>Een toekenning wordt voorts door het college
             ingetrokken op aanwijzing van Onze Minister in het belang
             van de veiligheid van de staat. </al>
     </lid>
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>Een
-toekenning of reservering kan door het college worden opgeschort voor een
-door het college te bepalen termijn of worden ingetrokken, indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de houder van het nummer of de houder van de
-                    reservering de bij of krachtens deze wet gestelde
-                    regels of de aan het betreffende besluit verbonden
-                    voorschriften niet nakomt; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>na de toekenning of reservering blijkt dat deze
-                    gedaan is met de kennelijke bedoeling de toegekende
-                    of gereserveerde nummers te verhandelen. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">5</lidnr>
-        <al>Een toekenning of reservering kan voorts worden gewijzigd of
-            ingetrokken indien de erkende instelling, bedoeld in
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.11">artikel 4.11, eerste
-            lid</intref>, om intrekking vraagt nadat zij van
-            oordeel is dat de houder van een nummer, behorende tot de in
-            dat artikel bedoelde categorie&#xEB;n van nummers, in strijd
-            heeft gehandeld met de daar bedoelde gedragscode. </al>
-    </lid>
+    <lid> <lidnr status="officieel">4</lidnr><al>Een toekenning
+kan door het college worden opgeschort voor een door het college te
+bepalen termijn of worden ingetrokken,
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de nummerhouder of de nummergebruiker de bij of
+krachtens deze wet gestelde regels of de aan het toekenningsbesluit
+verbonden voorschriften niet nakomt;</al></li><li>
+<li.nr>b.</li.nr><al>na de toekenning blijkt dat de aanvraag is gedaan
+met de kennelijke bedoeling de toegekende nummers te
+verhandelen;</al></li><li> <li.nr>c.</li.nr><al>de nummerhouder niet
+meer voldoet aan de voorwaarden om in aanmerking te komen voor
+toekenning van dat
+nummer.</al></li></lijst></lid>
+    <lid> <lidnr status="officieel">5</lidnr><al>Met betrekking
+tot bij ministeri&#xEB;le regeling aangewezen categorie&#xEB;n van
+nummers kan een toekenning door het college worden opgeschort voor een
+door het college te bepalen termijn die niet langer duurt dan twee
+weken, indien het college een aanwijzing heeft dat de nummergebruiker
+de bij of krachtens deze wet gestelde regels niet nakomt of de aan het
+toekenningsbesluit verbonden voorschriften of een gedraging als bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref> verricht. Het college kan de in de vorige volzin
+genoemde periode eenmalig met maximaal twee weken
+verlengen.</al></lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -2062,10 +2023,9 @@ door het college te bepalen termijn of worden ingetrokken, indien: </al>
             krachtens de wet aan het college opgedragen taken en
             toegekende bevoegdheden wordt door het college een
             nummerregister bijgehouden dat een overzicht bevat van
-            toekenningen en reserveringen. Het register bevat de
+            toekenningen. Het register bevat de
             vermelding van de naam van degene aan wie nummers zijn
-            toegekend. Tevens wordt de duur van de toekenning en van
-de reservering vermeld.
+            toegekend. Tevens wordt de duur van de toekenning  vermeld.
             Het college is verantwoordelijke in de zin van
                 <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1, onderdeel d, van de
                 Wet bescherming persoonsgegevens</extref> voor
@@ -2074,7 +2034,8 @@ de reservering vermeld.
     <lid><lidnr status="officieel">2</lidnr><al> Onverminderd het derde lid ligt het register voor eenieder kosteloos ter inzage op een door het college te bepalen plaats.
 </al></lid><lid>
         <lidnr status="officieel">3</lidnr>
-        <al>Op verzoek van de houder van een nummer wordt, indien het
+        <al>Op verzoek van de
+nummerhouder wordt, indien het
             een natuurlijk persoon betreft en het nummer niet
             uitsluitend bedrijfsmatig wordt gebruikt, zijn naam, adres
             en woonplaats niet opgenomen in het deel van het register
@@ -2089,18 +2050,28 @@ de reservering vermeld.
     
     <lid>
         <lidnr status="officieel">1</lidnr>
-        <al>Indien de houder van een nummer de aan hem toegekende
+        <al>Indien de nummerhouder de aan hem toegekende
             nummers in gebruik geeft aan een ander, doet hij dit op een
             niet-discriminerende en transparante wijze met gebruikmaking
             van objectieve criteria. </al>
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
-        <al>De houder van een nummer draagt er zorg voor dat het gebruik
+        <al>De nummerhouder draagt er zorg voor dat het gebruik
             van de aan hem toegekende nummers in overeenstemming is met
-            het bij of krachtens dit hoofdstuk bepaalde.  </al>
+            het bij of krachtens deze
+wet bepaalde.  </al>
     </lid>
-</artikel>
+<lid>
+<lidnr status="officieel">3</lidnr><al>Met betrekking tot bij ministeri&#xEB;le
+regeling aangewezen categorie&#xEB;n van
+nummers:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>geeft de nummergebruiker een aan hem in gebruik
+gegeven nummer niet in gebruik aan een ander;</al></li><li>
+<li.nr>b.</li.nr><al>registreert de nummerhouder de bij
+ministeri&#xEB;le regeling vastgestelde gegevens over de
+nummergebruiker en over het gebruik van het
+nummer.</al></li></lijst></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -2244,49 +2215,7 @@ eindgebruikers. </al>
             opgelegde verplichting. </al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">4.11</nr>
-    </kop>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Onze Minister kan een instelling erkennen die een
-            gedragscode hanteert inzake de herkenbaarheid en
-            betrouwbaarheid van door Onze Minister aan te wijzen
-            categorie&#xEB;n van nummers en met gebruikmaking van via die
-            nummers aangeboden diensten. Een erkenning kan onder
-            beperkingen worden verleend. Aan een erkenning kunnen
-            voorschriften worden verbonden. Van een erkenning wordt
-            mededeling gedaan door plaatsing in de Staatscourant. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Onze Minister gaat slechts over tot erkenning van een
-            instelling indien voldaan is aan bij of krachtens algemene
-            maatregel van bestuur te stellen eisen die in ieder geval
-            betreffen de onafhankelijkheid van de instelling, de
-            objectiviteit van de door haar opgestelde gedragscode en de
-            proportionaliteit van de door de instelling te hanteren
-            sancties. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Bij of krachtens algemene maatregel van bestuur kan worden
-            bepaald welke bij die maatregel aan te wijzen categorie&#xEB;n
-            van natuurlijke personen of rechtspersonen verplicht zijn
-            zich aan te sluiten bij de instelling. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>Een erkenning wordt door Onze Minister ingetrokken indien
-            niet meer wordt voldaan aan de voorschriften of de regels,
-            bedoeld in het eerste en tweede lid. Van een beschikking tot
-            intrekking van een erkenning wordt mededeling gedaan door
-            plaatsing in de Staatscourant. </al>
-    </lid>
-</artikel>
 </hoofdstuk>
             <hoofdstuk>
     <kop>
@@ -2609,29 +2538,6 @@ wie de gedoogplicht rust dan wel de aanbieder het college verzoeken een
 beschikking te geven.</al></lid><lid> <lidnr status="officieel">8</lidnr><al>Het college
 geeft de beschikking binnen acht weken na ontvangst van het
 verzoek.</al></lid>
-</artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">5.9</nr>
-    </kop>
-    <lid><lidnr status="officieel">1</lidnr><al>De aanleg, instandhouding of opruiming van
-kabels ten dienste van een openbaar elektronisch communicatienetwerk
-geschiedt op zodanige wijze dat zo min mogelijk hinder wordt
-veroorzaakt ten aanzien van reeds in de grond aanwezige werken,
-waaronder begrepen werken ten behoeve van de levering of het transport
-van gas, water en elektriciteit.</al></lid><lid>
-<lidnr status="officieel">2</lidnr><al>De aanleg, instandhouding of opruiming van kabels
-mag de instandhouding van andere reeds in de grond aanwezige werken
-niet in gevaar brengen of zonder noodzaak bemoeilijken.</al></lid><lid>
-<lidnr status="officieel">3</lidnr><al>De aanbieder van een openbaar elektronisch
-communicatienetwerk die in strijd handelt met het bepaalde in het
-eerste en tweede lid neemt op eigen kosten maatregelen ten aanzien van
-de kabels ten dienste van zijn netwerk, waaronder zonodig het
-verplaatsen van de kabels, om aan de strijdigheid een einde te
-maken.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Bij gebrek aan
-overeenstemming over de vraag of een aanbieder op eigen kosten
-maatregelen dient te nemen is <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.8">artikel 5.8, zevende en achtste lid</intref>, van
-overeenkomstige toepassing.</al></lid>
 </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -4076,8 +3982,8 @@ een transnationale markt als bedoeld in <intref status="actief" doc="1.0:v:BWBR0
               </artikel></hoofdstuk><hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
-        <nr>7</nr>
-        <titel>Eindgebruikersbelangen</titel>
+        <nr status="officieel">7</nr>
+        <titel status="officieel">Eindgebruikersbelangen</titel>
     </kop>
     <artikel status="goed">
                 <kop>
@@ -4196,7 +4102,58 @@ niet haalbaar is. Een ontheffing kan onder beperkingen worden verleend. Het
 college kan voorschriften verbinden aan een ontheffing.</al>
                 </lid>
               </artikel>
-              <artikel status="goed">
+              <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">7.3a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
+college kan aanbieders van openbare elektronische communicatiediensten
+een aanwijzing geven de betaling die gerelateerd is aan het gebruik van
+bij ministeri&#xEB;le regeling aan te wijzen categorie&#xEB;n van
+nummers op te schorten voor een door het college te bepalen periode,
+indien het college een aanwijzing heeft dat de nummergebruiker niet
+voldoet aan het gestelde bij of krachtens deze wet of een gedraging
+verricht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel
+4.4</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De aanbieder van een openbare
+elektronische communicatiedienst die een aanwijzing, bedoeld in het
+eerste lid, van het college heeft ontvangen, schort de betaling
+onverwijld op.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De in het eerste lid
+genoemde periode is maximaal vier weken en kan door het college
+eenmalig met maximaal vier weken worden
+verlengd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het college stelt de
+nummergebruiker, voorzover deze bij het college bekend is, van de
+aanwijzing op de hoogte.</al></lid></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">7.3b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
+college kan aanbieders van openbare elektronische communicatiediensten
+een aanwijzing geven de aankiesbaarheid van een nummer uit bij
+ministeri&#xEB;le regeling aan te wijzen categorie&#xEB;n van
+nummers op te schorten voor een door het college te bepalen periode,
+indien het college een aanwijzing heeft dat de nummergebruiker niet
+voldoet aan het gestelde bij of krachtens deze wet of een gedraging
+verricht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel
+4.4</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De aanbieder van een openbare
+elektronische communicatiedienst die een aanwijzing, bedoeld in het
+eerste lid, van het college heeft ontvangen, schort de aankiesbaarheid
+onverwijld op.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De in het eerste lid
+genoemde periode is maximaal vier weken en kan door het college
+eenmalig met maximaal vier weken worden
+verlengd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het college stelt de
+nummergebruiker, voorzover deze bij het college bekend is, van de
+aanwijzing op de hoogte.</al></lid></artikel><artikel status="goed"><kop>
+<label>Artikel</label><nr status="officieel">7.3c</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Indien
+het college heeft vastgesteld dat de nummergebruiker met betrekking tot
+een nummer gedurende een bepaalde periode niet heeft voldaan aan het
+gestelde bij of krachtens deze wet of een gedraging heeft verricht als
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref>, kan het college hiervan mededeling doen in de
+Staatscourant.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De aanbieder van een
+openbare elektronische communicatiedienst verlangt geen betaling van
+consumenten voor oproepen naar nummers
+indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de nummers zijn genoemd in een mededeling als
+bedoeld in het eerste lid, en</al></li><li> <li.nr>b.</li.nr><al>de
+oproepen hebben plaatsgevonden gedurende de periode waarop die
+mededeling betrekking heeft.</al></li></lijst></lid><lid>
+<lidnr status="officieel">3</lidnr><al>Indien de consument reeds heeft betaald voor
+oproepen naar nummers als bedoeld in het tweede lid, betaalt de
+aanbieder de bedragen binnen twee maanden na publicatie van de
+mededeling als bedoeld in het eerste lid,
+terug.</al></lid></artikel><artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.4</nr>
@@ -4323,9 +4280,10 @@ een ontheffing.</al>
                   <lidnr status="officieel">1</lidnr>
                   <al>Voor zover de andere artikelen van dit hoofdstuk hierin niet voorzien,
 kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld
-voor aanbieders van openbare elektronische communicatienetwerken, openbare elektronische communicatiediensten of programmadiensten inzake de bescherming van natuurlijke personen die gebruik
-maken van of verzoeken om openbare elektronische communicatiediensten
-of programmadiensten voor andere dan bedrijfs- of
+voor aanbieders van openbare elektronische communicatienetwerken, openbare elektronische communicatiediensten, nummergebruikers of
+programmadiensten inzake de bescherming van natuurlijke personen die gebruik
+maken van of verzoeken om openbare elektronische communicatiediensten, nummergebruikers of
+programmadiensten voor andere dan bedrijfs- of
 beroepsdoeleinden. De regels
 kunnen onder meer betrekking hebben op:</al>
                   <lijst level="single" nr-sluiting="." start="1" type="expliciet">
@@ -4336,8 +4294,9 @@ kunnen onder meer betrekking hebben op:</al>
             <li>
                 <li.nr>b.</li.nr>
                 
-              <al>het maximale tarief dat voor een oproep in rekening mag worden gebracht
-indien het tarief mede betrekking heeft op een inhoudsdienst;</al></li><li>
+              <al>de tarifering van bij
+ministeri&#xEB;le regeling aangewezen categorie&#xEB;n van
+nummers;</al></li><li>
                 <li.nr>c.</li.nr>
                 
               <al>de omstandigheden waaronder een aanbieder de levering van een openbare
@@ -4348,7 +4307,8 @@ elektronische communicatiedienst mag opschorten of be&#xEB;indigen.</al></li></l
                 <lid>
                   <lidnr status="officieel">2</lidnr>
                   <al>De regels, bedoeld in het eerste lid, kunnen voor bij die regels te bepalen
-categorie&#xEB;n van openbare elektronische communicatienetwerken, openbare elektronische communicatiediensten of programmadiensten verschillen. Bij die regels kunnen taken
+categorie&#xEB;n van openbare elektronische communicatienetwerken, openbare elektronische communicatiediensten, nummergebruikers of
+programmadiensten verschillen. Bij die regels kunnen taken
 worden opgedragen en bevoegdheden worden verleend aan het college.</al>
                 </lid>
               </artikel>
@@ -7777,8 +7737,7 @@ ingetrokken.</al>
               </lid>
               <lid>
                 <lidnr status="officieel">2</lidnr>
-                <al>Een krachtens de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.1">artikelen 3.1, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.11">4.11, tweede lid</intref>, of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.11">4.11,
-derde lid</intref>, vastgestelde algemene maatregel van bestuur treedt niet eerder
+                <al>Een krachtens de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.1">artikelen 3.1, eerste lid</intref>, vastgestelde algemene maatregel van bestuur treedt niet eerder
 in werking dan vier weken na de datum van uitgifte van het Staatsblad waarin
 hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan
 de beide kamers der Staten-Generaal.</al>
@@ -8025,28 +7984,7 @@ ander tijdstip wordt vastgesteld.</al>
                 <nr>19</nr>
                 <titel>Overgangsrecht in verband met de implementatie van het Europese geharmoniseerde regelgevende kader voor de elektronische communicatiesector 2002</titel>
               </kop>
-              <artikel status="goed">
-                <kop>
-                  <label>Artikel</label>
-                  <nr status="officieel">19.1</nr>
-                </kop>
-                <al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1">Artikel 1.1</intref>, zoals dat luidde voor inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie
-Europees regelgevingskader voor de elektronische communicatiesector 2002</extref>,
-is van toepassing op de volgende in dit hoofdstuk gebruikte begrippen:</al>
-                <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
-                    <al>vast openbaar telefoonnetwerk;</al>
-                  </li><li><li.nr>b.</li.nr>
-                    <al>vaste openbare telefoondienst;</al>
-                  </li><li><li.nr>c.</li.nr>
-                    <al>mobiel openbaar telefoonnetwerk;</al>
-                  </li><li><li.nr>d.</li.nr>
-                    <al>mobiele openbare telefoondienst;</al>
-                  </li><li><li.nr>e.</li.nr>
-                    <al>huurlijn;</al>
-                  </li><li><li.nr>f.</li.nr>
-                    <al>omroepnetwerk.</al>
-                  </li></lijst>
-              </artikel>
+              
               <artikel status="goed">
                 <kop>
                   <label>Artikel</label>
@@ -8101,82 +8039,9 @@ voor de in de artikelen 27 van <extref doc="" label="richtlijn" reeks="Celex" co
 bedoelde marktanalyses, worden door het college zo spoedig mogelijk na inwerkingtreding
 van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader voor de elektronische
 communicatiesector 2002</extref> bepaald.</al></artikel>
-              <artikel status="goed"><kop><label>Artikel</label><nr>19.4</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het college zorgt voor gelijktijdige inwerkingtreding van besluiten als
-bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.16">6a.16, eerste
-lid</intref>, waaraan een relevante markt onderscheidenlijk een transnationale markt
-ten grondslag ligt waarop aanbieders van vaste openbare telefoonnetwerken
-of vaste openbare telefoondiensten actief zijn die verplichtingen hebben uit
-hoofde van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=19.5">artikel 19.5, eerste lid</intref>, of uit hoofde van artikel 3, tweede lid,
-van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 2887/2000</extref> van het Europees Parlement en de Raad van
-de Europese Unie van 18&#xA0;december 2000 inzake ontbundelde toegang tot
-het aansluitnetwerk (PbEG L 336).</al></lid><lid><lidnr status="officieel">2</lidnr><al>Het college zorgt voor gelijktijdige inwerkingtreding van besluiten als
-bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3, eerste lid</intref>, waaraan een
-relevante markt onderscheidenlijk een transnationale markt ten grondslag ligt
-waarop aanbieders van mobiele openbare telefoonnetwerken of mobiele openbare
-telefoondiensten actief zijn die verplichtingen hebben uit hoofde van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=19.5">artikel
-19.5, tweede lid</intref>.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Het college zorgt voor gelijktijdige inwerkingtreding van besluiten als
-bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.18">6a.18, eerste
-lid</intref>, waaraan een relevante markt onderscheidenlijk een transnationale markt
-ten grondslag ligt waarop aanbieders van huurlijnennetwerken of huurlijnen
-actief zijn die verplichtingen hebben uit hoofde van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=19.5">artikel 19.5, derde lid</intref>.</al></lid></artikel>
-              <artikel status="goed"><kop><label>Artikel</label><nr>19.5</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Aanbieders van vaste openbare telefoonnetwerken of vaste openbare telefoondiensten
-die op het tijdstip van inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees
-regelgevingskader voor de elektronische communicatiesector 2002</extref> door het college
-aangewezen zijn op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.4">artikel 6.4, eerste lid</intref>, zoals dat luidde voor
-de inwerkingtreding van die wet, behouden de aan deze aanwijzing verbonden
-verplichtingen tot de inwerkingtreding van de besluiten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=19.4">artikel
-19.4, eerste lid</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Aanbieders van mobiele openbare telefoonnetwerken of mobiele openbare
-telefoondiensten die op het tijdstip van inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie
-Europees regelgevingskader voor de elektronische communicatiesector 2002</extref> door
-het college aangewezen zijn op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.4">artikel 6.4, eerste of tweede lid</intref>,
-zoals dat luidde voor de inwerkingtreding van die wet, behouden de daaraan
-verbonden verplichtingen tot de inwerkingtreding van de besluiten, bedoeld
-in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=19.4">artikel 19.4, tweede lid</intref>.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Aanbieders van huurlijnennetwerken of huurlijnen die op het tijdstip van
-inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader voor
-de elektronische communicatiesector 2002</extref> door het college aangewezen zijn
-op grond van de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.4">artikelen 6.4, eerste lid</intref>, of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=7.2">7.2</intref>, zoals die luidden
-voor de inwerkingtreding van die wet, behouden de daaraan verbonden
-verplichtingen tot de inwerkingtreding van de besluiten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=19.4">artikel
-19.4, derde lid</intref>.</al></lid><lid><lidnr status="officieel">4</lidnr><al>De in het eerste tot en met derde lid bedoelde verplichtingen omvatten
-mede verplichtingen inzake interconnectie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.1">artikel 6.1, eerste,
-tweede en vijfde lid</intref>, zoals dat luidde voor de inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet
-implementatie Europees regelgevingskader voor de elektronische communicatiesector
-2002</extref>, voor zover het verzoek met betrekking tot het tot stand brengen van
-interconnectie uitgaat van een andere aanbieder dan de aanbieder, bedoeld
-in het eerste, tweede, onderscheidenlijk derde lid.</al></lid><lid><lidnr status="officieel">5</lidnr><al>Indien vierentwintig maanden na de inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie
-Europees regelgevingskader voor de elektronische communicatiesector 2002</extref> een
-aanbieder als bedoeld in het eerste tot en met vierde lid verplichtingen heeft
-op grond van genoemde leden, vervallen deze verplichtingen van rechtswege.</al></lid><lid><lidnr status="officieel">6</lidnr><al>Aanbieders van vaste openbare telefoonnetwerken die op 24&#xA0;juli 2003
-door het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.4">artikel 6.4, eerste lid</intref>, zijn aangewezen, blijven
-tot vierentwintig maanden na inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees
-regelgevingskader voor de elektronische communicatiesector 2002</extref>, of indien
-de besluiten, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=19.4">artikel 19.4, eerste lid</intref>, eerder in werking treden
-tot dat tijdstip, een aangemelde exploitant als bedoeld in artikel 2, onderdeel
-a, van <extref doc="" label="verordening" reeks="Celex" compleet="nee">verordening (EG) nr. 2887/2000</extref> van het Europees Parlement en de Raad
-van de Europese Unie van 18&#xA0;december 2000 inzake ontbundelde toegang
-tot het aansluitnetwerk (PbEG L 336).</al></lid><lid><lidnr status="officieel">7</lidnr><al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.10">Artikel 6.10, eerste tot en met vierde lid</intref>, zoals dat luidde voor de inwerkingtreding
-van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader voor de elektronische
-communicatiesector 2002</extref>, blijft tot vierentwintig maanden na die inwerkingtreding
-van kracht.</al></lid><lid><lidnr status="officieel">8</lidnr><al>Het college behoudt tot vierentwintig maanden na de inwerkingtreding van
-de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector
-2002</extref> de taken en bevoegdheden zoals deze voor het tijdstip van inwerkingtreding
-van die wet in verband met de verplichtingen, bedoeld in het eerste tot en
-met vierde lid, aan hem bij of krachtens de <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=6">hoofdstukken 6</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=7">7</intref> zijn toegekend
-of opgedragen, uitgezonderd taken en bevoegdheden die betrekking hebben op
-de beslechting van geschillen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.3">artikelen 6.3</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=7.7">7.7</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=7.8">7.8</intref>.</al></lid></artikel>
-              <artikel status="goed"><kop><label>Artikel</label><nr>19.6</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Tot vierentwintig maanden na inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie
-Europees regelgevingskader voor de elektronische communicatiesector 2002</extref> blijft
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.7">artikel 8.7</intref>, zoals dat luidde voor dat tijdstip, van toepassing.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Het college zorgt voor gelijktijdige inwerkingtreding van de besluiten,
-bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3, eerste lid</intref>, waaraan een
-relevante markt onderscheidenlijk een transnationale markt ten grondslag ligt
-waarop aanbieders van omroepnetwerken actief zijn en waarvoor <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.7">artikel 8.7</intref>,
-zoals dat luidde voor inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader
-voor de elektronische communicatiesector 2002</extref>, van toepassing is.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Het eerste lid vervalt bij inwerkingtreding van de besluiten, bedoeld
-in het tweede lid.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Een verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.7">artikel 8.7</intref>, zoals dat luidde voor inwerkingtreding
-van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader voor de elektronische
-communicatiesector 2002</extref>, wordt vanaf het tijdstip waarop <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.7">artikel 8.7</intref> niet
-langer van toepassing is op aanbieders van omroepnetwerken, aangemerkt als
-een aanvraag als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.2">artikel 12.2</intref>.</al></lid></artikel>
+              
+              
+              
               <artikel status="goed"><kop><label>Artikel</label><nr>19.7</nr></kop><al>Een aanvraag als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikelen 3.11, vierde lid</intref>, of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.3">6.3,
 eerste of tweede lid</intref>, zoals deze luidden voor de inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet
 implementatie Europees regelgevingskader voor de elektronische communicatiesector
@@ -8349,7 +8214,12 @@ langer bestaat.</al></li></lijst>
             gemaakt al naar gelang de toepassing waarvoor de vergunning
             is verleend. </al>
     </lid>
-</artikel>
+<lid><lidnr status="officieel">5</lidnr><al>Het
+bepaalde in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, zevende lid</intref>, alsmede het bepaalde in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3a">artikel
+3.3a, achtste lid</intref>, is slechts van toepassing op de uitgifte van
+vergunningen volgende op de verlening van vergunningen die heeft
+plaatsgevonden na 27 juli
+2001.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -8529,7 +8399,7 @@ heeft.</al></lid></artikel>
             toepassing. </al>
     </lid>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20.15a</nr><al><redactie type="extra">Treedt in werking per 01-07-2008</redactie></al></kop>
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20.15a</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Op nummers die op het tijdstip van
 inwerkingtreding van de Wijziging van de Telecommunicatiewet in verband
 met het vaststellen van nadere bepalingen over het gebruik van nummers
