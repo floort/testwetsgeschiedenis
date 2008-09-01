@@ -1990,11 +1990,11 @@ wet</extref> van toepassing.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>46</nr>
+        <nr status="officieel">46</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Indien een beslissing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=45">artikel 45</intref> is genomen
             door een ander dan een bestuursorgaan, kan de belanghebbende
             zich tot de rechtbank wenden met het
@@ -2004,7 +2004,7 @@ wet</extref> van toepassing.</al>
             als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=40">artikelen 40</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=41">41</intref> al dan niet te honoreren.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Het verzoekschrift moet worden ingediend binnen zes weken na
             ontvangst van het antwoord van de verantwoordelijke. Indien
             de verantwoordelijke niet binnen de gestelde termijn heeft
@@ -2012,19 +2012,19 @@ wet</extref> van toepassing.</al>
             zes weken na afloop van die termijn.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De rechtbank wijst het verzoek toe, voor zover zij dit
             gegrond oordeelt. Alvorens de rechtbank beslist, stelt zij
             zo nodig de belanghebbenden in de gelegenheid hun zienswijze
             naar voren te brengen.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De indiening van het verzoekschrift behoeft niet door een
-            procureur te geschieden.</al>
+            advocaat te geschieden.</al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>
             <extref status="slapend" doc="" compleet="nee">De derde afdeling van de vijfde
                 titel van het Tweede Boek van het Wetboek van
@@ -2032,7 +2032,7 @@ wet</extref> van toepassing.</al>
             overeenkomstige toepassing.</al>
     </lid>
     <lid>
-        <lidnr>6</lidnr>
+        <lidnr status="officieel">6</lidnr>
         <al>De rechtbank kan partijen en anderen verzoeken binnen een
             door haar te bepalen termijn schriftelijke inlichtingen te
             geven en onder hen berustende stukken in te zenden. De
@@ -2278,8 +2278,7 @@ wet</extref> van toepassing.</al>
                 <li.nr>b.</li.nr>
                 <al>het in <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=46c" compleet="nee">artikel 46c, eerste lid, onderdeel b</extref>,
                     genoemde verbod zich in een onderhoud of een gesprek
-                    in te laten met partijen of haar advocaten,
-                    procureurs of gemachtigden of een bijzondere
+                    in te laten met partijen of haar advocaten of gemachtigden of een bijzondere
                     inlichting of schriftelijk stuk van hen aan te nemen
                     niet op de leden van het College van toepassing is.</al>
             </li>
