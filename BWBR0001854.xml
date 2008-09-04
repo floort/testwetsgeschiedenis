@@ -16412,11 +16412,11 @@ aangetast.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>435</nr>
+        <nr status="officieel">435</nr>
     </kop>
     
     <al>Met geldboete van de tweede categorie wordt gestraft: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         
         <li>
             <li.nr>1&#xB0;.</li.nr>
@@ -16432,7 +16432,7 @@ aangetast.</al></lid></artikel>
         <li>
             <li.nr>3&#xB0;.</li.nr>
             <al>hij die zonder daartoe gerechtigd te zijn de titel van
-                advocaat of procureur, gerechtsdeurwaarder, dan wel een
+                advocaat, gerechtsdeurwaarder, dan wel een
                 der in de <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=7.20" compleet="nee">artikelen
                 7.20</extref>, <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=7.22" compleet="nee">7.22, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0005682&amp;artikel=7.22a" compleet="nee">7.22a, eerste lid</extref>, en 7a.5 van de Wet op het hoger
                     onderwijs en wetenschappelijk
