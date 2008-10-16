@@ -1897,43 +1897,22 @@ gevraagd.</al></lid></artikel>
         <label>Artikel</label>
         <nr status="officieel">4.4</nr>
     </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Het college kan op aanvraag nummers reserveren ten behoeve
-            van de aanvrager voor een periode van ten hoogste drie jaar.
-            De gereserveerde nummers zijn gedurende de reserveringsduur
-            uitsluitend beschikbaar voor toekenning aan de
-            desbetreffende houder van de reservering. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>De in het eerste lid bedoelde mogelijkheid tot reservering
-            bestaat niet ten aanzien van de op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.3">artikel 4.3, tweede lid,
-                onderdeel a</intref>, bij ministeri&#xEB;le regeling
-            aangewezen nummers. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>De <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">artikelen 4.2</intref>
-            en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.3">4.3, eerste en tweede lid, onder
-                b en c</intref>, zijn op een reservering van
-            overeenkomstige toepassing. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>Een reservering kan voorts geheel of gedeeltelijk worden
-            geweigerd, indien op grond van de aanvraag redelijkerwijs
-            niet is te verwachten dat het voorgenomen gebruik binnen
-            drie jaar, dan wel, indien de reservering voor een kortere
-            periode dan drie jaar wordt aangevraagd, binnen de door de
-            aanvrager gevraagde periode, wordt verwezenlijkt. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">5</lidnr>
-        <al>Het is verboden te handelen in strijd met aan een
-            reservering verbonden voorschriften. </al>
-    </lid>
+    <lid><lidnr status="officieel">1</lidnr><al>Bij
+algemene maatregel van bestuur wordt bepaald welke gedragingen van een
+nummergebruiker voor het college aanleiding kunnen zijn
+om:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+<li.nr>a.</li.nr><al>de toekenning van een nummer te weigeren, op te
+schorten of in te trekken,</al></li><li> <li.nr>b.</li.nr><al>de
+aanbieder van een openbare elektronische communicatiedienst een
+aanwijzing te geven de betaling die gerelateerd is aan het betreffende
+nummer op te schorten overeenkomstig <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=7.3a">artikel 7.3a</intref>, of</al></li><li>
+<li.nr>c.</li.nr><al>de aanbieder van een openbare elektronische
+communicatiedienst een aanwijzing te geven de aankiesbaarheid van het
+desbetreffende nummer op te schorten overeenkomstig <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=7.3b">artikel 7.3b,
+eerste lid</intref>.</al></li></lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>De
+gedragingen hebben betrekking op het kennelijk misbruik maken van de
+tarifering van een
+nummer.</al></lid>
 </artikel>
     <artikel status="goed">
     <kop>
