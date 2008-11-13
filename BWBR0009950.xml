@@ -1478,8 +1478,8 @@ lid.</al></lid></artikel>
     <paragraaf>
     <kop>
         <label>&#xA7;</label>
-        <nr>3.4</nr>
-        <titel>Antenne-opstelpunten, antennesystemen
+        <nr status="officieel">3.4</nr>
+        <titel status="officieel">Antenne-opstelpunten, antennesystemen
             en antennes  </titel>
     </kop>
     <artikel status="goed">
@@ -1601,7 +1601,36 @@ van het college en op het besluit van het college is de Algemene wet bestuursrec
 van toepassing. Het college handelt bij gebruikmaking van zijn bevoegdheid
 als bedoeld in de eerste volzin, met inachtneming van bij ministeri&#xEB;le
 regeling te geven voorschriften.</al>
-            </artikel></paragraaf>
+            </artikel><artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">3.14</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-01-2010</redactie></al></kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Onze
+Minister houdt een openbaar antenneregister met gegevens betreffende
+antenne-opstelpunten, antennesystemen en antennes.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Bij
+algemene maatregel van bestuur worden regels gesteld met betrekking tot
+de soorten gegevens die in het register worden opgenomen en degenen die
+worden verplicht tot het verstrekken van gegevens ten behoeve van het
+register.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Bij&#xA0;of
+krachtens algemene maatregel van bestuur worden regels
+gesteld&#xA0;over&#xA0;de inrichting van het register, het tijdstip en
+de wijze waarop de gegevens voor opneming in het register dienen te
+worden aangeleverd, alsmede de wijze waarop van de gegevens kan worden
+kennis
+genomen.</al>
+                     </lid>
+                  </artikel></paragraaf>
 </hoofdstuk>
             <hoofdstuk>
     <kop>
