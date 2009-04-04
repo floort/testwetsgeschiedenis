@@ -10627,14 +10627,14 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>216</nr>
+        <nr status="officieel">216</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Met gevangenisstraf van ten hoogste zes jaren of geldboete
             van de vijfde categorie wordt gestraft: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>hij die van rijkswege uitgegeven zegels namaakt of
@@ -10651,11 +10651,19 @@ tot de in dit lid bedoelde klacht buiten toepassing.</al></lid></artikel></titel
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
-        <al> Het bepaalde in het eerste lid is van overeenkomstige
-            toepassing op zegels die worden uitgegeven krachtens
-                <extref status="actief" doc="1.0:v:BWBR0004423&amp;artikel=2a" compleet="nee">artikel 2a, tweede lid, onder b,
-                van de Postwet</extref>.</al>
+        <lidnr status="officieel">2</lidnr>
+        <al>Het
+eerste lid is van overeenkomstige toepassing op zegels die worden
+uitgegeven door een verlener van de universele postdienst als bedoeld
+in de <extref status="actief" doc="1.0:v:BWBR0025572" compleet="nee">Postwet 2009</extref> met daarop de vermelding &#xAB;Nederland&#xBB;,
+alsmede op zegels die ingevolge artikel 3.01, tweede lid, van de
+Uitvoeringsregeling, behorende bij het op 9&#xA0;september 1996 te
+Straatsburg tot stand gekomen Verdrag inzake de verzameling, afgifte en
+inname van afval in de Rijn- en binnenvaart
+(Trb. 1996,
+293), worden uitgegeven door het Internationaal Verevenings-
+en Co&#xF6;rdinatieorgaan, genoemd in artikel 10, tweede lid, van dat
+verdrag.</al>
     </lid>
 </artikel>
     <artikel status="goed">
