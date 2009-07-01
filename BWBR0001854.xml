@@ -4361,7 +4361,9 @@ gesteld.</al></lid>
 		<al>bij de misdrijven omschreven in de
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>,
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref> en
-<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">273f</intref>, en gepleegd ten aanzien van een
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">273f</intref>, dan wel <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=300">300 tot
+en met 303</intref>, voor zover het feit oplevert genitale verminking van een
+persoon van het vrouwelijke geslacht en gepleegd ten aanzien van een
 		  persoon die de
 leeftijd van achttien jaren nog niet heeft
 bereikt, op de dag na die waarop die persoon achttien jaren is
@@ -11358,11 +11360,11 @@ van de vierde categorie.</al>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>240b</nr> 
+	 <nr status="officieel">240b</nr> 
   </kop> 
    
   <lid> 
-	 <lidnr>1</lidnr> 
+	 <lidnr status="officieel">1</lidnr> 
 	 <al>Met gevangenisstraf van ten hoogste vier jaren of geldboete van de
 		vijfde categorie wordt gestraft degene die een afbeelding - of een
 		gegevensdrager, bevattende een afbeelding - van een seksuele gedraging, waarbij
@@ -11372,8 +11374,9 @@ van de vierde categorie.</al>
   </lid> 
    
   <lid> 
-	 <lidnr>2</lidnr> 
-	 <al> Met gevangenisstraf van ten hoogste zes jaren of geldboete van de
+	 <lidnr status="officieel">2</lidnr> 
+	 <al> Met gevangenisstraf van ten hoogste acht
+jaren of geldboete van de
 		vijfde categorie wordt gestraft degene die van het plegen van een van de
 		misdrijven, omschreven in het eerste lid, een beroep of een gewoonte
 		maakt.</al> 
@@ -11475,16 +11478,33 @@ van de vierde categorie.</al>
         gevangenisstraf van ten hoogste zes jaren of geldboete van de
         vierde categorie.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>248</nr></kop><lid><lidnr>1</lidnr><al>Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=245">245 tot en met 247</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248b">248b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=249">249</intref> omschreven
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">248</nr>
+    </kop>
+    
+    
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=245">245 tot en met 247</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248b">248b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=249">249</intref> omschreven
             misdrijven zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander
 te duchten is, wordt
-            gevangenisstraf van ten hoogste twaalf jaren of geldboete
-            van de vijfde categorie opgelegd.</al></lid><lid><lidnr>2</lidnr><al> Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen
+            gevangenisstraf van ten hoogste vijftien
+jaren of geldboete
+            van de vijfde categorie opgelegd.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen
             240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243
 tot en met 247</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248b">248b</intref> en
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=249">249</intref> omschreven misdrijven de dood ten
             gevolge heeft, wordt gevangenisstraf van ten hoogste
-            vijftien jaren of geldboete van de vijfde categorie opgelegd.</al></lid></artikel>
+            achttien
+jaren of geldboete van de vijfde categorie opgelegd.</al>
+    </lid>
+</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -12201,7 +12221,7 @@ bereikt dan wel bij het vertonen van afbeeldingen van dergelijke handelingen
     </kop>
     <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">273f</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Als schuldig aan mensenhandel wordt met
-gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde
+gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde
 categorie
 gestraft:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
 <li.nr>1&#xB0;.</li.nr><al>degene die een ander door dwang, geweld of
@@ -12256,25 +12276,20 @@ ander in de prostitutie, andere vormen van seksuele uitbuiting,
 gedwongen of verplichte arbeid of diensten, slavernij en met slavernij
 of dienstbaarheid te vergelijken praktijken.</al></lid><lid>
 <lidnr status="officieel">3</lidnr><al>De schuldige wordt gestraft met gevangenisstraf
-van ten hoogste acht jaren of geldboete van de vijfde categorie,
+van ten hoogste twaalf jaren of geldboete van de vijfde categorie,
 indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
 <li.nr>1&#xB0;.</li.nr><al>de feiten, omschreven in het eerste lid,
 worden gepleegd door twee of meer verenigde personen;</al></li><li>
 <li.nr>2&#xB0;.</li.nr><al>de persoon ten aanzien van wie de in het
 eerste lid omschreven feiten worden gepleegd, de leeftijd van zestien
-jaren nog niet heeft bereikt.</al></li></lijst></lid><lid>
-<lidnr status="officieel">4</lidnr><al>De feiten, omschreven in het eerste lid, gepleegd
-door twee of meer verenigde personen onder de omstandigheid, bedoeld in
-het derde lid, onder 2&#xB0;, worden gestraft met gevangenisstraf van
-ten hoogste tien jaren of geldboete van de vijfde
-categorie.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Indien een van de in
+jaren nog niet heeft bereikt.</al></li></lijst></lid><lid> <lidnr status="officieel">4</lidnr><al>Indien een van de in
 het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge
 heeft of daarvan levensgevaar voor een ander te duchten is, wordt
-gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde
-categorie opgelegd.</al></lid><lid> <lidnr status="officieel">6</lidnr><al>Indien een van
+gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde
+categorie opgelegd.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Indien een van
 de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt
-gevangenisstraf van ten hoogste vijftien jaren of geldboete van de
-vijfde categorie opgelegd.</al></lid><lid> <lidnr status="officieel">7</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=251">Artikel
+gevangenisstraf van ten hoogste achttien jaren of geldboete van de
+vijfde categorie opgelegd.</al></lid><lid> <lidnr status="officieel">6</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=251">Artikel
 251</intref> is van overeenkomstige
 toepassing.</al></lid></artikel><artikel status="goed">
     <kop>
@@ -13051,20 +13066,20 @@ jaren of geldboete
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>304</nr>
+        <nr status="officieel">304</nr>
     </kop>
     
     <al>De in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=300">artikelen 300-303</intref>
         bepaalde gevangenisstraffen kunnen met een derde worden
         verhoogd: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>1&#xB0;.</li.nr>
             <al>ten aanzien van de schuldige die het misdrijf begaat
                 tegen zijn moeder, zijn vader tot wie hij in
-                familierechtelijke betrekking staat, zijn echtgenoot, zijn
-levensgezel of
-                zijn kind;</al>
+                familierechtelijke betrekking staat, zijn echtgenoot, zijn levensgezel, zijn kind, een kind over wie hij het gezag
+uitoefent of een kind dat hij verzorgt of opvoedt als behorend tot zijn
+gezin;</al>
         </li>
         
         <li>
@@ -13389,26 +13404,25 @@ misdrijf voor te bereiden of gemakkelijk te maken.</al></li></lijst></lid><lid><
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>318</nr>
+        <nr status="officieel">318</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die, met het oogmerk om zich of een ander
             wederrechtelijk te bevoordelen, door bedreiging met smaad,
             smaadschrift of openbaring van een geheim iemand dwingt
             hetzij tot de afgifte van enig goed dat geheel of ten dele
             aan deze of aan een derde toebehoort, hetzij tot het aangaan
             van een schuld of het teniet doen van een inschuld, hetzij
-            tot het ter beschikking stellen van gegevens met geldswaarde
-            in het handelsverkeer, wordt als schuldig aan afdreiging,
+            tot het ter beschikking stellen van gegevens, wordt als schuldig aan afdreiging,
             gestraft met gevangenisstraf van ten hoogste vier
 jaren of
             geldboete van de vijfde categorie.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Dit misdrijf wordt niet vervolgd dan op klacht van hem
             tegen wie het gepleegd is.</al>
     </lid>
@@ -13544,7 +13558,7 @@ verhoogd.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>326</nr>
+        <nr status="officieel">326</nr>
     </kop>
     
     
@@ -13552,8 +13566,8 @@ verhoogd.</al>
         bevoordelen, hetzij door het aannemen van een valse naam of van
         een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij
         door een samenweefsel van verdichtsels, iemand beweegt tot de
-        afgifte van enig goed, tot het ter beschikking stellen van
-        gegevens met geldswaarde in het handelsverkeer, tot het aangaan
+        afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van
+        gegevens, tot het aangaan
         van een schuld of tot het teniet doen van een inschuld, wordt,
         als schuldig aan oplichting, gestraft met gevangenisstraf van ten hoogste vier
 jaren of geldboete van de vijfde categorie.</al>
@@ -14868,26 +14882,25 @@ verhoogd.</al>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>364a</nr> 
+	 <nr status="officieel">364a</nr> 
   </kop>
     
   <lid> 
-	 <lidnr>1</lidnr> 
+	 <lidnr status="officieel">1</lidnr> 
 	 <al>Met ambtenaren worden ten aanzien van de
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=361">artikelen 361</intref>,
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=362">362</intref> en
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=363">363</intref> gelijkgesteld personen in
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=361">artikelen 361 tot en met 363</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=365">365 tot en met 368</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=376">376</intref> gelijkgesteld personen in
 		de openbare dienst van een vreemde staat of van een volkenrechtelijke
 		organisatie.</al> 
   </lid> 
   <lid> 
-	 <lidnr>2</lidnr> 
+	 <lidnr status="officieel">2</lidnr> 
 	 <al>Met ambtenaren worden ten aanzien van de
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=362">artikelen 362, onder 2&#xB0; en 4&#xB0;</intref>,
 		en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=363">363, onder 2&#xB0; en 4&#xB0;</intref>,
 		voormalige ambtenaren gelijkgesteld.</al> 
   </lid>
-<lid><lidnr>3</lidnr><al>Met rechter wordt ten aanzien van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=364">artikel 364</intref>
+<lid><lidnr status="officieel">3</lidnr><al>Met rechter wordt ten aanzien van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=364">artikel 364</intref>
             gelijkgesteld de rechter van een vreemde staat of van een
             volkenrechtelijke organisatie.</al></lid></artikel>
     <artikel status="goed">
