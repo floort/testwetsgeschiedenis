@@ -2434,11 +2434,11 @@ wet</extref> van toepassing.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>61</nr>
+        <nr status="officieel">61</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Met het toezicht op de naleving als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=51">artikel 51,
             eerste lid</intref> zijn belast de leden en buitengewone leden van
             het College, de ambtenaren van het secretariaat van het
@@ -2446,13 +2446,13 @@ wet</extref> van toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De in het eerste lid bedoelde personen zijn bevoegd een
             woning te betreden zonder toestemming van de bewoner.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De in het eerste lid bedoelde personen behoeven voor de
             uitoefening van de in het tweede lid omschreven bevoegdheid
             de uitdrukkelijke en bijzondere volmacht van het College,
@@ -2461,22 +2461,22 @@ wet</extref> van toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
-        <al>Het College is bevoegd tot toepassing van bestuursdwang ter
+        <lidnr status="officieel">4</lidnr>
+        <al>Het College is bevoegd tot oplegging van een last onder bestuursdwang ter
             handhaving van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A20" compleet="nee">artikel 5:20, eerste lid, van de
                 Algemene wet bestuursrecht</extref>, voor zover
             het betreft de verplichting tot het verlenen van medewerking
             aan een bij of krachtens het eerste lid aangewezen ambtenaar.</al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>Geen beroep is mogelijk op een geheimhoudingsplicht, voor
             zover inlichtingen of medewerking wordt verlangd in verband
             met de eigen betrokkenheid bij de verwerking van persoonsgegevens.</al>
     </lid>
     
     <lid>
-        <lidnr>6</lidnr>
+        <lidnr status="officieel">6</lidnr>
         <al>Het College is desgevraagd verplicht aan de toezichthoudende
             autoriteiten van de andere lidstaten van de Europese Unie
             alle medewerking te verlenen voor zover dat noodzakelijk is
@@ -2544,11 +2544,11 @@ wet</extref> van toepassing.</al>
 </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>64</nr>
+        <nr status="officieel">64</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De functionaris ziet toe op de verwerking van
             persoonsgegevens overeenkomstig het bij en krachtens de wet
             bepaalde. Het toezicht strekt zich uit tot de verwerking van
@@ -2558,22 +2558,23 @@ wet</extref> van toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Indien op de verwerking een krachtens <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=25">artikel 25</intref>
             vastgestelde gedragscode van toepassing is, strekt het
             toezicht mede uit tot de naleving van deze code.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De verantwoordelijke of de organisatie als bedoeld in het
             eerste lid draagt zorg dat de functionaris ter vervulling
             van zijn taak over bevoegdheden beschikt die gelijkwaardig
-            zijn aan de bevoegdheden zoals geregeld in <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=5.2" compleet="nee">Afdeling 5.2 van de Algemene wet bestuursrecht</extref>.</al>
+            zijn aan de bevoegdheden zoals geregeld in <extref status="actief" doc="1.0:v:BWBR0005537&amp;titeldeel=5.2" compleet="nee">Titel 5.2 van de Algemene wet
+bestuursrecht</extref>.</al>
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De functionaris kan aanbevelingen doen aan de
             verantwoordelijke die strekken tot een betere bescherming
             van de gegevens die worden verwerkt. In gevallen van twijfel
@@ -2596,238 +2597,32 @@ wet</extref> van toepassing.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>65</nr>
+        <nr status="officieel">65</nr>
     </kop>
     
-    <al>Het College is bevoegd tot toepassing van bestuursdwang ter
+    <al>Het College is bevoegd tot oplegging van een last onder bestuursdwang ter
         handhaving van de bij of krachtens deze wet gestelde verplichtingen.</al>
 </artikel>
 </paragraaf>
-    <paragraaf><kop><label>Paragraaf</label><nr>2</nr><titel>Bestuurlijke boeten</titel></kop><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>66</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Indien de verantwoordelijke handelt in strijd met hetgeen
-            bij of krachtens <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=27">artikel 27</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=28">28</intref> of <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=79">79, eerste lid</intref>, is
-bepaald, kan het
-            College hem een bestuurlijke boete opleggen van ten hoogste
-            &#x20AC; 4&#xA0;500.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Het College legt geen boete op indien de verantwoordelijke
-            aannemelijk maakt dat hem van de overtreding geen verwijt
-            kan worden gemaakt.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Bij de vaststelling van de hoogte van de boete houdt het
-            College in ieder geval rekening met de ernst en de duur van
-            de overtreding.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>De werkzaamheden in verband met de uitvoering van <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=69">artikel 69</intref>
-            en <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=70">70</intref> worden verricht door personen die niet betrokken zijn
-            geweest bij de opstelling van het in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=67">artikel 67, eerste lid</intref>,
-            bedoelde rapport en het daaraan voorafgaande onderzoek.</al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al>De bevoegdheid tot het opleggen van een boete vervalt indien
-            ter zake van de overtreding op grond waarvan de boete kan
-            worden opgelegd, tegen de overtreder een strafvervolging is
-            ingesteld en het onderzoek ter terechtzitting een aanvang
-            heeft genomen, dan wel het recht tot strafvervolging is
-            vervallen ingevolge <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74" compleet="nee">artikel 74 van het Wetboek van Strafrecht</extref>.</al>
-    </lid>
+    <paragraaf><kop><label>Paragraaf</label><nr>2</nr><titel>Bestuurlijke boeten</titel></kop><artikel status="goed">                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">66</nr>
+                        </kop>
+                        <al>Het College kan aan de verantwoordelijke een
+bestuurlijke boete opleggen van ten hoogste EUR&#xA0;4&#xA0;500 ter
+zake van overtreding van het bij of krachtens <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=27">artikel 27</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=28">28</intref> of <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=79">79,
+eerste lid</intref>,
+bepaalde.</al>
 </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>67</nr>
+        <nr status="officieel">71</nr>
     </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Indien het College vaststelt dat een overtreding als bedoeld
-            in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=66">artikel 66, eerste lid</intref>, is begaan en dat daarvoor een
-            boete dient te worden opgelegd, maakt het daarvan een
-            rapport op.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>In het rapport worden in ieder geval vermeld:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de overtreding, onder verwijzing naar het
-                    desbetreffende wettelijke voorschrift; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>een aanduiding van de plaats waar en het tijdstip
-                    waarop de overtreding is begaan;</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>de feiten en omstandigheden op grond waarvan is
-                    vastgesteld dat een overtreding is begaan.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Een afschrift van het rapport wordt toegezonden aan de in
-            <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=66">artikel 66, eerste lid</intref>, bedoelde verantwoordelijke.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>Op verzoek van de verantwoordelijke die het rapport wegens
-            zijn gebrekkige kennis van de Nederlandse taal onvoldoende
-            begrijpt draagt het College er zoveel mogelijk zorg voor dat
-            de inhoud van het rapport aan de betrokkene wordt meegedeeld
-            in een voor hem begrijpelijke taal.</al>
-    </lid>
-</artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>68</nr>
-    </kop>
-    
-    <al>De verantwoordelijke jegens wie een handeling is verricht
-        waaraan hij in redelijkheid de gevolgtrekking kan verbinden dat
-        hem wegens een overtreding een boete zal worden opgelegd, is
-        niet verplicht ter zake daarvan enige verklaring af te leggen.
-        De verantwoordelijke wordt hiervan in kennis gesteld alvorens
-        hem mondeling om informatie wordt gevraagd.</al>
-</artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>69</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>In afwijking van <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=4.1.2" compleet="nee">afdeling 4.1.2 van de Algemene
-                wet bestuursrecht</extref> stelt het College de
-            verantwoordelijke als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=66">artikel 66, eerste lid</intref>, in
-            de gelegenheid om binnen een redelijke termijn naar keuze
-            schriftelijk of mondeling zijn zienswijze naar voren te brengen.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Indien de verantwoordelijke als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=66">artikel 66,
-            eerste lid</intref>, zijn zienswijze mondeling naar voren brengt en
-            de Nederlandse taal onvoldoende begrijpt, draagt het College
-            op verzoek van de verantwoordelijke zorg voor benoeming van
-            een tolk die de verantwoordelijke kan bijstaan, tenzij
-            redelijkerwijs kan worden aangenomen dat daaraan geen
-            behoefte bestaat.</al>
-    </lid>
-</artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>70</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Een boete wordt opgelegd bij beschikking van het College.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>In de beschikking worden in ieder geval vermeld:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de te betalen geldsom;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de overtreding ter zake waarvan zij is gegeven,
-                    onder verwijzing naar het desbetreffende wettelijke voorschrift;</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>de in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=67">artikel 67, tweede lid, onder b en c</intref>, bedoelde gegevens.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Op verzoek van de verantwoordelijke die de beschikking
-            wegens zijn gebrekkige kennis van de Nederlandse taal
-            onvoldoende begrijpt draagt het College er zoveel mogelijk
-            zorg voor dat de inhoud van de beschikking aan de
-            verantwoordelijke wordt meegedeeld in een voor hem
-            begrijpelijke taal.</al>
-    </lid>
-</artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>71</nr>
-    </kop>
-    
-    <al>De werking van een beschikking als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=70">artikel 70</intref> wordt
+    <al>De werking van de beschikking tot oplegging van de bestuurlijk
+boete wordt
         opgeschort totdat de bezwaartermijn is verstreken of, indien
         bezwaar is gemaakt, op het bezwaar is beslist.</al>
-</artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>72</nr>
-    </kop>
-    
-    <al>De bevoegdheid tot het opleggen van een boete vervalt vijf jaren
-        nadat de overtreding is begaan. </al>
-</artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>73</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Een boete wordt betaald binnen zes weken nadat de
-            beschikking waarbij de boete is opgelegd, in werking is getreden.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Indien niet is betaald binnen de in het eerste lid genoemde
-            termijn, wordt degene die de boete is verschuldigd
-            schriftelijk bevolen binnen twee weken alsnog het bedrag van
-            de boete, verhoogd met de kosten van de aanmaning te betalen.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>3</lidnr>
-        <al>Bij gebreke van betaling binnen de in het tweede lid
-            genoemde termijn, kan het College de verschuldigde boete,
-            verhoogd met de op de aanmaning en invordering betrekking
-            hebbende kosten, invorderen bij dwangbevel.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>Het dwangbevel wordt op kosten van degene die de boete is
-            verschuldigd bij deurwaardersexploit betekend en levert een
-            executoriale titel op in de zin van het <extref status="slapend" doc="" compleet="nee">Tweede Boek van het Wetboek van
-                Burgerlijke Rechtsvordering</extref>.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>5</lidnr>
-        <al>Gedurende zes weken na de dag van betekening staat verzet
-            tegen het dwangbevel open door dagvaarding van de staat.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>6</lidnr>
-        <al>Het verzet schorst de tenuitvoerlegging. Op verzoek van de
-            staat kan de rechter de schorsing van de tenuitvoerlegging opheffen.</al>
-    </lid>
 </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -2846,11 +2641,11 @@ bepaald, kan het
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>75</nr>
+        <nr status="officieel">75</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De verantwoordelijke die in strijd handelt met hetgeen bij
             of krachtens <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=4">artikel 4, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=27">27</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=28">28</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=78">78, tweede lid,
             onder a</intref>, is bepaald, wordt gestraft met geldboete van de
@@ -2858,20 +2653,20 @@ bepaald, kan het
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De verantwoordelijke die een feit als bedoeld in het eerste
             lid, opzettelijk begaat, wordt gestraft met gevangenisstraf
             van ten hoogste zes maanden of geldboete van de derde categorie.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De in het eerste lid strafbaar gestelde feiten zijn
             overtredingen. De in het tweede lid strafbaar gestelde
             feiten zijn misdrijven.</al>
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>Met de opsporing van de in dit artikel omschreven feiten
             zijn behalve de bij of krachtens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=141" compleet="nee">artikel 141 van het Wetboek van
             Strafvordering</extref> aangewezen ambtenaren belast
@@ -2879,11 +2674,6 @@ bepaald, kan het
             secretariaat van het College.</al>
     </lid>
     
-    <lid>
-        <lidnr>5</lidnr>
-        <al>Het recht tot strafvervolging vervalt indien het College
-            reeds een boete heeft opgelegd.</al>
-    </lid>
 </artikel>
 </paragraaf>
 </hoofdstuk>
