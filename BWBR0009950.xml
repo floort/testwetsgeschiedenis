@@ -6195,7 +6195,13 @@ besluit als bedoeld in het eerste lid intrekken.</al>
 toepassing.</al>
                 </lid>
               </artikel></paragraaf></hoofdstuk>
-            <hoofdstuk><kop><label>Hoofdstuk</label><nr>13</nr><titel>Bevoegd aftappen  </titel></kop><artikel status="goed">
+            <hoofdstuk>
+    <kop>
+        <label>Hoofdstuk</label>
+        <nr status="officieel">13</nr>
+        <titel status="officieel">Bevoegd aftappen  </titel>
+    </kop>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.1</nr>
@@ -6216,7 +6222,8 @@ toepassing.</al>
             aftapbaarheid van openbare telecommunicatienetwerken en
             openbare telecommunicatiediensten. </al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.2</nr>
@@ -6248,7 +6255,8 @@ toepassing.</al>
             organisatorische en personele maatregelen en te treffen
             voorzieningen met betrekking tot aftappen. </al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
               <kop>
                 <label>Artikel</label>
                 <nr status="officieel">13.2a</nr>
@@ -6288,7 +6296,8 @@ Strafvordering</extref>.</al></artikel><artikel status="goed">
         aanbieders en de bevoegde autoriteiten over de voorzieningen
         door middel van welke de door een tap te verkrijgen
         telecommunicatie door aanbieders wordt doorgegeven. </al>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.4</nr>
@@ -6325,7 +6334,8 @@ tot de wijze waarop de aanbieders aan een vordering of een verzoek, bedoeld
 in het eerste en tweede lid, voldoen en de wijze waarop de gegevens, bedoeld
 in het eerste lid, beschikbaar worden gehouden.</al>
               </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.5</nr>
@@ -6352,7 +6362,8 @@ lid</intref> te
             gesteld met betrekking tot de te nemen maatregelen in
             verband met de beveiliging, bedoeld in het eerste lid. </al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.6</nr>
@@ -6390,7 +6401,8 @@ eerste of tweede lid</intref>.</al>
             betrekking tot de vaststelling en vergoeding van de kosten,
             bedoeld in het tweede lid. </al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.7</nr>
@@ -6420,7 +6432,8 @@ eerste of tweede lid</intref>.</al>
             eerste lid. <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.6">Artikel 13.6, tweede en derde
             lid</intref>, is van overeenkomstige toepassing. </al>
     </lid>
-</artikel><artikel status="goed">
+</artikel>
+    <artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">13.8</nr>
@@ -6432,7 +6445,27 @@ eerste of tweede lid</intref>.</al>
         ontheffing verlenen. Een ontheffing kan onder beperkingen worden
         verleend. Aan een ontheffing kunnen voorschriften worden
         verbonden. </al>
-</artikel></hoofdstuk>
+</artikel>
+<artikel status="goed"><kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">13.9</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-09-2009</redactie></al></kop><al>Onze Minister van Justitie zendt in
+overeenstemming met Onze Minister van Economische Zaken binnen drie
+jaar na de inwerkingtreding van deze wet en vervolgens telkens na drie
+jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de
+effecten van de wijziging van de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikelen 13.2a</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">13.4</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.5">13.5</intref> in de
+praktijk, voor zover die wijzigingen betrekking hebben op de
+implementatie van Richtlijn nr 2006/24/EG van het Europees Parlement en
+de Raad van de Europese
+Unie.</al></artikel><artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">13.10</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-09-2009</redactie></al></kop>
+                     <al>Na de ondertekening van deze wet wordt de <intref status="actief" doc="1.0:v:BWBR0009950&amp;bijlage=">Bijlage
+behorende bij artikel 13.2a van de Telecommunicatiewet</intref>
+opgenomen.</al>
+                  </artikel></hoofdstuk>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
@@ -8340,6 +8373,191 @@ klacht.</al></lid></artikel>
         </ondertekening>
     </uitgifte>
 </wetsluiting>
-    </wet-besluit>
+    <bijlage status="goed">
+         <kop>
+            <label>Bijlage</label><titel status="officieel"> behorende bij <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a</intref> van de
+Telecommunicatiewet</titel>
+         <al><redactie type="extra">Treedt in werking per 01-09-2009</redactie></al></kop>
+         <al>In deze bijlage
+wordt verstaan
+onder:</al>
+         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+               <li.nr>a.</li.nr>
+               <al>telefoondienst: oproepen (met
+inbegrip van spraak, voicemail, conference call of call-gegevens),
+aanvullende diensten (met inbegrip van call forwarding en call
+transfer), messaging- en multimediadiensten (met inbegrip van short
+message service (SMS), enhanced media service (EMS) en multimedia
+service (MMS);</al>
+            </li>
+            <li>
+               <li.nr>b.</li.nr>
+               <al>gebruikersidentificatie: een
+unieke identificatie die aan een persoon wordt toegewezen wanneer deze
+zich abonneert op of registreert bij een internettoegangsdienst of
+internetcommunicatiedienst;</al>
+            </li>
+            <li>
+               <li.nr>c.</li.nr>
+               <al>celidentiteit (Cell ID): de
+unieke code van een cel van waaruit een mobiele telefoonoproep werd
+begonnen of be&#xEB;indigd.</al>
+            </li>
+         </lijst>
+         <al>In
+deze bijlage worden als gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a</intref> van de wet,
+aangewezen de volgende
+gegevens:</al>
+         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+               <li.nr>A.</li.nr>
+               <al>Bij telefonie over een mobiel of
+een vast
+netwerk:</al>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>a.</li.nr>
+                     <al>het
+telefoonnummer van de oproeper en het telefoonnummer (de
+telefoonnummers) die werden opgeroepen en, in het geval van aanvullende
+diensten zoals call forwarding of call transfer, het nummer (de
+nummers) waarnaar de verbinding is
+doorgeleid.</al>
+                  </li>
+                  <li>
+                     <li.nr>b.</li.nr>
+                     <al>namen en
+adressen van de betrokken abonnees of geregistreerde
+gebruikers;</al>
+                  </li>
+                  <li>
+                     <li.nr>c.</li.nr>
+                     <al>datum en
+tijdstip van aanvang en einde van de
+verbinding;</al>
+                  </li>
+                  <li>
+                     <li.nr>d.</li.nr>
+                     <al>de
+gebruikte
+telefoondienst;</al>
+                  </li>
+                  <li>
+                     <li.nr>e.</li.nr>
+                     <al>bij
+mobiele
+telefonie:</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>&#x2013;</li.nr>
+                           <al>de
+International Mobile Subscriber Identity (IMSI) van de oproepende en
+van de opgeroepen
+deelnemer;</al>
+                        </li>
+                        <li>
+                           <li.nr>&#x2013;</li.nr>
+                           <al>de
+International Mobile Equipment Identity (IMEI) van de oproepende en de
+opgeroepen
+deelnemer;</al>
+                        </li>
+                        <li>
+                           <li.nr>&#x2013;</li.nr>
+                           <al>in
+geval van vooraf betaalde anonieme diensten, datum en tijdstip van de
+eerste activering van de dienst en aanduiding (Cell ID) van de locatie
+waaruit de dienst is
+geactiveerd;</al>
+                        </li>
+                        <li>
+                           <li.nr>&#x2013;</li.nr>
+                           <al>de
+locatieaanduiding bij het begin van de
+verbinding;</al>
+                        </li>
+                        <li>
+                           <li.nr>&#x2013;</li.nr>
+                           <al>gegevens
+voor het identificeren van de geografische locatie van cells middels
+referentie aan hun locatieaanduidingen gedurende de periode dat
+communicatiegegevens worden
+bewaard.</al>
+                        </li>
+                     </lijst>
+                  </li>
+               </lijst>
+            </li>
+            <li>
+               <li.nr>B.</li.nr>
+               <al>Bij internettoegang, e-mail over
+het internet en
+internettelefonie:</al>
+               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                  <li>
+                     <li.nr>a.</li.nr>
+                     <al>de
+toegewezen gebruikersidentificatie(s) en de gebruikersidentificatie of
+telefoonnummer van de beoogde ontvanger(s) van een
+internettelefoonoproep;</al>
+                  </li>
+                  <li>
+                     <li.nr>b.</li.nr>
+                     <al>de
+gebruikersidentificatie en het telefoonnummer toegewezen aan elke
+communicatie die het publieke telefoonnetwerk
+binnenkomt;</al>
+                  </li>
+                  <li>
+                     <li.nr>c.</li.nr>
+                     <al>naam en
+adres van de abonnee of de geregistreerde gebruiker aan wie het
+IP-adres, de gebruikersidentificatie of het telefoonnummer was
+toegewezen op het tijdstip van de communicatie en naam (namen) en adres
+(adressen) van de abonnee(s) of de geregistreerde gebruiker(s) en de
+gebruikersidentificatie van de beoogde ontvanger van
+communicatie;</al>
+                  </li>
+                  <li>
+                     <li.nr>d.</li.nr>
+                     <al>datum
+en tijdstip van de log-in en log-off van een internetsessie gebaseerd
+op een bepaalde tijdzone, samen met het IP-adres, hetzij statisch,
+hetzij dynamisch, dat door de aanbieder van een internettoegangsdienst
+aan een communicatie is toegewezen, en de gebruikersidentificatie van
+de abonnee of geregistreerde
+gebruiker;</al>
+                  </li>
+                  <li>
+                     <li.nr>e.</li.nr>
+                     <al>datum en
+tijdstip van de log-in en log-off van een e-maildienst over het
+internet of internettelefoniedienst gebaseerd op een bepaalde
+tijdzone;</al>
+                  </li>
+                  <li>
+                     <li.nr>f.</li.nr>
+                     <al>de
+gebruikte
+internetdienst;</al>
+                  </li>
+                  <li>
+                     <li.nr>g.</li.nr>
+                     <al>het
+inbellende nummer voor een
+inbelverbinding;</al>
+                  </li>
+                  <li>
+                     <li.nr>h.</li.nr>
+                     <al>de
+digital subscriber line (DSL) of ander eindpunt van de initiatiefnemer
+van de communicatie.</al>
+                  </li>
+               </lijst>
+            </li>
+         </lijst>
+         
+      </bijlage></wet-besluit>
 </wetgeving>
   	
