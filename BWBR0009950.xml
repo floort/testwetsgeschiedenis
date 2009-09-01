@@ -5933,8 +5933,16 @@ van:</al>
               <al>de voorkoming, opsporing en vervolging van strafbare feiten.</al></li></lijst>
                   
                 </lid>
-                <lid>
-                  <lidnr status="officieel">2</lidnr>
+                <lid><lidnr status="officieel">2</lidnr><al>De
+verkeers- en locatiegegevens die de aanbieders van openbare
+elektronische communicatienetwerken of openbare elektronische
+communicatiediensten bewaren op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a, tweede lid</intref>,
+worden door de aanbieders niet voor andere doelen verwerkt, tenzij het
+gegevens betreft waarvan de verwerking op grond van de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5">artikelen 11.5</intref>
+en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5a">11.5a</intref> is toegestaan en de verwerking plaatsvindt met inachtneming
+van die
+artikelen.</al></lid><lid>
+                  <lidnr status="officieel">3</lidnr>
                   <al>Aanbieders van openbare elektronische communicatienetwerken en openbare
 elektronische communicatiediensten mogen, in afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5">artikel 11.5, eerste
 lid</intref>, verkeersgegevens verwerken, indien en voor zolang dat noodzakelijk is
@@ -6199,7 +6207,13 @@ toepassing.</al>
     <kop>
         <label>Hoofdstuk</label>
         <nr status="officieel">13</nr>
-        <titel status="officieel">Bevoegd aftappen  </titel>
+        <titel status="officieel">Bevoegd
+aftappen en toepassing van andere bevoegdheden op grond van het <extref status="actief" doc="1.0:v:BWBR0001903" compleet="nee">Wetboek
+van Strafvordering</extref> en de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en veiligheidsdiensten
+2002</extref> in verband met
+telecommunicatie
+</titel>
+
     </kop>
     <artikel status="goed">
     <kop>
@@ -6262,29 +6276,65 @@ toepassing.</al>
                 <nr status="officieel">13.2a</nr>
               </kop>
               <lid>
-                <lidnr status="officieel">1</lidnr>
-                <al>Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten
-voldoen aan een vordering op grond van <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126n" compleet="nee">artikel 126n</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126u" compleet="nee">artikel 126u</extref> of
-<extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126zh" compleet="nee">artikel 126zh van het
-Wetboek van Strafvordering</extref> dan wel een verzoek op grond van <extref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=28" compleet="nee">artikel 28 van
-de Wet op de inlichtingen- en veiligheidsdiensten 2002</extref> tot het verstrekken
-van gegevens over een gebruiker van een openbaar telecommunicatienetwerk
-dan wel een openbare telecommunicatiedienst en het telecommunicatieverkeer
-met betrekking tot die gebruiker.</al>
-              </lid>
-              <lid>
-                <lidnr status="officieel">2</lidnr>
-                <al>Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking
-tot de wijze waarop de aanbieders aan de vordering of het verzoek voldoen
-en de wijze waarop de gegevens, bedoeld in het eerste lid, beschikbaar worden
-gehouden.</al>
-              </lid>
-            </artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">13.2b</nr></kop>
-<al>Aanbieders van openbare telecommunicatienetwerken en openbare
-telecommunicatiediensten voldoen aan een vordering op grond van de <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126nc" compleet="nee">artikelen 126nc
-tot en met 126ni</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126uc" compleet="nee">126uc tot en met 126ui</extref> en <extref status="slapend" doc="" compleet="nee">126zja tot en met
-126zp van het
-Wetboek van
+                        <lidnr status="officieel">1</lidnr>
+                        <al>In dit
+artikel wordt verstaan
+onder:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>
+                                 <nadruk type="cur">gegevens:</nadruk> de
+verkeers- en locatiegegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.1">artikel 11.1, onderdeel b
+respectievelijk onderdeel d</intref>, alsmede de daarmee verband houdende
+gegevens die nodig zijn om de abonnee of gebruiker te
+identificeren;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>
+                                 <nadruk type="cur">oproeppoging zonder
+resultaat:</nadruk> een communicatie
+waarbij een telefoonoproep wel tot een verbinding heeft geleid, maar
+onbeantwoord is gebleven of via het netwerkbeheer is
+beantwoord.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Aanbieders
+van openbare telecommunicatienetwerken of openbare
+telecommunicatiediensten bewaren de in de bij deze wet behorende
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;bijlage=">bijlage</intref> aangewezen gegevens, voorzover deze in het kader van de
+aangeboden netwerken of diensten worden gegenereerd of verwerkt, ten
+behoeve van het onderzoeken, opsporen en vervolgen van ernstige
+misdrijven.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+gegevens, bedoeld in het tweede lid, worden door de aanbieders bewaard
+gedurende een periode van twaalf maanden, gerekend vanaf de datum van
+de communicatie.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>De
+verplichting, bedoeld in het tweede lid, heeft betrekking op gegevens
+van oproeppogingen zonder resultaat, voorzover deze gegevens door de
+aanbieders bij het aanbieden van openbare telecommunicatienetwerken of
+openbare telecommunicatiediensten worden gegenereerd, verwerkt en
+opgeslagen of
+gelogd.</al>
+                     </lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">13.2b</nr></kop>
+<al>Aanbieders van openbare telecommunicatienetwerken
+en openbare telecommunicatiediensten voldoen aan een vordering op grond
+van de <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126hh" compleet="nee">artikelen 126hh</extref>,
+<extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126ii" compleet="nee">126ii</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126nc" compleet="nee">126nc
+tot en met 126ni</extref> en
+<extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126uc" compleet="nee">126uc tot en met
+126ui van het Wetboek van
 Strafvordering</extref>.</al></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -6302,9 +6352,21 @@ Strafvordering</extref>.</al></artikel><artikel status="goed">
         <label>Artikel</label>
         <nr status="officieel">13.4</nr>
     </kop>
-    
+    <lid><lidnr status="officieel">1</lidnr><al>Aanbieders
+van openbare telecommunicatienetwerken en openbare
+telecommunicatiediensten voldoen onverwijld aan een vordering op grond
+van <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126n" compleet="nee">artikel 126n</extref> of <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126na" compleet="nee">artikel
+126na</extref>, dan wel <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126u" compleet="nee">artikel
+126u</extref> of <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126ua" compleet="nee">artikel
+126ua, van het Wetboek van Strafvordering</extref>
+dan wel een verzoek op grond van <extref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=28" compleet="nee">artikel 28 van de Wet op de
+inlichtingen- en veiligheidsdiensten 2002</extref> tot het verstrekken van
+gegevens over een gebruiker van een openbaar telecommunicatienetwerk
+dan wel een openbare telecommunicatiedienst en het
+telecommunicatieverkeer met betrekking tot die
+gebruiker.</al></lid>
     <lid>
-                <lidnr status="officieel">1</lidnr>
+                <lidnr status="officieel">2</lidnr>
                 <al>Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten
 voldoen aan een vordering op grond van
 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126na" compleet="nee">artikel 126na, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126ua" compleet="nee">126ua, eerste lid</extref>, of
@@ -6315,24 +6377,33 @@ nummer en soort dienst van een gebruiker van een openbaar telecommunicatienetwer
 dan wel een openbare telecommunicatiedienst.</al>
               </lid>
               <lid>
-                <lidnr status="officieel">2</lidnr>
+                <lidnr status="officieel">3</lidnr>
                 <al>Aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten
 voldoen aan een vordering op grond van
 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126na" compleet="nee">artikel 126na, tweede lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126ua" compleet="nee">126ua, tweede lid</extref>, of
 <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=126zi" compleet="nee">126zi van het Wetboek van Strafvordering</extref> dan wel een verzoek op grond
 van <extref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=29" compleet="nee">artikel 29 van de Wet op de inlichtingen- en veiligheidsdiensten 2002</extref>
 tot het op bij algemene maatregel van bestuur te bepalen wijze achterhalen
-en verstrekken van de gegevens, bedoeld in het eerste lid. Teneinde aan deze
-verplichting te kunnen voldoen bewaren de aanbieders bij algemene maatregel
-van bestuur aan te wijzen gegevens voor een periode van drie maanden, vanaf
-het tijdstip waarop deze gegevens voor de eerste maal zijn verwerkt.</al>
+en verstrekken van de gegevens, bedoeld in het eerste lid.Teneinde aan deze verplichtingen te kunnen voldoen bewaren de
+aanbieders de bij algemene maatregel van bestuur aan te wijzen gegevens
+voor een periode van twaalf maanden, vanaf het tijdstip waarop deze
+gegevens voor de eerste maal zijn verwerkt.</al>
               </lid>
               <lid>
-                <lidnr status="officieel">3</lidnr>
-                <al>Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking
-tot de wijze waarop de aanbieders aan een vordering of een verzoek, bedoeld
-in het eerste en tweede lid, voldoen en de wijze waarop de gegevens, bedoeld
-in het eerste lid, beschikbaar worden gehouden.</al>
+                <lidnr status="officieel">4</lidnr>
+                <al>Bij
+algemene maatregel van bestuur, op voordracht van Onze Minister van
+Justitie, Onze Minister, Onze Minister van Binnenlandse Zaken en
+Koninkrijksrelaties en Onze Minister van Defensie kunnen regels worden
+gesteld met betrekking tot de wijze waarop de aanbieders aan een
+vordering of een verzoek, bedoeld in het eerste, tweede en derde lid,
+voldoen, de registratie van statistische gegevens en de termijnen
+waarbinnen die gegevens beschikbaar worden gesteld en de wijze waarop
+de gegevens, bedoeld in het tweede en derde lid, beschikbaar worden
+gehouden. De voordracht voor een krachtens de eerste volzin vast te
+stellen algemene maatregel van bestuur wordt niet eerder gedaan dan
+vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is
+overgelegd.</al>
               </lid>
 </artikel>
     <artikel status="goed">
@@ -6340,28 +6411,85 @@ in het eerste lid, beschikbaar worden gehouden.</al>
         <label>Artikel</label>
         <nr status="officieel">13.5</nr>
     </kop>
-    
     <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Aanbieders van openbare telecommunicatienetwerken en
-            openbare telecommunicatiediensten zijn verplicht gegevens
-            met betrekking tot een bijzondere last dan wel een
-            toestemming op grond van de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en
-                veiligheidsdiensten 2002</extref> als bedoeld in
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2">artikel 13.2</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel
-13.2a</intref> dan wel een vordering of
-een verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2b">artikel 13.2b</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">artikel 13.4, eerste of tweede
-lid</intref> te
-            beveiligen tegen kennisneming door onbevoegden alsmede
-            geheimhouding te betrachten met betrekking tot deze
-            gegevens. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Bij algemene maatregel van bestuur kunnen regels worden
-            gesteld met betrekking tot de te nemen maatregelen in
-            verband met de beveiliging, bedoeld in het eerste lid. </al>
-    </lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Aanbieders
+van openbare telecommunicatienetwerken en openbare
+telecommunicatiediensten zijn verplicht gegevens met betrekking tot een
+bijzondere last dan wel toestemming op grond van de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de
+inlichtingen- en veiligheidsdiensten 2002</extref> als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2">artikel 13.2</intref>
+dan wel een vordering of een verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2b">artikel 13.2b</intref> of
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">artikel 13.4, eerste, tweede of derde lid</intref>, te beveiligen tegen
+kennisneming door onbevoegden alsmede geheimhouding te betrachten met
+betrekking tot deze gegevens.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Aanbieders
+van openbare telecommunicatienetwerken en openbare
+telecommunicatiediensten nemen met betrekking tot de gegevens die
+ingevolge <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a, tweede lid</intref>, worden bewaard passende technische
+en organisatorische maatregelen
+teneinde:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+gegevens te beveiligen tegen vernietiging, tegen verlies of wijziging
+en niet toegelaten opslag, verwerking, toegang of
+openbaarmaking;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>te
+waarborgen dat toegang tot de gegevens, bedoeld in onderdeel a, slechts
+geschiedt door speciaal daartoe bevoegde
+personen;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>de
+gegevens te kunnen vernietigen na afloop van de periode, bedoeld in
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a, derde lid</intref>.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Aanbieders
+van openbare telecommunicatienetwerken en openbare
+telecommunicatiediensten dragen er zorg voor dat de gegevens, die
+ingevolge <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a, tweede lid</intref>, worden
+bewaard:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>dezelfde
+kwaliteit hebben en worden onderworpen aan dezelfde beveiligings- en
+beschermingsmaatregelen als de gegevens in het
+netwerk;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>onverwijld
+worden vernietigd na afloop van de periode, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a,
+derde lid</intref>.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Op
+voordracht van Onze Minister van Justitie, Onze Minister, Onze Minister
+van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van
+Defensie kunnen bij algemene maatregel van bestuur regels worden
+gesteld met betrekking tot de te nemen maatregelen in verband met de
+beveiliging en de waarborging bedoeld in het eerste, tweede en derde
+lid. De voordracht voor een krachtens de eerste volzin vast te stellen
+algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken
+nadat het ontwerp aan beide kamers der Staten-Generaal is
+overgelegd.</al>
+                     </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -6376,7 +6504,7 @@ lid</intref> te
             telecommunicatienetwerken en openbare
             telecommunicatiediensten zijn of worden gemaakt teneinde te
             kunnen voldoen aan de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.1">artikelen 13.1</intref>,
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">13.4</intref>, en
+                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">13.2a</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">13.4</intref> en
                 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.5">13.5</intref> komen te
             hunnen laste. </al>
     </lid>
@@ -6393,7 +6521,8 @@ lid</intref> te
             lid</intref>,  of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel
 13.2a</intref> dan wel
 een vordering of een verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2b">artikel 13.2b</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">artikel 13.4,
-eerste of tweede lid</intref>.</al>
+eerste, tweede
+of derde lid</intref>.</al>
     </lid>
     <lid>
         <lidnr status="officieel">3</lidnr>
@@ -6449,7 +6578,7 @@ eerste of tweede lid</intref>.</al>
 <artikel status="goed"><kop>
                         <label>Artikel</label>
                         <nr status="officieel">13.9</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-09-2009</redactie></al></kop><al>Onze Minister van Justitie zendt in
+                     </kop><al>Onze Minister van Justitie zendt in
 overeenstemming met Onze Minister van Economische Zaken binnen drie
 jaar na de inwerkingtreding van deze wet en vervolgens telkens na drie
 jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de
@@ -6461,7 +6590,7 @@ Unie.</al></artikel><artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">13.10</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-09-2009</redactie></al></kop>
+                     </kop>
                      <al>Na de ondertekening van deze wet wordt de <intref status="actief" doc="1.0:v:BWBR0009950&amp;bijlage=">Bijlage
 behorende bij artikel 13.2a van de Telecommunicatiewet</intref>
 opgenomen.</al>
@@ -6745,10 +6874,15 @@ van tot de universele dienst behorende diensten of voorzieningen als
 bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=9.2">artikel 9.2, eerste en derde tot en met tiende
 lid</intref>;</al></li><li> <li.nr>f.</li.nr><al>ter zake van uitrusting
 gestelde voorschriften als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=20">hoofdstuk
-20</intref>;</al></li><li> <li.nr>g.</li.nr><al>bevoegd aftappen als geregeld in
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=13">hoofdstuk 13</intref>;</al></li><li> <li.nr>h.</li.nr><al>buitengewone
+20</intref>;</al></li><li><li.nr>g.</li.nr>
+                           <al>het
+gebruik van verkeersgegevens en locatiegegevens als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5">artikel
+11.5</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5a">artikel 11.5a</intref> onderscheidenlijk <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.13">artikel
+11.13</intref>;</al></li><li> <li.nr>h.</li.nr><al>bevoegd aftappen en het bewaren van
+gegevens als geregeld in
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=13">hoofdstuk 13</intref>;</al></li><li> <li.nr>i.</li.nr><al>buitengewone
 omstandigheden als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=14">hoofdstuk 14</intref>;</al></li><li>
-<li.nr>i.</li.nr><al>verdere onderwerpen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.4">artikelen
+<li.nr>j.</li.nr><al>verdere onderwerpen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.4">artikelen
 12.4</intref>, voor zover het bevoegdheden betreft van Onze Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.1">18.1</intref>, voor
 zover het bevoegdheden betreft van Onze Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.2">18.2</intref>, voor zover het
 bevoegdheden betreft van Onze Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.4">18.4, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.7">18.7</intref>, voor
@@ -7404,13 +7538,23 @@ tijde inlichtingen te vorderen voor zover dit redelijkerwijs voor de vervulling
 van zijn taak nodig is.</al>
               </lid>
               <lid>
-                <lidnr status="officieel">2</lidnr>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+bevoegdheid, bedoeld in het eerste lid, strekt zich met betrekking tot
+verkeers- en locatiegegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a, eerste lid</intref>,
+niet verder uit dan de gegevens die de aanbieder van openbare
+elektronische communicatienetwerken of de aanbieder van openbare
+elektronische communicatiediensten op grond van de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5">artikelen 11.5</intref> en
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5a">11.5a</intref> is toegestaan te
+verwerken.</al>
+                     </lid><lid>
+                <lidnr status="officieel">3</lidnr>
                 <al>Degene van wie krachtens het eerste lid inlichtingen zijn gevorderd, is
 verplicht deze onverwijld te geven, maar in elk geval binnen de daartoe door
 Onze Minister, onderscheidenlijk het college, te stellen termijn.</al>
               </lid>
               <lid>
-                <lidnr status="officieel">3</lidnr>
+                <lidnr status="officieel">4</lidnr>
                 <al>In een vordering op grond van het eerste lid kan wat betreft de te geven
 inlichtingen worden volstaan met:</al>
                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
@@ -7426,7 +7570,7 @@ gegeven en</al></li>
                 
               </lid>
               <lid>
-                <lidnr status="officieel">4</lidnr>
+                <lidnr status="officieel">5</lidnr>
                 <al>Degene van wie de verstrekking van inlichtingen is gevorderd, is verplicht
 binnen de door Onze Minister, onderscheidenlijk het college, te bepalen redelijke
 termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen
@@ -7434,7 +7578,7 @@ bij het uitoefenen van zijn bevoegdheden. <extref status="actief" doc="1.0:v:BWB
 Algemene wet bestuursrecht</extref> is van toepassing.</al>
               </lid>
               <lid>
-                <lidnr status="officieel">5</lidnr>
+                <lidnr status="officieel">6</lidnr>
                 <al>Met het oog op het bevorderen van een open en concurrerende markt in de
 elektronische communicatiesector maakt het college informatie met betrekking
 tot aanbieders van openbare elektronische communicatienetwerken, bijbehorende
@@ -8377,7 +8521,7 @@ klacht.</al></lid></artikel>
          <kop>
             <label>Bijlage</label><titel status="officieel"> behorende bij <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikel 13.2a</intref> van de
 Telecommunicatiewet</titel>
-         <al><redactie type="extra">Treedt in werking per 01-09-2009</redactie></al></kop>
+         </kop>
          <al>In deze bijlage
 wordt verstaan
 onder:</al>
