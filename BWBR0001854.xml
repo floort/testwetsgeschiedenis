@@ -22,10 +22,10 @@
     </afkondiging>
 </aanhef>
         <wettekst>
-            <boek><kop><nr>Eerste</nr><label>Boek</label><titel status="officieel">Algemene bepalingen</titel></kop><titeldeel>
+            <boek><kop><nr>Eerste</nr><label>Boek</label><titel status="officieel">Algemene bepalingen</titel></kop><titeldeel status="goed">
     <kop>
         <label>Titel</label>
-        <nr>I</nr>
+        <nr status="officieel">I</nr>
         <titel status="officieel"> Omvang van de werking van de strafwet</titel>
     </kop>
     <artikel status="goed">
@@ -423,6 +423,35 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
   </lid>
 </artikel>
     <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">5b</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-04-2010</redactie></al></kop>
+                     <al>De Nederlandse strafwet is toepasselijk op ieder
+die zich schuldig
+maakt:</al>
+                  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                     <li>
+                        <li.nr>1&#xB0;.</li.nr>
+                        <al>aan
+een der misdrijven omschreven in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">artikel 273f</intref>, en in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=231">artikelen 231</intref>,
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=321">321</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=416">416 tot en met 417bis</intref>, voor zover het feit valt onder de
+omschrijvingen van artikel 20 van het op 16&#xA0;mei 2005 te Warschau
+totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het
+feit is gepleegd tegen een
+Nederlander;</al>
+                     </li>
+                     <li>
+                        <li.nr>2&#xB0;.</li.nr>
+                        <al>aan
+een der misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref>
+en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">273f</intref>, indien het feit is gepleegd tegen een Nederlander of een
+vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft
+die de leeftijd van achttien jaren nog niet heeft
+bereikt.</al>
+                     </li>
+                  </lijst>
+                  </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>6</nr>
@@ -11284,10 +11313,10 @@ van de vierde categorie.</al>
         van ten hoogste vier jaren of geldboete van de vierde categorie.</al>
 </artikel>
 </titeldeel>
-    <titeldeel>
+    <titeldeel status="goed">
     <kop>
         <label>Titel</label>
-        <nr>XIV</nr>
+        <nr status="officieel">XIV</nr>
         <titel status="officieel">Misdrijven tegen de zeden</titel>
     </kop>
     <artikel status="goed">
@@ -11535,7 +11564,35 @@ van achttien jaren nog niet heeft
 bereikt dan wel bij het vertonen van afbeeldingen van dergelijke handelingen
 	 in een daarvoor bestemde gelegenheid, wordt gestraft met gevangenisstraf van
 	 ten hoogste vier jaren of geldboete van de vierde categorie.</al></artikel>
-    
+    <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">248d</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-01-2010</redactie></al></kop>
+                     <al>Hij die een persoon van wie hij weet of
+redelijkerwijs moet vermoeden dat deze de leeftijd van zestien jaren
+nog niet heeft bereikt, met ontuchtig oogmerk ertoe beweegt getuige te
+zijn van seksuele handelingen, wordt gestraft met gevangenisstraf van
+ten hoogste twee jaren of geldboete van de vierde
+categorie.</al>
+                  </artikel>
+                  <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">248e</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-01-2010</redactie></al></kop>
+                     <al>Hij
+die door middel van een geautomatiseerd werk of met gebruikmaking van
+een communicatiedienst een persoon van wie hij weet of redelijkerwijs
+moet vermoeden dat deze de leeftijd van zestien jaren nog niet heeft
+bereikt, een ontmoeting voorstelt met het oogmerk ontuchtige
+handelingen met die persoon te plegen of een afbeelding van een
+seksuele gedraging waarbij die persoon is betrokken, te vervaardigen
+wordt, indien hij enige handeling onderneemt gericht op het
+verwezenlijken van die ontmoeting, gestraft met gevangenisstraf van ten
+hoogste twee jaren of geldboete van de vierde
+categorie.</al>
+                  </artikel>
     
     <artikel status="goed">
     <kop>
