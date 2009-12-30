@@ -444,21 +444,40 @@ van de in dat lid bedoelde mededeling en de daarbij behorende gegevens.</al>
                   <lidnr status="officieel">5</lidnr>
                   <al>Voor het aanbieden of afgeven van gekwalificeerde certificaten aan het
 publiek is een registratie door het college vereist van de certificatiedienstverlener
-die in Nederland een vestiging heeft. Bij de aanvraag van een registratie
-legt de certificatiedienstverlener documenten over waaruit de overeenstemming
-met de bij en krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste en tweede lid</intref>, bedoelde eisen
-blijkt. Het college is bevoegd te bepalen welke andere gegevens bij de aanvraag
-van een registratie dienen te worden overgelegd.</al>
+die in Nederland een vestiging heeft. Bij de
+aanvraag van een registratie legt de certificatiedienstverlener
+over:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>a.</li.nr>
+                           <al>documenten,
+waaruit de overeenstemming met de bij en krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15,
+eerste en tweede lid</intref>, bedoelde eisen blijkt,
+en</al>
+                        </li>
+                        <li>
+                           <li.nr>b.</li.nr>
+                           <al>de gegevens
+waarvoor krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.4">artikel 2.4, vierde lid</intref>, bij ministeri&#xEB;le
+regeling is bepaald, dat die aan het college verstrekt dienen te
+worden.</al>
+                        </li>
+                     </lijst>
                 </lid>
                 <lid>
                   <lidnr status="officieel">6</lidnr>
                   <al>Een certificatiedienstverlener waarvan door een organisatie als bedoeld
 in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.16">artikel 18.16, eerste lid</intref>, is vastgesteld dat wordt voldaan aan de eisen,
 gesteld bij of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste en tweede lid</intref>, kan om te voldoen
-aan het bepaalde krachtens de tweede volzin van het vijfde lid, volstaan met
+aan het bepaalde krachtens de tweede volzin van het vijfde lid onder a, volstaan met
 het overleggen van een geldig bewijs van die vaststelling.</al>
                 </lid>
-              </artikel>
+              <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Het
+college is bevoegd te bepalen welke andere gegevens bij de aanvraag van
+een registratie dienen te worden
+overgelegd.</al>
+                     </lid></artikel>
               <artikel status="goed">
                 <kop>
                   <label>Artikel</label>
@@ -491,7 +510,8 @@ of afgeven van gekwalificeerde certificaten aan het publiek.</al>
                 <lid>
                   <lidnr status="officieel">3</lidnr>
                   <al>Het college kan de registratie van een certificatiedienstverlener weigeren
-indien de door hem op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, vijfde of zesde lid</intref>, te overleggen
+indien de door hem op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel
+2.1, vijfde, zesde of zevende lid</intref>, te overleggen
 gegevens niet, onvolledig of niet juist zijn verstrekt.</al>
                 </lid>
                 <lid>
@@ -506,7 +526,7 @@ gegevens niet, onvolledig of niet juist zijn verstrekt.</al>
                 <li.nr>b.</li.nr>
                 
               <al>indien een certificatiedienstverlener activiteiten of diensten verricht
-in strijd met het bepaalde bij of krachtens deze wet, of</al></li><li>
+in strijd met het bepaalde bij of krachtens deze wet,</al></li><li>
                 <li.nr>c.</li.nr>
                 
               <al>indien het college heeft vastgesteld dat de certificatiedienstverlener
@@ -514,11 +534,30 @@ niet of niet geheel voldoet aan de eisen bedoeld in <intref status="actief" doc=
 en tweede lid</intref>, en de certificatiedienstverlener niet binnen de door het college
 gestelde termijn heeft aangetoond aan deze eisen te voldoen. Indien de certificatiedienstverlener
 aantoont redelijkerwijs niet binnen de gestelde termijn aan de eisen te kunnen
-voldoen, kan het college de termijn verlengen.</al></li></lijst>
+voldoen, kan het college de termijn verlengen; of</al></li><li>
+                           <li.nr>d.</li.nr>
+                           <al>indien
+het college heeft vastgesteld dat de certificatiedienstverlener de
+gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, vijfde lid, onder b</intref>, of wijzigingen
+daarin niet, onvolledig of niet juist heeft verstrekt, en de
+certificatiedienstverlener niet binnen de door het college gestelde
+termijn de volledige of juiste gegevens alsnog
+verstrekt.</al>
+                        </li></lijst>
                   
                   
                 </lid>
-              </artikel>
+              <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Indien de
+certificatiedienstverlener aantoont redelijkerwijs niet binnen de
+gestelde termijn, bedoeld in het vierde lid, onder c, aan de eisen,
+bedoeld in dat onderdeel, te kunnen voldoen, of binnen de gestelde
+termijn, bedoeld in het vierde lid, onder d, alsnog de juiste gegevens,
+bedoeld in dat onderdeel, te kunnen verstrekken, kan het college de
+termijn
+verlengen.</al>
+                     </lid></artikel>
               <artikel status="goed">
                 <kop>
                   <label>Artikel</label>
@@ -538,19 +577,51 @@ te bepalen plaats. De gegevens uit het register zijn kosteloos op elektronische
 wijze te raadplegen.</al>
                 </lid>
                 <lid>
-                  <lidnr status="officieel">3</lidnr>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Bij
+ministeri&#xEB;le regeling kunnen nadere regels worden gesteld
+over:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+door het college in het register te vermelden gegevens anders dan die,
+bedoeld in het eerste
+lid;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de opzet,
+structuur en elektronische wijze van raadpleging van het
+register.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Indien de
+ministeri&#xEB;le regeling, bedoeld in het derde lid, nadere regels
+stelt over de in het register te vermelden gegevens, kan daarbij tevens
+worden bepaald welke van die gegevens door een
+certificatiedienstverlener aan het college verstrekt dienen te worden
+tot opname in het register.</al>
+                     </lid><lid>
+                  <lidnr status="officieel">5</lidnr>
                   <al>De geregistreerde geeft aan het college onverwijld alle wijzigingen door
-die van invloed zijn op de registratie.</al>
+die van
+invloed zijn op de registratie of op de in het register opgenomen
+gegevens die krachtens het vierde lid zijn verstrekt.</al>
                 </lid>
                 <lid>
-                  <lidnr status="officieel">4</lidnr>
+                  <lidnr status="officieel">6</lidnr>
                   <al>Het college brengt het register in overeenstemming met de wijzigingen
 die voortvloeien uit <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.2">artikel 2.2, vierde lid</intref>, of met de wijzigingen die het
-college op grond van het derde lid heeft ontvangen.</al>
+college op grond van het vijfde lid heeft ontvangen.</al>
                 </lid>
                 <lid>
-                  <lidnr status="officieel">5</lidnr>
-                  <al>Onverminderd het vierde lid, kan het college de gegevens met betrekking
+                  <lidnr status="officieel">7</lidnr>
+                  <al>Onverminderd het zesde
+lid, kan het college de gegevens met betrekking
 tot de registratie wijzigen indien dit noodzakelijk is om feitelijke onjuistheden
 van eenvoudige aard weg te nemen.</al>
                 </lid>
@@ -8014,7 +8085,8 @@ nakomt.</al></lid></artikel><artikel status="goed">
 					 <nr status="officieel">18.18</nr>
 				  </kop>
 				  <al>Het is de certificatiedienstverlener waarvan de registratie
-					 op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.2">artikel 2.2, vierde lid, onderdeel b of c</intref>, is be&#xEB;indigd verboden
+					 op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.2">artikel 2.2, vierde lid, onderdeel b, c, of
+d</intref>, is be&#xEB;indigd verboden
 					 gekwalificeerde certificaten aan het publiek aan te bieden of af te geven
 					 zolang hij niet opnieuw is geregistreerd.</al>
 				</artikel><artikel status="goed">
@@ -8564,7 +8636,74 @@ heeft.</al></lid></artikel>
             toepassing. </al>
     </lid>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20.15a</nr></kop>
+    <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">20.16</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Indien
+een certificatiedienstverlener voorafgaand aan het tijdstip van
+inwerkingtreding van de ministeri&#xEB;le regeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel
+2.3, derde lid, </intref>reeds geregistreerd is, vindt verstrekking van de
+krachtens artikel 2.3, vierde lid, aan het college te overleggen
+gegevens plaats binnen een door het college zo spoedig mogelijk na
+inwerkingtreding van de regeling te bepalen redelijke
+termijn.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Indien de
+certificatiedienstverlener aantoont redelijkerwijs niet binnen de
+gestelde termijn, bedoeld in het eerste lid, alsnog de gegevens,
+bedoeld in dat lid, aan het college te kunnen verstrekken, kan het
+college de termijn verlengen.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien
+een certificatiedienstverlener waarop het eerste lid van toepassing is,
+de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel 2.3, vierde lid</intref>, te overleggen gegevens, niet of
+niet volledig binnen de gestelde termijn, bedoeld in het eerste of
+tweede lid, heeft verstrekt, wordt de registratie
+be&#xEB;indigd.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Indien
+een aanvraag van een certificatiedienstverlener tot registratie
+voorafgaand aan het tijdstip van inwerkingtreding van de
+ministeri&#xEB;le regeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel 2.3, derde lid</intref>, is
+ingediend, en die aanvraag op of na het tijdstip van inwerkingtreding
+van die regeling tot een registratie leidt, vindt verstrekking van de
+krachtens artikel 2.3, vierde lid, aan het college te overleggen
+gegevens plaats binnen een door het college te bepalen redelijke
+termijn, die zo spoedig mogelijk na die registratie aanvangt. Het
+tweede en derde lid zijn van overeenkomstige toepassing.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Indien
+een aanvraag van een certificatiedienstverlener tot registratie na de
+inwerkingtreding van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, vijfde lid, onder b</intref>, is ingediend,
+maar voorafgaand aan het tijdstip van de inwerkingtreding van de
+ministeri&#xEB;le regeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel 2.3, derde lid</intref>, is,
+onverlet het vierde lid, artikel 2.1, vijfde lid, onder b, op die
+aanvraag niet van toepassing.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>De
+ministeri&#xEB;le regeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel 2.3, derde lid</intref>, heeft
+jegens het college geen werking ten aanzien van de verplichting voor
+het college in het register gegevens op te nemen, die krachtens artikel
+2.3, vierde lid, door een certificaatdienstverlener verstrekt dienen te
+worden binnen een termijn als bedoeld in het eerste, tweede of vijfde
+lid, totdat die termijn verstreken
+is.</al>
+                     </lid>
+                  </artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20.15a</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Op nummers die op het tijdstip van
 inwerkingtreding van de Wijziging van de Telecommunicatiewet in verband
 met het vaststellen van nadere bepalingen over het gebruik van nummers
