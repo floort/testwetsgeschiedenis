@@ -1860,12 +1860,12 @@ strafbeschikking of het vonnis of
         <lidnr status="officieel">4</lidnr>
         <al>Er zijn zes
 categorie&#xEB;n:</al><al>de eerste categorie,
-&#x20AC; 335 <redactie type="extra">Per 1 januari 2008: &#x20AC; 370.</redactie>;</al><al>de tweede categorie,
-&#x20AC; 3 350 <redactie type="extra">Per 1 januari 2008: &#x20AC;&#xA0;3 700.</redactie>;</al><al>de derde categorie,
-&#x20AC; 6 700 <redactie type="extra">Per 1 januari 2008: &#x20AC;&#xA0;7 400.</redactie>;</al><al>de vierde categorie,
-&#x20AC; 16 750 <redactie type="extra">Per 1 januari 2008: &#x20AC;&#xA0;18 500.</redactie>;</al><al>de vijfde categorie,
-&#x20AC; 67 000 <redactie type="extra">Per 1 januari 2008: &#x20AC;&#xA0;74 000.</redactie>;</al><al>de zesde categorie,
-&#x20AC; 670 000 <redactie type="extra">Per 1 januari 2008: &#x20AC;&#xA0;740 000.</redactie>.</al>
+&#x20AC; 335 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;380.</redactie>;</al><al>de tweede categorie,
+&#x20AC; 3 350 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;3&#xA0;800.</redactie>;</al><al>de derde categorie,
+&#x20AC; 6 700 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;7&#xA0;600.</redactie>;</al><al>de vierde categorie,
+&#x20AC; 16 750 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;19&#xA0;000.</redactie>;</al><al>de vijfde categorie,
+&#x20AC; 67 000 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;76&#xA0;000.</redactie>;</al><al>de zesde categorie,
+&#x20AC; 670 000 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;760&#xA0;000.</redactie>.</al>
     </lid>
     <lid>
         <lidnr status="officieel">5</lidnr>
@@ -6304,18 +6304,7 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
     
     <al>Onder koopman wordt verstaan ieder die een bedrijf uitoefent.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>84ter</nr>
-    </kop>
     
-    <al>Onder muntspeci&#xEB;n, munt- en bankbiljetten worden begrepen
-        muntspeci&#xEB;n, munt- en bankbiljetten die de hoedanigheid van
-        wettig betaalmiddel nog zullen verkrijgen, alsmede muntspeci&#xEB;n,
-        munt- en bankbiljetten die deze hoedanigheid verloren hebben en
-        ingewisseld kunnen worden tegen wettige betaalmiddelen.</al>
-</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -11398,8 +11387,11 @@ van de vierde categorie.</al>
 		vijfde categorie wordt gestraft degene die een afbeelding - of een
 		gegevensdrager, bevattende een afbeelding - van een seksuele gedraging, waarbij
 		iemand die kennelijk de leeftijd van achttien jaar nog niet heeft bereikt, is
-		betrokken of schijnbaar is betrokken, verspreidt, openlijk tentoonstelt,
-		vervaardigt, invoert, doorvoert, uitvoert of in bezit heeft.</al> 
+		betrokken of schijnbaar is betrokken, verspreidt, aanbiedt, openlijk tentoonstelt, vervaardigt, invoert,
+doorvoert, uitvoert, verwerft, in bezit heeft of zich door middel van
+een geautomatiseerd werk of met gebruikmaking van een
+communicatiedienst de toegang daartoe
+verschaft.</al> 
   </lid> 
    
   <lid> 
@@ -11513,9 +11505,27 @@ jaren of geldboete van de
         <nr status="officieel">248</nr>
     </kop>
     
-    
     <lid>
-        <lidnr status="officieel">1</lidnr>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 247</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a tot en met 248e</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=249">249</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=250">250</intref> bepaalde gevangenisstraffen kunnen met een derde worden verhoogd,
+indien het feit wordt gepleegd door twee of meer verenigde
+personen.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De in de
+artikelen <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 247</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a tot en met 248e</intref> bepaalde
+gevangenisstraffen kunnen met een derde worden verhoogd, indien de
+schuldige het feit begaat tegen zijn kind, een kind over wie hij het
+gezag uitoefent, een kind dat hij verzorgt of opvoedt als behorend tot
+zijn gezin, zijn pupil, een aan zijn zorg, opleiding of waakzaamheid
+toevertrouwde minderjarige of zijn minderjarige bediende of
+ondergeschikte.</al>
+                     </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
         <al>Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=245">245 tot en met 247</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248b">248b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=249">249</intref> omschreven
             misdrijven zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander
 te duchten is, wordt
@@ -11524,7 +11534,7 @@ jaren of geldboete
             van de vijfde categorie opgelegd.</al>
     </lid>
     <lid>
-        <lidnr status="officieel">2</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen
             240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243
 tot en met 247</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248b">248b</intref> en
@@ -11568,7 +11578,7 @@ bereikt dan wel bij het vertonen van afbeeldingen van dergelijke handelingen
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">248d</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-01-2010</redactie></al></kop>
+                     </kop>
                      <al>Hij die een persoon van wie hij weet of
 redelijkerwijs moet vermoeden dat deze de leeftijd van zestien jaren
 nog niet heeft bereikt, met ontuchtig oogmerk ertoe beweegt getuige te
@@ -11580,7 +11590,7 @@ categorie.</al>
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">248e</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-01-2010</redactie></al></kop>
+                     </kop>
                      <al>Hij
 die door middel van een geautomatiseerd werk of met gebruikmaking van
 een communicatiedienst een persoon van wie hij weet of redelijkerwijs
