@@ -1690,7 +1690,7 @@ regeling te geven voorschriften.</al>
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">3.14</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-01-2010</redactie></al></kop>
+                     </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
                         <al>Onze
@@ -7054,24 +7054,25 @@ toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn
 belast de bij besluit van Onze Minister aangewezen ambtenaren, voor
 zover het betreft de bepalingen die betrekking hebben
 op:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
-<li.nr>a.</li.nr><al>het gebruik van frequentieruimte;</al></li><li>
-<li.nr>b.</li.nr><al>prioritering van alarmnummers als bedoeld in
+<li.nr>a.</li.nr><al>het gebruik van frequentieruimte;</al></li><li><li.nr>b.</li.nr><al>de verstrekking van gegevens ten behoeve van het antenneregister,
+genoemd in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.14">artikel 3.14</intref>;</al></li><li>
+<li.nr>c.</li.nr><al>prioritering van alarmnummers als bedoeld in
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=7.7">artikel 7.7, derde of vierde lid</intref>;</al></li><li>
-<li.nr>c.</li.nr><al>technische regelingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.4a">artikel
-8.4a</intref>;</al></li><li> <li.nr>d.</li.nr><al>openbare elektronische
+<li.nr>d.</li.nr><al>technische regelingen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.4a">artikel
+8.4a</intref>;</al></li><li> <li.nr>e.</li.nr><al>openbare elektronische
 communicatienetwerken als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=8.3">artikel 8.3</intref>;</al></li><li>
-<li.nr>e.</li.nr><al>het verstrekken van een opdracht tot verzorging
+<li.nr>f.</li.nr><al>het verstrekken van een opdracht tot verzorging
 van tot de universele dienst behorende diensten of voorzieningen als
 bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=9.2">artikel 9.2, eerste en derde tot en met tiende
-lid</intref>;</al></li><li> <li.nr>f.</li.nr><al>ter zake van uitrusting
+lid</intref>;</al></li><li> <li.nr>g.</li.nr><al>ter zake van uitrusting
 gestelde voorschriften als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=10">hoofdstuk 10</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=20">hoofdstuk
-20</intref>;</al></li><li><li.nr>g.</li.nr>
+20</intref>;</al></li><li><li.nr>h.</li.nr>
                            <al>het
 gebruik van verkeersgegevens en locatiegegevens als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5">artikel
 11.5</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.5a">artikel 11.5a</intref> onderscheidenlijk <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.13">artikel
-11.13</intref>;</al></li><li> <li.nr>h.</li.nr><al>bevoegd aftappen en het bewaren van
+11.13</intref>;</al></li><li> <li.nr>i.</li.nr><al>bevoegd aftappen en het bewaren van
 gegevens als geregeld in
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=13">hoofdstuk 13</intref>;</al></li><li> <li.nr>i.</li.nr><al>buitengewone
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=13">hoofdstuk 13</intref>;</al></li><li> <li.nr>j.</li.nr><al>buitengewone
 omstandigheden als geregeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=14">hoofdstuk 14</intref>;</al></li><li>
 <li.nr>j.</li.nr><al>verdere onderwerpen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.4">artikelen
 12.4</intref>, voor zover het bevoegdheden betreft van Onze Minister, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.1">18.1</intref>, voor
