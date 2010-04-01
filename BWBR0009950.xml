@@ -2708,42 +2708,47 @@ niet is afgeweken.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Ook vo
 omtrent de schadevergoeding of de hoogte van de kosten overeenstemming
 verkregen of uitspraak gedaan is, kan tot uitvoering van de
 werkzaamheden, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.2">artikelen 5.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.8">5.8</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.11">5.11</intref>, worden
-overgegaan.</al></lid></artikel><artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">5.14</nr></kop>
-<lid><lidnr status="officieel">1</lidnr><al>Gemeenten bieden geen openbare elektronische
-communicatienetwerken of openbare elektronische communicatiediensten
-aan.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Gemeenten hebben geen belang
-of zeggenschap in ondernemingen die openbare elektronische
-communicatienetwerken of openbare elektronische communicatiediensten
-aanbieden.</al></lid><lid> <lidnr status="officieel">3</lidnr><al>In afwijking van het
-tweede lid kunnen gemeenten een minderheidsbelang
-&#x2013;&#xA0;tenzij omstandigheden een groter belang
-rechtvaardigen&#xA0;&#x2013; hebben in een onderneming die tot doel
-heeft een openbaar elektronisch communicatienetwerk aan te leggen,
-indien het aannemelijk is dat zonder de deelname van de gemeente een
-vergelijkbaar netwerk niet tot stand komt.</al></lid><lid>
-<lidnr status="officieel">4</lidnr><al>Burgemeester en wethouders van een gemeente, die
-een belang heeft in een onderneming, die openbare elektronische
-netwerken aanbiedt, stellen ten minste een keer in de vijf jaar een
-rapport vast ter verantwoording van de beslissing om het belang te
-continueren of af te stoten. Zij stellen het college van de OPTA in de
-gelegenheid over het ontwerp van het rapport advies uit te brengen. Het
-rapport wordt bekend gemaakt met toepassing van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A42" compleet="nee">artikel 3:42 van de
-Algemene wet bestuursrecht</extref>.</al></lid><lid>
-<lidnr status="officieel">5</lidnr><al>Personen die besluiten voorbereiden als bedoeld in
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.4">artikel 5.4, eerste lid, onder b</intref> zijn niet betrokken bij besluitvorming
-of activiteiten in samenhang met het derde lid of vierde
-lid.</al></lid><lid> <lidnr status="officieel">6</lidnr><al>Het voornemen een belang te
-nemen als bedoeld in het derde lid, wordt bekendgemaakt. <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A42" compleet="nee">Artikel 3:42
-van de Algemene wet bestuursrecht</extref> is van toepassing. Bij de
-bekendmaking van het voornemen wordt de omvang van het belang en de
-redengeving ervan vermeld. Tevens wordt bekendgemaakt waar en wanneer
-nadere informatie over het voornemen van de te nemen beslissing kan
-worden verkregen.</al></lid><lid> <lidnr status="officieel">7</lidnr><al>Bij de
+overgegaan.</al></lid></artikel><artikel status="goed">                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">5.14</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Indien
+een gemeente openbare elektronische communicatienetwerken of openbare
+elektronische communicatiediensten aanbiedt, of een belang of
+zeggenschap heeft in een onderneming die dit doet, zijn de personen die
+besluiten voorbereiden als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.4">artikel 5.4, eerste lid, onder b</intref>,
+daarbij niet betrokken.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Het
+voornemen om direct of indirect betrokken te zijn bij het aanbieden van
+openbare elektronische communicatienetwerken of openbare elektronische
+communicatiediensten wordt bekend gemaakt. <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A42" compleet="nee">Artikel 3:42 van de Algemene
+wet bestuursrecht</extref> is van toepassing. Bij de bekendmaking van het
+voornemen wordt de redengeving ervan vermeld. Tevens wordt
+bekendgemaakt waar en wanneer nadere informatie over het voornemen van
+de te nemen beslissing kan worden verkregen.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Bij de
 toepassing van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.4">artikel 5.4, tweede lid</intref>, bevoordelen burgemeester en
 wethouders geen ondernemingen die openbare elektronische
-communicatienetwerken aanbieden waarin de gemeente een belang heeft,
-boven concurrerende ondernemingen.</al></lid></artikel><artikel status="goed"><kop>
+communicatienetwerken aanbieden waarin de gemeente direct of indirect
+bij betrokken is.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">4</lidnr>
+                              <al>Een
+gemeente die direct of indirect betrokken is bij het aanbieden van een
+openbaar elektronisch communicatienetwerk bevordert open en
+non-discriminatoire toegang tot dit
+netwerk.</al>
+                           </lid>
+                        </artikel><artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">5.15</nr></kop> <al>Dit
 hoofdstuk is van overeenkomstige toepassing op de aanleg,
 instandhouding en opruiming van ondergrondse ondersteuningswerken en
@@ -8581,27 +8586,7 @@ beleid ten aanzien van de aanleg van kabels ten dienste van openbare
 elektronische communicatienetwerken, is van toepassing op de
 instandhouding van de in het eerste lid bedoelde kabels en
 ondersteuningswerken.</al></lid></artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">20.12</nr></kop>
-<lid><lidnr status="officieel">1</lidnr><al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.14">Artikel 5.14, eerste lid</intref>, is niet van
-toepassing op een gemeente die openbare elektronische
-communicatienetwerken of openbare elektronische communicatiediensten
-aanbiedt, voor zover die gemeente op het tijdstip van inwerkingtreding
-van de wet, houdende wijziging van de Telecommunicatiewet in verband
-met een herziening van het nationale beleid ten aanzien van de aanleg
-van kabels ten dienste van openbare elektronische communicatienetwerken
-(Stb. 2007,
-16) deze netwerken of diensten reeds aanbiedt.</al></lid><lid>
-<lidnr status="officieel">2</lidnr><al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.14">Artikel 5.14, tweede tot en met vierde lid</intref>, is
-niet van toepassing op een gemeente met een belang of zeggenschap in
-een onderneming die openbare elektronische communicatienetwerken of
-openbare elektronische communicatiediensten aanbiedt, voor zover die
-gemeente dat belang of die zeggenschap op het tijdstip van
-inwerkingtreding van de wet, houdende wijziging van de
-Telecommunicatiewet in verband met een herziening van het nationale
-beleid ten aanzien van de aanleg van kabels ten dienste van openbare
-elektronische communicatienetwerken (Stb. 2007,
-16) reeds
-heeft.</al></lid></artikel>
+    
     
     
     <artikel status="goed">
