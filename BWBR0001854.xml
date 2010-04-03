@@ -135,10 +135,7 @@
                 <li>
                     <li.nr>b.</li.nr>
                     <al>aan het misdrijf omschreven in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">artikel 385a</intref>, begaan aan boord van een
-                        luchtvaartuig in vlucht, wanneer de plaats van
-                        opstijgen of die van de feitelijke landing
-                        gelegen is buiten het grondgebied van de staat
-                        waar het luchtvaartuig is ingeschreven en de
+                        luchtvaartuig in vlucht, wanneer de
                         verdachte zich in Nederland bevindt;</al>
                 </li>
                 <li>
@@ -152,13 +149,19 @@
                     <al>aan het misdrijf omschreven in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385c">artikel 385c</intref>, wanneer het is begaan, hetzij
                         tegen een Nederlands luchtvaartuig, hetzij aan
                         boord van een luchtvaartuig dat vervolgens in
-                        Nederland landt met de verdachte aan boord.</al>
+                        Nederland landt met de verdachte aan boord;</al>
                 </li>
-            </lijst>
+            <li>
+                           <li.nr>e.</li.nr>
+                           <al>aan
+een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=162">artikelen 162</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=162a">162a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">166</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385d">385d</intref>,
+wanneer de verdachte zich in Nederland
+bevindt.</al>
+                        </li></lijst>
         </li>
         <li>
             <li.nr>8&#xB0;.</li.nr>
-            <al>aan de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">artikelen
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>aan de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">artikelen
                 166</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=168">168</intref>,
                     <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref>,
                     <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=352">352</intref>,
@@ -168,52 +171,74 @@
                 en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385c">385c</intref>, indien het feit is begaan tegen een
                 Nederlands zeegaand vaartuig, hetzij tegen of aan boord
                 van enig ander zeegaand vaartuig en de verdachte zich in
-                Nederland bevindt.</al>
+                Nederland bevindt;</al></li><li>
+                           <li.nr>b.</li.nr>
+                           <al>aan
+een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">artikelen 350</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=352">352</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354">354</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">385a,
+vierde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385b">385b, tweede lid</intref>, begaan tegen een installatie ter zee,
+wanneer de verdachte zich in Nederland
+bevindt.</al>
+                        </li></lijst>
         </li>
         <li>
-            <li.nr>9&#xB0;.</li.nr>
-            <al>Aan een der misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">artikelen
-                117</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117a">117a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117b">117b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285</intref>, voor zover
-                die feiten zijn gepleegd tegen een in Nederlandse dienst
-                zijnde, of tot zijn gezin behorende, internationaal
-                beschermd persoon als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=87b">artikel 87b, eerste
-                lid</intref>, of tegen diens beschermde goederen
-                en daarop door de wet van het land, waar het begaan is,
-                straf is gesteld;</al>
-        </li>
-        <li>
-            <li.nr>10&#xB0;.</li.nr>
-            <al>aan een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177">artikelen
-                177</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177a">177a</intref>, voor
-                zover het feit is gepleegd tegen een Nederlander en
-                daarop door de wet van het land waar het begaan is,
-                straf is gesteld;</al>
-        </li>
-        <li>
-            <li.nr>11&#xB0;.</li.nr>
-            <al>aan een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177">artikelen
-                177</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177a">177a</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">225</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=227b">227b</intref> en
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=323a">323a</intref>, voor
-                zover het feit gepleegd is door een Nederlandse
-                ambtenaar of door een persoon in de openbare dienst van
-                een in Nederland gevestigde volkenrechtelijke
-                organisatie en daarop door de wet van het land waar het
-                begaan is, straf is gesteld.</al>
-        </li>
-        <li>
-            <li.nr>12&#xB0;.</li.nr>
-            <al>aan een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">artikelen
-                117</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117a">117a</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117b">117b</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282a">282a</intref> en
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285</intref>, voor zover
-                het feit is gepleegd tegen een internationaal beschermd
-                persoon als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=87b">artikel 87b, tweede
-                lid</intref>, die Nederlander is, of tegen diens
-                beschermde goederen;</al>
-        </li>
+                           <li.nr>9&#xB0;.</li.nr>
+                           <al>aan
+een der misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177">artikelen 177</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177a">177a</intref>, voor zover
+het feit is gepleegd tegen een Nederlander of een Nederlandse ambtenaar
+en daarop door de wet van het land waar het begaan is, straf is
+gesteld;</al>
+                        </li>
+                        <li>
+                           <li.nr>10&#xB0;.</li.nr>
+                           <al>aan
+een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177">artikelen 177</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=177a">177a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">225</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=227b">227b</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=323a">323a</intref>, voor zover het feit is gepleegd door een Nederlandse ambtenaar of
+door een persoon in de openbare dienst van een in Nederland gevestigde
+volkenrechtelijke organisatie en daarop door de wet van het land waar
+het is begaan, straf is
+gesteld;</al>
+                        </li>
+                        <li>
+                           <li.nr>11&#xB0;.</li.nr>
+                           <al>aan
+het misdrijf, omschreven in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282a">artikel 282a</intref>, wanneer hetzij het feit is
+begaan met het oogmerk een Nederlandse overheid te dwingen een
+handeling te verrichten of zich te onthouden van het verrichten
+daarvan, hetzij de verdachte zich in Nederland
+bevindt;</al>
+                        </li>
+                        <li>
+                           <li.nr>12&#xB0;.</li.nr>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>aan een der misdrijven,
+omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">artikelen 117</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117a">117a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117b">117b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285</intref>, voor zover het feit
+is gepleegd tegen een in Nederlandse dienst zijnde, of tot zijn gezin
+behorende, internationaal beschermd persoon als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=87b">artikel 87b,
+eerste lid</intref>, of tegen diens beschermde
+goederen;</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>aan een
+der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">artikelen 117</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117a">117a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117b">117b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282a">282a</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285</intref>, voor zover het feit is gepleegd tegen een internationaal beschermd
+persoon als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=87b">artikel 87b, tweede lid</intref>, die Nederlander is, of
+tegen diens beschermde
+goederen;</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>aan een
+der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117">artikelen 117</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117a">117a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=117b">117b</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285</intref>, voor
+zover het feit is gepleegd tegen een internationaal beschermd persoon
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=87b">artikel 87b, eerste of tweede lid</intref>, of tegen diens
+beschermde goederen, wanneer de verdachte zich in Nederland
+bevindt;</al>
+                              </li>
+                           </lijst>
+                        </li>
         <li>
             <li.nr>13&#xB0;.</li.nr>
             <al>aan een terroristisch misdrijf dan wel een der misdrijven, omschreven in de artikelen <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=115">115</intref>,
@@ -296,31 +321,66 @@ aan te jagen, een Nederlandse overheid of een in Nederland gevestigde instelling
 of organisatie van de Europese Unie wederrechtelijk te dwingen iets te doen, niet te doen
 of te dulden, of de fundamentele politieke, constitutionele, economische of
 sociale structuren van Nederland of een in Nederland gevestigde instelling
-of organisatie van de Europese Unie ernstig te ontwrichten of te vernietigen;</al></li><li><li.nr>16&#xB0;.</li.nr><al>aan een der misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 225, derde
-lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=311">311, eerste lid, onder 6&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>, alsmede
-<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317, derde lid, jo. 312, tweede lid, onder 5&#xB0;</intref>, indien het misdrijf is
-gepleegd met het oogmerk een terroristisch misdrijf als in onderdeel
-15&#xB0; omschreven voor te bereiden of gemakkelijk te maken.</al></li></lijst>
+of organisatie van de Europese Unie ernstig te ontwrichten of te vernietigen;</al></li><li>
+                           <li.nr>16&#xB0;.</li.nr>
+                           <al>aan
+een misdrijf ter voorbereiding of vergemakkelijking van een
+terroristisch misdrijf, indien het misdrijf is gepleegd met het oogmerk
+een terroristisch misdrijf als in onderdeel 15&#xB0; omschreven voor te
+bereiden of gemakkelijk te
+maken;</al>
+                        </li><li>
+                           <li.nr>17&#xB0;.</li.nr>
+                           <al>aan
+een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=157">artikelen 157</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161quater">161quater</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=284">284,
+eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=284a">284a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=310">310 tot en met 312</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=318">318</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=321">321</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=322">322</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=326">326</intref>, en
+in de <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79" compleet="nee">artikelen 79</extref> en <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80" compleet="nee">80 van de Kernenergiewet</extref>, voor zover het feit
+valt onder de omschrijvingen van artikel 7 van het op 3&#xA0;maart 1980
+te Wenen/New York totstandgekomen Verdrag inzake de fysieke beveiliging
+van kernmateriaal
+(Trb.&#xA0;1980,
+166), wanneer de verdachte zich in Nederland
+bevindt;</al>
+                        </li>
+                        <li>
+                           <li.nr>18&#xB0;.</li.nr>
+                           <al>aan
+een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161quater">artikelen 161quater</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=284">284,
+eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=284a">284a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=310">310 tot en met 312</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=318">318</intref>, en in de
+<extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=15" compleet="nee">artikelen 15</extref>, <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=21" compleet="nee">21</extref>, <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=29" compleet="nee">29, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=32" compleet="nee">32, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=34" compleet="nee">34, eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=67" compleet="nee">67,
+eerste lid</extref>, <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=73" compleet="nee">73</extref>, <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=76" compleet="nee">76, derde lid</extref>, en <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=76a" compleet="nee">76a van de Kernenergiewet</extref> juncto
+<extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1a" compleet="nee">artikel 1a van de Wet op de economische delicten</extref>, en in de <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79" compleet="nee">artikelen 79</extref>
+en <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80" compleet="nee">80 van de Kernenergiewet</extref>, voor zover het feit valt onder de
+omschrijvingen van artikel 2 van het op 13&#xA0;april 2005 te New York
+totstandgekomen Internationaal Verdrag ter bestrijding van daden van
+nucleair terrorisme
+(Trb.&#xA0;2005,
+290) en hetzij het feit is gepleegd tegen een Nederlander,
+hetzij de verdachte zich in Nederland
+bevindt.</al>
+                        </li>
+                     </lijst>
 </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>4a</nr>
+        <nr status="officieel">4a</nr>
     </kop>
     
     
-    <lid><lidnr>1</lidnr><al>De Nederlandse strafwet is toepasselijk op ieder tegen wie de
+    <lid><lidnr status="officieel">1</lidnr><al>De Nederlandse strafwet is toepasselijk op ieder tegen wie de
         strafvervolging door Nederland van een vreemde staat is
         overgenomen op grond van een verdrag waaruit de bevoegdheid tot
         strafvervolging voor Nederland volgt.</al></lid>
-<lid><lidnr>2</lidnr><al>De
+<lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
 Nederlandse strafwet is voorts toepasselijk op ieder wiens uitlevering
-of overlevering ter zake van een terroristisch misdrijf dan wel een der
-misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 225, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=311">311, eerste lid,
-onder 6&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317, derde
-lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>, ontoelaatbaar is verklaard,
-is afgewezen of
-geweigerd.</al></lid></artikel>
+of overlevering ter zake van een terroristisch misdrijf dan wel een
+misdrijf ter voorbereiding of vergemakkelijking van een terroristisch
+misdrijf, ontoelaatbaar is verklaard, is afgewezen of
+geweigerd.</al>
+                     </lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -384,7 +444,18 @@ zover het feit valt onder de omschrijving van de artikelen 2 tot en met
 10 van het op 23&#xA0;november 2001 te Budapest tot stand gekomen
 Internationaal Verdrag inzake de bestrijding van strafbare feiten
 verbonden met elektronische netwerken (Trb. 2002, 18, en 2004,
-290).</al></li></lijst> 
+290);</al></li><li>
+                           <li.nr>5&#xB0;.</li.nr>
+                           <al>aan
+een der misdrijven omschreven in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">artikel 273f</intref>, voor zover het feit is
+gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar
+heeft bereikt, en in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=231">artikelen 231</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=321">321</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=416">416 tot en met
+417bis</intref>, voor zover het feit valt onder de omschrijvingen van artikel 20
+van het op 16&#xA0;mei 2005 te Warschau totstandgekomen Verdrag inzake
+bestrijding van mensenhandel, indien het feit is gepleegd buiten de
+rechtsmacht van enige
+staat.</al>
+                        </li></lijst> 
   </lid>
     
   <lid> <lidnr status="officieel">2</lidnr><al>In de
@@ -415,8 +486,32 @@ bereikt, een terroristisch misdrijf, dan wel een der misdrijven omschreven
 in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 225, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=311">311, eerste lid, onder 6&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede
 lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=317">317, derde lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>.</al> 
   </lid> 
-  <lid> 
-	 <lidnr status="officieel">2</lidnr> 
+  <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+Nederlandse strafwet is toepasselijk op de vreemdeling die een vaste
+woon- of verblijfplaats in Nederland heeft en zich buiten Nederland
+schuldig maakt aan een der misdrijven omschreven in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">artikel 273f</intref>, voor
+zover het feit is gepleegd ten aanzien van een persoon die de leeftijd
+van achttien jaar heeft bereikt, en in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=231">artikelen 231</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=321">321</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=416">416 tot en met 417bis</intref>, en op het feit door de wet van het land waar het
+begaan is, straf is gesteld.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+Nederlandse strafwet is toepasselijk op de vreemdeling die een vaste
+woon- of verblijfplaats in Nederland heeft en zich buiten Nederland
+schuldig maakt aan een der misdrijven omschreven in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">artikel 273f</intref>, voor
+zover het feit is gepleegd ten aanzien van een persoon die de leeftijd
+van achttien jaar heeft bereikt, en in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=231">artikelen 231</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=321">321</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=416">416 tot en met 417bis</intref>, voor zover het feit valt onder de omschrijvingen
+van artikel 20 van het op 16&#xA0;mei 2005 te Warschau totstandgekomen
+Verdrag inzake bestrijding van mensenhandel, indien het feit is
+gepleegd buiten de rechtsmacht van enige
+staat.</al>
+                     </lid><lid> 
+	 <lidnr status="officieel">4</lidnr> 
 	 <al>De vervolging kan ook plaatshebben, indien de verdachte eerst na het
 		begaan van het feit een vaste woon- of verblijfplaats in Nederland heeft
 		gekregen.</al> 
@@ -426,7 +521,7 @@ lid, onder 5&#xB0;</intref>, alsmede <intref status="actief" doc="1.0:v:BWBR0001
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">5b</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-04-2010</redactie></al></kop>
+                     </kop>
                      <al>De Nederlandse strafwet is toepasselijk op ieder
 die zich schuldig
 maakt:</al>
@@ -785,27 +880,27 @@ jaren,
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>14b</nr>
+        <nr status="officieel">14b</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De rechter die bepaalt dat een door hem opgelegde straf
             geheel of gedeeltelijk niet zal worden tenuitvoergelegd,
             stelt daarbij een proeftijd vast.</al>
     </lid>
-    <lid><lidnr>2</lidnr><al>De proeftijd bedraagt in de gevallen
-bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14c">artikel 14c, eerste lid en tweede lid, onder 3&#xB0; en
-4&#xB0;</intref>, ten hoogste twee jaren en in de overige gevallen ten hoogste
+    <lid><lidnr status="officieel">2</lidnr><al>De proeftijd bedraagt in de gevallen
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14c">artikel 14c, eerste lid en tweede lid,
+onder 3&#xB0; en 5&#xB0;</intref>, ten hoogste twee jaren en in de overige gevallen ten hoogste
 drie jaren. De proeftijd kan ten hoogste tien jaren bedragen indien er
 ernstig rekening mee moet worden gehouden dat de veroordeelde wederom
 een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor
 de onaantastbaarheid van het lichaam van een of meer
 personen.</al></lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De proeftijd gaat in: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>indien een kennisgeving als bedoeld in
@@ -832,7 +927,7 @@ personen.</al></lid>
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> De proeftijd loopt niet gedurende de tijd dat de
             veroordeelde rechtens zijn vrijheid is ontnomen.</al>
     </lid>
@@ -1201,10 +1296,26 @@ straf eenderde gedeelte is ondergaan.</al></lid><lid>
 <lidnr status="officieel">2</lidnr><al>De veroordeelde tot tijdelijke gevangenisstraf van
 meer dan twee jaren wordt voorwaardelijk in vrijheid gesteld wanneer
 hij tweederde gedeelte daarvan heeft ondergaan.</al></lid><lid>
-<lidnr status="officieel">3</lidnr><al>Het eerste en het tweede lid zijn niet van
-toepassing indien de rechter op grond van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14a">artikel 14a</intref> heeft bepaald dat
-een gedeelte van de vrijheidsstraf niet ten uitvoer zal worden
-gelegd.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Voor de toepassing van het
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Het
+eerste en het tweede lid zijn niet van toepassing
+indien:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+rechter op grond van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14a">artikel 14a</intref> heeft bepaald dat een gedeelte van de
+vrijheidsstraf niet ten uitvoer zal worden
+gelegd;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de rechter
+een last als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14g">artikel 14g, eerste lid</intref>, heeft
+gegeven.</al>
+                           </li>
+                        </lijst>
+                     </lid><lid> <lidnr status="officieel">4</lidnr><al>Voor de toepassing van het
 eerste en het tweede lid wordt de tijd die door de veroordeelde voor de
 tenuitvoerlegging van de uitspraak in verzekering, in voorlopige
 hechtenis of in detentie in het buitenland ingevolge een Nederlands
@@ -1329,7 +1440,14 @@ toegezonden aan de veroordeelde.</al></lid><lid>
 is tot kennisneming van de vordering bevoegd de rechtbank die in eerste
 aanleg heeft geoordeeld terzake van het feit waarvoor de langste
 onvoorwaardelijke vrijheidsstraf is opgelegd. Bij straffen van gelijke
-lengte zijn rechtbanken gelijkelijk bevoegd.</al></lid><lid>
+lengte zijn rechtbanken gelijkelijk bevoegd. In het geval van de
+tenuitvoerlegging van een buitenlandse rechterlijke beslissing is tot
+kennisneming van de vordering bevoegd de rechtbank die het verlof tot
+tenuitvoerlegging, bedoeld in <extref status="actief" doc="1.0:v:BWBR0004028&amp;artikel=31" compleet="nee">artikel 31, eerste lid, van de Wet
+overdracht tenuitvoerlegging strafvonnissen</extref> heeft verleend, dan wel de
+rechtbank in het arrondissement waar op grond van <extref status="actief" doc="1.0:v:BWBR0004028&amp;artikel=43" compleet="nee">artikel 43, vijfde
+lid, van die wet</extref> de tenuitvoerlegging is
+gelast.</al></lid><lid>
 <lidnr status="officieel">6</lidnr><al>De vordering, bedoeld in het vierde lid, dient
 uiterlijk dertig dagen v&#xF3;&#xF3;r het tijdstip van
 voorwaardelijke invrijheidstelling te zijn ontvangen op de griffie van
@@ -1432,16 +1550,14 @@ Indien hij de vordering afwijst, beveelt hij de hervatting van de
 voorwaardelijke invrijheidstelling van de veroordeelde.</al></lid><lid>
 <lidnr status="officieel">6</lidnr><al>Het openbaar ministerie stelt de veroordeelde
 onverwijld schriftelijk in kennis van de beslissing van de
-rechter-commissaris.</al></lid><lid> <lidnr status="officieel">7</lidnr><al>De termijn
-van de schorsing eindigt van
-rechtswege:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
-<li.nr>a.</li.nr><al>met ingang van het tijdstip waarop de duur van de
-vrijheidsbeneming gelijk wordt aan de duur van de periode waarover
-voorwaardelijke invrijheidstelling is verleend;</al></li><li>
-<li.nr>b.</li.nr><al>met ingang van het tijdstip van de beslissing van
-de rechtbank over de herroeping van de voorwaardelijke
-invrijheidstelling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=15j">artikel
-15j</intref>.</al></li></lijst></lid><lid> <lidnr status="officieel">8</lidnr><al>Het bevel tot
+rechter-commissaris.</al></lid><lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>De
+termijn van de schorsing eindigt van rechtswege met ingang van het
+tijdstip waarop de duur van de vrijheidsbeneming gelijk wordt aan de
+duur van de periode waarover voorwaardelijke invrijheidstelling is
+verleend.</al>
+                     </lid><lid> <lidnr status="officieel">8</lidnr><al>Het bevel tot
 schorsing van de voorwaardelijke invrijheidstelling kan door de
 rechtbank worden opgeheven. Zij kan dit ambtshalve doen, op verzoek van
 de veroordeelde of op vordering van het openbaar
@@ -1473,7 +1589,13 @@ bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=15">artike
 bevoegd de rechtbank die in eerste aanleg heeft geoordeeld terzake van
 het feit waarvoor de langste onvoorwaardelijke vrijheidsstraf is
 opgelegd. Bij straffen van gelijke lengte zijn rechtbanken gelijkelijk
-bevoegd.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Bij de vordering zendt
+bevoegd. In het geval van de tenuitvoerlegging van
+een buitenlandse rechterlijke beslissing is tot kennisneming van de
+vordering bevoegd de rechtbank die het verlof tot tenuitvoerlegging,
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0004028&amp;artikel=31" compleet="nee">artikel 31, eerste lid, van de Wet overdracht
+tenuitvoerlegging strafvonnissen</extref> heeft verleend, dan wel de rechtbank
+in het arrondissement waar op grond van <extref status="actief" doc="1.0:v:BWBR0004028&amp;artikel=43" compleet="nee">artikel 43, vijfde lid, van die
+wet</extref> de tenuitvoerlegging is gelast.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Bij de vordering zendt
 het openbaar ministerie de daarop betrekking hebbende stukken aan de
 rechtbank toe. De voorzitter van de rechtbank bepaalt daarop onverwijld
 een dag voor het onderzoek van de zaak, tenzij hij vaststelt dat het
@@ -1484,7 +1606,8 @@ waarvoor de veroordeelde wordt vervolgd.</al></lid><lid>
 <lidnr status="officieel">6</lidnr><al>Het openbaar ministerie doet de veroordeelde en
 indien <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=15b">artikel 15b, tweede lid</intref>, is toegepast, degene die met
 begeleiding en toezicht is belast, tot bijwoning van de zitting
-oproepen onder betekening van de vordering.</al></lid><lid>
+oproepen onder betekening van de vordering aan de
+veroordeelde.</al></lid><lid>
 <lidnr status="officieel">7</lidnr><al>In de gevallen waarin de behandeling van de zaak
 niet gelijktijdig geschiedt met de behandeling van een feit waarvoor de
 veroordeelde wordt vervolgd, is <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=15e">artikel 15e, derde tot en met zevende
@@ -1510,7 +1633,11 @@ de beslissing van de rechtbank.</al></lid><lid>
 vordering tot herroeping van de voorwaardelijke invrijheidstelling
 staat, voor zover zij geen deel uitmaakt van uitspraken terzake van
 andere strafbare feiten, geen rechtsmiddel
-open.</al></lid></artikel><artikel status="goed"><kop>
+open. De rechter die in hoger beroep of
+beroep in cassatie kennisneemt van een vordering tot herroeping van de
+voorwaardelijke invrijheidstelling, heeft gelijke bevoegdheid als in
+het eerste lid en in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=15h">artikel 15h, achtste lid</intref>, aan de rechtbank is
+toegekend.</al></lid></artikel><artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">15k</nr></kop> <al>In de
 gevallen waarin een vordering tot herroeping van de voorwaardelijke
 invrijheidstelling wordt afgewezen of het openbaar ministerie in zijn
@@ -2777,15 +2904,15 @@ opgelegd indien en voor zover
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>37a</nr> 
+	 <nr status="officieel">37a</nr> 
   </kop>
     
   <lid> 
-	 <lidnr>1</lidnr> 
+	 <lidnr status="officieel">1</lidnr> 
 	 <al>De verdachte bij wie tijdens het begaan van het feit gebrekkige
 		ontwikkeling of ziekelijke stoornis van de geestvermogens bestond, kan op last
 		van de rechter ter beschikking worden gesteld indien: </al> 
-	 <lijst> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
 		<li> 
 		  <li.nr>1&#xB0;.</li.nr> 
 		  <al>het door hem begane feit een misdrijf is waarop naar de wettelijke
@@ -2794,9 +2921,10 @@ opgelegd indien en voor zover
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=132">artikelen 132</intref>,
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285, eerste lid</intref>,
 			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285b">285b</intref>, en
-			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=395">395 van het Wetboek van Strafrecht,</intref>
-			 <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=175" compleet="nee">175, tweede lid, onderdeel b, van de Wegenverkeerswet
-			 1994</extref>,
+			 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=395">395 van het Wetboek van Strafrecht</intref>,
+			 <extref status="actief" doc="1.0:v:BWBR0006622&amp;artikel=175" compleet="nee">175, tweede lid,
+onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel
+b, van de Wegenverkeerswet 1994</extref>,
 			 en
 <extref status="actief" doc="1.0:v:BWBR0001941&amp;artikel=11" compleet="nee">11, tweede lid, van de Opiumwet</extref>, en</al> 
 		</li>
@@ -2809,20 +2937,20 @@ opgelegd indien en voor zover
 	 </lijst> 
   </lid> 
   <lid> 
-	 <lidnr>2</lidnr> 
+	 <lidnr status="officieel">2</lidnr> 
 	 <al> Bij toepassing van het vorige lid kan de rechter afzien van het
 		opleggen van straf, ook indien hij bevindt dat het feit wel aan de verdachte
 		kan worden toegerekend.</al> 
   </lid> 
   <lid> 
-	 <lidnr>3</lidnr> 
+	 <lidnr status="officieel">3</lidnr> 
 	 <al>
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37">Het tweede en derde lid van artikel 37</intref>
 		zijn van overeenkomstige toepassing.</al> 
   </lid>
     
   <lid> 
-	 <lidnr>4</lidnr> 
+	 <lidnr status="officieel">4</lidnr> 
 	 <al> Bij het geven van een last als bedoeld in het eerste lid neemt de
 		rechter de inhoud van de overige adviezen en rapporten die over de
 		persoonlijkheid van de verdachte zijn uitgebracht, alsmede de ernst van het
@@ -6264,7 +6392,7 @@ ernstig te ontwrichten of te vernietigen.</al></artikel><artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">83b</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-04-2010</redactie></al></kop>
+                     </kop>
                      <al>Onder misdrijf ter voorbereiding of
 vergemakkelijking van een terroristisch misdrijf wordt verstaan elk van
 de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=131">artikelen 131, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=132">132, derde
@@ -6426,11 +6554,11 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>87b</nr>
+        <nr status="officieel">87b</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Onder internationaal beschermd persoon wordt verstaan een
             persoon vallende onder de omschrijving van artikel 1, eerste
             lid, van het Verdrag inzake de voorkoming en bestraffing van
@@ -6438,18 +6566,22 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
             inbegrip van diplomaten van 14 december 1973 (<nadruk type="cur">Trb.</nadruk> 1981, 69).</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Onder internationaal beschermd persoon wordt mede verstaan
             een persoon vallende onder de omschrijving van artikel 1,
             onderdeel a of b, van het Verdrag inzake de veiligheid van
             VN-personeel en geassocieerd personeel van 9&#xA0;december 1994
-            (Trb. 1996, 62).</al>
+            (Trb. 1996, 62), zoals aangevuld door het Facultatief Protocol van
+8&#xA0;december 2005
+(
+                     <nadruk type="cur">Trb.</nadruk>
+2006, 211).</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Onder beschermde goederen worden verstaan de goederen
-            bedoeld in artikel 2, eerste lid, onder <nadruk type="cur">b</nadruk>, van het in het eerste lid genoemde
+            bedoeld in artikel 2, eerste lid, onder b, van het in het eerste lid genoemde
             verdrag en artikel 9, eerste lid, onderdeel b, van het in
             het tweede lid genoemde verdrag.</al>
     </lid>
@@ -7645,24 +7777,32 @@ tijdelijke gevangenisstraf met de helft verhoogd.</al></artikel></titeldeel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>131</nr>
+        <nr status="officieel">131</nr>
     </kop>
     
     
-    <al>Hij die in het openbaar, mondeling of bij geschrift of
+    <lid><lidnr status="officieel">1</lidnr><al>Hij die in het openbaar, mondeling of bij geschrift of
         afbeelding, tot enig strafbaar feit of tot gewelddadig optreden
         tegen het openbaar gezag opruit, wordt gestraft met
         gevangenisstraf van ten hoogste vijf jaren of geldboete van de
-        vierde categorie.</al>
-</artikel>
+        vierde categorie.</al></lid>
+<lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Indien
+het strafbare feit waartoe wordt opgeruid een terroristisch misdrijf
+dan wel een misdrijf ter voorbereiding of vergemakkelijking van een
+terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op
+het in het eerste lid omschreven feit, met een derde
+verhoogd.</al>
+                     </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>132</nr>
+        <nr status="officieel">132</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die een geschrift of afbeelding waarin tot enig
             strafbaar feit of tot gewelddadig optreden tegen het
             openbaar gezag wordt opgeruid, verspreidt, openlijk
@@ -7674,21 +7814,22 @@ tijdelijke gevangenisstraf met de helft verhoogd.</al></artikel></titeldeel>
             jaren of geldboete van de vierde categorie.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Met dezelfde straf wordt gestraft hij die, met gelijke
             wetenschap of een gelijke reden tot vermoeden, de inhoud van
             een zodanig geschrift openlijk ten gehore brengt.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
-        <al> Indien de schuldige een van de misdrijven omschreven in dit
-            artikel in zijn beroep begaat en er, tijdens het plegen van
-            het misdrijf, nog geen vijf jaren zijn verlopen sedert een
-            vroegere veroordeling van de schuldige wegens een van deze
-            misdrijven onherroepelijk is geworden, kan hij van de
-            uitoefening van dat beroep worden ontzet.</al>
-    </lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien
+het strafbare feit waartoe bij geschrift of afbeelding wordt opgeruid
+een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of
+vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de
+gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met
+een derde
+verhoogd.</al>
+                     </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -7706,11 +7847,11 @@ tijdelijke gevangenisstraf met de helft verhoogd.</al></artikel></titeldeel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>134</nr>
+        <nr status="officieel">134</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die een geschrift of afbeelding waarin wordt aangeboden
             inlichtingen, gelegenheid of middelen te verschaffen om enig
             strafbaar feit te plegen, verspreidt, openlijk tentoonstelt
@@ -7722,27 +7863,19 @@ tijdelijke gevangenisstraf met de helft verhoogd.</al></artikel></titeldeel>
             geldboete van de tweede categorie.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Met dezelfde straf wordt gestraft hij die, met gelijke
             wetenschap of een gelijke reden tot vermoeden, de inhoud van
             een zodanig geschrift openlijk ten gehore brengt.</al>
     </lid>
     
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Indien de schuldige een van de misdrijven omschreven in dit
-            artikel in zijn beroep begaat en er, tijdens het plegen van
-            het misdrijf, nog geen vijf jaren zijn verlopen sedert een
-            vroegere veroordeling van de schuldige wegens een van deze
-            misdrijven onherroepelijk is geworden, kan hij van de
-            uitoefening van dat beroep worden ontzet.</al>
-    </lid>
+    
 </artikel>
     <artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">134a</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-04-2010</redactie></al></kop>
+                     </kop>
                      <al>Hij die zich of een ander opzettelijk gelegenheid,
 middelen of inlichtingen verschaft of tracht te verschaffen tot het
 plegen van een terroristisch misdrijf dan wel een misdrijf ter
@@ -7840,7 +7973,19 @@ handicap, wordt gestraft met
         derde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
 of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf
 van ten hoogste twee jaren of geldboete van de vierde categorie opgelegd.</al></lid></artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>137e</nr></kop><lid><lidnr>1</lidnr><al>Hij die, anders dan ten behoeve van zakelijke berichtgeving: </al><lijst><li><li.nr>1&#xB0;.</li.nr><al>een uitlating openbaar maakt die, naar hij weet of
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">137e</nr>
+    </kop>
+    
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Hij die, anders dan ten behoeve van zakelijke berichtgeving: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>1&#xB0;.</li.nr>
+                <al>een uitlating openbaar maakt die, naar hij weet of
                     redelijkerwijs moet vermoeden, voor een groep mensen
                     wegens hun ras, hun godsdienst of levensovertuiging, hun hetero- of homoseksuele gerichtheid of
 hun lichamelijke, psychische of verstandelijke
@@ -7851,19 +7996,28 @@ handicap
                     godsdienst of levensovertuiging, hun geslacht, hun
                     hetero- of homoseksuele gerichtheid of
 hun lichamelijke, psychische of verstandelijke
-handicap;</al></li><li><li.nr>2&#xB0;.</li.nr><al>een voorwerp waarin, naar hij weet of redelijkerwijs
+handicap;</al>
+            </li>
+            <li>
+                <li.nr>2&#xB0;.</li.nr>
+                <al>een voorwerp waarin, naar hij weet of redelijkerwijs
                     moet vermoeden, zulk een uitlating is vervat, aan
                     iemand, anders dan op diens verzoek, doet toekomen,
                     dan wel verspreidt of ter openbaarmaking van die
-                    uitlating of verspreiding in voorraad heeft;</al></li></lijst><al>wordt gestraft met gevangenisstraf van ten hoogste zes
-            maanden of geldboete van de derde categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
+                    uitlating of verspreiding in voorraad heeft;</al>
+            </li>
+        </lijst>
+        <al>wordt gestraft met gevangenisstraf van ten hoogste zes
+            maanden of geldboete van de derde categorie.</al>
+    </lid>
+    
+    <lid>
+                <lidnr status="officieel">2</lidnr>
+                <al>Indien het feit wordt gepleegd door een persoon die daarvan een beroep
 of gewoonte maakt of door twee of meer verenigde personen wordt gevangenisstraf
-van ten hoogste een jaar of geldboete van de vierde categorie opgelegd.</al></lid><lid><lidnr>3</lidnr><al> Indien de schuldige een van de strafbare feiten, omschreven
-            in dit artikel, in zijn beroep begaat en er, tijdens het
-            plegen van het feit, nog geen vijf jaren zijn verlopen
-            sedert een vroegere veroordeling van de schuldige wegens een
-            van deze misdrijven onherroepelijk is geworden, kan hij van
-            de uitoefening van dat beroep worden ontzet.</al></lid></artikel>
+van ten hoogste een jaar of geldboete van de vierde categorie opgelegd.</al>
+              </lid>
+</artikel>
     <artikel status="goed"><kop><label>Artikel</label><nr>137f</nr></kop><al>Hij die deelneemt of geldelijke of andere stoffelijke steun
         verleent aan activiteiten gericht op discriminatie van mensen
         wegens hun ras, hun godsdienst, hun levensovertuiging, hun
@@ -7893,7 +8047,7 @@ hoogste een jaar of geldboete van de vierde categorie opgelegd.</al>
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">137h</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-04-2010</redactie></al></kop>
+                     </kop>
                      <al>Indien de schuldige een van de strafbare feiten,
 omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=131">artikelen 131 tot en met 134</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=137c">137c tot en met 137g</intref> en
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=147a">147a</intref>, in zijn beroep begaat, kan hij van de uitoefening van dat beroep
@@ -8479,11 +8633,11 @@ teweeggebracht.</al></lid></artikel><artikel status="goed">
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>147a</nr>
+        <nr status="officieel">147a</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die een geschrift of afbeelding waarin uitlatingen
             voorkomen die, als smalende godslasteringen, voor
             godsdienstige gevoelens krenkend zijn, verspreidt, openlijk
@@ -8495,21 +8649,12 @@ teweeggebracht.</al></lid></artikel><artikel status="goed">
             hoogste twee maanden of geldboete van de tweede categorie.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Met dezelfde straf wordt gestraft hij die, met gelijke
             wetenschap of een gelijke reden tot vermoeden, de inhoud van
             een zodanig geschrift openlijk ten gehore brengt.</al>
     </lid>
     
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Indien de schuldige een van de misdrijven omschreven in dit
-            artikel in zijn beroep begaat en er, tijdens het plegen van
-            het misdrijf, nog geen twee jaren zijn verlopen sedert een
-            vroegere veroordeling van de schuldige wegens een van deze
-            misdrijven onherroepelijk is geworden, kan hij van de
-            uitoefening van dat beroep worden ontzet.</al>
-    </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -9604,14 +9749,14 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>177</nr>
+        <nr status="officieel">177</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Met gevangenisstraf van ten hoogste vier jaren of geldboete
             van de vijfde categorie wordt gestraft:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>hij die een ambtenaar een gift of belofte doet dan
@@ -9630,15 +9775,21 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Met dezelfde straf wordt gestraft hij die een feit als in
             het eerste lid, onder 1&#xB0;, omschreven, begaat jegens een
             persoon in het vooruitzicht van een aanstelling als
             ambtenaar, indien de aanstelling als ambtenaar is gevolgd.</al>
     </lid>
-    
     <lid>
-        <lidnr>3</lidnr>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien
+de schuldige een van de misdrijven omschreven in dit artikel in zijn
+beroep begaat, kan hij van de uitoefening van dat beroep worden
+ontzet.</al>
+                     </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
         <al>Ontzetting van de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=28">artikel 28, eerste lid, onder
                 1&#xB0;, 2&#xB0; en 4&#xB0;</intref>, vermelde rechten kan
             worden uitgesproken.</al>
@@ -9647,13 +9798,14 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>177a</nr>
+        <nr status="officieel">177a</nr>
     </kop>
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Met gevangenisstraf van ten hoogste twee jaren of geldboete
-            van de vierde categorie wordt gestraft:</al>
-        <lijst>
+            van de vijfde
+categorie wordt gestraft:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>hij die een ambtenaar een gift of belofte doet dan
@@ -9673,14 +9825,20 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Met dezelfde straf wordt gestraft hij die een feit als in
             het eerste lid, onder 1&#xB0;, omschreven, begaat jegens een
             persoon in het vooruitzicht van een aanstelling als
             ambtenaar, indien de aanstelling van ambtenaar is gevolgd.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien de
+schuldige een van de misdrijven omschreven in dit artikel in zijn
+beroep begaat, kan hij van de uitoefening van dat beroep worden
+ontzet.</al>
+                     </lid><lid>
+        <lidnr status="officieel">4</lidnr>
         <al>Ontzetting van de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=28">artikel 28, eerste lid, onder
                 1&#xB0;, 2&#xB0; en 4&#xB0;</intref>, vermelde rechten kan
             worden uitgesproken.</al>
@@ -9689,28 +9847,35 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>178</nr>
+        <nr status="officieel">178</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die een rechter een gift of belofte doet dan wel een
             dienst verleent of aanbiedt met het oogmerk invloed uit te
             oefenen op de beslissing van een aan diens oordeel
             onderworpen zaak, wordt gestraft met gevangenisstraf van ten
-            hoogste zes jaren of geldboete van de vierde categorie.</al>
+            hoogste zes jaren of geldboete van de vijfde
+categorie.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Indien die gift of belofte gedaan wordt dan wel die dienst
             verleend of aangeboden wordt met het oogmerk om een
             veroordeling in een strafzaak te verkrijgen, wordt de
             schuldige gestraft met gevangenisstraf van ten hoogste negen
             jaren of geldboete van de vijfde categorie.</al>
     </lid>
-    
     <lid>
-        <lidnr>3</lidnr>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien de
+schuldige een van de misdrijven omschreven in dit artikel in zijn
+beroep begaat, kan hij van de uitoefening van dat beroep worden
+ontzet.</al>
+                     </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
         <al> Ontzetting van de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=28">artikel 28, eerste lid, onder
                 1&#xB0;, 2&#xB0; en 4&#xB0;</intref>, vermelde rechten kan
             worden uitgesproken.</al>
@@ -10050,12 +10215,12 @@ opgelegd.</al></lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>191</nr>
+        <nr status="officieel">191</nr>
     </kop>
     
     
     <al>Hij die opzettelijk iemand, op openbaar gezag of krachtens
-        rechterlijke uitspraak of beschikking van de vrijheid berooft,
+        rechterlijke uitspraak of beschikking van de vrijheid beroofd,
         bevrijdt of bij zijn zelfbevrijding behulpzaam is, wordt
         gestraft met gevangenisstraf van ten hoogste vier jaren of
         geldboete van de vierde categorie.</al>
@@ -10157,11 +10322,11 @@ staatssecretaris.</al></artikel><artikel status="goed">
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>194</nr>
+        <nr status="officieel">194</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die, in staat van faillissement verklaard of als
             echtgenoot van een gefailleerde met wie hij in gemeenschap
             van goederen is gehuwd, of als bestuurder of commissaris van
@@ -10175,14 +10340,20 @@ staatssecretaris.</al></artikel><artikel status="goed">
     
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Terzake van het feit, bedoeld in het eerste lid, wordt met
             dezelfde straf gestraft hij, ten aanzien van wie of ten
             aanzien van wiens echtgenoot met wie hij in gemeenschap van
             goederen is gehuwd, de schuldsaneringsregeling natuurlijke
             personen van toepassing is. </al>
     </lid>
-</artikel>
+<lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien
+de schuldige een van de strafbare feiten, omschreven in het eerste lid,
+in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden
+ontzet.</al>
+                     </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -10437,14 +10608,28 @@ opgelegd.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>205</nr>
+        <nr status="officieel">205</nr>
     </kop>
     
-    <al>Hij die, zonder toestemming van de Koning, iemand voor vreemde
+    <lid><lidnr status="officieel">1</lidnr><al>Hij die, zonder toestemming van de Koning, iemand voor vreemde
         krijgsdienst of gewapende
 strijd werft, wordt gestraft met gevangenisstraf van
-        ten hoogste vier jaren of geldboete van de vijfde categorie.</al>
-</artikel>
+        ten hoogste vier jaren of geldboete van de vijfde categorie.</al></lid>
+<lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Indien de
+schuldige een van de strafbare feiten, omschreven in het eerste lid, in
+zijn beroep begaat, kan hij van de uitoefening van dat beroep worden
+ontzet.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien de
+gewapende strijd waarvoor wordt geworven, het plegen van een
+terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op
+het in het eerste lid omschreven feit, met een derde
+verhoogd.</al>
+                     </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -11206,12 +11391,19 @@ van de vierde categorie.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>235</nr>
+        <nr status="officieel">235</nr>
     </kop>
     
-    <al>Bij veroordeling wegens een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 225-229</intref>
+    <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Bij
+veroordeling wegens een der in deze titel omschreven misdrijven, kan de
+schuldige worden ontzet van de uitoefening van het beroep waarin hij
+het misdrijf begaan
+heeft.</al>
+                     </lid><lid><lidnr status="officieel">2</lidnr><al>Bij veroordeling wegens een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">artikelen 225-229</intref>
         omschreven misdrijven, kan ontzetting van de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=28">artikel 28, eerste lid, onder 1&#xB0;, 2&#xB0;
-            en 4&#xB0;</intref>, vermelde rechten worden uitgesproken.</al>
+            en 4&#xB0;</intref>, vermelde rechten worden uitgesproken.</al></lid>
 </artikel>
 </titeldeel>
     <titeldeel>
@@ -12158,20 +12350,20 @@ maakt.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>273</nr>
+        <nr status="officieel">273</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Met gevangenisstraf van ten hoogste zes maanden of geldboete
             van de vierde categorie wordt gestraft hij die opzettelijk </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>aangaande een onderneming van handel, nijverheid of
                     dienstverlening bij welke hij werkzaam is of is
                     geweest, bijzonderheden waarvan hem geheimhouding is
-                    opgelegd, bekend gemaakt of</al>
+                    opgelegd, bekend maakt of</al>
             </li>
             <li>
                 <li.nr>2&#xB0;.</li.nr>
@@ -12186,13 +12378,13 @@ maakt.</al>
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Niet strafbaar is hij die te goeder trouw heeft kunnen
             aannemen dat het algemeen belang de bekendmaking vereiste.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Geen vervolging heeft plaats dan op klacht van het bestuur
             van de onderneming.</al>
     </lid>
@@ -12772,7 +12964,15 @@ van diensten ontstaat, met verkrachting, met
                 <lidnr status="officieel">3</lidnr>
                 <al>Bedreiging met een terroristisch misdrijf wordt gestraft met gevangenisstraf
 van ten hoogste zes jaren of geldboete van de vijfde categorie.</al>
-              </lid></artikel>
+              </lid><lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Indien
+het feit, omschreven in het eerste, tweede of derde lid, wordt gepleegd
+met het oogmerk om een terroristisch misdrijf voor te bereiden of
+gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met
+een derde
+verhoogd.</al>
+                     </lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -13513,7 +13713,14 @@ jaren of
     </lid>
     
     <lid>
-        <lidnr status="officieel">2</lidnr>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Indien
+het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf
+voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde
+gevangenisstraf met een derde
+verhoogd.</al>
+                     </lid><lid>
+        <lidnr status="officieel">3</lidnr>
         <al> Dit misdrijf wordt niet vervolgd dan op klacht van hem
             tegen wie het gepleegd is.</al>
     </lid>
@@ -13574,7 +13781,7 @@ jaren of
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">322a</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-04-2010</redactie></al></kop>
+                     </kop>
                      <al>Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=321">artikelen 321</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=322">322</intref>
 omschreven feiten wordt gepleegd met het oogmerk om een terroristisch
 misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit
@@ -13599,13 +13806,13 @@ verhoogd.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>323a</nr>
+        <nr status="officieel">323a</nr>
     </kop>
     
-    <al>Hij die opzettelijk en wederrechtelijk een subsidie die met een
-        bepaald doel door of vanwege de Europese Gemeenschappen is
-        verstrekt, aanwendt voor andere doeleinden dan waarvoor zij is
-        verstrekt, wordt gestraft met gevangenisstraf van ten hoogste
+    <al>Hij die opzettelijk en wederrechtelijk middelen die met een
+        bepaald doel door of vanwege de Europese Gemeenschappen zijn
+verstrekt, aanwendt voor andere doeleinden dan waarvoor zij zijn
+verstrekt, wordt gestraft met gevangenisstraf van ten hoogste
         drie jaren of geldboete van de vijfde categorie.</al>
 </artikel>
     <artikel status="goed">
@@ -13653,7 +13860,7 @@ verhoogd.</al>
     </kop>
     
     
-    <al>Hij die, met het oogmerk om zich of een ander wederrechtelijk te
+    <lid><lidnr status="officieel">1</lidnr><al>Hij die, met het oogmerk om zich of een ander wederrechtelijk te
         bevoordelen, hetzij door het aannemen van een valse naam of van
         een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij
         door een samenweefsel van verdichtsels, iemand beweegt tot de
@@ -13661,8 +13868,15 @@ verhoogd.</al>
         gegevens, tot het aangaan
         van een schuld of tot het teniet doen van een inschuld, wordt,
         als schuldig aan oplichting, gestraft met gevangenisstraf van ten hoogste vier
-jaren of geldboete van de vijfde categorie.</al>
-</artikel>
+jaren of geldboete van de vijfde categorie.</al></lid>
+<lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Indien
+het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf
+voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde
+gevangenisstraf met een derde
+verhoogd.</al>
+                     </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -13810,30 +14024,31 @@ categorie wordt gestraft hij die opzettelijk een voorwerp
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>328ter</nr>
+        <nr status="officieel">328ter</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die, anders dan als ambtenaar, werkzaam zijnde in
             dienstbetrekking of optredend als lasthebber, naar
             aanleiding van hetgeen hij in zijn betrekking of bij de
             uitvoering van zijn last heeft gedaan of nagelaten dan wel
-            zal doen of nalaten, een gift of belofte aanneemt en dit
-            aannemen in strijd met de goede trouw verzwijgt tegenover
+            zal doen of nalaten, een gift, belofte of dienst aanneemt dan wel vraagt, en dit
+aannemen of vragen in strijd met de goede trouw verzwijgt tegenover
             zijn werkgever of lastgever, wordt gestraft met
-            gevangenisstraf van ten hoogste een jaar of geldboete van de
+            gevangenisstraf van ten hoogste twee jaren of geldboete van de
             vijfde categorie.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Met gelijke straf wordt gestraft hij die aan iemand die,
             anders dan als ambtenaar, werkzaam is in dienstbetrekking of
             optreedt als lasthebber, naar aanleiding van hetgeen deze in
             zijn betrekking of bij de uitvoering van zijn last heeft
             gedaan of nagelaten dan wel zal doen of nalaten, een gift of
-            belofte doet van die aard of onder zodanige omstandigheden,
+            belofte doet dan wel een dienst verleent of
+aanbiedt van die aard of onder zodanige omstandigheden,
             dat hij redelijkerwijs moet aannemen dat deze de gift of
             belofte in strijd met de goede trouw zal verzwijgen
             tegenover zijn werkgever of lastgever.</al>
@@ -14455,11 +14670,18 @@ ten hoogste zes jaren of
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>349</nr>
+        <nr status="officieel">349</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Bij
+veroordeling wegens een der in deze titel omschreven misdrijven, kan de
+schuldige worden ontzet van de uitoefening van het beroep waarin hij
+het misdrijf begaan
+heeft.</al>
+                     </lid><lid>
+        <lidnr status="officieel">2</lidnr>
         <al>Bij veroordeling wegens een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=341">artikelen 341</intref>,
                 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=343">343</intref> en
                 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=344">344</intref> omschreven
@@ -14469,7 +14691,7 @@ ten hoogste zes jaren of
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Bij veroordeling wegens een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=340">artikelen
             340-345</intref> omschreven misdrijven, kan
             openbaarmaking van de rechterlijke uitspraak worden gelast.</al>
@@ -14641,7 +14863,7 @@ werk, wordt gestraft
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">354a</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-04-2010</redactie></al></kop>
+                     </kop>
                      <al>Indien een der in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">artikelen 350</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350a">350a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=351">351</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=352">352</intref>
 en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354">354</intref> omschreven feiten wordt gepleegd met het oogmerk om een
 terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt
