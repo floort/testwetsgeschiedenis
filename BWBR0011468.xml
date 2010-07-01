@@ -2201,11 +2201,11 @@ wet</extref> van toepassing.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>53</nr>
+        <nr status="officieel">53</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Het College bestaat uit een voorzitter en twee andere leden.
             Bij het College kunnen voorts buitengewone leden worden
             benoemd. Bij de benoeming van buitengewone leden wordt
@@ -2213,14 +2213,14 @@ wet</extref> van toepassing.</al>
             maatschappij nagestreefd.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De voorzitter moet voldoen aan de bij of krachtens
-                <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=1d" compleet="nee">artikel 1d van de Wet
+                <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=5" compleet="nee">artikel 5 van de Wet
                 rechtspositie rechterlijke ambtenaren</extref>
             gestelde vereisten voor benoembaarheid tot rechter in een rechtbank.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De voorzitter wordt bij koninklijk besluit, op voordracht
             van Onze Minister, benoemd voor een tijdvak van zes jaar. De
             andere twee leden en de buitengewone leden worden bij
@@ -2231,7 +2231,7 @@ wet</extref> van toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>Er is een Raad van advies die het College adviseert over
             algemene aspecten van de bescherming van persoonsgegevens.
             De leden zijn afkomstig uit de onderscheidene sectoren van
