@@ -1470,7 +1470,7 @@ ontvangen.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Hangende de be
 van de rechtbank wordt de veroordeelde niet voorwaardelijk in vrijheid
 gesteld.</al></lid><lid> <lidnr status="officieel">3</lidnr><al>Indien niet blijkt dat de
 veroordeelde een raadsman heeft, geeft de voorzitter op verzoek van de
-veroordeelde aan het bureau rechtsbijstandvoorziening last tot
+veroordeelde aan het bestuur van de raad voor rechtsbijstand last tot
 toevoeging van een raadsman. De veroordeelde en zijn raadsman kunnen
 voor de aanvang van het onderzoek van de stukken kennis nemen. <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=34" compleet="nee">Artikel
 34 van het Wetboek van Strafvordering</extref> is van overeenkomstige
@@ -3424,7 +3424,7 @@ jaren, worden verlengd.</al>
                   <kop>
                      <label>Artikel</label>
                      <nr status="officieel">38la</nr>
-                  <al><redactie type="extra">Treedt in werking per 01-07-2010</redactie></al></kop>
+                  </kop>
                   <lid>
                      <lidnr status="officieel">1</lidnr>
                      <al>Onze
@@ -3497,7 +3497,20 @@ eindigt van rechtswege, indien de officier van justitie een vordering
 als bedoeld in het zesde lid heeft ingediend en de rechter deze heeft
 afgewezen.</al>
                   </lid>
-               </artikel></afdeling><afdeling><kop><nr>Derde</nr><label>afdeling</label><titel status="officieel">Plaatsing in een inrichting voor stelselmatige daders</titel></kop><artikel status="goed">
+               </artikel><artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">38lb</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-09-2010</redactie></al></kop>
+                     <al>De rechter kan, ambtshalve dan wel op vordering
+van het openbaar ministerie, ten aanzien van een vreemdeling die geen
+rechtmatig verblijf heeft in Nederland in de zin van <extref status="actief" doc="1.0:v:BWBR0011823&amp;artikel=8" compleet="nee">artikel 8 van de
+Vreemdelingenwet 2000</extref>, de terbeschikkingstelling met verpleging van
+overheidswege be&#xEB;indigen onder de voorwaarde dat de vreemdeling
+niet naar Nederland terugkeert. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38la">Artikel 38la, zesde en zevende lid</intref>, is
+van overeenkomstige
+toepassing.</al>
+                  </artikel></afdeling><afdeling><kop><nr>Derde</nr><label>afdeling</label><titel status="officieel">Plaatsing in een inrichting voor stelselmatige daders</titel></kop><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">38m</nr>
@@ -3553,10 +3566,18 @@ slechts gebruik maken met instemming van het openbaar ministerie en de verdachte
         <lidnr status="officieel">6</lidnr>
         <al>Bij het opleggen van de maatregel neemt de rechter de inhoud
             van de overige adviezen en rapporten die over de verdachte
-            zijn uitgebracht, alsmede de veelheid van misdrijven
-            waarvoor deze eerder is veroordeeld in aanmerking.</al>
+            zijn uitgebracht, alsmede de
+veelvuldigheid van voorafgegane veroordelingen wegens
+misdrijf in aanmerking.</al>
     </lid>
-</artikel><artikel status="goed"><kop><label>Artikel</label><nr>38n</nr></kop><lid><lidnr>1</lidnr><al>De maatregel geldt voor de tijd van ten hoogste twee jaren,
+<lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Onder een
+veroordeling als bedoeld in het eerste lid, onder 2&#xB0;, wordt mede
+verstaan een onherroepelijke veroordeling door een strafrechter in een
+andere lidstaat van de Europese Unie wegens soortgelijke
+feiten.</al>
+                     </lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr>38n</nr></kop><lid><lidnr>1</lidnr><al>De maatregel geldt voor de tijd van ten hoogste twee jaren,
             te rekenen van de dag waarop de rechterlijke uitspraak
             waarbij hij is opgelegd, onherroepelijk is geworden.</al></lid><lid><lidnr>2</lidnr><al>Bij het bepalen van de duur van de maatregel kan de rechter
             rekening houden met de tijd die door de veroordeelde v&#xF3;&#xF3;r
@@ -3796,7 +3817,8 @@ ongeoorloofd afwezig is.</al>
 op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan,
 onverminderd <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=10">artikel 10</intref>, met een derde worden verhoogd indien tijdens
 het plegen van het misdrijf nog geen vijf jaren zijn verlopen sedert
-een veroordeling van de schuldige tot gevangenisstraf wegens een
+een vroegere
+veroordeling van de schuldige tot gevangenisstraf wegens een
 daaraan soortgelijk misdrijf in kracht van gewijsde is gegaan. De
 termijn van vijf jaren wordt verlengd met de tijd waarin de
 veroordeelde rechtens zijn vrijheid is
@@ -3816,13 +3838,7 @@ tot en met 117b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;art
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=419">419</intref>;</al></li><li> <li.nr>4&#xB0;.</li.nr><al> de misdrijven
 omschreven in de <extref status="actief" doc="1.0:v:BWBR0001941" compleet="nee">Opiumwet</extref>;</al></li><li>
 <li.nr>5&#xB0;.</li.nr><al>de misdrijven omschreven in de <extref status="actief" doc="1.0:v:BWBR0008804" compleet="nee">Wet wapens
-en munitie</extref>.</al></li></lijst></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">43c</nr></kop><al>Bij
-de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=208">artikelen 208 tot en met 210</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=213">213</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=214">214</intref>
-wordt een onherroepelijke veroordeling tot gevangenisstraf door een
-rechter in een andere lidstaat van de Europese Unie uitgesproken ter
-zake van enig misdrijf ten opzichte van muntspeci&#xEB;n of munt- of
-bankbiljetten als een veroordeling wegens een soortgelijk misdrijf in
-aanmerking genomen.</al></artikel><artikel status="goed">
+en munitie</extref>.</al></li></lijst></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>44</nr>
@@ -6337,7 +6353,7 @@ volgt.</al></artikel><artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">78c</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-07-2010</redactie></al></kop>
+                     </kop>
                      <al>Waar van een voorafgegane of vroegere veroordeling
 wegens een strafbaar feit wordt gesproken, wordt daaronder mede
 verstaan een voorafgegane of vroegere onherroepelijke veroordeling door
@@ -12049,13 +12065,21 @@ categorie.</al>
         gestraft met gevangenisstraf van ten hoogste drie jaren of
         geldboete van de vierde categorie.</al>
 </artikel>
-    
+    <artikel status="goed">
+                  <kop>
+                     <label>Artikel</label>
+                     <nr status="officieel">254</nr>
+                  </kop>
+                  <al>Hij die ontuchtige handelingen pleegt met een dier
+wordt gestraft met gevangenisstraf van ten hoogste een jaar en zes
+maanden of geldboete van de vierde categorie.</al>
+               </artikel>
     
                <artikel status="goed">
                   <kop>
                      <label>Artikel</label>
                      <nr status="officieel">254a</nr>
-                  <al><redactie type="extra">Treedt in werking per 01-07-2010</redactie></al></kop>
+                  </kop>
                   <lid>
                      <lidnr status="officieel">1</lidnr>
                      <al>Met
@@ -17170,19 +17194,44 @@ aangetast.</al></lid></artikel>
         watergebieden vastgesteld, overtreedt, wordt gestraft met
         hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>438</nr></kop><lid><lidnr>1</lidnr><al>Hij die er zijn beroep van maakt aan personen nachtverblijf
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">438</nr>
+    </kop>
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Hij die er zijn beroep van maakt aan personen nachtverblijf
             te verschaffen wordt gestraft met hechtenis van ten hoogste
-            een maand of geldboete van de tweede categorie indien hij: </al><lijst><li><li.nr>1e.</li.nr><al>nalaat zich onverwijld bij aankomst van de persoon
+            een maand of geldboete van de tweede categorie indien hij: </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>1e.</li.nr>
+                <al>nalaat zich onverwijld bij aankomst van de persoon
                     die in de door hem gehouden inrichting de nacht zal
                     doorbrengen een geldig reisdocument of
-                    identiteitsbewijs te doen overleggen;</al></li><li><li.nr>2e.</li.nr><al>geen doorlopend register houdt of nalaat daarin
+                    identiteitsbewijs te doen overleggen;</al>
+            </li>
+            <li>
+                <li.nr>2e.</li.nr>
+                <al>geen doorlopend register houdt of nalaat daarin
                     onverwijld bij de aankomst van die persoon zijn
-                    naam, beroep of betrekking, woonplaats en dag van
+                    naam, woonplaats en dag van
                     aankomst aan te tekenen of te doen aantekenen
                     alsmede zelf daarin aantekening te houden of te doen
                     houden van de aard van het overgelegde document, en,
-                    bij het vertrek, de dag van het vertrek;</al></li><li><li.nr>3e.</li.nr><al>nalaat dat register op aanvraag te vertonen aan de
-                    burgemeester dan wel aan de door deze aangewezen ambtenaar.</al></li></lijst></lid><lid><lidnr>2</lidnr><al> Met dezelfde straf wordt de gelijke nalatigheid gestraft
+                    bij het vertrek, de dag van het vertrek;</al>
+            </li>
+            <li>
+                <li.nr>3e.</li.nr>
+                <al>nalaat dat register op aanvraag te vertonen aan de
+                    burgemeester dan wel aan de door deze aangewezen ambtenaar.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> Met dezelfde straf wordt de gelijke nalatigheid gestraft
             van degene die er zijn beroep of een gewoonte van maakt aan
             meerderjarige personen een terrein, daaronder begrepen
             iedere binnenhaven of elk binnenwater ingericht tot het
@@ -17191,9 +17240,15 @@ aangetast.</al></lid></artikel>
             houden van nachtverblijf of voor het plaatsen dan wel
             geplaatst houden van kampeermiddelen of daartoe enig
             bouwwerk, niet zijnde een inrichting als bedoeld in het
-            eerste lid, ter beschikking stelt.</al></lid><lid><lidnr>3</lidnr><al> Op nachtverblijf, verschaft aan meereizende echtgenoten,
+            eerste lid, ter beschikking stelt.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al> Op nachtverblijf, verschaft aan meereizende echtgenoten,
             minderjarige kinderen of aan reisgezelschappen, is het
-            voorgaande niet van toepassing.</al></lid></artikel>
+            voorgaande niet van toepassing.</al>
+    </lid>
+</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
