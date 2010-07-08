@@ -10180,6 +10180,16 @@ hoogste vijf jaren of
     </lid>
 </artikel>
     <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">184a</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-09-2010</redactie></al></kop>
+                     <al>Hij die opzettelijk handelt in strijd met een
+gedragsaanwijzing, gegeven krachtens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=509hh" compleet="nee">artikel 509hh, eerste lid,
+onderdeel b, van het Wetboek van Strafvordering</extref>, wordt gestraft met
+gevangenisstraf van ten hoogste een jaar of geldboete van de derde
+categorie.</al>
+                  </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>185</nr>
@@ -16755,12 +16765,12 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>429</nr>
+        <nr status="officieel">429</nr>
     </kop>
     
     <al>Met hechtenis van ten hoogste veertien dagen of geldboete van de
         tweede categorie wordt gestraft: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>1&#xB0;.</li.nr>
             <al>hij die een vuurwapen afschiet, een vuurwerk ontsteekt
@@ -16771,7 +16781,8 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
         <li>
             <li.nr>2&#xB0;.</li.nr>
             <al>hij die, anders dan in de gevallen toegelaten bij of
-                krachtens de <extref status="actief" doc="1.0:v:BWBR0002267" compleet="nee">Luchtvaartwet</extref>,
+                krachtens de <extref status="actief" doc="1.0:v:BWBR0005555" compleet="nee">Wet
+luchtvaart</extref>,
                 een ballon oplaat waaraan brandende stoffen gehecht zijn;</al>
         </li>
         <li>
