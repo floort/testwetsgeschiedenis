@@ -3069,15 +3069,49 @@ b, van de Wegenverkeerswet 1994</extref>,
         <lidnr status="officieel">2</lidnr>
         <al> Indien bij de uitspraak tevens een vrijheidsstraf wordt
             opgelegd, kan deze in het in het eerste lid van dit artikel
-            bedoelde geval ten hoogste op drie jaar worden bepaald.</al>
+            bedoelde geval ten hoogste op vijf jaar worden bepaald.</al>
     </lid>
     <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Een voorwaarde als bedoeld in het eerste lid kan de rechter
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien
+bij de uitspraak tevens een vrijheidsstraf wordt opgelegd voor een
+langere periode dan drie jaar legt de rechter in de uitspraak de aard
+van de zorgverlening vast, die als voorwaarde is
+vastgesteld.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>In
+het geval als bedoeld in het derde lid, stelt de rechter voorafgaand
+aan het ontslag uit detentie zo nodig opnieuw de voorwaarden vast
+betreffende het gedrag van de ter beschikking gestelde. Het openbaar
+ministerie kan hiertoe, uiterlijk zes maanden voorafgaand aan het
+ontslag uit detentie, een met redenen omklede vordering
+indienen.</al>
+                     </lid><lid>
+        <lidnr status="officieel">5</lidnr>
+        <al>Een voorwaarde als bedoeld in het eerste en vierde
+lid kan de rechter
             slechts stellen, indien de ter beschikking gestelde zich
             bereid heeft verklaard tot naleving van de voorwaarde.</al>
     </lid>
-<lid> <lidnr status="officieel">4</lidnr><al>Bij
+<lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>De
+rechter kan op vordering van de officier van justitie of ambtshalve
+bevelen dat de terbeschikkingstelling met voorwaarden dadelijk
+uitvoerbaar
+is.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Een
+bevel als bedoeld in het zesde lid gaat in op het ogenblik waarop de
+verdachte ter tenuitvoerlegging van dit bevel wordt aangehouden, dan
+wel op het tijdstip waarop de tenuitvoerlegging van een ander bevel tot
+vrijheidsbeneming, in dezelfde zaak gegeven,
+eindigt.</al>
+                     </lid><lid> <lidnr status="officieel">8</lidnr><al>Bij
 algemene maatregel van bestuur kunnen nadere regels worden gesteld
 omtrent de procedure van terbeschikkingstelling met
 voorwaarden.</al></lid></artikel>
@@ -3181,29 +3215,35 @@ voorwaarden.</al></lid></artikel>
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38j">artikel 38j</intref>, door de rechter, op vordering van het
 		openbaar ministerie, telkens hetzij met een jaar hetzij met twee jaar worden
 		verlengd, indien de veiligheid van anderen, dan wel de algemene veiligheid van
-		personen of goederen die verlenging eist. Een tweede verlenging is slechts
-		mogelijk wanneer een bevel als bedoeld in
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37b">artikel 37b</intref> of
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38c">artikel 38c</intref> is gegeven.</al> 
+		personen of goederen die verlenging eist.</al> 
   </lid>
 </artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>38e</nr> 
+	 <nr status="officieel">38e</nr> 
   </kop>
     
 
   <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>De totale duur van de maatregel van terbeschikkingstelling gaat een
-		periode van vier jaar niet te boven, tenzij de terbeschikkingstelling is
+	 <lidnr status="officieel">1</lidnr> 
+	 <al>De totale duur van de maatregel van terbeschikkingstelling met bevel tot verpleging
+van overheidswege gaat een
+		periode van vier jaar niet te boven, tenzij de terbeschikkingstelling met bevel tot verpleging
+van overheidswege is
 		opgelegd ter zake van een misdrijf dat gericht is tegen of gevaar veroorzaakt
 		voor de onaantastbaarheid van het lichaam van een of meer personen.</al> 
   </lid>
     
-  <lid> 
-	 <lidnr>2</lidnr> 
+  <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Behoudens
+de gevallen waarin een bevel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37b">artikel 37b</intref> of <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38c">artikel 38c</intref>
+is gegeven, gaat de totale duur van de maatregel van
+terbeschikkingstelling een periode van negen jaar niet te
+boven.</al>
+                     </lid><lid> 
+	 <lidnr status="officieel">3</lidnr> 
 	 <al> Indien de totale duur van de terbeschikkingstelling niet in tijd is
 		beperkt, kan de termijn van de terbeschikkingstelling telkens worden verlengd,
 		wanneer de veiligheid van anderen, dan wel de algemene veiligheid van personen
@@ -3501,7 +3541,7 @@ afgewezen.</al>
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">38lb</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-09-2010</redactie></al></kop>
+                     </kop>
                      <al>De rechter kan, ambtshalve dan wel op vordering
 van het openbaar ministerie, ten aanzien van een vreemdeling die geen
 rechtmatig verblijf heeft in Nederland in de zin van <extref status="actief" doc="1.0:v:BWBR0011823&amp;artikel=8" compleet="nee">artikel 8 van de
@@ -8670,6 +8710,16 @@ of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
     </lid>
 </artikel>
     <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">141a</nr>
+                     </kop>
+                     <al>Hij die opzettelijk gelegenheid, middelen of
+inlichtingen verschaft tot het plegen van geweld tegen personen of
+goederen wordt gestraft met gevangenisstraf van ten hoogste drie jaren
+of een geldboete van de vierde
+categorie.</al>
+                  </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>142</nr>
@@ -10231,7 +10281,7 @@ hoogste vijf jaren of
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">184a</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-09-2010</redactie></al></kop>
+                     </kop>
                      <al>Hij die opzettelijk handelt in strijd met een
 gedragsaanwijzing, gegeven krachtens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=509hh" compleet="nee">artikel 509hh, eerste lid,
 onderdeel b, van het Wetboek van Strafvordering</extref>, wordt gestraft met
