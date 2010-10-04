@@ -438,7 +438,7 @@ geslacht die de leeftijd van achttien jaren nog niet heeft
 bereikt;</al> 
 		</li>
 	 <li><li.nr>4&#xB0;.</li.nr><al>aan een der
-misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138a">artikelen 138a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138b">138b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139c">139c</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139d">139d</intref>,
+misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138ab">artikelen 138ab</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138b">138b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139c">139c</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139d">139d</intref>,
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161sexies">161sexies</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">225</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=226">226</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=227">227</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240a">240a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=326">326</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=326c">326c</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350a">350a</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=351">351</intref>, voor
 zover het feit valt onder de omschrijving van de artikelen 2 tot en met
 10 van het op 23&#xA0;november 2001 te Budapest tot stand gekomen
@@ -935,25 +935,41 @@ personen.</al></lid>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>14c</nr> 
+	 <nr status="officieel">14c</nr> 
   </kop>
     
-  <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>Toepassing van
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14a">artikel 14<nadruk type="cur">a</nadruk>
-		</intref> geschiedt onder de algemene voorwaarde dat de veroordeelde
-		zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar
-		feit.</al> 
-  </lid>
+  <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Toepassing
+van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14a">artikel 14a</intref> geschiedt onder de algemene voorwaarden
+dat:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+veroordeelde zich voor het einde van de proeftijd niet schuldig maakt
+aan een strafbaar feit,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de veroordeelde,
+voor zover aan de toepassing van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14a">artikel 14a</intref> bijzondere voorwaarden als
+bedoeld in het tweede lid, onder 5&#xB0;, zijn gesteld, ten behoeve van
+het vaststellen van zijn identiteit medewerking verleent aan het nemen
+van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de identificatieplicht</extref> ter inzage
+aanbiedt.</al>
+                           </li>
+                        </lijst>
+                     </lid>
     
   <lid> 
-	 <lidnr>2</lidnr> 
+	 <lidnr status="officieel">2</lidnr> 
 	 <al> Bij toepassing van
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14a">artikel 14<nadruk type="cur">a</nadruk>
-		</intref> kunnen voorts de volgende bijzondere voorwaarden worden
+		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14a">artikel 14a</intref> kunnen voorts de volgende bijzondere voorwaarden worden
 		gesteld: </al> 
-	 <lijst> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
 		<li> 
 		  <li.nr>1&#xB0;.</li.nr> 
 		  <al>gehele of gedeeltelijke vergoeding van de door het strafbare feit
@@ -989,14 +1005,14 @@ personen.</al></lid>
 	 </lijst> 
   </lid> 
   <lid> 
-	 <lidnr>3</lidnr> 
+	 <lidnr status="officieel">3</lidnr> 
 	 <al> De bijzondere voorwaarden mogen de vrijheid van de veroordeelde zijn
 		godsdienst of levensovertuiging te belijden en de staatkundige vrijheid niet
 		beperken.</al> 
   </lid>
     
   <lid> 
-	 <lidnr>4</lidnr> 
+	 <lidnr status="officieel">4</lidnr> 
 	 <al> Bij het stellen van &#xE9;&#xE9;n van de bijzondere voorwaarden genoemd in het
 		tweede lid, onder 3&#xB0; en 4&#xB0;, vinden de
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=23">artikelen 23, eerste en tweede lid</intref>, en
@@ -1006,22 +1022,28 @@ personen.</al></lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>14d</nr>
+        <nr status="officieel">14d</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Met het toezicht op de naleving van de voorwaarden is het
             openbaar ministerie belast.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> De rechter kan aan een krachtens algemene maatregel van
             bestuur aangewezen reclasseringsinstelling dan wel aan een
             bijzondere reclasseringsambtenaar opdracht geven de
             veroordeelde bij de naleving van de voorwaarden hulp en
-            steun te verlenen.</al>
+            steun te verlenen. Bij het
+verlenen van hulp en steun bij de naleving van de voorwaarden, bedoeld
+in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14c">artikel 14c, tweede lid, onder 5&#xB0;</intref>, stelt de
+reclasseringsinstelling dan wel de bijzondere reclasseringsambtenaar de
+identiteit van de veroordeelde vast op de wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel
+27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van
+Strafvordering</extref>.</al>
     </lid>
 </artikel>
     
@@ -1334,10 +1356,32 @@ zijn.</al></lid><lid> <lidnr status="officieel">6</lidnr><al>De <extref status="
 het Wetboek van Strafvordering</extref> zijn van
 toepassing.</al></lid></artikel><artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">15a</nr></kop>
-<lid><lidnr status="officieel">1</lidnr><al>De voorwaardelijke invrijheidstelling
-geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor
-het einde van de proeftijd niet schuldig maakt aan een strafbaar
-feit.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Aan de voorwaardelijke
+<lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De
+voorwaardelijke invrijheidstelling geschiedt onder de algemene
+voorwaarden
+dat:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+veroordeelde zich voor het einde van de proeftijd niet schuldig maakt
+aan een strafbaar feit,
+en</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de veroordeelde,
+voor zover aan de voorwaardelijke invrijheidstelling bijzondere
+voorwaarden als bedoeld in het tweede lid worden gesteld, ten behoeve
+van het vaststellen van zijn identiteit medewerking verleent aan het
+nemen van een of meer vingerafdrukken of een identiteitsbewijs als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de identificatieplicht</extref> ter inzage
+aanbiedt.</al>
+                           </li>
+                        </lijst>
+                     </lid><lid> <lidnr status="officieel">2</lidnr><al>Aan de voorwaardelijke
 invrijheidstelling kunnen daarnaast bijzondere voorwaarden betreffende
 het gedrag van de veroordeelde worden gesteld.</al></lid><lid>
 <lidnr status="officieel">3</lidnr><al>De bijzondere voorwaarden kunnen inhouden deelname
@@ -1372,7 +1416,12 @@ Reclasseringsregeling 1995</extref> opdracht geven de veroordeelde begeleiding
 te bieden bij en toezicht te houden op de naleving van de bijzondere
 voorwaarden. Indien een voorwaarde niet wordt nageleefd, doet de
 reclasseringsinstelling daarvan onverwijld melding aan het openbaar
-ministerie.</al></lid><lid> <lidnr status="officieel">3</lidnr><al>Bij of krachtens
+ministerie. Bij het
+bieden van begeleiding bij en het toezicht houden op de naleving van de
+bijzondere voorwaarden stelt de reclasseringsinstelling de identiteit
+van de veroordeelde vast op de wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel 27a, eerste
+lid, eerste volzin, en tweede lid, van het Wetboek van
+Strafvordering</extref>.</al></lid><lid> <lidnr status="officieel">3</lidnr><al>Bij of krachtens
 algemene maatregel van bestuur kunnen nadere regels worden gesteld
 omtrent het uit te oefenen toezicht.</al></lid></artikel><artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">15c</nr></kop>
@@ -1824,15 +1873,15 @@ termijn
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>22e</nr>
+        <nr status="officieel">22e</nr>
     </kop>
     
     <al>Over de wijze waarop de taakstraf wordt of is verricht, kan het
         openbaar ministerie, naar regelen te stellen bij algemene
         maatregel van bestuur, inlichtingen inwinnen bij lichamen en
         personen die  werkzaam zijn op het gebied van de reclassering.
-            <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=147" compleet="nee">Artikel 147 van het  Wetboek van
-        Strafvordering</extref> is van overeenkomstige toepassing.</al>
+            <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=147" compleet="nee">Artikel 147, eerste lid, van het Wetboek van
+Strafvordering</extref> is van overeenkomstige toepassing.</al>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -1878,11 +1927,11 @@ termijn
     
     <lid>
         <lidnr status="officieel">1</lidnr>
-        <al>Indien de door de
-rechter tot een taakstraf veroordeelde niet aanvangt met
-            de taakstraf of het openbaar ministerie van oordeel is dat
-            de veroordeelde de opgelegde taakstraf niet naar behoren
-            verricht of heeft verricht, kan het openbaar ministerie de
+        <al>Indien de tot een taakstraf veroordeelde
+niet aanvangt met de taakstraf, geen medewerking verleent aan het
+vaststellen van zijn identiteit of het openbaar ministerie van oordeel
+is dat de veroordeelde de opgelegde taakstraf niet naar behoren
+verricht of heeft verricht, kan het openbaar ministerie de
             tenuitvoerlegging van de vervangende hechtenis bevelen. Het
             openbaar ministerie geeft hiervan kennis aan de veroordeelde.</al>
     </lid>
@@ -1950,12 +1999,15 @@ rechter tot een taakstraf veroordeelde niet aanvangt met
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>22k</nr>
+        <nr status="officieel">22k</nr>
     </kop>
     <al>Bij of krachtens algemene maatregel van bestuur worden nadere
         regels gesteld over de inhoud van de taakstraf, de
         tenuitvoerlegging van de taakstraf en de rechten en plichten van
-        de tot een taakstraf veroordeelde.</al>
+        de tot een taakstraf veroordeelde. Bij de tenuitvoerlegging van de
+taakstraf wordt de identiteit van de veroordeelde vastgesteld op de
+wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel 27a, eerste lid, eerste volzin, en tweede
+lid, van het Wetboek van Strafvordering</extref>.</al>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -3054,25 +3106,37 @@ b, van de Wegenverkeerswet 1994</extref>,
     </kop>
     
     <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Indien de rechter niet een bevel als bedoeld in
-                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37b">artikel 37b</intref> geeft, stelt hij ter bescherming van de
-            veiligheid van anderen dan wel de algemene veiligheid van
-            personen of goederen voorwaarden betreffende het gedrag van
-            de ter beschikking gestelde. De rechter geeft tevens een in de
-            uitspraak aangewezen instelling, die aan bepaalde, bij of
-            krachtens algemene maatregel van bestuur te stellen, eisen
-            voldoet opdracht de ter beschikking gestelde bij de
-            naleving van de voorwaarden hulp en steun te verlenen.</al>
-    </lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Indien de
+rechter niet een bevel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37b">artikel 37b</intref> geeft, stelt hij ter
+bescherming van de veiligheid van anderen dan wel de algemene
+veiligheid van personen of goederen voorwaarden betreffende het gedrag
+van de ter beschikking gestelde. Als algemene voorwaarde geldt dat de
+ter beschikking gestelde ten behoeve van het vaststellen van zijn
+identiteit medewerking verleent aan het nemen van een of meer
+vingerafdrukken of een identiteitsbewijs als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van
+de Wet op de identificatieplicht</extref> ter inzage
+aanbiedt.</al>
+                     </lid>
     <lid>
-        <lidnr status="officieel">2</lidnr>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+rechter geeft tevens een in de uitspraak aangewezen instelling, die aan
+bepaalde bij of krachtens algemene maatregel van bestuur te stellen
+eisen voldoet, opdracht de ter beschikking gestelde bij de naleving van
+de voorwaarden hulp en steun te verlenen. Bij het verlenen van hulp en
+steun bij de naleving van de voorwaarden wordt de identiteit van de ter
+beschikking gestelde vastgesteld op de wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel 27a,
+eerste lid, eerste volzin, en tweede lid, van het Wetboek van
+Strafvordering</extref>.</al>
+                     </lid><lid>
+        <lidnr status="officieel">3</lidnr>
         <al> Indien bij de uitspraak tevens een vrijheidsstraf wordt
             opgelegd, kan deze in het in het eerste lid van dit artikel
             bedoelde geval ten hoogste op vijf jaar worden bepaald.</al>
     </lid>
     <lid>
-                        <lidnr status="officieel">3</lidnr>
+                        <lidnr status="officieel">4</lidnr>
                         <al>Indien
 bij de uitspraak tevens een vrijheidsstraf wordt opgelegd voor een
 langere periode dan drie jaar legt de rechter in de uitspraak de aard
@@ -3080,7 +3144,7 @@ van de zorgverlening vast, die als voorwaarde is
 vastgesteld.</al>
                      </lid>
                      <lid>
-                        <lidnr status="officieel">4</lidnr>
+                        <lidnr status="officieel">5</lidnr>
                         <al>In
 het geval als bedoeld in het derde lid, stelt de rechter voorafgaand
 aan het ontslag uit detentie zo nodig opnieuw de voorwaarden vast
@@ -3309,8 +3373,8 @@ overheidswege op grond van het eerste lid be&#xEB;indigt, stelt hij
 ter bescherming van de veiligheid van anderen dan wel de algemene
 veiligheid van personen en goederen voorwaarden betreffende het gedrag
 van de ter beschikking
-gestelde. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38">artikelen 38, eerste lid, tweede
-                volzin en derde lid</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38a">38a</intref> zijn van overeenkomstige toepassing.</al>
+gestelde. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38">artikelen 38, eerste lid, laatste volzin,
+tweede en vierde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38a">38a</intref> zijn van overeenkomstige toepassing.</al>
     </lid>
     <lid>
         <lidnr status="officieel">3</lidnr>
@@ -3636,37 +3700,60 @@ feiten.</al>
             tenuitvoerlegging daarvan.</al></lid></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>38p</nr>
+        <nr status="officieel">38p</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De rechter kan bepalen dat de maatregel niet ten uitvoer zal
             worden gelegd. </al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De rechter die bepaalt dat de door hem opgelegde maatregel
             niet ten uitvoer zal worden gelegd stelt daarbij een
             proeftijd vast van ten hoogste drie jaren.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
-        <al>Bij de toepassing van het eerste lid geldt als algemene
-            voorwaarde dat de veroordeelde zich voor het einde van de
-            proeftijd niet schuldig maakt aan een strafbaar feit.</al>
-    </lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Bij de
+toepassing van het eerste lid geldt als algemene voorwaarde
+dat:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de
+veroordeelde zich voor het einde van de proeftijd niet schuldig maakt
+aan een strafbaar
+feit;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de
+veroordeelde bij de naleving van de voorwaarden, bedoeld in het vierde
+lid, ten behoeve van het vaststellen van zijn identiteit medewerking
+verleent aan het nemen van een of meer vingerafdrukken of een
+identiteitsbewijs als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de
+identificatieplicht</extref> ter inzage
+aanbiedt.</al>
+                           </li>
+                        </lijst>
+                     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De rechter stelt ter bescherming van de veiligheid van
             personen of goederen voorwaarden betreffende het gedrag van
             de veroordeelde. De rechter kan een krachtens algemene
             maatregel van bestuur aangewezen reclasseringsinstelling
             opdracht geven de veroordeelde bij de naleving van de
-            voorwaarden hulp en steun te verlenen.</al>
+            voorwaarden hulp en steun te verlenen. Bij het verlenen van hulp en steun
+bij de naleving van de voorwaarden wordt de identiteit van de
+veroordeelde vastgesteld op de wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel 27a, eerste
+lid, eerste volzin, en tweede lid, van het Wetboek van
+Strafvordering</extref>.</al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>Een voorwaarde als bedoeld in het vierde lid kan inhouden
             dat de veroordeelde zich ambulant of intramuraal laat
             behandelen. Opname in een inrichting vindt in dit verband
@@ -3676,20 +3763,20 @@ feiten.</al>
             behandeling te ondergaan.</al>
     </lid>
     <lid>
-        <lidnr>6</lidnr>
+        <lidnr status="officieel">6</lidnr>
         <al>Bij of krachtens algemene maatregel van bestuur kunnen
             regels worden gesteld omtrent de eisen waaraan een
             inrichting en een behandeling als bedoeld in het vijfde lid
             moeten voldoen.</al>
     </lid>
     <lid>
-        <lidnr>7</lidnr>
+        <lidnr status="officieel">7</lidnr>
         <al>De in het vierde lid gestelde voorwaarden mogen de vrijheid
             van de veroordeelde zijn godsdienst of levensovertuiging te
             belijden en de staatkundige vrijheid niet beperken.</al>
     </lid>
     <lid>
-        <lidnr>8</lidnr>
+        <lidnr status="officieel">8</lidnr>
         <al>Het openbaar ministerie houdt toezicht op de naleving van de
             gestelde voorwaarden.</al>
     </lid>
@@ -5217,7 +5304,20 @@ justitie in een strafbeschikking een taakstraf opleggen voor ten
 hoogste zestig uren, te verrichten binnen een termijn van ten hoogste
 drie maanden. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77m">Artikel 77m, negende lid</intref>, is van overeenkomstige
 toepassing.</al></lid>
-</artikel>
+<lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Bij
+het begeleiden bij de naleving van de aanwijzingen, bedoeld in het
+eerste lid, onder a, en de uitvoering van de taakstraf, bedoeld in het
+eerste lid, onder b, wordt de identiteit van de verdachte vastgesteld
+op de wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel 27a, eerste lid, eerste volzin, en
+tweede lid, van het Wetboek van Strafvordering</extref>. Daartoe stelt de
+officier van justitie als voorwaarde dat de verdachte medewerking
+verleent aan het nemen van een of meer vingerafdrukken of een
+identiteitsbewijs als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de
+identificatieplicht</extref> ter inzage
+aanbiedt.</al>
+                     </lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -5618,9 +5718,16 @@ bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" complee
 tenuitvoerlegging van een taakstraf door de stichting, bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel
 1, onder f, van de Wet op de jeugdzorg</extref> betreft.</al>
     </lid>
-    
     <lid>
-        <lidnr status="officieel">2</lidnr>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Bij
+de tenuitvoerlegging van de taakstraf wordt de identiteit van de
+veroordeelde vastgesteld op de wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel 27a, eerste
+lid, eerste volzin, en tweede lid, van het Wetboek van
+Strafvordering</extref>.</al>
+                     </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
         <al>Het openbaar ministerie kan na overleg met de raad voor de
             kinderbescherming en de veroordeelde, de opgelegde straf,
             behoudens voor wat betreft het aantal opgelegde uren,
@@ -5633,7 +5740,7 @@ strafbeschikking kan of heeft
     </lid>
     
     <lid>
-        <lidnr status="officieel">3</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>Het openbaar ministerie doet deze kennisgeving zo spoedig
             mogelijk aan de veroordeelde betekenen. De kennisgeving
             behelst het aantal uren dat naar het oordeel van het
@@ -5642,7 +5749,7 @@ strafbeschikking kan of heeft
     </lid>
     
     <lid>
-        <lidnr status="officieel">4</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al> Tegen de kennisgeving, bedoeld in het derde lid, kan de
             veroordeelde binnen veertien dagen na de betekening een
             bezwaarschrift indienen bij de rechter die de straf oplegde.
@@ -5658,12 +5765,11 @@ strafbeschikking kan of heeft
     
     <lid>
         <lidnr status="officieel">1</lidnr>
-        <al>Indien de door de
-rechter tot een taakstraf veroordeelde niet aanvangt met
-            de taakstraf of het openbaar ministerie van oordeel is dat
-            de veroordeelde de door de
-rechter opgelegde taakstraf niet naar behoren
-            verricht of heeft verricht, kan het openbaar ministerie de
+        <al>Indien de tot een taakstraf veroordeelde
+niet aanvangt met de taakstraf, geen medewerking verleent aan het
+vaststellen van zijn identiteit of het openbaar ministerie van oordeel
+is dat de veroordeelde de opgelegde taakstraf niet naar behoren
+verricht of heeft verricht, kan het openbaar ministerie de
             tenuitvoerlegging van de vervangende jeugddetentie bevelen.
             Het openbaar ministerie geeft hiervan kennis aan de
             veroordeelde en de raad voor de kinderbescherming.</al>
@@ -5910,7 +6016,11 @@ zijn uitspraak aan waar de maatregel uit bestaat. De maatregel kan
 inhouden dat de veroordeelde aan een programma deelneemt in een door de
 rechter aan te wijzen instelling of dat de veroordeelde een ambulant
 programma zal volgen onder begeleiding van een door de rechter aan te
-wijzen organisatie.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het programma,
+wijzen organisatie. Bij de tenuitvoerlegging van de maatregel
+verleent de veroordeelde medewerking aan het nemen van een of meer
+vingerafdrukken of biedt hij een identiteitsbewijs als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de identificatieplicht</extref> ter
+inzage.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het programma,
 bedoeld in het derde lid, mag de vrijheid van de veroordeelde zijn
 godsdienst of levensovertuiging te belijden, en de staatkundige
 vrijheid niet beperken.</al></lid><lid><lidnr status="officieel">5</lidnr><al>De
@@ -5927,7 +6037,11 @@ maatregel wordt opgelegd voor de tijd van ten minste zes maanden en ten
 hoogste een jaar. De termijn gaat in nadat de rechterlijke uitspraak
 onherroepelijk is geworden.</al></lid><lid><lidnr status="officieel">7</lidnr><al>De
 jeugdreclassering heeft tot taak de voorbereiding en de ondersteuning
-van de tenuitvoerlegging van de maatregel. Over de wijze waarop de
+van de tenuitvoerlegging van de maatregel.  Bij de
+tenuitvoerlegging van de maatregel stelt de jeugdreclassering de
+identiteit van de veroordeelde vast op de wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel
+27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van
+Strafvordering</extref>. Over de wijze waarop de
 veroordeelde de maatregel uitvoert, kan het openbaar ministerie
 inlichtingen inwinnen bij de
 jeugdreclassering.</al></lid><lid><lidnr status="officieel">8</lidnr><al>De termijn van
@@ -6084,9 +6198,14 @@ is.</al></lid>
 	 <label>Artikel</label> 
 	 <nr status="officieel">77z</nr> 
   </kop>
-    <al>Toepassing van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77x</intref> geschiedt onder de algemene voorwaarde
-dat de veroordeelde zich voor het einde van de proeftijd niet schuldig
-maakt aan een strafbaar feit. Bij algemene maatregel van bestuur wordt
+    <al>Toepassing van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77x</intref> geschiedt onder de algemene
+voorwaarde dat de veroordeelde zich voor het einde van de proeftijd
+niet schuldig maakt aan een strafbaar feit en, in het geval aan de
+toepassing van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77x</intref> bijzondere voorwaarden als bedoeld in de
+tweede volzin worden gesteld, dat hij medewerking verleent aan het
+nemen van een of meer vingerafdrukken of een identiteitsbewijs als
+bedoeld in <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de identificatieplicht</extref> ter inzage
+aanbiedt. Bij algemene maatregel van bestuur wordt
 bepaald welke bijzondere voorwaarden die het gedrag van de veroordeelde
 betreffen daarnaast kunnen worden gesteld. Deze mogen de vrijheid van
 de verdachte zijn godsdienst of levensovertuiging te belijden, en de
@@ -6098,24 +6217,29 @@ proeftijd.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77aa</nr>
+        <nr status="officieel">77aa</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Met het toezicht op de naleving van de voorwaarden is het
             openbaar ministerie belast.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> De rechter kan aan een stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet op de jeugdzorg</extref>, of, in bijzondere
             gevallen en na overleg met een dergelijke rechtspersoon, aan
             een particulier persoon, opdragen aan de veroordeelde ter
             zake van de naleving der bijzondere voorwaarden hulp en
-            steun te verlenen.</al>
+            steun te verlenen. Bij het
+verlenen van hulp en steun bij de naleving van de bijzondere
+voorwaarden stelt de stichting de identiteit van de veroordeelde vast
+op de wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel 27a, eerste lid, eerste volzin, en
+tweede lid, van het Wetboek van
+Strafvordering</extref>.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> De rechter kan, indien de veroordeelde ingevolge
                 <extref status="actief" doc="1.0:v:BWBR0002656&amp;artikel=254" compleet="nee">artikel 254 van Boek 1 van het
                 Burgerlijk Wetboek</extref> onder toezicht is
@@ -6124,7 +6248,7 @@ proeftijd.</al>
             voorwaarden hulp en steun te verlenen.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> Is de veroordeelde meerderjarig dan is <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14d">artikel 14<nadruk type="cur">d</nadruk>, tweede lid</intref>, van
             overeenkomstige toepassing.</al>
     </lid>
@@ -8199,20 +8323,20 @@ worden ontzet.</al>
                   </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>138</nr>
+        <nr status="officieel">138</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die in de woning of het besloten lokaal of erf, bij een
             ander in gebruik, wederrechtelijk binnendringt of,
             wederrechtelijk aldaar vertoevende, zich niet op de
             vordering van of vanwege de rechthebbende aanstonds
             verwijdert, wordt gestraft met gevangenisstraf van ten
-            hoogste zes maanden of geldboete van de derde categorie.</al>
+            hoogste een jaar of geldboete van de derde categorie.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Hij die zich de toegang heeft verschaft door middel van
             braak of inklimming, van valse sleutels, van een valse order
             of een vals kostuum, of die, zonder voorkennis van de
@@ -8221,73 +8345,38 @@ worden ontzet.</al>
             nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Indien hij bedreigingen uit of zich bedient van middelen
             geschikt om vrees aan te jagen, wordt hij gestraft met
-            gevangenisstraf van ten hoogste een jaar of geldboete van de
-            derde categorie.</al>
+            gevangenisstraf van ten hoogste twee jaren of
+geldboete van de vierde
+categorie.</al>
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> De in het eerste en derde lid bepaalde gevangenisstraffen
             kunnen met een derde worden verhoogd, indien twee of meer
             verenigde personen het misdrijf plegen.</al>
     </lid>
 </artikel>
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr status="officieel">138a</nr> 
-  </kop>
-  <lid>
-<lidnr status="officieel">1</lidnr><al>Met gevangenisstraf van ten hoogste een jaar of
-geldboete van de vierde categorie wordt, als schuldig aan
-computervredebreuk, gestraft hij die opzettelijk en wederrechtelijk
-binnendringt in een geautomatiseerd werk of in een deel daarvan. Van
-binnendringen is in ieder geval sprake indien de toegang tot het werk
-wordt
-verworven:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
-<li.nr>a.</li.nr><al>door het doorbreken van een
-beveiliging,</al></li><li> <li.nr>b.</li.nr><al>door een technische
-ingreep,</al></li><li> <li.nr>c.</li.nr><al>met behulp van valse
-signalen of een valse sleutel, of</al></li><li>
-<li.nr>d.</li.nr><al>door het aannemen van een valse
-hoedanigheid.</al></li></lijst></lid> 
-  <lid> 
-	 <lidnr status="officieel">2</lidnr> 
-	 <al> Met gevangenisstraf van ten hoogste vier jaren of geldboete van de
-		vierde categorie wordt gestraft computervredebreuk, indien de dader
-vervolgens gegevens die zijn opgeslagen, worden verwerkt of
-overgedragen door middel van het geautomatiseerd werk waarin hij zich
-wederrechtelijk bevindt, voor zichzelf of een ander overneemt, aftapt
-of opneemt.</al>
-	 
-  </lid> 
-  <lid> 
-	 <lidnr status="officieel">3</lidnr> 
-	 <al> Met gevangenisstraf van ten hoogste vier jaren of geldboete van de
-		vierde categorie wordt gestraft computervredebreuk gepleegd door tussenkomst
-		van een openbaar telecommunicatienetwerk, indien de dader vervolgens </al> 
-	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
-		<li> 
-		  <li.nr>a.</li.nr> 
-		  <al>met het oogmerk zichzelf of een ander wederrechtelijk te bevoordelen gebruik maakt
-			 van verwerkingscapaciteit van een geautomatiseerd werk;</al> 
-		</li> 
-		<li> 
-		  <li.nr>b.</li.nr> 
-		  <al>door tussenkomst van het geautomatiseerd werk waarin hij is
-			 binnengedrongen de toegang verwerft tot het geautomatiseerd werk van een
-			 derde.</al> 
-		</li> 
-	 </lijst> 
-  </lid>
-</artikel><artikel status="goed"> 
+    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">138a</nr></kop>
+<lid><lidnr status="officieel">1</lidnr><al>Hij die
+in een woning of gebouw, waarvan het gebruik door de rechthebbende is
+be&#xEB;indigd, wederrechtelijk binnendringt of wederrechtelijk aldaar
+vertoeft, wordt, als schuldig aan kraken, gestraft met gevangenisstraf
+van ten hoogste een jaar of geldboete van de derde
+categorie.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Indien
+hij bedreigingen uit of zich bedient van middelen geschikt om vrees aan
+te jagen, wordt hij gestraft met gevangenisstraf van ten hoogste twee
+jaren of geldboete van de vierde categorie.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De in het
+eerste en tweede lid bepaalde gevangenisstraffen kunnen met een derde
+worden verhoogd, indien twee of meer verenigde personen het misdrijf
+plegen.</al></lid></artikel><artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr status="officieel">138ab</nr> 
-  <al><redactie type="extra">Treedt in werking per 01-10-2010</redactie></al></kop>
+  </kop>
   <lid>
 <lidnr status="officieel">1</lidnr><al>Met gevangenisstraf van ten hoogste een jaar of
 geldboete van de vierde categorie wordt, als schuldig aan
@@ -8521,7 +8610,7 @@ gegevensverwerking door een geautomatiseerd werk wederrechtelijk
         hulpmiddel op een bepaalde plaats aanwezig doet zijn.</al></lid>
 <lid> <lidnr status="officieel">2</lidnr><al>Met dezelfde
 straf wordt gestraft hij die, met het oogmerk dat daarmee een misdrijf
-als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138a">artikel 138a, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138b">138b</intref> of <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139c">139c</intref> wordt
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138ab">artikel 138ab, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138b">138b</intref> of <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=139c">139c</intref> wordt
 gepleegd:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
 <li.nr>a.</li.nr><al>een technisch hulpmiddel dat hoofdzakelijk
 geschikt gemaakt of ontworpen is tot het plegen van een zodanig
@@ -16852,11 +16941,14 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>428</nr>
+        <nr status="officieel">428</nr>
     </kop>
     
     
-    <al>Hij die, zonder verlof van de burgemeester of van de door deze
+    <al>Hij die, zonder verlof van de burgemeester, dan wel, in geval van een
+situatie als bedoeld in <extref status="actief" doc="1.0:v:BWBR0027466&amp;artikel=39" compleet="nee">artikel 39 van de Wet
+veiligheidsregio&#x2019;s</extref>, de voorzitter van de
+veiligheidsregio of van de door deze
         aangewezen ambtenaar, een of meer eigen onroerende zaken in
         brand steekt, wordt gestraft met geldboete van de eerste categorie.</al>
 </artikel>
@@ -16959,30 +17051,7 @@ aangetast.</al></lid></artikel>
         plaats bevindt, wordt gestraft met hechtenis van ten hoogste zes
         maanden of geldboete van de derde categorie.</al>
 </artikel>
-    <artikel status="goed"> 
-  <kop> 
-	 <label>Artikel</label> 
-	 <nr>429sexies</nr> 
-  </kop> 
-  <lid> 
-	 <lidnr>1</lidnr> 
-	 <al>Hij die een door hem wederrechtelijk in gebruik genomen woning of
-		gebouw, waarvan het gebruik door de rechthebbende niet meer dan twaalf maanden
-		voorafgaande aan die wederrechtelijke ingebruikname is be&#xEB;indigd, op vordering
-		van of vanwege de rechthebbende niet aanstonds ontruimt, wordt gestraft met
-		hechtenis van ten hoogste vier maanden of geldboete van de derde
-		categorie.</al> 
-  </lid>
     
-  <lid> 
-	 <lidnr>2</lidnr> 
-	 <al> Met dezelfde straf wordt gestraft hij die, vertoevende in een
-		wederrechtelijk in gebruik genomen woning of gebouw, waarvan het gebruik door
-		de rechthebbende niet meer dan twaalf maanden voorafgaande aan die
-		wederrechtelijke ingebruikname is be&#xEB;indigd, zich op de vordering van of
-		vanwege de rechthebbende niet aanstonds verwijdert.</al> 
-  </lid>
-</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -17507,13 +17576,14 @@ aangetast.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>443</nr>
+        <nr status="officieel">443</nr>
     </kop>
     
     
     <al>Hij die een algemeen voorschrift van politie, krachtens de
             <extref status="actief" doc="1.0:v:BWBR0005416" compleet="nee">Gemeentewet</extref> in
-        buitengewone omstandigheden door de burgemeester of de
+        buitengewone omstandigheden door de burgemeester, de voorzitter van de
+veiligheidsregio of de
         commissaris van de Koning in de provincie uitgevaardigd en
         afgekondigd, overtreedt, wordt gestraft met hechtenis van ten
         hoogste drie maanden of geldboete van de tweede categorie.</al>
@@ -17699,9 +17769,22 @@ aangetast.</al></lid></artikel>
         hechtenis van ten hoogste zes maanden of geldboete van de derde
         categorie. </al>
 </artikel>
-<artikel status="goed"><kop><label>Artikel</label><nr>447e</nr></kop><al>Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter
-inzage aan te bieden, hem opgelegd bij <extref status="actief" doc="1.0:v:BWBR0006297&amp;artikel=2" compleet="nee">artikel 2 van de Wet op de identificatieplicht</extref>,
-wordt gestraft met geldboete van de tweede categorie.</al></artikel></titeldeel>
+<artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">447e</nr>
+              </kop>
+              <al>Hij die niet voldoet aan de verplichting om een
+identiteitsbewijs ter inzage aan te bieden, hem opgelegd krachtens de
+<extref status="actief" doc="1.0:v:BWBR0006297" compleet="nee">Wet op de identificatieplicht</extref>, het <extref status="actief" doc="1.0:v:BWBR0001903" compleet="nee">Wetboek van Strafvordering</extref>, het
+Wetboek van Strafrecht, de <extref status="actief" doc="1.0:v:BWBR0016664" compleet="nee">Overleveringswet</extref>, de <extref status="actief" doc="1.0:v:BWBR0002559" compleet="nee">Uitleveringswet</extref>, de <extref status="actief" doc="1.0:v:BWBR0004028" compleet="nee">Wet
+overdracht tenuitvoerlegging strafvonnissen</extref>, de <extref status="actief" doc="1.0:v:BWBR0009709" compleet="nee">Penitentiaire
+beginselenwet</extref>, de <extref status="actief" doc="1.0:v:BWBR0008765" compleet="nee">Beginselenwet verpleging ter beschikking gestelden</extref>,
+de <extref status="actief" doc="1.0:v:BWBR0011756" compleet="nee">Beginselenwet justiti&#xEB;le jeugdinrichtingen</extref> of de <extref status="actief" doc="1.0:v:BWBR0005700" compleet="nee">Wet bijzondere
+opnemingen in psychiatrische ziekenhuizen</extref>, wordt gestraft met geldboete
+van de tweede
+categorie.</al>
+            </artikel></titeldeel>
     <titeldeel>
     <kop>
         <label>Titel</label>
