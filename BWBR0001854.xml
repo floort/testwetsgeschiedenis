@@ -380,7 +380,15 @@ of overlevering ter zake van een terroristisch misdrijf dan wel een
 misdrijf ter voorbereiding of vergemakkelijking van een terroristisch
 misdrijf, ontoelaatbaar is verklaard, is afgewezen of
 geweigerd.</al>
-                     </lid></artikel>
+                     </lid><lid>
+                                 <lidnr status="officieel">3</lidnr>
+                                 <al>De
+Nederlandse strafwet is toepasselijk op ieder tegen wie de
+strafvervolging door het Nederlands openbaar ministerie is overgenomen
+op grond van een daartoe strekkend verzoek van het openbaar ministerie
+van Bonaire, Sint Eustatius en
+Saba.</al>
+                              </lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -4627,24 +4635,24 @@ toepassing.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>68</nr>
+        <nr status="officieel">68</nr>
     </kop>
     
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Behoudens de gevallen waarin rechterlijke uitspraken voor
             herziening vatbaar zijn, kan niemand andermaal worden
             vervolgd wegens een feit waarover te zijnen aanzien bij
-            gewijsde van de rechter in Nederland, de Nederlandse
-            Antillen of Aruba onherroepelijk is beslist.</al>
+            gewijsde van de rechter in Nederland, Aruba, Cura&#xE7;ao, Sint Maarten of de openbare lichamen Bonaire, Sint
+Eustatius en Saba onherroepelijk is beslist.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Is het gewijsde afkomstig van een andere rechter, dan heeft
             tegen dezelfde persoon wegens hetzelfde feit geen vervolging
             plaats in geval van: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>1&#xB0;.</li.nr>
                 <al>vrijspraak of ontslag van rechtsvervolging;</al>
@@ -4658,7 +4666,7 @@ toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Niemand kan worden vervolgd wegens een feit dat te zijnen
             aanzien in een vreemde staat onherroepelijk is afgedaan door
             de voldoening aan een voorwaarde, door de bevoegde
@@ -10734,7 +10742,13 @@ geldboete van de vijfde categorie opgelegd.</al></lid><lid>
 <lidnr status="officieel">6</lidnr><al>Indien een van de feiten, omschreven in het eerste
 en tweede lid, de dood ten gevolge heeft, wordt een gevangenisstraf van
 het hoogste vijftien jaren of geldboete van de vijfde categorie
-opgelegd.</al></lid></artikel>
+opgelegd.</al></lid><lid>
+                                 <lidnr status="officieel">7</lidnr>
+                                 <al>Voor
+de toepassing van dit artikel wordt onder Nederland mede verstaan de
+openbare lichamen Bonaire, Sint Eustatius en
+Saba.</al>
+                              </lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -11377,7 +11391,7 @@ voorwerpen ontdoet van het
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>222bis</nr>
+        <nr status="officieel">222bis</nr>
     </kop>
     
     
@@ -11385,7 +11399,8 @@ voorwerpen ontdoet van het
             <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=219">219</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=220">220</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=222">222</intref> zijn naar de daar
         gemaakte onderscheidingen mede van toepassing, indien de daarin
         omschreven feiten worden gepleegd met betrekking tot zegels of
-        merken van de Nederlandse Antillen, Aruba, een buitenlandse
+        merken van Aruba, Cura&#xE7;ao, Sint
+Maarten, een buitenlandse
         mogendheid of een volkenrechtelijke organisatie.</al>
 </artikel>
     <artikel status="goed">
@@ -17142,29 +17157,29 @@ aangetast.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>435b</nr>
+        <nr status="officieel">435b</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die, zonder daartoe gerechtigd te zijn, gebruik maakt
             van woorden, uitdrukkingen of kentekens, die aanduiden of de
             indruk kunnen wekken dat zijn optreden is bevorderd dan wel
-            de steun of de erkenning geniet van rijkswege, vanwege de
-            Nederlandse Antillen, Aruba of een buitenlandse mogendheid
+            de steun of de erkenning geniet van rijkswege, vanwege Aruba, Cura&#xE7;ao, Sint
+Maarten of een buitenlandse mogendheid
             dan wel vanwege een volkenrechtelijke organisatie, wordt
             gestraft met hechtenis van ten hoogste een maand of
             geldboete van de tweede categorie.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>
             <redactie type="vervanging">Vervallen.</redactie>
         </al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Bij veroordeling wegens de in het eerste lid omschreven
             overtreding, kan openbaarmaking van de rechterlijke
             uitspraak worden gelast.</al>
