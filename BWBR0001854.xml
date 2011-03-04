@@ -161,24 +161,30 @@ bevindt.</al>
         </li>
         <li>
             <li.nr>8&#xB0;.</li.nr>
-            <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li><li.nr>a.</li.nr><al>aan de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">artikelen
-                166</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=168">168</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=352">352</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354">354</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">385a, vierde lid</intref>,
-                    <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385b">385b, tweede lid</intref>,
-                en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385c">385c</intref>, indien het feit is begaan tegen een
-                Nederlands zeegaand vaartuig, hetzij tegen of aan boord
-                van enig ander zeegaand vaartuig en de verdachte zich in
-                Nederland bevindt;</al></li><li>
-                           <li.nr>b.</li.nr>
-                           <al>aan
-een der misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">artikelen 350</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=352">352</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354">354</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">385a,
-vierde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385b">385b, tweede lid</intref>, begaan tegen een installatie ter zee,
-wanneer de verdachte zich in Nederland
+            <lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
+                        <li.nr>a.</li.nr>
+                        <al>aan
+de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=140">artikelen 140</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=157">157</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161quater">161quater</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=166">166</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=168">168</intref>,
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=189">189</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=287">287</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=288">288</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=289">289</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=302">302</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=303">303</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=352">352</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354">354</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">385a, vierde
+lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385b">385b, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385c">385c</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=413">413</intref>, van deze wet, in de <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79" compleet="nee">artikelen 79</extref> en
+<extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=80" compleet="nee">80 van de Kernenergiewet</extref>, in de <extref status="actief" doc="1.0:v:BWBR0003385&amp;artikel=2" compleet="nee">artikelen 2, eerste en derde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0003385&amp;artikel=3" compleet="nee">3</extref> en
+<extref status="actief" doc="1.0:v:BWBR0003385&amp;artikel=4" compleet="nee">4 van de Uitvoeringswet verdrag biologische wapens</extref> in samenhang met
+<extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=1" compleet="nee">artikel 1 van de Wet op de economische delicten</extref>, en in de <extref status="actief" doc="1.0:v:BWBR0007434&amp;artikel=2" compleet="nee">artikelen 2</extref>
+en <extref status="actief" doc="1.0:v:BWBR0007434&amp;artikel=3" compleet="nee">3, eerste lid, van de Uitvoeringswet verdrag chemische wapens</extref> in
+samenhang met artikel 1 van de Wet op de economische delicten, indien
+het feit is begaan tegen een Nederlands zeegaand vaartuig, hetzij tegen
+of aan boord van enig ander zeegaand vaartuig en de verdachte zich in
+Nederland
+bevindt;</al>
+                     </li><li>
+                        <li.nr>b.</li.nr>
+                        <al>aan een der
+misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=161quater">artikelen 161quater</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=285">285</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=287">287</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=288">288</intref>,
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=289">289</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=302">302</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=303">303</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=350">350</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=352">352</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354">354</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385a">385a, vierde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=385b">385b, tweede lid</intref>,
+begaan op of tegen een installatie ter zee, wanneer de verdachte zich
+in Nederland
 bevindt.</al>
-                        </li></lijst>
+                     </li></lijst>
         </li>
         <li>
                            <li.nr>9&#xB0;.</li.nr>
