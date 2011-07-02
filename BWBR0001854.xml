@@ -2476,18 +2476,19 @@ Strafvordering</extref> is bevolen.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>33a</nr>
+        <nr status="officieel">33a</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Vatbaar voor verbeurdverklaring zijn: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>voorwerpen die aan de veroordeelde toebehoren of die
                     hij geheel of ten dele ten eigen bate kan aanwenden
-                    en die geheel of grotendeels door middel van het
+                    en die geheel of grotendeels door middel van of uit de baten
+van het
                     strafbare feit zijn verkregen;</al>
             </li>
             <li>
@@ -2518,10 +2519,10 @@ Strafvordering</extref> is bevolen.</al>
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Voorwerpen als bedoeld in het eerste lid onder <nadruk type="cur">a</nadruk> tot en met <nadruk type="cur">e</nadruk> die niet aan de veroordeelde
             toebehoren kunnen alleen verbeurd worden verklaard indien: </al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>degene aan wie zij toebehoren bekend was met hun
@@ -2538,7 +2539,7 @@ Strafvordering</extref> is bevolen.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Rechten als bedoeld in het eerste lid, onder <nadruk type="cur">f</nadruk>, die niet aan de veroordeelde
             toebehoren kunnen alleen verbeurd worden verklaard indien
             degene aan wie zij toebehoren bekend was met de verkrijging
@@ -2549,7 +2550,7 @@ Strafvordering</extref> is bevolen.</al>
             had kunnen vermoeden.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.</al>
     </lid>
 </artikel>
@@ -2782,11 +2783,11 @@ strafbeschikking.</al></li></lijst>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>36e</nr>
+        <nr status="officieel">36e</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Op vordering van het openbaar ministerie kan bij een
             afzonderlijke rechterlijke beslissing aan degene die is
             veroordeeld wegens een strafbaar feit de verplichting worden
@@ -2794,30 +2795,58 @@ strafbeschikking.</al></li></lijst>
             ontneming van wederrechtelijk verkregen voordeel.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
-        <al> De verplichting kan worden opgelegd aan de in het eerste
-            lid bedoelde persoon die voordeel heeft verkregen door
-            middel van of uit de baten van het daar bedoelde strafbare
-            feit of soortgelijke feiten of feiten waarvoor een geldboete
-            van de vijfde categorie kan worden opgelegd, waaromtrent
-            voldoende aanwijzingen bestaan dat zij door hem zijn begaan.</al>
+        <lidnr status="officieel">2</lidnr>
+        <al>De
+verplichting kan worden opgelegd aan de in het eerste lid bedoelde
+persoon die voordeel heeft verkregen door middel van of uit de baten
+van het daar bedoelde feit of andere strafbare feiten, waaromtrent
+voldoende aanwijzingen bestaan dat zij door de veroordeelde zijn
+begaan.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
-        <al> Op vordering van het openbaar ministerie kan bij een
-            afzonderlijke rechterlijke beslissing aan degene die is
-            veroordeeld wegens een misdrijf, waarvoor een geldboete van
-            de vijfde categorie kan worden opgelegd, en tegen wie als
-            verdachte van dat misdrijf een strafrechtelijk financieel
-            onderzoek is ingesteld, de verplichting worden opgelegd tot
-            betaling van een geldbedrag aan de staat ter ontneming van
-            wederrechtelijk verkregen voordeel, indien gelet op dat
-            onderzoek aannemelijk is dat ook dat feit of andere strafbare feiten er
-            op enigerlei wijze toe hebben geleid dat de veroordeelde
-            wederrechtelijk voordeel heeft verkregen.</al>
-    </lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>Op
+vordering van het openbaar ministerie kan bij een afzonderlijke
+rechterlijke beslissing aan degene die is veroordeeld wegens een
+misdrijf dat naar de wettelijke omschrijving wordt bedreigd met een
+geldboete van de vijfde categorie, de verplichting worden opgelegd tot
+betaling van een geldbedrag aan de staat ter ontneming van
+wederrechtelijk verkregen voordeel, indien aannemelijk is dat of dat
+misdrijf of andere strafbare feiten op enigerlei wijze ertoe hebben
+geleid dat de veroordeelde wederrechtelijk voordeel heeft verkregen. In
+dat geval kan ook worden vermoed
+dat:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>uitgaven
+die de veroordeelde heeft gedaan in een periode van zes jaren
+voorafgaand aan het plegen van dat misdrijf, wederrechtelijk verkregen
+voordeel belichamen, tenzij aannemelijk is dat deze uitgaven zijn
+gedaan uit een legale bron van inkomsten,
+of;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>voorwerpen die
+in een periode van zes jaren voorafgaand aan het plegen van dat
+misdrijf aan de veroordeelde zijn gaan toebehoren voordeel belichamen
+als bedoeld in het eerste lid, tenzij aannemelijk is dat aan de
+verkrijging van die voorwerpen een legale bron van herkomst ten
+grondslag
+ligt.</al>
+                           </li>
+                        </lijst>
+                     </lid>
     <lid>
-        <lidnr>4</lidnr>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>De
+rechter kan ambtshalve, op vordering van het openbaar ministerie of op
+het verzoek van de veroordeelde afwijken van de in het derde lid
+genoemde periode van zes jaren en een kortere periode in aanmerking
+nemen.</al>
+                     </lid><lid>
+        <lidnr status="officieel">5</lidnr>
         <al> De rechter stelt het bedrag vast waarop het wederrechtelijk
             verkregen voordeel wordt geschat. Onder voordeel is de
             besparing van kosten begrepen. De waarde van voorwerpen die
@@ -2835,11 +2864,20 @@ strafbeschikking.</al></li></lijst>
 					 bevoegdheid toepassen.</al>
     </lid>
     <lid>
-        <lidnr>5</lidnr>
+        <lidnr status="officieel">6</lidnr>
         <al> Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.</al>
     </lid>
     <lid>
-        <lidnr>6</lidnr>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Bij
+het vaststellen van het bedrag van het wederrechtelijk verkregen
+voordeel op grond van het eerste en tweede lid ter zake van strafbare
+feiten die door twee of meer personen zijn gepleegd, kan de rechter
+bepalen dat deze hoofdelijk dan wel voor een door hem te bepalen deel
+aansprakelijk zijn voor de gezamenlijke
+betalingsverplichting.</al>
+                     </lid><lid>
+        <lidnr status="officieel">8</lidnr>
         <al> Bij de bepaling van de omvang van het bedrag waarop het
             wederrechtelijk verkregen voordeel wordt geschat, worden aan
             benadeelde derden in rechte toegekende vorderingen in
@@ -2847,14 +2885,14 @@ strafbeschikking.</al></li></lijst>
     </lid>
     
     <lid>
-        <lidnr>7</lidnr>
+        <lidnr status="officieel">9</lidnr>
         <al> Bij de oplegging van de maatregel wordt rekening gehouden
             met uit hoofde van eerdere beslissingen opgelegde
             verplichtingen tot betaling van een geldbedrag ter ontneming
             van wederrechtelijk verkregen voordeel.</al>
     </lid>
 <lid> 
-					 <lidnr>8</lidnr> 
+					 <lidnr status="officieel">10</lidnr> 
 					 <al>Lijfsdwang kan met toepassing van <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=577c" compleet="nee">artikel 577c van het
 						Wetboek van Strafvordering</extref> door de rechter tot maximaal drie jaar worden
 						bevolen en geldt als maatregel.</al>
@@ -5219,7 +5257,7 @@ opgelegd.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77c</nr>
+        <nr status="officieel">77c</nr>
     </kop>
     
     <al>Ten aanzien van degene die ten tijde van het begaan van het
@@ -5230,7 +5268,8 @@ opgelegd.</al></lid></artikel>
         overeenkomstig <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77g">de artikelen 77g tot en met
         77gg</intref>. De uitvoering van de maatregel van
         plaatsing in een inrichting voor jeugdigen vindt dan plaats
-        overeenkomstig <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37c">artikel 37c</intref>.</al>
+        overeenkomstig <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37a">artikel
+37a</intref>.</al>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -5860,12 +5899,38 @@ geven krachtens <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">
         motorrijtuigen</extref> (<nadruk type="cur">Stb.</nadruk> 1963, 228). Die artikelen zijn dan van
         overeenkomstige toepassing.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>77s</nr></kop><lid><lidnr>1</lidnr><al>De maatregel van plaatsing in een inrichting voor jeugdigen
-            kan slechts worden opgelegd, indien </al><lijst><li><li.nr>a.</li.nr><al>het een misdrijf betreft waarvoor voorlopige
-                    hechtenis is toegelaten;</al></li><li><li.nr>b.</li.nr><al>de veiligheid van anderen dan wel de algemene
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">77s</nr>
+    </kop>
+    
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>De maatregel van plaatsing in een inrichting voor jeugdigen
+            kan slechts worden opgelegd, indien </al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>het een misdrijf betreft waarvoor voorlopige
+                    hechtenis is toegelaten;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>de veiligheid van anderen dan wel de algemene
                     veiligheid van personen of goederen het opleggen van
-                    die maatregel eist, en</al></li><li><li.nr>c.</li.nr><al>de maatregel in het belang is van een zo gunstig
-                    mogelijke verdere ontwikkeling van de verdachte.</al></li></lijst></lid><lid><lidnr>2</lidnr><al> De rechter legt de maatregel slechts op, nadat hij zich een
+                    die maatregel eist, en</al>
+            </li>
+            <li>
+                <li.nr>c.</li.nr>
+                <al>de maatregel in het belang is van een zo gunstig
+                    mogelijke verdere ontwikkeling van de verdachte.</al>
+            </li>
+        </lijst>
+    </lid>
+    <lid>
+        <lidnr status="officieel">2</lidnr>
+        <al> De rechter legt de maatregel slechts op, nadat hij zich een
             met redenen omkleed, gedagtekend en ondertekend advies heeft
             doen overleggen van ten minste twee gedragsdeskundigen van
             verschillende disciplines. Het advies wordt door de
@@ -5873,7 +5938,11 @@ geven krachtens <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">
             afzonderlijk uitgebracht. Indien dit advies eerder dan een
             jaar voor de aanvang van de terechtzitting is gedagtekend
             kan de rechter hier slechts gebruik van maken met instemming
-            van het openbaar ministerie en de verdachte.</al></lid><lid><lidnr>3</lidnr><al>De maatregel kan ook worden opgelegd indien de verdachte
+            van het openbaar ministerie en de verdachte.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>De maatregel kan ook worden opgelegd indien de verdachte
             niet strafbaar is op de grond dat het feit hem wegens de
             gebrekkige ontwikkeling of ziekelijke stoornis
 van de geestvermogens niet kan
@@ -5881,7 +5950,11 @@ van de geestvermogens niet kan
             begaan van het feit een gebrekkige ontwikkeling of
             ziekelijke stoornis van de geestvermogens bestond, dient bij
             toepassing van het eerste lid &#xE9;&#xE9;n van de gedragsdeskundigen
-            een psychiater te zijn.</al></lid><lid><lidnr>4</lidnr><al> Het tweede lid blijft buiten toepassing indien de
+            een psychiater te zijn.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">4</lidnr>
+        <al> Het tweede lid blijft buiten toepassing indien de
             betrokkene weigert medewerking te verlenen aan het onderzoek
             dat ten behoeve van het advies moet worden verricht. Voor
             zover mogelijk maken de gedragsdeskundigen gezamenlijk dan
@@ -5890,25 +5963,64 @@ van de geestvermogens niet kan
             advies of rapport, dat hem over de wenselijkheid of
             noodzakelijkheid van de oplegging van de maatregel kan
             voorlichten en aan de totstandkoming waarvan de betrokkene
-            wel bereid is om medewerking te verlenen, overleggen.</al></lid><lid><lidnr>5</lidnr><al>Indien de maatregel is opgelegd draagt Onze Minister van
+            wel bereid is om medewerking te verlenen, overleggen.</al>
+    </lid>
+    <lid>
+        <lidnr status="officieel">5</lidnr>
+        <al>Indien de maatregel is opgelegd draagt Onze Minister van
             Justitie de tenuitvoerlegging op aan een inrichting als
             bedoeld in <extref status="actief" doc="1.0:v:BWBR0011756&amp;artikel=1" compleet="nee">artikel 1, onder b, van de
                 Beginselenwet justiti&#xEB;le
             jeugdinrichtingen</extref>, of doet hij de
-            veroordeelde elders opnemen.</al></lid><lid><lidnr>6</lidnr><al> De maatregel geldt voor de tijd van twee jaar. De termijn
-            gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden. De maatregel vervalt
+            veroordeelde elders opnemen.</al>
+    </lid>
+    <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>De
+maatregel geldt voor de tijd van drie jaar. Na twee jaar eindigt de
+maatregel voorwaardelijk, tenzij de maatregel wordt verlengd op de
+wijze als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77t">artikel 77t</intref>. De termijn gaat in nadat de
+rechterlijke uitspraak onherroepelijk is geworden. De maatregel vervalt
 bij het onherroepelijk worden van een rechterlijke uitspraak waarbij de
 betrokkene wederom de maatregel wordt
-opgelegd.</al></lid><lid><lidnr>7</lidnr><al>De termijn van de maatregel loopt niet:</al><lijst><li><li.nr>a.</li.nr><al>gedurende de tijd dat aan de veroordeelde uit
+opgelegd.</al>
+                     </lid>
+    <lid>
+        <lidnr status="officieel">7</lidnr>
+        <al>De termijn van de maatregel loopt niet:</al>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            <li>
+                <li.nr>a.</li.nr>
+                <al>gedurende de tijd dat aan de veroordeelde uit
                     anderen hoofde rechtens zijn vrijheid is ontnomen en
                     gedurende de tijd dat
 hij uit zodanige vrijheidsontneming ongeoorloofd afwezig
-is;</al></li><li><li.nr>b.</li.nr><al>wanneer de veroordeelde langer dan een week
+is;</al>
+            </li>
+            <li>
+                <li.nr>b.</li.nr>
+                <al>wanneer de veroordeelde langer dan een week
 ongeoorloofd afwezig is uit de
 plaats die voor de
-                    tenuitvoerlegging van de maatregel is aangewezen.</al></li></lijst></lid><lid><lidnr>8</lidnr><al> Onze Minister van Justitie kan de maatregel te allen tijde,
-            na advies te hebben ingewonnen van de raad voor de
-            kinderbescherming, voorwaardelijk of onvoorwaardelijk be&#xEB;indigen.</al></lid></artikel>
+                    tenuitvoerlegging van de maatregel is aangewezen;</al>
+            </li>
+        <li>
+                           <li.nr>c.</li.nr>
+                           <al>wanneer
+de maatregel voorwaardelijk is ge&#xEB;indigd en de veroordeelde buiten
+de plaats verblijft die voor de tenuitvoerlegging is
+aangewezen.</al>
+                        </li></lijst>
+    </lid>
+    <lid>
+                        <lidnr status="officieel">8</lidnr>
+                        <al>Onverminderd
+het bepaalde in het zevende lid, kan Onze Minister de maatregel te
+allen tijde, na advies te hebben ingewonnen van de raad voor de
+kinderbescherming, voorwaardelijk of onvoorwaardelijk
+be&#xEB;indigen.</al>
+                     </lid>
+</artikel>
     
     <artikel status="goed">
     <kop>
@@ -5921,33 +6033,35 @@ plaats die voor de
         <al>De rechter die in eerste aanleg heeft kennis genomen van het
             misdrijf ter zake waarvan de maatregel is opgelegd, kan op
             vordering van het openbaar ministerie de termijn, bedoeld in
-                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s, zesde lid</intref>,
+                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s, zesde lid,
+eerste volzin</intref>
             telkens met ten hoogste twee jaren verlengen. Niet eerder
             dan twee maanden en niet later dan een maand voor het
-            tijdstip waarop de maatregel door tijdsverloop zal eindigen,
+            tijdstip waarop de maatregel voorwaardelijk eindigt,
             kan het openbaar ministerie een vordering indienen tot
             verlenging van de maatregel. De <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=509oa" compleet="nee">artikelen 509oa</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=509q" compleet="nee">509q
 van het Wetboek van Strafvordering</extref> zijn van overeenkomstige
 toepassing.</al>
     </lid>
     <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al> Verlenging van de termijn van de maatregel is slechts
-            mogelijk voor zover de maatregel daardoor de duur van vier
-            jaar niet te boven gaat, tenzij de maatregel is opgelegd aan
-            een verdachte als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s, derde lid, tweede
-volzin</intref>. In
-            zodanig geval is verlenging mogelijk voor zover de maatregel
-            de duur van zes jaar niet te boven gaat.</al>
-    </lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Verlenging
+van de termijn van de maatregel is slechts mogelijk voor zover de
+maatregel daardoor de duur van vijf jaar niet te boven gaat, tenzij de
+maatregel is opgelegd aan een verdachte als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s,
+derde lid, tweede volzin</intref>. In zodanig geval is verlenging mogelijk voor
+zover de maatregel de duur van zeven jaar niet te boven gaat. In de
+gevallen waarin de maatregel is verlengd, eindigt de maatregel
+voorwaardelijk een jaar voordat de maximale duur van de maatregel wordt
+bereikt. Artikel 77s, zevende lid, is van overeenkomstige
+toepassing.</al>
+                     </lid>
     <lid>
         <lidnr status="officieel">3</lidnr>
         <al> De verlenging is slechts mogelijk, indien de maatregel is
             opgelegd ter zake van een misdrijf dat gericht is tegen of
             gevaar veroorzaakt voor de onaantastbaarheid van het lichaam
-            van &#xE9;&#xE9;n of meer personen. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">Artikel 77s, eerste lid, onder b en c</intref>, is van overeenkomstige toepassing. De
-            verlenging is niet mogelijk indien gebruik is gemaakt van de
-            bevoegdheid, bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77x</intref>.</al>
+            van &#xE9;&#xE9;n of meer personen. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">Artikel 77s, eerste lid, onder b en c</intref>, is van overeenkomstige toepassing.</al>
     </lid>
     <lid>
         <lidnr status="officieel">4</lidnr>
@@ -5974,8 +6088,8 @@ volzin</intref>. In
     </lid>
     <lid>
         <lidnr status="officieel">6</lidnr>
-        <al> De maatregel kan zonder advies, bedoeld in het vierde lid,
-            onder <nadruk type="cur">a</nadruk>, worden verlengd indien
+        <al> De maatregel kan zonder advies, bedoeld in het vijfde lid onder
+a, worden verlengd indien
             dit door gebrek aan medewerking van de veroordeelde niet kan
             worden uitgebracht.</al>
     </lid>
@@ -5984,7 +6098,7 @@ volzin</intref>. In
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">77ta</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-07-2011</redactie></al></kop>
+                     </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
                         <al>Indien de
@@ -6041,7 +6155,7 @@ ziekenhuizen</extref> is gegeven.</al>
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">77tb</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-07-2011</redactie></al></kop>
+                     </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
                         <al>De
@@ -6136,10 +6250,11 @@ verlengd.</al>
                   </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77u</nr>
+        <nr status="officieel">77u</nr>
     </kop>
     
-    <al>Een beslissing op grond van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77t">artikel 77t</intref> wordt
+    <al>Een beslissing op grond van de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77t">artikelen 77t</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77tb">77tb</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wd">77wd</intref> wordt
         bij beschikking genomen, nadat de veroordeelde en indien deze
         minderjarig is, ook degenen die het gezag over hem uitoefenen,
         zijn gehoord of behoorlijk opgeroepen. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14h">artikelen 14h</intref>,
@@ -6227,16 +6342,22 @@ gesteld omtrent de werkwijze van de instellingen of organisaties,
 bedoeld in het derde lid.</al></lid><lid><lidnr status="officieel">6</lidnr><al>De
 maatregel wordt opgelegd voor de tijd van ten minste zes maanden en ten
 hoogste een jaar. De termijn gaat in nadat de rechterlijke uitspraak
-onherroepelijk is geworden.</al></lid><lid><lidnr status="officieel">7</lidnr><al>De
-jeugdreclassering heeft tot taak de voorbereiding en de ondersteuning
+onherroepelijk is geworden.</al></lid><lid><lidnr status="officieel">7</lidnr><al>De stichting als bedoeld in
+<extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder f, van de Wet op de
+jeugdzorg</extref> heeft tot taak de voorbereiding en de ondersteuning
 van de tenuitvoerlegging van de maatregel.  Bij de
-tenuitvoerlegging van de maatregel stelt de jeugdreclassering de
+tenuitvoerlegging van de maatregel stelt de stichting de
 identiteit van de veroordeelde vast op de wijze, bedoeld in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=27a" compleet="nee">artikel
 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van
 Strafvordering</extref>. Over de wijze waarop de
 veroordeelde de maatregel uitvoert, kan het openbaar ministerie
 inlichtingen inwinnen bij de
-jeugdreclassering.</al></lid><lid><lidnr status="officieel">8</lidnr><al>De termijn van
+stichting. Indien de jeugdige
+ten tijde van de tenuitvoerlegging van de maatregel de leeftijd van
+achttien jaren bereikt of heeft bereikt, kan de rechter bepalen dat de
+ondersteuning van de tenuitvoerlegging van de maatregel geschiedt door
+een reclasseringsinstelling als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14d">artikel 14d, tweede
+lid</intref>.</al></lid><lid><lidnr status="officieel">8</lidnr><al>De termijn van
 de maatregel loopt niet gedurende de tijd dat aan de veroordeelde uit
 anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd
 dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig
@@ -6297,9 +6418,7 @@ vordering van het openbaar ministerie, eenmaal verlengen voor ten
 hoogste dezelfde tijd als waarvoor de maatregel was opgelegd. Niet
 eerder dan twee maanden en niet later dan een maand voor het tijdstip
 waarop de maatregel door tijdsverloop zal eindigen, kan het openbaar
-ministerie een vordering indienen tot verlenging van de maatregel.
-<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77u">Artikel 77u</intref> is van overeenkomstige
-toepassing.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Een vordering als
+ministerie een vordering indienen tot verlenging van de maatregel.</al></lid><lid><lidnr status="officieel">2</lidnr><al>Een vordering als
 bedoeld in het eerste lid, die later dan een maand voor het tijdstip
 waarop de maatregel door tijdsverloop zal eindigen, doch binnen een
 redelijke termijn is ingediend, is niettemin ontvankelijk, indien er
@@ -6321,9 +6440,12 @@ de rechter aan te wijzen programma in een daarbij aan te wijzen
 inrichting of dat de veroordeelde een door de rechter aan te wijzen
 ambulant programma zal volgen onder begeleiding van een in de
 beslissing aangewezen
-organisatie.</al></lid><lid><lidnr status="officieel">5</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wa">Artikel 77wa</intref> is van
-overeenkomstige toepassing op de beslissing tot
-verlenging.</al></lid></artikel>
+organisatie.</al></lid><lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>De
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wa">artikelen 77wa</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wb">77wb</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wc">77wc</intref> zijn van overeenkomstige
+toepassing.</al>
+                     </lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -6334,10 +6456,7 @@ jeugddetentie daaronder niet begrepen, tot taakstraf, tot geldboete,
 tot plaatsing in een inrichting voor jeugdigen, tot de maatregel
 betreffende het gedrag van de jeugdige of tot ontzegging van de
 bevoegdheid motorrijtuigen te besturen, kan de rechter bepalen dat deze
-geheel of gedeeltelijk niet ten uitvoer zal worden gelegd. De rechter
-kan de werking van de bijzondere voorwaarden beperken tot een bij de
-uitspraak te bepalen tijdsduur binnen de
-proeftijd.</al>
+geheel of gedeeltelijk niet ten uitvoer zal worden gelegd.</al>
 </artikel>
     <artikel status="goed">
     <kop>
