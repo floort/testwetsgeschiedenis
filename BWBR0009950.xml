@@ -6508,12 +6508,29 @@ behoeve van het onderzoeken, opsporen en vervolgen van ernstige
 misdrijven.</al>
                      </lid>
                      <lid>
-                        <lidnr status="officieel">3</lidnr>
-                        <al>De
+                     <lidnr status="officieel">3</lidnr>
+                     <al>De
 gegevens, bedoeld in het tweede lid, worden door de aanbieders bewaard
-gedurende een periode van twaalf maanden, gerekend vanaf de datum van
-de communicatie.</al>
-                     </lid>
+gedurende een periode
+van:</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>a.</li.nr>
+                           <al>twaalf
+maanden voor gegevens in verband met telefonie over een vast of mobiel
+netwerk, bedoeld in de bij deze wet behorende <intref status="actief" doc="1.0:v:BWBR0009950&amp;bijlage=">bijlage</intref>, onder A,
+of</al>
+                        </li>
+                        <li>
+                           <li.nr>b.</li.nr>
+                           <al>zes maanden voor
+gegevens in verband met internettoegang, e-mail over het internet en
+internettelefonie, bedoeld in de bij deze wet behorende <intref status="actief" doc="1.0:v:BWBR0009950&amp;bijlage=">bijlage</intref>, onder
+B, gerekend vanaf de datum van de
+communicatie.</al>
+                        </li>
+                     </lijst>
+                  </lid>
                      <lid>
                         <lidnr status="officieel">4</lidnr>
                         <al>De
