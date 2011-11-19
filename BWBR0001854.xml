@@ -1089,7 +1089,78 @@ Strafvordering</extref>.</al>
             </intref> geven, wijzigen of opheffen.</al>
     </lid>
 </artikel>
-    <artikel status="goed"> 
+    <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">14fa</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-04-2012</redactie></al></kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>In geval
+van veroordeling tot een vrijheidsstraf waarvan de rechter heeft
+bepaald dat de straf of een gedeelte daarvan niet ten uitvoer zal
+worden gelegd, kan het openbaar ministerie de aanhouding van de
+veroordeelde bevelen, indien er ernstige redenen bestaan voor het
+vermoeden dat enige gestelde voorwaarde niet wordt nageleefd. Indien
+het bevel van het openbaar ministerie niet kan worden afgewacht, kan de
+hulpofficier de aanhouding van de veroordeelde bevelen. De hulpofficier
+geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan
+het openbaar ministerie.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Het
+openbaar ministerie dient, indien het de aanhouding noodzakelijk blijft
+vinden, onverwijld een vordering tot voorlopige tenuitvoerlegging in
+bij de rechter-commissaris en een vordering als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14g">artikel 14g,
+eerste lid</intref>, in bij de rechter.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De
+rechter-commissaris beslist binnen driemaal vierentwintig uur na
+aanhouding. Hangende de beslissing van de rechter-commissaris wordt de
+veroordeelde niet in vrijheid gesteld.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>De
+veroordeelde wordt door de rechter-commissaris gehoord. De <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=40" compleet="nee">artikelen 40</extref>
+en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=191" compleet="nee">191 van het Wetboek van Strafvordering</extref> zijn van overeenkomstige
+toepassing. De raadsman is bevoegd bij het onderzoek tegenwoordig te
+zijn en van de daarop betrekking hebbende stukken kennis te
+nemen.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Indien de
+rechter-commissaris de vordering van het openbaar ministerie toewijst,
+beveelt hij de voorlopige tenuitvoerlegging van de niet ten uitvoer
+gelegde vrijheidsstraf. Indien hij de vordering afwijst, beveelt hij de
+invrijheidstelling van de veroordeelde.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Het
+openbaar ministerie stelt de veroordeelde onverwijld schriftelijk in
+kennis van de beslissing van de rechter-commissaris.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>De
+termijn van de voorlopige tenuitvoerlegging eindigt van rechtswege met
+ingang van het tijdstip waarop de duur van de vrijheidsbeneming gelijk
+wordt aan de duur van de ten uitvoer te leggen straf.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">8</lidnr>
+                        <al>Het bevel
+tot voorlopige tenuitvoerlegging kan door de rechter die bevoegd is te
+oordelen over de vordering tot tenuitvoerlegging ambtshalve, op verzoek
+van de veroordeelde of op vordering van het openbaar ministerie, worden
+opgeheven.</al>
+                     </lid>
+                  </artikel><artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr>14g</nr> 
@@ -2660,7 +2731,13 @@ van het
             overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-</titeldeel><titeldeel><kop><label>Titel</label><nr>IIA</nr><titel status="officieel">Maatregelen</titel></kop><afdeling>
+</titeldeel><titeldeel status="goed">
+    <kop>
+        <label>Titel</label>
+        <nr status="officieel">IIA</nr>
+        <titel status="officieel">Maatregelen</titel>
+    </kop>
+    <afdeling>
     <kop>
         <nr>Eerste</nr>
         <label>afdeling</label>
@@ -2976,7 +3053,8 @@ de veroordeelde.</al>
             het slachtoffer niet opheft.</al>
     </lid>
 </artikel>
-</afdeling><afdeling status="goed">
+</afdeling>
+    <afdeling status="goed">
     <kop>
         <nr status="officieel">Tweede</nr>
         <label>afdeling</label>
@@ -3691,7 +3769,8 @@ overheidswege be&#xEB;indigen onder de voorwaarde dat de vreemdeling
 niet naar Nederland terugkeert. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38la">Artikel 38la, zesde en zevende lid</intref>, is
 van overeenkomstige
 toepassing.</al>
-                  </artikel></afdeling><afdeling><kop><nr>Derde</nr><label>afdeling</label><titel status="officieel">Plaatsing in een inrichting voor stelselmatige daders</titel></kop><artikel status="goed">
+                  </artikel></afdeling>
+    <afdeling><kop><nr>Derde</nr><label>afdeling</label><titel status="officieel">Plaatsing in een inrichting voor stelselmatige daders</titel></kop><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">38m</nr>
@@ -3933,7 +4012,226 @@ ongeoorloofd afwezig is.</al>
     </kop>
     
     <al>Onze Minister van Justitie kan de maatregel te allen tijde be&#xEB;indigen.</al>
-</artikel></afdeling></titeldeel><titeldeel>
+</artikel></afdeling>
+<afdeling status="goed"><kop>
+                        <nr status="officieel">Vierde</nr><label>
+afdeling</label>
+                        <titel status="officieel">Oplegging
+vrijheidsbeperkende
+maatregel
+                        </titel>
+                     <al><redactie type="extra">Treedt in werking per 01-04-2012</redactie></al></kop><artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">38v</nr>
+                        <al><redactie type="extra">Treedt in werking per 01-04-2012</redactie></al></kop>
+                        <lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>Ter
+beveiliging van de maatschappij of ter voorkoming van strafbare feiten
+kan een maatregel strekkende tot beperking van de vrijheid worden
+opgelegd bij de rechterlijke
+uitspraak:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>1&#xB0;.</li.nr>
+                                 <al>waarbij
+iemand wegens een strafbaar feit wordt
+veroordeeld;</al>
+                              </li>
+                              <li>
+                                 <li.nr>2&#xB0;.</li.nr>
+                                 <al>waarbij
+overeenkomstig <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=9a">artikel 9a</intref> wordt bepaald dat geen straf zal worden
+opgelegd.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>De
+maatregel kan inhouden dat de verdachte wordt
+bevolen:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>zich
+niet op te houden in een bepaald
+gebied,</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>zich te
+onthouden van contact met een bepaalde persoon of bepaalde
+personen,</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>zich op
+bepaalde tijdstippen te melden bij de daartoe aangewezen
+opsporingsambtenaar.</al>
+                              </li>
+                           </lijst>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al>De
+maatregel kan voor een periode van ten hoogste twee jaren worden
+opgelegd.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">4</lidnr>
+                           <al>De
+rechter kan bij zijn uitspraak, ambtshalve of op vordering van de
+officier van justitie, bevelen dat de maatregel dadelijk uitvoerbaar is
+indien er ernstig rekening mee moet worden gehouden dat de verdachte
+opnieuw een strafbaar feit pleegt of zich belastend gedraagt jegens een
+bepaalde persoon of bepaalde personen.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">5</lidnr>
+                           <al>Het
+bevel, bedoeld in het vierde lid, kan door de rechter die kennisneemt
+van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op
+vordering van het openbaar ministerie, worden opgeheven.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">6</lidnr>
+                           <al>De
+maatregel kan tezamen met straffen en andere maatregelen worden
+opgelegd.</al>
+                        </lid>
+                     </artikel>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">38w</nr>
+                        <al><redactie type="extra">Treedt in werking per 01-04-2012</redactie></al></kop>
+                        <lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>In het
+vonnis waarbij de maatregel als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38v">artikel 38v</intref> wordt opgelegd,
+beveelt de rechter dat vervangende hechtenis zal worden toegepast voor
+het geval niet aan de maatregel wordt voldaan.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>De
+rechter bepaalt in het vonnis de duur van de vervangende hechtenis die
+ten hoogste ten uitvoer wordt gelegd voor iedere keer dat niet aan de
+maatregel wordt voldaan. De duur van deze vervangende hechtenis wordt
+in gehele dagen, weken of maanden vastgesteld en bedraagt ten minste
+drie dagen.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al>De totale
+duur van de tenuitvoergelegde vervangende hechtenis bedraagt ten
+hoogste zes maanden.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">4</lidnr>
+                           <al>Toepassing
+van de vervangende hechtenis heft de verplichtingen ingevolge de
+maatregel, bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38v">artikel 38v</intref>, tweede lid, niet
+op.</al>
+                        </lid>
+                     </artikel>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">38x</nr>
+                        <al><redactie type="extra">Treedt in werking per 01-04-2012</redactie></al></kop>
+                        <lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>Indien er
+ernstige redenen bestaan voor het vermoeden dat de veroordeelde de
+maatregel niet naleeft of heeft nageleefd, kan zijn aanhouding worden
+bevolen door het openbaar ministerie. Indien het bevel van het openbaar
+ministerie niet kan worden afgewacht, kan de hulpofficier de aanhouding
+van de veroordeelde bevelen. De hulpofficier geeft van de aanhouding
+onverwijld schriftelijk of mondeling kennis aan het openbaar
+ministerie.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al>Het
+openbaar ministerie dient na aanhouding onverwijld een vordering tot
+tenuitvoerlegging van de vervangende hechtenis in bij de
+rechter-commissaris.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al>De
+rechter-commissaris beslist binnen driemaal vierentwintig uur na
+indiening van de vordering. Hangende de beslissing van de
+rechter-commissaris wordt de aangehouden veroordeelde niet in vrijheid
+gesteld.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">4</lidnr>
+                           <al>De
+veroordeelde wordt door de rechter-commissaris gehoord. De <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=40" compleet="nee">artikelen 40</extref>
+en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=191" compleet="nee">191 van het Wetboek van Strafvordering</extref> zijn van overeenkomstige
+toepassing. De raadsman is bevoegd bij het onderzoek tegenwoordig te
+zijn en van de daarop betrekking hebbende stukken kennis te
+nemen.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">5</lidnr>
+                           <al>Indien de
+rechter-commissaris de vordering van het openbaar ministerie toewijst,
+beveelt hij de gehele of gedeeltelijke tenuitvoerlegging van de in het
+vonnis bepaalde vervangende hechtenis. De vrijheidsbeneming ondergaan
+op grond van het derde lid wordt geheel in mindering gebracht op de
+tenuitvoerlegging van de vervangende hechtenis. Indien hij de vordering
+afwijst, wordt de aangehouden veroordeelde in vrijheid
+gesteld.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">6</lidnr>
+                           <al>Het
+openbaar ministerie stelt de veroordeelde onverwijld schriftelijk in
+kennis van de beslissing van de rechter-commissaris. De kennisgeving
+behelst het oordeel van de rechter-commissaris over het niet naleven
+van de maatregel, alsmede het aantal dagen vervangende
+hechtenis.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">7</lidnr>
+                           <al>Tegen de
+beslissing van de rechter-commissaris staat voor de veroordeelde en het
+openbaar ministerie binnen veertien dagen hoger beroep open bij de
+rechter die de maatregel oplegde. Bij het instellen van hoger beroep
+zendt het openbaar ministerie de daarop betrekking hebbende stukken aan
+het gerecht toe. De rechter bepaalt daarop onverwijld een dag voor het
+onderzoek van de zaak, tenzij hij vaststelt dat de veroordeelde in zijn
+hoger beroep niet ontvankelijk is. Het openbaar ministerie doet de
+veroordeelde tot bijwoning van de zitting oproepen onder betekening van
+de vordering. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14i">artikelen 14i</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14j">14j</intref> zijn van overeenkomstige
+toepassing.</al>
+                        </lid>
+                     </artikel>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">38ij</nr>
+                        <al><redactie type="extra">Treedt in werking per 01-04-2012</redactie></al></kop>
+                        <al>In de gevallen waarin een vordering tot
+tenuitvoerlegging, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38x">artikel 38x, tweede lid</intref>, wordt
+afgewezen, het openbaar ministerie in zijn vordering niet ontvankelijk
+wordt verklaard, of de rechter de beslissing van de rechter-commissaris
+tot tenuitvoerlegging als bedoeld in artikel 38x, vijfde lid,
+vernietigt, of indien de zaak eindigt zonder oplegging van de maatregel
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38v">artikel 38v</intref>, kan het gerecht in feitelijke aanleg dat
+als laatste over de vrijheidsbeperkende maatregel heeft geoordeeld op
+verzoek van de veroordeelde hem een vergoeding ten laste van de staat
+toekennen voor de schade die hij heeft geleden ten gevolge van
+vrijheidsbeneming ondergaan uit hoofde van artikel 38x. De <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=89" compleet="nee">artikelen
+89, eerste lid, tweede volzin, tweede lid, en zesde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=90" compleet="nee">90</extref> en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=93" compleet="nee">93 van
+het Wetboek van Strafvordering</extref> zijn van overeenkomstige
+toepassing.</al>
+                     </artikel></afdeling></titeldeel><titeldeel>
     <kop>
         <label>Titel</label>
         <nr>III</nr>
@@ -6446,7 +6744,66 @@ organisatie.</al></lid><lid>
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wa">artikelen 77wa</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wb">77wb</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wc">77wc</intref> zijn van overeenkomstige
 toepassing.</al>
                      </lid></artikel>
-    <artikel status="goed"> 
+    <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">77we</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-04-2012</redactie></al></kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>In het
+vonnis waarbij de vrijheidsbeperkende maatregel wordt opgelegd, beveelt
+de rechter dat vervangende jeugddetentie zal worden toegepast voor het
+geval niet aan de maatregel wordt voldaan.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38v">artikelen 38v</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38w">38w, tweede tot en met het vierde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77p">77p, vierde
+lid</intref>, zijn van overeenkomstige toepassing.</al>
+                     </lid>
+                  </artikel>
+                  <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">77wf</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-04-2012</redactie></al></kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Indien er
+ernstige redenen bestaan voor het vermoeden dat de veroordeelde de
+maatregel niet naleeft of heeft nageleefd, kan zijn aanhouding worden
+bevolen door het openbaar ministerie. Indien het bevel van het openbaar
+ministerie niet kan worden afgewacht, kan de hulpofficier de aanhouding
+van de veroordeelde bevelen. De hulpofficier geeft van de aanhouding
+onverwijld schriftelijk of mondeling kennis aan het openbaar
+ministerie.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Het
+openbaar ministerie dient na aanhouding onverwijld een vordering tot
+tenuitvoerlegging van de vervangende jeugddetentie in bij de
+rechter-commissaris. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38x">artikelen 38x, derde tot en met zesde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=38ij">38ij</intref>
+en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77p">77p</intref> zijn van overeenkomstige toepassing.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Tegen de
+beslissing van de rechter-commissaris staat voor de veroordeelde en het
+openbaar ministerie binnen veertien dagen hoger beroep open bij de
+rechter die de maatregel oplegde. Bij het instellen van hoger beroep
+zendt het openbaar ministerie de daarop betrekking hebbende stukken aan
+het gerecht toe. De rechter bepaalt daarop onverwijld een dag voor het
+onderzoek van de zaak, tenzij hij vaststelt dat de veroordeelde in zijn
+hoger beroep niet ontvankelijk is. Het openbaar ministerie doet de
+veroordeelde tot bijwoning van de zitting oproepen onder betekening van
+de vordering. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14i">artikelen 14i, tweede tot en met het zesde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14j">14j</intref> en
+<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77ee">77ee, tweede lid</intref>, van dit wetboek en <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=495b" compleet="nee">artikel 495b van het Wetboek van
+Strafvordering</extref>, zijn van overeenkomstige
+toepassing.</al>
+                     </lid>
+                  </artikel><artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr status="officieel">77x</nr> 
