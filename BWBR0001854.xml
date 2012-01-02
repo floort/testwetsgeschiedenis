@@ -2124,12 +2124,12 @@ strafbeschikking of het vonnis of
         <lidnr status="officieel">4</lidnr>
         <al>Er zijn zes
 categorie&#xEB;n:</al><al>de eerste categorie,
-&#x20AC; 335 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;380.</redactie>;</al><al>de tweede categorie,
-&#x20AC; 3 350 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;3&#xA0;800.</redactie>;</al><al>de derde categorie,
-&#x20AC; 6 700 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;7&#xA0;600.</redactie>;</al><al>de vierde categorie,
-&#x20AC; 16 750 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;19&#xA0;000.</redactie>;</al><al>de vijfde categorie,
-&#x20AC; 67 000 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;76&#xA0;000.</redactie>;</al><al>de zesde categorie,
-&#x20AC; 670 000 <redactie type="extra">Per 1 januari 2010: &#x20AC;&#xA0;760&#xA0;000.</redactie>.</al>
+&#x20AC; 335 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;390.</redactie>;</al><al>de tweede categorie,
+&#x20AC; 3 350 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;3&#xA0;900.</redactie>;</al><al>de derde categorie,
+&#x20AC; 6 700 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;7&#xA0;800.</redactie>;</al><al>de vierde categorie,
+&#x20AC; 16 750 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;19&#xA0;500.</redactie>;</al><al>de vijfde categorie,
+&#x20AC; 67 000 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;78&#xA0;000.</redactie>;</al><al>de zesde categorie,
+&#x20AC; 670 000 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;780&#xA0;000.</redactie>.</al>
     </lid>
     <lid>
         <lidnr status="officieel">5</lidnr>
@@ -9383,8 +9383,9 @@ lid</intref>.</al></lid></artikel>
 aan de voortzetting van de werkzaamheid van een organisatie die bij
 onherroepelijke rechterlijke beslissing verboden is verklaard of van
 rechtswege is verboden of ten aanzien waarvan een onherroepelijke
-verklaring als bedoeld in <extref status="actief" doc="1.0:v:BWBR0009192&amp;artikel=5a" compleet="nee">artikel 5a, eerste lid, van de Wet
-conflictenrecht corporaties</extref> is afgegeven, wordt gestraft met
+verklaring als bedoeld in <extref status="actief" doc="1.0:v:BWBR0030068&amp;artikel=122" compleet="nee">artikel 122, eerste lid, van Boek 10
+Burgerlijk
+Wetboek</extref> is afgegeven, wordt gestraft met
 gevangenisstraf van ten hoogste een jaar of geldboete van de derde
 categorie.</al></lid>
     
@@ -11350,12 +11351,15 @@ ontzet.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>197</nr>
+        <nr status="officieel">197</nr>
     </kop>
     
     <al>Een vreemdeling die in Nederland verblijft, terwijl hij weet of
         ernstige reden heeft te vermoeden, dat hij op grond van een
-        wettelijk voorschrift tot ongewenste vreemdeling is verklaard,
+        wettelijk voorschrift tot ongewenste vreemdeling is verklaard of tegen hem een
+inreisverbod is uitgevaardigd met toepassing van <extref status="actief" doc="1.0:v:BWBR0011823&amp;artikel=66a" compleet="nee">artikel 66a, zevende
+lid, van de Vreemdelingenwet
+2000</extref>,
         wordt gestraft met een gevangenisstraf van ten hoogste zes
         maanden of geldboete van de derde categorie.</al>
 </artikel>
