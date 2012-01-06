@@ -680,8 +680,7 @@ bereikt.</al>
         <lidnr status="officieel">2</lidnr>
         <al>Ten aanzien van misdrijven die worden bedreigd met een
             vrijheidsstraf of een geldboete of ten aanzien van
-            overtredingen die worden bedreigd met een vrijheidsstraf kan in plaats daarvan een taakstraf worden
-opgelegd. Een
+            overtredingen die worden bedreigd met een vrijheidsstraf kan, behoudens in bij de wet bepaalde gevallen, in plaats daarvan een taakstraf worden opgelegd. Een
             taakstraf bestaat uit een werkstraf, zijnde het verrichten
             van onbetaalde arbeid, of een leerstraf,  zijnde het volgen
             van een leerproject, of een combinatie van beide.</al>
@@ -1163,17 +1162,16 @@ opgeheven.</al>
                   </artikel><artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
-	 <nr>14g</nr> 
+	 <nr status="officieel">14g</nr> 
   </kop>
     
   <lid> 
-	 <lidnr>1</lidnr> 
+	 <lidnr status="officieel">1</lidnr> 
 	 <al>Indien enige gestelde voorwaarde niet wordt nageleefd kan de rechter,
 		indien hij daartoe termen vindt, na ontvangst van een vordering van het
 		openbaar ministerie en onverminderd het bepaalde in
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14f">artikel 14<nadruk type="cur">f</nadruk>
-		</intref>, </al> 
-	 <lijst> 
+		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14f">artikel 14f</intref>, </al> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
 		<li> 
 		  <li.nr>1&#xB0;.</li.nr> 
 		  <al>gelasten dat de niet ten uitvoergelegde straf alsnog zal worden
@@ -1188,21 +1186,19 @@ opgeheven.</al>
 	 </lijst> 
   </lid> 
   <lid> 
-	 <lidnr>2</lidnr> 
+	 <lidnr status="officieel">2</lidnr> 
 	 <al>In plaats van een last tot tenuitvoerlegging van een vrijheidsstraf te
 		geven kan de rechter een taakstraf als bedoeld in
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=9">artikel 9, eerste lid, onderdeel a, onder
-		3&#xB0;</intref>, gelasten. De artikelen
-		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22c">22c tot en met 22k</intref> zijn van
-		overeenkomstige toepassing.</al> 
+		3&#xB0;</intref>, gelasten. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22b">artikelen 22b tot en met 22k</intref> zijn van overeenkomstige toepassing.</al> 
   </lid> 
   <lid> 
-	 <lidnr>3</lidnr> 
+	 <lidnr status="officieel">3</lidnr> 
 	 <al> Tot behandeling van de vordering is bevoegd de rechter die de straf
 		heeft opgelegd. Indien de veroordeelde wordt vervolgd wegens een strafbaar
 		feit, begaan voor het einde van de proeftijd, is tot behandeling van de
 		vordering bevoegd: </al> 
-	 <lijst> 
+	 <lijst level="single" nr-sluiting="." start="1" type="expliciet"> 
 		<li> 
 		  <li.nr>a.</li.nr> 
 		  <al>de rechtbank, indien deze bevoegd is tot
@@ -1222,7 +1218,7 @@ opgeheven.</al>
 		door een enkelvoudige kamer van de rechtbank behandeld.</al> 
   </lid> 
   <lid> 
-	 <lidnr>4</lidnr> 
+	 <lidnr status="officieel">4</lidnr> 
 	 <al> Wanneer overeenkomstig
 		<intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14c">artikel 14<nadruk type="cur">c</nadruk>, tweede lid,
 		onder 3&#xB0;</intref>, een waarborgsom is gestort kan de rechter voorts een
@@ -1231,7 +1227,7 @@ opgeheven.</al>
   </lid>
     
   <lid> 
-	 <lidnr>5</lidnr> 
+	 <lidnr status="officieel">5</lidnr> 
 	 <al> De in het eerste en tweede lid bedoelde vordering wordt gedagtekend op
 		de dag van ontvangst ter griffie. Het openbaar ministerie is in zijn vordering
 		niet ontvankelijk wanneer zij later wordt ingediend dan drie maanden na het
@@ -1877,7 +1873,44 @@ toepassing.</al></lid></artikel><artikel status="goed">
         staat te bepalen, dat vrijheidsstraffen buiten het Rijk in
         Europa ten uitvoer worden gelegd.</al>
 </artikel>
-    
+    <artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">22b</nr>
+                     </kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Een taakstraf wordt niet opgelegd in geval van veroordeling voor:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld en dat een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>een van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=181">artikelen 181</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248b">248b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248c">248c</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=250">250</intref>.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Een taakstraf wordt voorts niet opgelegd in geval van veroordeling voor een misdrijf indien:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>1&#xB0;</li.nr>
+                              <al>aan de veroordeelde in de vijf jaren voorafgaand aan het door hem begane feit wegens een soortgelijk misdrijf een taakstraf is opgelegd, en</al>
+                           </li>
+                           <li>
+                              <li.nr>2&#xB0;</li.nr>
+                              <al>de veroordeelde deze taakstraf heeft verricht dan wel op grond van <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22g">artikel 22g</intref> de tenuitvoerlegging van de vervangende hechtenis is bevolen.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Van het eerste en tweede lid kan worden afgeweken indien naast de taakstraf een onvoorwaardelijke vrijheidsstraf of vrijheidsbenemende maatregel wordt opgelegd.</al>
+                     </lid>
+                  </artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -2016,8 +2049,7 @@ Strafvordering</extref> is van overeenkomstige toepassing.</al>
 niet aanvangt met de taakstraf, geen medewerking verleent aan het
 vaststellen van zijn identiteit of het openbaar ministerie van oordeel
 is dat de veroordeelde de opgelegde taakstraf niet naar behoren
-verricht of heeft verricht, kan het openbaar ministerie de
-            tenuitvoerlegging van de vervangende hechtenis bevelen. Het
+verricht of heeft verricht, wordt vervangende hechtenis toegepast, tenzij dit wegens uitzonderlijke omstandigheden die zich na het opleggen van de taakstraf hebben voorgedaan, zou leiden tot een onbillijkheid van zwaarwegende aard. Het
             openbaar ministerie geeft hiervan kennis aan de veroordeelde.</al>
     </lid>
     <lid>
@@ -5243,7 +5275,7 @@ geldende verjaringstermijn.</al>
     <lid>
         <lidnr status="officieel">4</lidnr>
         <al>Op de in het tweede lid, onder f, bedoelde voorwaarde is het
-            bepaalde bij of krachtens de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22c">artikelen 22c, eerste en vierde
+            bepaalde bij of krachtens de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22b">artikelen 22b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22c">22c, eerste en vierde
             lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22e">22e</intref> en
                 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=22k">22k</intref> met betrekking
             tot taakstraffen, van overeenkomstige toepassing. De
