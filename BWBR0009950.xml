@@ -40,7 +40,7 @@
     
     <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
               <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
-                  <al>Onze Minister: Onze Minister van Economische Zaken;</al>
+                  <al>Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;</al>
                 </li><li><li.nr>b.</li.nr>
                   <al>college: college, genoemd in <extref status="actief" doc="1.0:v:BWBR0008807&amp;artikel=2" compleet="nee">artikel 2 van de Wet Onafhankelijke post-
 en telecommunicatieautoriteit</extref>;</al>
@@ -1760,7 +1760,7 @@ is.</al></li></lijst></lid><lid>
         <lidnr status="officieel">4</lidnr>
         <al>Het is verboden voor een bestemming die voorkomt in een
             nummerplan andere nummers te gebruiken dan de nummers die in
-            dat plan voor die bestemming zijn opgenomen.  </al>
+            dat plan voor die bestemming zijn opgenomen, en om een nummer dat voorkomt in een nummerplan voor een andere bestemming te gebruiken dan de bestemming waarvoor dat nummer in dat plan is opgenomen.  </al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -1830,7 +1830,7 @@ toekenning voorschriften worden verbonden.</al>
                 <al>Gedurende de voorbereiding van een nummerplan kan het college, in overeenstemming
 met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende
 nummers, nummers toekennen gedurende een bij dat besluit vast te stellen termijn.
-Het verbod van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.1">artikel 4.1, derde lid</intref>, is van overeenkomstige toepassing
+Het verbod van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.1">artikel 4.1, vierde lid</intref>, is van overeenkomstige toepassing
 op de door Onze Minister aangewezen nummers.</al>
               </lid>
               <lid>
@@ -1904,7 +1904,7 @@ nummerplan een maximumduur van de toekenning heeft vastgelegd.</al>
               <lid>
                 <lidnr status="officieel">2</lidnr>
                 <al>Een nummer waarvoor een maximumduur is opgenomen in een nummerplan wordt
-niet eerder dan een jaar nadat de maximumtermijn van de toekenning is verstreken
+niet eerder dan een jaar nadat de maximumtermijn van de toekenning is verstreken of de toekenning is ingetrokken
 in gebruik genomen, indien het nummer door de daarop volgende toekenning van
 nummerhouder verandert.</al>
               </lid>
@@ -1924,31 +1924,23 @@ nummer.</al></artikel><artikel status="goed">
         <lidnr status="officieel">1</lidnr>
         <al>Een toekenning wordt geweigerd, indien: </al>
         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+            
             <li>
                 <li.nr>a.</li.nr>
-                <al>de aanvrager niet behoort tot een van de
-                    categorie&#xEB;n, genoemd in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">artikel 4.2, eerste
-                    lid</intref>; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
                 <al>de toekenning in strijd is met het desbetreffende
                     nummerplan of een op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">artikel 4.2, vijfde
                     lid</intref>, vastgestelde aanwijzing; </al>
             </li>
             <li>
-                <li.nr>c.</li.nr>
+                <li.nr>b.</li.nr>
                 <al>redelijkerwijs is te verwachten dat door de
                     aanvrager niet zal of kan worden voldaan aan het bij
                     of krachtens deze wet met betrekking tot nummers
                     bepaalde; </al>
             </li>
+            
             <li>
-                <li.nr>d.</li.nr>
-                <al><redactie type="vervanging">vervallen;</redactie></al>
-            </li>
-            <li>
-                <li.nr>e.</li.nr>
+                <li.nr>c.</li.nr>
                 <al>de toekenning in strijd zou zijn met de bij of
                     krachtens deze wet gestelde regels. </al>
             </li>
@@ -2062,9 +2054,7 @@ toekenning wordt door het college gewijzigd of ingetrokken,
 indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
 <li.nr>a.</li.nr><al>een wijziging van het desbetreffende nummerplan
 daartoe noodzaakt, voor zover de nummerhouder aanspraak behoudt op
-toekenning van hetzelfde aantal nummers;</al></li><li>
-<li.nr>b.</li.nr><al>de redenen die ten grondslag lagen aan de
-toekenning zijn vervallen;</al></li><li> <li.nr>c.</li.nr><al>het
+toekenning van hetzelfde aantal nummers;</al></li><li> <li.nr>b.</li.nr><al>het
 doelmatig gebruik van nummers in het algemeen maatschappelijk en
 economisch belang dit
 vordert.</al></li></lijst></lid>
@@ -2084,8 +2074,7 @@ vordert.</al></li></lijst></lid>
 kan door het college worden opgeschort voor een door het college te
 bepalen termijn of worden ingetrokken,
 indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
-<li.nr>a.</li.nr><al>de nummerhouder of de nummergebruiker de bij of
-krachtens deze wet gestelde regels of de aan het toekenningsbesluit
+<li.nr>a.</li.nr><al>de nummerhouder of de nummergebruiker de bij of krachtens deze wet met betrekking tot nummers gestelde regels of de aan het toekenningsbesluit
 verbonden voorschriften niet nakomt;</al></li><li>
 <li.nr>b.</li.nr><al>na de toekenning blijkt dat de aanvraag is gedaan
 met de kennelijke bedoeling de toegekende nummers te
@@ -2098,7 +2087,7 @@ tot bij ministeri&#xEB;le regeling aangewezen categorie&#xEB;n van
 nummers kan een toekenning door het college worden opgeschort voor een
 door het college te bepalen termijn die niet langer duurt dan twee
 weken, indien het college een aanwijzing heeft dat de nummergebruiker
-de bij of krachtens deze wet gestelde regels niet nakomt of de aan het
+de bij of krachtens deze wet met betrekking tot nummers gestelde regels niet nakomt of de aan het
 toekenningsbesluit verbonden voorschriften of een gedraging als bedoeld
 in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref> verricht. Het college kan de in de vorige volzin
 genoemde periode eenmalig met maximaal twee weken
@@ -2117,7 +2106,7 @@ verlengen.</al></lid>
             toegekende bevoegdheden wordt door het college een
             nummerregister bijgehouden dat een overzicht bevat van
             toekenningen. Het register bevat de
-            vermelding van de naam van degene aan wie nummers zijn
+            vermelding van de naam, het adres en de vestigingsplaats, respectievelijk de woonplaats van degene aan wie nummers zijn
             toegekend. Tevens wordt de duur van de toekenning  vermeld.
             Het college is verantwoordelijke in de zin van
                 <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1, onderdeel d, van de
@@ -6170,8 +6159,7 @@ algemene maatregel van bestuur aan te wijzen openbare elektronische
 communicatiediensten of bij algemene maatregel van bestuur aan te
 wijzen
 programmadiensten sluiten
-zich aan bij een door de Minister van
-Justitie erkende geschillencommissie welke geschillen
+zich aan bij een door Onze Minister van Veiligheid en Justitie erkende geschillencommissie welke geschillen
 behandelt over een overeenkomst met betrekking tot de levering van een openbare
 elektronische communicatiedienst of een
 programmadienst tussen een hiervoor bedoelde aanbieder en
@@ -6180,7 +6168,7 @@ andere dan bedrijfs- of beroepsdoeleinden
 handelt.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Gebruikers van
 bij algemene maatregel van bestuur aan te wijzen categorie&#xEB;n van
 nummers sluiten zich gedurende een bij die algemene maatregel van
-bestuur te bepalen periode aan bij een door de Minister van Justitie
+bestuur te bepalen periode aan bij een door Onze Minister van Veiligheid en Justitie
 erkende geschillencommissie welke geschillen behandelt over de levering
 van een dienst door een hiervoor bedoelde nummergebruiker aan een
 consument voor zover het geschil verplichtingen betreft die bij of
@@ -6605,8 +6593,7 @@ gegevens voor de eerste maal zijn verwerkt.</al>
               <lid>
                 <lidnr status="officieel">4</lidnr>
                 <al>Bij
-algemene maatregel van bestuur, op voordracht van Onze Minister van
-Justitie, Onze Minister, Onze Minister van Binnenlandse Zaken en
+algemene maatregel van bestuur, op voordracht van Onze Minister van Veiligheid en Justitie, Onze Minister, Onze Minister van Binnenlandse Zaken en
 Koninkrijksrelaties en Onze Minister van Defensie kunnen regels worden
 gesteld met betrekking tot de wijze waarop de aanbieders aan een
 vordering of een verzoek, bedoeld in het eerste, tweede en derde lid,
@@ -6693,7 +6680,7 @@ derde lid</intref>.</al>
                      <lid>
                         <lidnr status="officieel">4</lidnr>
                         <al>Op
-voordracht van Onze Minister van Justitie, Onze Minister, Onze Minister
+voordracht van Onze Minister van Veiligheid en Justitie, Onze Minister, Onze Minister
 van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van
 Defensie kunnen bij algemene maatregel van bestuur regels worden
 gesteld met betrekking tot de te nemen maatregelen in verband met de
@@ -6783,7 +6770,7 @@ of derde lid</intref>.</al>
     <al>Van de verplichtingen die voortvloeien uit dit hoofdstuk kan
         Onze Minister in overeenstemming met Onze Minister van
         Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister van
-        Defensie en Onze Minister van Justitie in bijzondere gevallen
+        Defensie en Onze Minister van Veiligheid en Justitie in bijzondere gevallen
         ontheffing verlenen. Een ontheffing kan onder beperkingen worden
         verleend. Aan een ontheffing kunnen voorschriften worden
         verbonden. </al>
@@ -6791,8 +6778,8 @@ of derde lid</intref>.</al>
 <artikel status="goed"><kop>
                         <label>Artikel</label>
                         <nr status="officieel">13.9</nr>
-                     </kop><al>Onze Minister van Justitie zendt in
-overeenstemming met Onze Minister van Economische Zaken binnen drie
+                     </kop><al>Onze Minister van Veiligheid en Justitie zendt in
+overeenstemming met Onze Minister binnen drie
 jaar na de inwerkingtreding van deze wet en vervolgens telkens na drie
 jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de
 effecten van de wijziging van de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.2a">artikelen 13.2a</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">13.4</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.5">13.5</intref> in de
@@ -7332,8 +7319,7 @@ de omzet van de onderneming:</al>
               <li>
                 <li.nr>a.</li.nr>
                 
-              <al>in het boekjaar voorafgaande aan de beschikking, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.10">artikel
-15.10</intref>;</al></li>
+              <al>in het boekjaar voorafgaand aan de beschikking waarbij de bestuurlijke boete wordt opgelegd;</al></li>
             <li>
                 <li.nr>b.</li.nr>
                 
@@ -7832,8 +7818,7 @@ elektronische communicatiediensten kunnen worden gesteld. </al>
     
     <lid>
         <lidnr status="officieel">1</lidnr>
-        <al>Onze Minister is bevoegd, in overeenstemming met Onze
-            Minister van Justitie, aanbieders van openbare elektronische communicatienetwerken
+        <al>Onze Minister is bevoegd, in overeenstemming met Onze Minister van Veiligheid en Justitie, aanbieders van openbare elektronische communicatienetwerken
 of openbare elektronische communicatiediensten aanwijzingen te geven met
             betrekking tot: </al>
         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
