@@ -964,14 +964,17 @@ Wetboek</extref>, voor zover dat
             gegevens worden verwerkt.</al>
     </lid>
     <lid>
-        <lidnr status="officieel">6</lidnr>
-        <al>Het tweede tot en met vijfde lid is van overeenkomstige
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Het verbod is niet van toepassing op verwerkingen van strafrechtelijke gegevens door en ten behoeve van publiekrechtelijke samenwerkingsverbanden van verantwoordelijken of groepen van verantwoordelijken indien de verwerking noodzakelijk is voor de uitvoering van de taak van deze verantwoordelijken of groepen van verantwoordelijken en bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.</al>
+                     </lid><lid>
+        <lidnr status="officieel">7</lidnr>
+        <al>Het tweede tot en met zesde lid is van overeenkomstige
             toepassing op persoonsgegevens betreffende een door de
             rechter opgelegd verbod naar aanleiding van onrechtmatig of
             hinderlijk gedrag.</al>
     </lid>
     <lid>
-        <lidnr status="officieel">7</lidnr>
+        <lidnr status="officieel">8</lidnr>
         <al>Bij algemene maatregel van bestuur kunnen regels worden
             gesteld over de passende en specifieke waarborgen, bedoeld
             in het vierde lid, onder c.</al>
@@ -980,15 +983,15 @@ Wetboek</extref>, voor zover dat
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>23</nr>
+        <nr status="officieel">23</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Onverminderd de <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=17">artikelen 17 tot en met 22</intref> is het verbod om
-            persoonsgegevens als bedoeld in artikel 16, te verwerken
+            persoonsgegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=16">artikel 16</intref>, te verwerken
             niet van toepassing voor zover:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>dit geschiedt met uitdrukkelijke toestemming van de betrokkene;</al>
@@ -1004,29 +1007,35 @@ Wetboek</extref>, voor zover dat
                     uitoefening of de verdediging van een recht in rechte;</al>
             </li>
             <li>
-                <li.nr>d.</li.nr>
+                           <li.nr>d.</li.nr>
+                           <al>dit noodzakelijk is ter verdediging van de vitale belangen van de betrokkene of van een derde en het vragen van diens uitdrukkelijke toestemming onmogelijk blijkt;</al>
+                        </li><li>
+                <li.nr>e.</li.nr>
                 <al>dit noodzakelijk is ter voldoening aan een
                     volkenrechtelijke verplichting of</al>
             </li>
             <li>
-                <li.nr>e.</li.nr>
+                <li.nr>f.</li.nr>
                 <al>dit noodzakelijk is met het oog op een zwaarwegend
                     algemeen belang, passende waarborgen worden geboden
                     ter bescherming van de persoonlijke levenssfeer en
                     dit bij wet wordt bepaald dan wel het College
                     ontheffing heeft verleend. Het College kan bij de
                     verlening van ontheffing beperkingen en
-                    voorschriften opleggen.</al>
+                    voorschriften opleggen;</al>
             </li>
-        </lijst>
+        <li>
+                           <li.nr>g.</li.nr>
+                           <al>de gegevens worden verwerkt door het College of een ombudsman als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=9%3A17" compleet="nee">artikel 9:17 van de Algemene wet bestuursrecht</extref> en dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, voor de uitvoering van de hun wettelijk opgedragen taken en bij die uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.</al>
+                        </li></lijst>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Het verbod om persoonsgegevens als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=16">artikel 16</intref>, te
             verwerken ten behoeve van wetenschappelijk onderzoek of
             statistiek is niet van toepassing voor zover:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>het onderzoek een algemeen belang dient,</al>
@@ -1050,7 +1059,7 @@ Wetboek</extref>, voor zover dat
         </lijst>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Verwerkingen als bedoeld in het eerste lid, onder e, worden
             bij de Europese Commissie gemeld. Onze Minister wie het
             aangaat verricht de melding indien de verwerking bij wet is
@@ -1175,24 +1184,20 @@ toepassing.</al></lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>27</nr>
+        <nr status="officieel">27</nr>
     </kop>
-    
     <lid>
-        <lidnr>1</lidnr>
-        <al>Een geheel of gedeeltelijk geautomatiseerde verwerking van
-            persoonsgegevens die voor de verwezenlijking van een
-            doeleinde of van verscheidene samenhangende doeleinden
-            bestemd is, wordt alvorens met de verwerking wordt
-            aangevangen gemeld bij het College of de functionaris.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Een niet geautomatiseerde verwerking van persoonsgegevens
-            die voor de verwezenlijking van een doeleinde of van
-            verscheidene samenhangende doeleinden bestemd is, wordt
-            gemeld indien deze is onderworpen aan voorafgaand onderzoek.</al>
-    </lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Een geheel of gedeeltelijk geautomatiseerde verwerking van persoonsgegevens, die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is, wordt gemeld.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Een niet geautomatiseerde verwerking van persoonsgegevens, die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is, wordt gemeld indien deze is onderworpen aan een voorafgaand onderzoek.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>De verantwoordelijke meldt de verwerking alvorens daarmee te beginnen bij het College of bij de functionaris.</al>
+                     </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -1378,14 +1383,14 @@ toepassing.</al></lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>31</nr>
+        <nr status="officieel">31</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Het College stelt voorafgaand aan een verwerking een
             onderzoek in indien de verantwoordelijke:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>een nummer ter identificatie van personen voornemens
@@ -1399,29 +1404,25 @@ toepassing.</al></lid>
             </li>
             <li>
                 <li.nr>b.</li.nr>
-                <al>voornemens is gegevens vast te leggen op grond van
-                    eigen waarneming zonder de betrokkene daarvan op de
+                <al>voornemens is gegevens vast te leggen op grond van het gericht verzamelen van informatie door middel van eigen onderzoek zonder de betrokkene daarvan op de
                     hoogte te stellen, of</al>
             </li>
             <li>
-                <li.nr>c.</li.nr>
-                <al>anders dan krachtens een vergunning op grond van de
-                        <extref status="actief" doc="1.0:v:BWBR0008973" compleet="nee">Wet particuliere
-                        beveiligingsorganisaties en
-                    recherchebureaus</extref> voornemens is
-                    strafrechtelijke gegevens of gegevens over
-                    onrechtmatig of hinderlijk gedrag te verwerken ten
-                    behoeve van derden.</al>
-            </li>
+                           <li.nr>c.</li.nr>
+                           <al>voornemens is ten behoeve van derden strafrechtelijke gegevens of gegevens over onrechtmatig of hinderlijk gedrag te verwerken, anders dan in de gevallen genoemd in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=22">artikel 22, vierde lid, onderdelen a en b</intref>.</al>
+                        </li>
         </lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Het eerste lid, onder b, is niet van toepassing op openbare
             registers die bij de wet zijn ingesteld.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Het eerste lid, onderdeel c, is niet van toepassing op gegevensverwerkingen die reeds door een andere verantwoordelijke voor voorafgaand onderzoek zijn voorgelegd en ten aanzien waarvan het College een verklaring als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=32">artikel 32, vijfde lid</intref>, heeft afgegeven.</al>
+                     </lid><lid>
+        <lidnr status="officieel">4</lidnr>
         <al>Bij wet of algemene maatregel van bestuur kunnen andere
             gegevensverwerkingen die een bijzonder risico inhouden voor
             de persoonlijke rechten en vrijheden van de betrokkene
@@ -1431,7 +1432,7 @@ toepassing.</al></lid>
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">5</lidnr>
         <al>Het College meldt een verwerking als bedoeld in het eerste
             lid, onder c, bij de Europese Commissie.</al>
     </lid>
@@ -1739,7 +1740,7 @@ wet</extref> van toepassing.</al>
     
     <lid>
         <lidnr status="officieel">1</lidnr>
-        <al>De verantwoordelijke kan voor een bericht als bedoeld in
+        <al>De verantwoordelijke kan voor een mededeling als bedoeld in
             <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=35">artikel 35</intref> een bij of krachtens algemene maatregel van
             bestuur vast te stellen vergoeding van kosten verlangen die
             ten hoogste &#x20AC;
@@ -1796,11 +1797,11 @@ wet</extref> van toepassing.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>41</nr>
+        <nr status="officieel">41</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Indien gegevens worden verwerkt in verband met de
             totstandbrenging of de instandhouding van een directe
             relatie tussen de verantwoordelijke of een derde en de
@@ -1810,25 +1811,17 @@ wet</extref> van toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>In geval van verzet treft de verantwoordelijke de
-            maatregelen om deze vorm van verwerking terstond te be&#xEB;indigen.</al>
+            maatregelen om deze vorm van verwerking terstond te be&#xEB;indigen. De verantwoordelijke doet aan de betrokkene desgevraagd binnen vier weken opgave van de genomen maatregelen. Indien de kennisgeving niet binnen vier weken kan worden gedaan, deelt de verantwoordelijke uiterlijk vier weken na de datum van ontvangst van het verzoek mede binnen welke termijn de kennisgeving wel kan worden gedaan.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
-        <al>De verantwoordelijke die voornemens is persoonsgegevens aan
-            derden te verstrekken of voor rekening van derden te
-            gebruiken voor het in het eerste lid bedoelde doel, neemt
-            passende maatregelen om de betrokkenen de mogelijkheden
-            bekend te maken tot het doen van verzet. De bekendmaking
-            vindt plaats via een of meer dag-, nieuws-, of
-            huis-aan-huisbladen of op een andere geschikte wijze. Bij
-            regelmatige verstrekking aan derden of gebruik voor rekening
-            van derden vindt de bekendmaking ten minste eens per jaar plaats.</al>
+        <lidnr status="officieel">3</lidnr>
+        <al>De verantwoordelijke die persoonsgegevens verwerkt voor het in het eerste lid bedoelde doel, neemt passende maatregelen om betrokkenen de mogelijkheden bekend te maken tot het doen van verzet.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De verantwoordelijke die persoonsgegevens verwerkt voor het
             in het eerste lid bedoelde doel, draagt zorg dat, indien
             daartoe rechtstreeks een boodschap aan de betrokkene wordt
@@ -2498,11 +2491,11 @@ wet</extref> van toepassing.</al>
 </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>63</nr>
+        <nr status="officieel">63</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Als functionaris kan slechts worden benoemd een natuurlijke
             persoon die voor de vervulling van zijn taak over
             toereikende kennis beschikt en voldoende betrouwbaar kan
@@ -2510,7 +2503,7 @@ wet</extref> van toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De functionaris kan wat betreft de uitoefening van zijn
             functie geen aanwijzingen ontvangen van de verantwoordelijke
             of van de organisatie die hem heeft benoemd. Hij ondervindt
@@ -2522,7 +2515,7 @@ wet</extref> van toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>De functionaris oefent zijn taken eerst uit nadat de
             verantwoordelijke of de organisatie die hem heeft benoemd,
             hem heeft aangemeld bij het College. Het College houdt een
@@ -2530,17 +2523,12 @@ wet</extref> van toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al>De functionaris is verplicht tot geheimhouding van hetgeen
             hem op grond van een klacht of een verzoek van betrokkene is
             bekend geworden, tenzij de betrokkene in bekendmaking toestemt.</al>
     </lid>
     
-    <lid>
-        <lidnr>5</lidnr>
-        <al>De functionaris stelt jaarlijks een verslag op van zijn
-            werkzaamheden en bevindingen. </al>
-    </lid>
 </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -2644,19 +2632,16 @@ boete wordt
         <nr status="officieel">75</nr>
     </kop>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>De verantwoordelijke die in strijd handelt met hetgeen bij
-            of krachtens <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=4">artikel 4, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=27">27</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=28">28</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=78">78, tweede lid,
-            onder a</intref>, is bepaald, wordt gestraft met geldboete van de
-            tweede categorie.</al>
-    </lid>
     
+    <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De verantwoordelijke die in strijd handelt met hetgeen bij of krachtens <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=4">artikel 4, derde lid</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=27">27</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=28">28</intref>, <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=78">78, tweede lid, onder a</intref>, of <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=79">79, eerste lid</intref>, is bepaald, wordt gestraft met geldboete van de derde categorie.</al>
+                     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
         <al>De verantwoordelijke die een feit als bedoeld in het eerste
             lid, opzettelijk begaat, wordt gestraft met gevangenisstraf
-            van ten hoogste zes maanden of geldboete van de derde categorie.</al>
+            van ten hoogste zes maanden of geldboete van de vierde categorie.</al>
     </lid>
     <lid>
         <lidnr status="officieel">3</lidnr>
@@ -2684,11 +2669,26 @@ boete wordt
         <titel status="officieel">Gegevensverkeer met landen buiten de
             Europese Unie</titel>
     </kop>
-    <artikel status="goed"><kop><label>Artikel</label><nr>76</nr></kop><lid><lidnr>1</lidnr><al>Persoonsgegevens die aan een verwerking worden onderworpen
+    <artikel status="goed">
+    <kop>
+        <label>Artikel</label>
+        <nr status="officieel">76</nr>
+    </kop>
+    
+    <lid>
+        <lidnr status="officieel">1</lidnr>
+        <al>Persoonsgegevens die aan een verwerking worden onderworpen
             of die bestemd zijn om na hun doorgifte te worden verwerkt,
             worden slechts naar een land buiten de Europese Unie
             doorgegeven indien, onverminderd de naleving van de wet, dat
-            land een passend beschermingsniveau waarborgt.</al></lid><lid><lidnr>2</lidnr><al>Het passend karakter van het beschermingsniveau wordt
+            land een passend beschermingsniveau waarborgt.</al>
+    </lid>
+    <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>In afwijking van het eerste lid kunnen persoonsgegevens die aan een verwerking worden onderworpen of die zijn bestemd om na hun doorgifte te worden verwerkt naar een land buiten de Europese Unie worden doorgegeven, indien dat land partij is bij de op 2&#xA0;mei 1992 te Oporto totstandgekomen Overeenkomst betreffende de Europese Economische Ruimte (Trb.&#xA0;1992, 132), tenzij uit een besluit van de Commissie van de Europese Gemeenschappen of de Raad van de Europese Unie voortvloeit dat deze doorgifte is beperkt of verboden.</al>
+                     </lid><lid>
+        <lidnr status="officieel">3</lidnr>
+        <al>Het passend karakter van het beschermingsniveau wordt
             beoordeeld gelet op de omstandigheden die op de doorgifte
             van gegevens of op een categorie gegevensdoorgiften van
             invloed zijn. In het bijzonder wordt rekening gehouden met
@@ -2698,20 +2698,22 @@ boete wordt
             eindbestemming, de algemene en sectori&#xEB;le rechtsregels die
             in het betrokken derde land gelden, alsmede de regels van
             het beroepsleven en de veiligheidsmaatregelen die in die
-            landen worden nageleefd.</al></lid></artikel>
+            landen worden nageleefd.</al>
+    </lid>
+</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>77</nr>
+        <nr status="officieel">77</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=76">artikel 76</intref> kan een doorgifte of een
             categorie van doorgiften van persoonsgegevens naar een derde
             land dat geen waarborgen biedt voor een passend
             beschermingsniveau, plaatsvinden indien:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de betrokkene daarvoor zijn ondubbelzinnige
@@ -2751,12 +2753,15 @@ boete wordt
                     ieder dan wel door iedere persoon die zich op een
                     gerechtvaardigd belang kan beroepen, kan worden
                     geraadpleegd, voor zover in het betrokken geval is
-                    voldaan aan de wettelijke voorwaarden voor raadpleging.</al>
+                    voldaan aan de wettelijke voorwaarden voor raadpleging;</al>
             </li>
-        </lijst>
+        <li>
+                           <li.nr>g.</li.nr>
+                           <al>gebruik wordt gemaakt van een modelcontract als bedoeld in artikel 26, vierde lid, van richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24&#xA0;oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281).</al>
+                        </li></lijst>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>In afwijking van het eerste lid, kan Onze Minister, gehoord
             het College, een vergunning geven voor een doorgifte of een
             categorie doorgiften van persoonsgegevens naar een derde
@@ -2771,14 +2776,14 @@ boete wordt
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>78</nr>
+        <nr status="officieel">78</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Onze Minister stelt de Commissie van de Europese
             Gemeenschappen in kennis van:</al>
-        <lijst>
+        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
             <li>
                 <li.nr>a.</li.nr>
                 <al>de gevallen waarin, naar zijn oordeel, een derde
@@ -2792,32 +2797,43 @@ boete wordt
             </li>
         </lijst>
     </lid>
+    
     <lid>
-        <lidnr>2</lidnr>
-        <al>Indien zulks voortvloeit uit een besluit van de Commissie
-            van de Europese Gemeenschappen of de Raad van de Europese
-            Unie, bepaalt Onze Minister bij ministeri&#xEB;le regeling of bij
-            beschikking dat:</al>
-        <lijst>
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de doorgifte naar een land buiten de Europese Unie
-                    is verboden;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>een land buiten de unie geacht wordt een passend
-                    beschermingsniveau te waarborgen, of</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>een op grond van <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=77">artikel 77, tweede lid</intref>, verleende
-                    vergunning wordt ingetrokken of gewijzigd.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Indien zulks voortvloeit uit een besluit van de Commissie van de Europese Gemeenschappen of de Raad van de Europese Unie, bepaalt Onze Minister van Justitie bij ministeri&#xEB;le regeling of bij besluit dat:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de doorgifte naar een land buiten de Europese Unie is verboden, of,</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>een op grond van <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=77">artikel 77, tweede lid</intref>, verleende vergunning wordt ingetrokken of gewijzigd.</al>
+                           </li>
+                        </lijst>
+                     </lid><lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Aan een derde land, waarvan de Commissie van de Europese Gemeenschappen of de Raad van de Europese Unie heeft vastgesteld dat het waarborgen voor een passend beschermingsniveau biedt kunnen, onverminderd het overigens bij of krachtens deze wet bepaalde, persoonsgegevens worden doorgegeven.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>In afwijking van het derde lid kan de doorgifte van persoonsgegevens naar een derde land waarvan de Commissie van de Europese Gemeenschappen of de Raad van de Europese Unie heeft vastgesteld dat het waarborgen voor een passend beschermingsniveau biedt, door Onze Minister van Justitie bij ministeri&#xEB;le regeling of bij besluit, gehoord het College, worden opgeschort, teneinde personen bij de verwerking van persoonsgegevens te beschermen in de gevallen waarin:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een bevoegde autoriteit in het derde land tot de conclusie is gekomen dat de desbetreffende ontvanger in strijd met de toepasselijke normen voor gegevensbescherming handelt;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>het zeer waarschijnlijk is dat niet aan de normen voor gegevensbescherming wordt voldaan, er gegronde redenen zijn om aan te nemen dat de bevoegde autoriteit in het derde land niet tijdig passende maatregelen neemt of zal nemen om het desbetreffende probleem op te lossen, de voortzetting van de doorgifte een dreigend gevaar voor ernstige schade aan de betrokkene inhoudt en het College voldoende inspanningen heeft geleverd om de in het derde land gevestigde verantwoordelijke in kennis te stellen van zijn bevindingen en hem gelegenheid heeft geboden op die bevindingen te reageren.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>De ministeri&#xEB;le regeling, onderscheidenlijk het besluit, bedoeld in het vierde lid, blijft van kracht tot vaststaat dat de normen voor gegevensverwerking worden nageleefd en het College daarvan in kennis is gesteld door de desbetreffende bevoegde autoriteit, in een geval als bedoeld in het vierde lid, onder a, dan wel het College dit heeft vastgesteld in een geval als bedoeld in het vierde lid, onder b. Het College brengt zijn bevindingen ter kennis van Onze Minister van Justitie.</al>
+                     </lid><lid>
+        <lidnr status="officieel">6</lidnr>
         <al>De in het eerste lid, onder a en b, bedoelde kennisgevingen
             worden gepubliceerd in de Staatscourant.</al>
     </lid>
