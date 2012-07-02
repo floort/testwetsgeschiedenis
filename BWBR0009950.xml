@@ -314,7 +314,8 @@ of vooruitbetaalde telefoonkaarten;</al>
                         </li>
                         <li>
                            <li.nr>fff.</li.nr>
-                           <al>roamingverordening: verordening nr. 717/2007 van het Europees Parlement en de Raad van de Europese Unie van 27&#xA0;juni 2007 betreffende roaming op openbare mobiele telefoonnetwerken binnen de Gemeenschap en tot wijziging van Richtlijn 2002/21/EG inzake een gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken en -diensten (PbEU L 171);</al>
+                           <al>
+                              roamingverordening: op grond van artikel 114 van het Verdrag betreffende de werking van de Europese Unie vastgestelde verordening van het Europees Parlement en de Raad van de Europese Unie betreffende roaming op openbare mobiele-communicatienetwerken binnen de Unie, en de op grond van die verordening door de Europese Commissie vastgestelde uitvoeringshandelingen;</al>
                         </li><li>
                            <li.nr>ggg.</li.nr>
                            <al>bijbehorende diensten: de bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende diensten die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel hiertoe bezitten;</al>
@@ -8788,13 +8789,16 @@ interactieve televisiediensten.</al></li></lijst>
                 <label>Artikel</label>
                 <nr status="officieel">18.22</nr>
               </kop>
-              <al>Een wijziging van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/20/EG</extref>,
+              <lid><lidnr status="officieel">1</lidnr><al>Een wijziging van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>, <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/20/EG</extref>,
 <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>, of <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref> gaat voor de toepassing
 van de Telecommunicatiewet gelden met ingang van de dag waarop aan de betrokken
 wijziging van de desbetreffende richtlijn uitvoering moet zijn gegeven, tenzij
 bij ministerieel besluit dat in de Staatscourant wordt bekendgemaakt, een
-ander tijdstip wordt vastgesteld.</al>
-            </artikel></hoofdstuk>
+ander tijdstip wordt vastgesteld.</al></lid>
+            <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Onze Minister doet in de Staatscourant mededeling van de titel, de vindplaats en de datum van inwerkingtreding van de roamingverordening.</al>
+                     </lid></artikel></hoofdstuk>
             <hoofdstuk>
     <kop>
                 <label>Hoofdstuk</label>
