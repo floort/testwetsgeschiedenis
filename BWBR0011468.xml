@@ -39,11 +39,11 @@
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>1</nr>
+        <nr status="officieel">1</nr>
     </kop>
     
     <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>a.</li.nr>
             <al>persoonsgegeven: elk gegeven betreffende een
@@ -106,7 +106,7 @@
         </li>
         <li>
             <li.nr>j.</li.nr>
-            <al>Onze Minister: Onze Minister van Justitie;</al>
+            <al>Onze Minister: Onze Minister van Veiligheid en Justitie;</al>
         </li>
         <li>
             <li.nr>k.</li.nr>
@@ -165,13 +165,10 @@
 			 <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en veiligheidsdiensten
 			 2002</extref>;</al> 
 		</li> 
-		<li> 
-		  <li.nr>c.</li.nr> 
-		  <al>2. ten behoeve van de
-uitvoering van de politietaak, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=2" compleet="nee">artikelen 2</extref> en <extref status="actief" doc="1.0:v:BWBR0006299&amp;artikel=6" compleet="nee">6, eerste
-lid, van de Politiewet
-1993</extref>;</al> 
-		</li> 
+		<li>
+                                 <li.nr>c.</li.nr>
+                                 <al>ten behoeve van de uitvoering van de politietaak, bedoeld in de <extref status="actief" doc="1.0:v:BWBR0031788&amp;artikel=3" compleet="nee">artikelen 3</extref> en <extref status="actief" doc="1.0:v:BWBR0031788&amp;artikel=4" compleet="nee">4, eerste lid, van de Politiewet 2012</extref>;</al>
+                              </li> 
 		<li> 
 		  <li.nr>d.</li.nr> 
 		  <al>die is geregeld bij of krachtens de
@@ -806,7 +803,7 @@ Wetboek</extref>, voor zover dat
             </li>
             <li>
                 <li.nr>e.</li.nr>
-                <al>Onze Minister van Justitie voor zover dat in verband
+                <al>Onze Minister voor zover dat in verband
                     met de tenuitvoerlegging van vrijheidsstraffen of
                     vrijheidsbenemende maatregelen noodzakelijk is of</al>
             </li>
@@ -2246,8 +2243,7 @@ wet</extref> van toepassing.</al>
         <lidnr status="officieel">1</lidnr>
         <al>Aan een lid wordt bij koninklijk besluit, op voordracht van
             Onze Minister, ontslag verleend met ingang van de eerste
-            maand volgend op die waarin hij de leeftijd van vijfenzestig
-            jaar bereikt.</al>
+            maand volgend op die waarin hij de pensioengerechtigde leeftijd, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002221&amp;artikel=7a" compleet="nee">artikel 7a, eerste lid, van de Algemene Ouderdomswet</extref>, bereikt.</al>
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
