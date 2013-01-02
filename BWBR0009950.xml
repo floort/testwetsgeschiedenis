@@ -4107,7 +4107,7 @@ toepassing.</al></lid></artikel><artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">6a.21a</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-01-2013</redactie></al></kop>
+                     </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
                         <al>Het college kan aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.21">artikel 6a.21, derde lid</intref>, mede verplichtingen in verband met toegang opleggen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref>.</al>
@@ -4427,7 +4427,24 @@ opzegging door de consument in acht te nemen termijn is in alle
 gevallen niet langer dan een
 maand.</al>
                      </lid>
-                  </artikel><artikel status="goed">
+                  <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Een aanbieder van een openbare telefoondienst biedt een consument de mogelijkheid een overeenkomst aan te gaan:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>waarbij geen starttarief in rekening wordt gebracht;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>waarbij de gespreksduur in seconden in rekening wordt gebracht, en</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>waarbij, indien de aanbieder ook abonnementen aanbiedt waarbij de gespreksduur niet in seconden in rekening wordt gebracht, het tarief, gezien de overige voorwaarden van de overeenkomst, vergelijkbaar is met het tarief bij de andere door de aanbieder aangeboden abonnementen.</al>
+                           </li>
+                        </lijst>
+                     </lid></artikel><artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.3</nr>
@@ -4614,7 +4631,7 @@ opgedragen en bevoegdheden worden verleend aan het college.</al>
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">7.4a</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-01-2013</redactie></al></kop>
+                     </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
                         <al>Aanbieders van openbare elektronische communicatienetwerken waarover internettoegangsdiensten worden geleverd en aanbieders van internettoegangsdiensten belemmeren of vertragen geen diensten of toepassingen op het internet, tenzij en voor zover de betreffende maatregel waarmee diensten of toepassingen worden belemmerd of vertraagd noodzakelijk is:</al>
@@ -4686,7 +4703,7 @@ het eerste lid bedoelde abonnee-informatiedienst moet voldoen.</al>
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">7.6a</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-01-2013</redactie></al></kop>
+                     </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
                         <al>Een aanbieder van een internettoegangsdienst aan een eindgebruiker kan de levering van deze dienst slechts geheel of gedeeltelijk be&#xEB;indigen of opschorten:</al>
@@ -5557,7 +5574,7 @@ van een openbare elektronische communicatiedienst zorg voor de bescherming van
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">11.2a</nr>
-                     <al><redactie type="extra">Treedt in werking per 01-01-2013</redactie></al></kop>
+                     </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
                         <al>Onverminderd het <extref status="actief" doc="1.0:v:BWBR0001854" compleet="nee">Wetboek van Strafrecht</extref> en het overigens bij of krachtens deze wet bepaalde, dragen de aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder van een openbare elektronische communicatiedienst zorg voor het vertrouwelijke karakter van de communicatie en de daarmee verband houdende gegevens via hun netwerken onderscheidenlijk hun diensten.</al>
@@ -6199,7 +6216,7 @@ lid.</al>
                            </li>
                         </lijst>
                         
-                     </lid>
+                     <al>Een handeling als bedoeld in de aanhef, die tot doel heeft gegevens over het gebruik van verschillende diensten van de informatiemaatschappij door de gebruiker of de abonnee te verzamelen, combineren of analyseren voor commerci&#xEB;le, charitatieve of ide&#xEB;le doeleinden, wordt vermoed een verwerking van persoonsgegevens te zijn, als bedoeld in <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1, onderdeel b, van de Wet bescherming persoonsgegevens</extref>.</al></lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
                         <al>De in het eerste lid, onder a en b, genoemde vereisten zijn ook van toepassing in het geval op een andere wijze dan door middel van een elektronisch communicatienetwerk wordt bewerkstelligd dat via een elektronisch communicatienetwerk gegevens worden opgeslagen of toegang wordt verleend tot op het randapparaat opgeslagen gegevens.</al>
@@ -8066,32 +8083,7 @@ overbrengt.</al>
         <nr>17</nr>
         <titel>Beroep  </titel>
     </kop>
-    <artikel status="goed">
-    <kop>
-                <label>Artikel</label>
-                <nr status="officieel">17.1</nr>
-              </kop>
-              <lid>
-                <lidnr status="officieel">1</lidnr>
-                <al>Tegen besluiten die door het college zijn genomen op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=6">hoofdstuk
-6</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=6a">6A</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=6b">6B</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=12">12</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=15">15</intref>, met uitzondering van besluiten als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.2a">artikelen
-15.2a</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.4">15.4</intref>, kan een belanghebbende beroep instellen bij het College van
-Beroep voor het bedrijfsleven.</al>
-              </lid>
-              <lid>
-                <lidnr status="officieel">2</lidnr>
-                <al>In afwijking van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=8%3A7" compleet="nee">artikel 8:7 van de Algemene wet bestuursrecht</extref> is voor
-beroep tegen besluiten, niet zijnde besluiten als bedoeld in het eerste lid,
-de rechtbank te Rotterdam bevoegd.</al>
-              </lid>
-              <lid>
-                <lidnr status="officieel">3</lidnr>
-                <al>Ten aanzien van besluiten die door het college zijn genomen op grond van
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=5">hoofdstuk
-5</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=6">6</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=6a">6A</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=6b">6B</intref>, of <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=12">12</intref>, blijft <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=7%3A1" compleet="nee">artikel 7:1 van de Algemene wet bestuursrecht</extref>
-buiten toepassing.</al>
-              </lid>
-</artikel>
+    
 </hoofdstuk>
             <hoofdstuk>
     <kop>
@@ -8913,12 +8905,7 @@ zijn opgenomen. Indien de abonnee verzet aantekent, is <extref status="actief" d
 lid, van de Wet bescherming persoonsgegevens</extref> van overeenkomstige toepassing.</al>
                   </li></lijst>
               </artikel>
-              <artikel status="goed"><kop><label>Artikel</label><nr>19.11</nr></kop><al>Op besluiten die door het college zijn genomen op grond van hoofdstuk
-6, waartegen bezwaar of beroep kon worden ingesteld voor de inwerkingtreding
-van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader voor de elektronische
-communicatiesector 2002</extref>, is, in afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=17.1">artikel 17.1, eerste lid</intref>, de
-rechtbank te Rotterdam bevoegd, en blijft <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=17.1">artikel 17.1, derde lid</intref>, buiten
-toepassing.</al></artikel>
+              
 </hoofdstuk>
             <hoofdstuk>
     <kop>
