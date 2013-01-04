@@ -1432,7 +1432,7 @@ belast kunnen v&#xF3;&#xF3;r de aanvang van het onderzoek van
             raadsman van de veroordeelde of, indien de zaak bij de
             kantonrechter wordt behandeld, ten aanzien van een bijzonder
             daartoe door de veroordeelde gemachtigde. Het bepaalde bij
-            en krachtens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=34" compleet="nee">artikel 34 van het Wetboek van
+            en krachtens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=32" compleet="nee">artikel 32 van het Wetboek van
             Strafvordering</extref> is van overeenkomstige toepassing.</al>
     </lid>
 </artikel>
@@ -1882,8 +1882,7 @@ gesteld.</al></lid><lid> <lidnr status="officieel">3</lidnr><al>Indien niet blij
 veroordeelde een raadsman heeft, geeft de voorzitter op verzoek van de
 veroordeelde aan het bestuur van de raad voor rechtsbijstand last tot
 toevoeging van een raadsman. De veroordeelde en zijn raadsman kunnen
-voor de aanvang van het onderzoek van de stukken kennis nemen. <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=34" compleet="nee">Artikel
-34 van het Wetboek van Strafvordering</extref> is van overeenkomstige
+voor de aanvang van het onderzoek van de stukken kennis nemen. <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=32" compleet="nee">Artikel 32 van het Wetboek van Strafvordering</extref> is van overeenkomstige
 toepassing.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Zowel het openbaar
 ministerie als de veroordeelde is bevoegd getuigen en deskundigen te
 doen dagvaarden of schriftelijk te doen oproepen om bij het onderzoek
@@ -4949,21 +4948,21 @@ toepassing.</al></lid></artikel></titeldeel><titeldeel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>53</nr>
+        <nr status="officieel">53</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Bij misdrijven door middel van de drukpers gepleegd wordt de
             uitgever als zodanig niet vervolgd, indien het gedrukte stuk
             zijn naam en woonplaats vermeldt en de dader bekend is of op
-            de eerste aanmaning nadat tot het instellen van een
-            gerechtelijk vooronderzoek is overgegaan, door de uitgever
+            de eerste aanmaning van de
+rechter-commissaris, door de uitgever
             is bekendgemaakt.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Deze bepaling is niet toepasselijk, indien de dader op het
             tijdstip van de uitgave strafrechtelijk niet vervolgbaar of
             buiten het Rijk in Europa gevestigd was.</al>
@@ -4972,21 +4971,21 @@ toepassing.</al></lid></artikel></titeldeel><titeldeel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>54</nr>
+        <nr status="officieel">54</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Bij misdrijven door middel van de drukpers gepleegd wordt de
             drukker als zodanig niet vervolgd, indien het gedrukte stuk
             zijn naam en woonplaats vermeldt en de persoon op wiens last
             het stuk is gedrukt, bekend is of op de eerste aanmaning
-            nadat tot het instellen van een gerechtelijk vooronderzoek
-            is overgegaan, door de drukker is bekendgemaakt.</al>
+            van de
+rechter-commissaris, door de drukker is bekendgemaakt.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Deze bepaling is niet toepasselijk, indien de persoon op
             wiens last het stuk is gedrukt, op het tijdstip van het
             drukken strafrechtelijk niet vervolgbaar of buiten het Rijk
@@ -17687,19 +17686,19 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>418</nr>
+        <nr status="officieel">418</nr>
     </kop>
     
     <al>Hij die enig geschrift of enige afbeelding uitgeeft van
         strafbare aard, wordt gestraft met gevangenisstraf of hechtenis
         van ten hoogste een jaar of geldboete van de derde categorie,
         indien: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>1&#xB0;.</li.nr>
             <al>de dader noch bekend is, noch op de eerste aanmaning
-                nadat tot het instellen van een gerechtelijk
-                vooronderzoek is overgegaan, is bekendgemaakt;</al>
+                van de
+rechter-commissaris, is bekendgemaakt;</al>
         </li>
         
         <li>
@@ -17713,19 +17712,19 @@ van ten hoogste tien jaren of geldboete van de vijfde categorie.</al></lid><lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>419</nr>
+        <nr status="officieel">419</nr>
     </kop>
     
     
     <al>Hij die enig geschrift of enige afbeelding drukt van strafbare
         aard, wordt gestraft met gevangenisstraf of hechtenis van ten
         hoogste een jaar of geldboete van de derde categorie, indien: </al>
-    <lijst>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
         <li>
             <li.nr>1&#xB0;.</li.nr>
             <al>de persoon op wiens last het stuk gedrukt is noch bekend
-                is, noch op de eerste aanmaning nadat tot het instellen
-                van een gerechtelijk vooronderzoek is overgegaan, is bekendgemaakt;</al>
+                is, noch op de eerste aanmaning van de
+rechter-commissaris, is bekendgemaakt;</al>
         </li>
         
         <li>
