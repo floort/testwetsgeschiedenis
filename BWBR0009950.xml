@@ -651,88 +651,89 @@ in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
-        <nr>3</nr>
-        <titel>Frequentiebeleid en frequentiebeheer  </titel>
+        <nr status="officieel">3</nr>
+        <titel status="officieel">Frequenties</titel>
     </kop>
-    <paragraaf>
+    
+<paragraaf>
     <kop>
         <label>&#xA7;</label>
-        <nr>3.1</nr>
-        <titel>Frequentieplan en frequentieregister  </titel>
-    </kop>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
         <nr status="officieel">3.1</nr>
+        <titel status="officieel">Frequentieplan, behoefte-onderbouwingsplan en frequentieregister</titel>
     </kop>
-    <lid>
-                        <lidnr status="officieel">1</lidnr>
-                        <al>Onze Minister stelt na overleg met Onze Minister wie het mede aangaat, een frequentieplan en wijzigingen daarvan vast.</al>
-                     </lid>
-                     <lid>
-                        <lidnr status="officieel">2</lidnr>
-                        <al>Het frequentieplan bevat in ieder geval:</al>
-                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-                           <li>
-                              <li.nr>a.</li.nr>
-                              <al>de bestemmingen van te onderscheiden frequentiebanden,</al>
-                           </li>
-                           <li>
-                              <li.nr>b.</li.nr>
-                              <al>de aanwijzing van frequentiebanden waarbinnen onder verantwoordelijkheid van Onze Minister wie het mede aangaat bij regeling van Onze Minister aan te wijzen publieke taken worden uitgevoerd op het gebied van defensie, veiligheid van de staat, handhaving van de rechtsorde, wetenschap, veiligheid van het verkeer en hulpverlening,</al>
-                           </li>
-                           <li>
-                              <li.nr>c.</li.nr>
-                              <al>de aanwijzing van frequentiebanden waarbinnen de vergunningen voor het gebruik van frequentieruimte ten behoeve van het verzorgen van taken op het gebied van de publieke mediadienst bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=1.1" compleet="nee">artikel 1.1 van de Mediawet 2008</extref>, worden verleend zonder toepassing van een van de procedures, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, vierde lid</intref>,</al>
-                           </li>
-                           <li>
-                              <li.nr>d.</li.nr>
-                              <al>de aanwijzing van frequentiebanden waarbinnen voor bepaalde bestemmingen frequentieruimte al dan niet tezamen met categorie&#xEB;n van radiozendapparaten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4">artikel 3.4</intref> en al dan niet met een meldingsplicht, zonder vergunning mag worden gebruikt,</al>
-                           </li>
-                           <li>
-                              <li.nr>e.</li.nr>
-                              <al>de aanwijzing van frequentiebanden waarbinnen frequentieruimte voor bepaalde bestemmingen niet zonder vergunning mag worden gebruikt, alsmede de aanduiding of vergunningen worden verleend met toepassing van de procedure, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, vierde lid</intref>,</al>
-                           </li>
-                           <li>
-                              <li.nr>f.</li.nr>
-                              <al>de aanwijzing van frequentiebanden waarbinnen in bij besluit van Onze Minister nader aan te wijzen geografische gebieden frequentieruimte uitsluitend mag worden gebruikt voor het ontvangen van signalen, en</al>
-                           </li>
-                           <li>
-                              <li.nr>g.</li.nr>
-                              <al>de aanwijzing van frequentiebanden binnen welke voor bepaalde bestemmingen medegebruik kan worden opgelegd,</al>
-                              <al>met dien verstande dat de aanwijzing, bedoeld in onderdeel e, uitsluitend wordt gedaan voor zover dat nodig is om:</al>
+    
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.1</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Onze Minister stelt na overleg met Onze Minister wie het mede aangaat, een frequentieplan en wijzigingen daarvan vast.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Het frequentieplan bevat in ieder geval:</al>
                               <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                                  <li>
-                                    <li.nr>1&#xB0;.</li.nr>
-                                    <al>te voldoen aan een bindende internationale overeenkomst betreffende het gebruik van frequentieruimte;</al>
+                                    <li.nr>a.</li.nr>
+                                    <al>de bestemmingen van te onderscheiden frequentiebanden,</al>
                                  </li>
                                  <li>
-                                    <li.nr>2&#xB0;.</li.nr>
-                                    <al>in die frequentiebanden:</al>
-                                    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-                                       <li>
-                                          <li.nr>&#x2013;</li.nr>
-                                          <al>schadelijke interferentie te vermijden,</al>
-                                       </li>
-                                       <li>
-                                          <li.nr>&#x2013;</li.nr>
-                                          <al>de technische kwaliteit van elektronische communicatienetwerken en -diensten te verzekeren,</al>
-                                       </li>
-                                       <li>
-                                          <li.nr>&#x2013;</li.nr>
-                                          <al>een doelmatig gebruik van frequentieruimte te waarborgen, of</al>
-                                       </li>
-                                       <li>
-                                          <li.nr>&#x2013;</li.nr>
-                                          <al>andere doelstellingen van algemeen belang te vervullen.</al>
-                                       </li>
-                                    </lijst>
+                                    <li.nr>b.</li.nr>
+                                    <al>de aanwijzing van frequentiebanden waarbinnen onder verantwoordelijkheid van Onze Minister wie het mede aangaat bij regeling van Onze Minister aan te wijzen publieke taken worden uitgevoerd op het gebied van defensie, veiligheid van de staat, handhaving van de rechtsorde, wetenschap, veiligheid van het verkeer en hulpverlening,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>de aanwijzing van frequentiebanden waarbinnen de vergunningen voor het gebruik van frequentieruimte ten behoeve van het verzorgen van taken op het gebied van de publieke mediadienst bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=1.1" compleet="nee">artikel 1.1 van de Mediawet 2008</extref>, worden verleend zonder toepassing van een van de procedures, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid</intref>,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>de aanwijzing van frequentiebanden waarbinnen voor bepaalde bestemmingen frequentieruimte al dan niet tezamen met categorie&#xEB;n van radiozendapparaten als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.9">artikel 3.9, onder b</intref>, en al dan niet met een meldingsplicht, zonder vergunning mag worden gebruikt,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>e.</li.nr>
+                                    <al>de aanwijzing van frequentiebanden waarbinnen frequentieruimte voor bepaalde bestemmingen niet zonder vergunning mag worden gebruikt, alsmede de aanduiding of vergunningen worden verleend met toepassing van de procedure, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid, onder a, onderscheidenlijk b</intref>, dan wel na een nader te maken keuze tussen een veiling of vergelijkende toets,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>f.</li.nr>
+                                    <al>de aanwijzing van frequentiebanden waarbinnen in bij besluit van Onze Minister nader aan te wijzen geografische gebieden frequentieruimte uitsluitend mag worden gebruikt voor het ontvangen van signalen, en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>g.</li.nr>
+                                    <al>de aanwijzing van frequentiebanden binnen welke voor bepaalde bestemmingen medegebruik kan worden opgelegd,</al>
                                  </li>
                               </lijst>
-                           </li>
-                        </lijst>
-                     </lid>
-                     <lid>
+                           <al>met dien verstande dat de aanwijzing, bedoeld in onderdeel e, uitsluitend wordt gedaan voor zover dat nodig is om:</al>
+                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <li>
+                           <li.nr>1&#xB0;.</li.nr>
+                           <al>te voldoen aan een bindende internationale overeenkomst betreffende het gebruik van frequentieruimte;</al>
+                        </li>
+                        <li>
+                           <li.nr>2&#xB0;.</li.nr>
+                           <al>in die frequentiebanden:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>&#x2013;</li.nr>
+                                 <al>schadelijke interferentie te vermijden,</al>
+                              </li>
+                              <li>
+                                 <li.nr>&#x2013;</li.nr>
+                                 <al>de technische kwaliteit van elektronische communicatienetwerken en -diensten te verzekeren,</al>
+                              </li>
+                              <li>
+                                 <li.nr>&#x2013;</li.nr>
+                                 <al>een doelmatig gebruik van frequentieruimte te waarborgen, of</al>
+                              </li>
+                              <li>
+                                 <li.nr>&#x2013;</li.nr>
+                                 <al>andere doelstellingen van algemeen belang te vervullen.</al>
+                              </li>
+                           </lijst>
+                        </li>
+                     </lijst></lid>
+                           <lid>
                         <lidnr status="officieel">3</lidnr>
                         <al>Bij de bestemming en de aanwijzing van frequentiebanden, bedoeld in het tweede lid,  onderdelen a en e, kunnen ten behoeve van elektronische communicatienetwerken en&#xA0;-diensten in het frequentieplan proportionele en niet-discriminerende beperkingen worden opgelegd met betrekking tot de te gebruiken technologie indien dat nodig is om:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
@@ -795,515 +796,359 @@ in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</
                      <lid>
                         <lidnr status="officieel">6</lidnr>
                         <al>Indien een beperking als bedoeld in het vierde en vijfde lid wordt opgelegd, onderzoekt Onze Minister uiterlijk vijf jaar na het opleggen van de beperking, en vervolgens iedere vijf jaar, of de beperking kan worden opgeheven. Indien een beperking niet meer nodig is voor de verwezenlijking van een van de in het vierde en vijfde lid genoemde doelstellingen, wordt het frequentieplan hierop aangepast.</al>
-                     </lid>
-                     <lid>
-                        <lidnr status="officieel">7</lidnr>
-                        <al>Op de voorbereiding van het frequentieplan en wijzigingen daarvan is <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de Algemene wet bestuursrecht</extref> van toepassing, met dien verstande dat in aanvulling op <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A15" compleet="nee">artikel 3:15, eerste lid, van de Algemene wet bestuursrecht</extref>, ook een gebruiker en een consument zijn zienswijze over het ontwerp naar voren kan brengen.</al>
-                     </lid>
-                     <lid>
-                        <lidnr status="officieel">8</lidnr>
-                        <al>Onze Minister kan bij ministeri&#xEB;le regeling nadere regels stellen ten aanzien van de inrichting van het frequentieplan.</al>
-                     </lid>
-    
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.2</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Door Onze Minister wordt een frequentieregister bijgehouden,
-            dat een overzicht bevat van frequentieruimtes waarvoor
-            krachtens dit hoofdstuk vergunningen zijn verleend, alsmede
-            van de duur waarvoor deze vergunningen gelden. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Het register ligt voor eenieder kosteloos ter inzage op een
-            door Onze Minister te bepalen plaats. </al>
-    </lid>
-</artikel>
+                     </lid><lid>
+                              <lidnr status="officieel">7</lidnr>
+                              <al>Onze Minister kan bij ministeri&#xEB;le regeling nadere regels stellen ten aanzien van de inrichting van het frequentieplan.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.2</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Onze Minister wie het mede aangaat dient al dan niet op verzoek van Onze Minister bij deze een behoefte-onderbouwingsplan in, waarin gemotiveerd wordt onderbouwd welke frequentieruimte noodzakelijk is voor de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.1">artikel 3.1, tweede lid, onder b</intref>, bedoelde taken. Het behoefte-onderbouwingsplan wordt telkens na ten hoogste drie jaar opnieuw ingediend.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Onze Minister kan bij ministeri&#xEB;le regeling nadere regels stellen ten aanzien van de inrichting van het behoefte-onderbouwingsplan.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.3</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Op de voorbereiding van het frequentieplan en wijzigingen daarvan is <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de Algemene wet bestuursrecht</extref> van toepassing, met dien verstande dat in aanvulling op <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=3%3A15" compleet="nee">artikel 3:15, eerste lid, van de Algemene wet bestuursrecht</extref>, ook een gebruiker en een consument zijn zienswijze over het ontwerp naar voren kan brengen.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Onze Minister stelt geen frequentieplan of een wijziging daarvan vast met betrekking tot de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.1">artikel 3.1, tweede lid, onder b</intref>, bedoelde frequentiebanden zonder dat hij de beschikking heeft over een behoefte-onderbouwingsplan, dat niet langer dan een jaar tevoren bij hem is ingediend.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Het eerste en het tweede lid zijn niet van toepassing voor zover de vaststelling van het frequentieplan of de wijziging daarvan:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>het gevolg is van een verdrag of een besluit van een volkenrechtelijke organisatie, of</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>noodzakelijk is voor de implementatie van een besluit van een instelling van de Europese Unie.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">4</lidnr>
+                              <al>Het eerste en tweede lid is voorts niet van toepassing voor zover het frequentieplan of de wijziging daarvan betrekking heeft op wijzigingen van ondergeschikte aard.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">5</lidnr>
+                              <al>Het tweede lid is voorts niet van toepassing indien Onze Minister een verzoek heeft gedaan aan Onze Minister wie het mede aangaat om binnen drie maanden bij hem een behoefte-onderbouwingsplan in te dienen en aan die uitnodiging geen gevolg is gegeven.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.4</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Onze Minister houdt een openbaar frequentieregister.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Het frequentieregister geeft aan hoeveel frequentieruimte nog beschikbaar is. Daartoe bevat het frequentieregister:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>een opgave van de nog beschikbare frequentieruimte in de frequentiebanden waarbinnen reeds vergunningen zijn verleend met toepassing van de procedure, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid, onder a</intref>,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>een opgave van de vergunningen voor het gebruik van frequentieruimte die is verdeeld met toepassing van een van de procedures, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid, onder b tot en met f</intref>,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>gegevens met betrekking tot de periode gedurende welke de onder b bedoelde frequentieruimte in gebruik is, en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>de voorschriften en beperkingen die zijn gesteld aan het gebruik van de onder a en b bedoelde frequentieruimte.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat andere gegevens dan de in het tweede lid bedoelde gegevens in het frequentieregister worden opgenomen, of dat bepaalde gegevens niet in het register worden opgenomen, indien opneming daarvan de veiligheid van de staat zou kunnen schaden, dan wel de opsporing en vervolging van strafbare feiten zou kunnen bemoeilijken.</al>
+                           </lid>
+                        </artikel>
 </paragraaf>
-    <paragraaf>
+    
+<paragraaf>
     <kop>
         <label>&#xA7;</label>
         <nr status="officieel">3.2</nr>
-        <titel status="officieel">Vergunningverlening voor het gebruik
-            van frequentieruimte  </titel>
+        <titel status="officieel">Toewijzing van frequentieruimte voor publieke taken</titel>
     </kop>
-    <artikel status="goed">
+    
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.5</nr>
+                           </kop>
+                           <al>Onze Minister wijst in overeenstemming met het frequentieplan uit de aangewezen frequentiebanden, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.1">artikel 3.1, tweede lid, onder b</intref>, frequentieruimte voor publieke taken slechts toe aan Onze Minister wie het mede aangaat voor zover Onze Minister van oordeel is dat de frequentieruimte, waarop het behoefte-onderbouwingsplan, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.2">artikel 3.2</intref>, betrekking heeft, noodzakelijk is voor de betrokken publieke taak. Onze Minister kan aan de toewijzing voorschriften en beperkingen verbinden.</al>
+                        </artikel>
+</paragraaf>
+    
+<paragraaf>
     <kop>
-        <label>Artikel</label>
+        <label>&#xA7;</label>
         <nr status="officieel">3.3</nr>
+        <titel status="officieel">Vergunningen voor de publieke mediadienst</titel>
     </kop>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Voor het gebruik van frequentieruimte is een vergunning
-            vereist van Onze Minister welke op aanvraag kan worden
-            verleend. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Vergunningen
-voor het gebruik van frequentieruimte ten behoeve van de uitvoering van
-vitale overheidstaken, van het verzorgen van taken ter uitvoering van
-de publieke mediaopdracht, bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=2.1" compleet="nee">artikel 2.1 van de Mediawet 2008</extref>,
-of ter uitvoering van een wettelijk voorschrift worden bij voorrang
-verleend. Voor zover een vergunning niet krachtens het derde lid dient
-te worden verleend, bepaalt Onze Minister in overeenstemming met het
-gevoelen van de ministerraad, in welke omvang ter uitvoering van de
-publieke mediaopdracht, bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=2.1" compleet="nee">artikel 2.1 van de Mediawet 2008</extref>,
-vergunningen voor het gebruik van frequentieruimte bij voorrang worden
-verleend. Bij regeling van Onze Minister, in overeenstemming met Onze
-Minister van Onderwijs, Cultuur en Wetenschap, wordt bij de
-vaststelling van de omvang van de frequentieruimte die aan de publieke
-media-instellingen bij voorrang bij vergunning wordt verleend, bepaald
-welke technische eigenschappen de uitzendingen van de
-programma&#x2019;s van de publieke media-instellingen dienen te
-hebben.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Bij het
-verlenen van vergunningen voor het gebruik van frequentieruimte op het
-terrein van de publieke mediaopdracht wordt het navolgende in acht
-genomen:</al>
-                                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-                                    <li>
-                                       <li.nr>a.</li.nr>
-                                       <al>voor
-de algemene programmakanalen van de landelijke publieke mediadienst,
-bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=2.50" compleet="nee">artikel 2.50 van de Mediawet 2008</extref>, wordt ten minste een
-vergunning verleend op zodanige wijze dat een landelijk bereik mogelijk
-is;</al>
-                                    </li>
-                                    <li>
-                                       <li.nr>b.</li.nr>
-                                       <al>voor iedere
-provincie wordt aan de media-instelling die voor de desbetreffende
-provincie op grond van <extref status="actief" doc="1.0:v:BWBR0025028&amp;titeldeel=2.3" compleet="nee">hoofdstuk 2, titel 2.3, van de Mediawet 2008</extref> is
-aangewezen voor de verzorging van de regionale publieke mediadienst
-voor ten minste &#xE9;&#xE9;n omroepnet voor radio, een vergunning
-verleend op zodanige wijze, dat een provinciaal bereik mogelijk
-is;</al>
-                                    </li>
-                                    <li>
-                                       <li.nr>c.</li.nr>
-                                       <al>als in een
-provincie twee of meer regionale publieke media-instellingen op grond
-van <extref status="actief" doc="1.0:v:BWBR0025028&amp;titeldeel=2.3" compleet="nee">hoofdstuk 2, titel 2.3, van de Mediawet 2008</extref> zijn aangewezen zal,
-onverminderd artikel 3.6, aan elk van die media-instellingen vergunning
-worden verleend voor een bereik dat ten minste gelijk is aan de
-onderscheidene verzorgingsgebieden, voor zover dit technisch mogelijk
-is;</al>
-                                    </li>
-                                    <li>
-                                       <li.nr>d.</li.nr>
-                                       <al>aan iedere
-lokale publieke media-instelling die op grond van <extref status="actief" doc="1.0:v:BWBR0025028&amp;titeldeel=2.3" compleet="nee">hoofdstuk 2, titel
-2.3, van de Mediawet 2008</extref> is aangewezen, wordt, onverminderd <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=3.6" compleet="nee">artikel
-3.6</extref>, voor ten minste &#xE9;&#xE9;n omroepnet voor radio vergunning
-verleend voor een bereik dat ten minste gelijk is aan het
-verzorgingsgebied, voor zover dit technisch mogelijk is, en een
-doelmatig gebruik van het frequentiespectrum zich daartegen niet
-verzet.</al>
-                                    </li>
-                                 </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>De verlening van vergunningen in andere gevallen dan bedoeld
-            in het tweede lid geschiedt: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>op volgorde van binnenkomst van de aanvragen; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>door middel van een vergelijkende toets, al dan niet
-                    met inbegrip van een financieel bod, of</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>door middel van een veiling. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">5</lidnr>
-        <al>De keuze voor toepassing van een van de procedures, bedoeld
-            in het vierde lid, geschiedt door Onze Minister, met dien
-            verstande dat voorzover het de verlening van vergunningen
-            voor het gebruik van frequentieruimte door of ten behoeve
-            van commerci&#xEB;le omroepinstellingen als bedoeld in
-                <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=1.1" compleet="nee">artikel 1.1 van de
-Mediawet 2008</extref> betreft, de keuze geschiedt door
-            Onze Minister in overeenstemming met Onze Minister van
-            Onderwijs, Cultuur en Wetenschappen. Daarbij kan, met inachtneming van het frequentieplan, tevens
-nader de bestemming van de frequentieruimte worden bepaald waarop de
-keuze betrekking heeft.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">6</lidnr>
-        <al>Voorzover de in het vijfde lid bedoelde keuze betrekking
-            heeft op het al dan niet toepassen van het financi&#xEB;le bod
-            bij de toepassing van de vergelijkende toets, geschiedt deze
-            tevens in overeenstemming met Onze Minister van Financi&#xEB;n.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">7</lidnr>
-        <al>Nadat op grond van een op basis van het vijfde en zesde lid
-            gemaakte keuze een vergunning voor een bepaalde bestemming
-            is verleend, wordt, zolang er in die bestemming nog houders
-            van vergunningen voor het gebruik van frequentieruimte zijn,
-            bij elke volgende uitgifte van frequentieruimte voor die
-            bestemming een vergelijkbare procedure toegepast, tenzij dit
-            ten gevolge van gewijzigde omstandigheden betreffende het
-            gebruik van die frequentieruimte niet langer leidt tot een
-            optimaal gebruik van frequentieruimte.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">8</lidnr>
-        <al>De uitvoering van de procedure, bedoeld in het vierde lid,
-            onder b, geschiedt indien het de verlening van vergunningen
-            voor het gebruik van frequentieruimte door of ten behoeve
-            van commerci&#xEB;le omroepinstellingen betreft, door Onze
-            Minister van Onderwijs, Cultuur en Wetenschappen in
-            overeenstemming met Onze Minister. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">9</lidnr>
-        <al>Bij of krachtens algemene maatregel van bestuur worden, met
-            inachtneming van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn
-nr. 2002/20/EG</extref> (PbEG L 117), regels gesteld terzake van de
-            verlening, wijziging en verlenging van vergunningen. </al>
-        <al>Deze regels hebben in ieder geval betrekking op: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de eisen die, voorafgaande aan een van de
-                    procedures, bedoeld in het vierde lid, aan een
-                    aanvrager worden gesteld om in aanmerking te komen
-                    voor een vergunning, </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de toepassing en uitvoering van de procedures,
-                    bedoeld in het vierde lid, en </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>de criteria die worden toegepast bij een
-                    vergelijkende toets als bedoeld in het vierde lid,
-                    onder b. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-                <lidnr status="officieel">10</lidnr>
-                <al>Onze Minister kan besluiten dat een of meer aanbieders van openbare elektronische
-communicatienetwerken of openbare elektronische communicatiediensten worden
-uitgesloten van het verkrijgen van een vergunning voor het gebruik van bij
-dat besluit te bepalen frequentieruimte indien die vergunning wordt verleend
-volgens een procedure als bedoeld in het vierde lid, onder b, of onder c,
-met dien verstande dat dit slechts kan geschieden indien dat met het oog op
-de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk
-is.</al>
-              </lid><lid>
-        <lidnr status="officieel">11</lidnr>
-        <al>Vergunningen worden verleend voor een bij die vergunning te bepalen termijn die gerelateerd is aan de betrokken dienstverlening, het met de vergunningverlening nagestreefde doel en die rekening houdt met een passende periode die nodig is voor de afschrijving van investeringen. De vergunning kan worden verlengd met een door Onze Minister te bepalen termijn.</al>
-    </lid>
-</artikel>
-    <artikel status="goed">
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.6</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Ten behoeve van de verzorging van de landelijke, regionale en lokale publieke mediadienst verleent Onze Minister, binnen de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.1">artikel 3.1, tweede lid, onder c</intref>, bedoelde frequentiebanden, op aanvraag de vergunningen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.7">artikelen 3.7</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.8">3.8</intref>, ten behoeve van het uitzenden van programmakanalen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=1.1" compleet="nee">artikel 1.1 van de Mediawet 2008</extref>. De vergunning wordt verleend aan:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>indien het de landelijke publieke mediadienst betreft, de Stichting Nederlandse Publieke Omroep, en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>indien het de regionale of lokale publieke mediadienst betreft, aan de instelling die op grond van <extref status="actief" doc="1.0:v:BWBR0025028&amp;titeldeel=2.3" compleet="nee">hoofdstuk 2, titel 2.3, van de Mediawet 2008</extref> is aangewezen voor de verzorging van die regionale, onderscheidenlijk lokale publieke mediadienst.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>De vergunningen worden verleend zonder toepassing van een van de procedures, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid</intref>.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.7</nr>
+                           </kop>
+                           <al>Bij het verlenen van vergunningen voor het gebruik van frequentieruimte op het terrein van de publieke mediadienst, bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=1.1" compleet="nee">artikel 1.1 van de Mediawet 2008</extref>, wordt het navolgende in acht genomen:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>voor de algemene programmakanalen van de landelijke publieke mediadienst, bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=2.50" compleet="nee">artikel 2.50 van de Mediawet 2008</extref>, wordt ten minste &#xE9;&#xE9;n vergunning verleend op zodanige wijze, dat, voor zover dat technisch mogelijk is, een landelijk bereik mogelijk is;</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>voor iedere provincie wordt aan de media-instelling die voor de desbetreffende provincie op grond van <extref status="actief" doc="1.0:v:BWBR0025028&amp;titeldeel=2.3" compleet="nee">hoofdstuk 2, titel 2.3, van de Mediawet 2008</extref> is aangewezen voor de verzorging van de regionale publieke mediadienst voor ten minste &#xE9;&#xE9;n omroepnet voor radio, een vergunning verleend op zodanige wijze, dat, voor zover dat technisch mogelijk is, een provinciaal bereik mogelijk is;</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>indien in een provincie twee of meer regionale publieke media-instellingen op grond van <extref status="actief" doc="1.0:v:BWBR0025028&amp;titeldeel=2.3" compleet="nee">hoofdstuk 2, titel 2.3, van de Mediawet 2008</extref> zijn aangewezen zal, voor zover dat technisch mogelijk is, aan elk van die media-instellingen vergunning worden verleend voor een bereik dat ten minste gelijk is aan de onderscheidene verzorgingsgebieden;</al>
+                              </li>
+                              <li>
+                                 <li.nr>d.</li.nr>
+                                 <al>aan iedere lokale publieke media-instelling die op grond van <extref status="actief" doc="1.0:v:BWBR0025028&amp;titeldeel=2.3" compleet="nee">hoofdstuk 2, titel 2.3, van de Mediawet 2008</extref> is aangewezen, zal, voor zover dat technisch mogelijk is, en een doelmatig gebruik van frequentieruimte zich daartegen niet verzet voor ten minste &#xE9;&#xE9;n omroepnet voor radio vergunning worden verleend voor een bereik dat ten minste gelijk is aan het verzorgingsgebied.</al>
+                              </li>
+                           </lijst>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.8</nr>
+                           </kop>
+                           <al>Voor zover een vergunning niet krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.7">artikel 3.7</intref> dient te worden verleend, kan Onze Minister in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap bij ministeri&#xEB;le regeling regels vaststellen met betrekking tot de verlening van extra vergunningen voor het gebruik van frequentieruimte in de frequentiebanden, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.1">artikel 3.1, tweede lid, onder c</intref>, ten behoeve van het uitzenden van programmakanalen door een landelijke, regionale of lokale publieke media-instelling boven de aantallen, bedoeld in artikel 3.7.</al>
+                        </artikel>
+</paragraaf>
+    
+<paragraaf>
     <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.3a</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Teneinde een optimaal gebruik van frequentieruimte te
-            waarborgen kan, in overeenstemming met Onze Minister van
-            Financi&#xEB;n, en waar het betreft het gebruik van
-            frequentieruimte door commerci&#xEB;le omroepinstellingen mede in
-            overeenstemming met Onze Minister van Onderwijs, Cultuur en
-            Wetenschappen, met inachtneming van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/20/EG</extref>, bij ministeri&#xEB;le regeling worden
-            bepaald dat de verkrijger of houder van een vergunning, de
-            houder van een vergunning van wie de vergunning wordt of is
-            verlengd hieronder begrepen, anders dan een vergunning als
-            bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, tweede
-            lid</intref>, voor het gebruik van frequentieruimte
-            voor een op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, vijfde
-            lid</intref>, bepaalde bestemming een eenmalig of
-            periodiek bedrag verschuldigd is.</al>
-    </lid>
-    
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>De hoogte van het te betalen bedrag is bij:</al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>een eenmalig bedrag gelijk aan een bij de in het
-                    eerste lid bedoelde ministeri&#xEB;le regeling vast te
-                    stellen bedrag gerelateerd aan de in het jaar van
-                    vergunningverlening bepaalde contante waarde van de
-                    gedurende de looptijd van de vergunning uit de
-                    exploitatie van de vergunning te verwachten
-                    voordelen, dan wel de gedurende de looptijd van de
-                    vergunning uit de exploitatie van de vergunning te
-                    verwachten omzet,</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>een periodiek bedrag gelijk aan een bij de in het
-                    eerste lid bedoelde ministeri&#xEB;le regeling te bepalen
-                    percentage van de in een boekjaar behaalde voordelen
-                    die, onder welke naam dan ook, worden verkregen uit
-                    de exploitatie van de toegekende vergunning, dan wel
-                    een bij de ministeri&#xEB;le regeling te bepalen
-                    percentage van de in een boekjaar aan de exploitatie
-                    van de vergunning toe te rekenen omzet.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>De in het eerste lid bedoelde ministeri&#xEB;le regeling kan
-            nadere regels bevatten over de wijze waarop de in het tweede
-            lid, onder a en b, bedoelde voordelen uit de exploitatie van
-            de vergunning of de uit de exploitatie van de vergunning te
-            verwachten omzet worden bepaald.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>De verplichting tot het betalen van een eenmalig of
-            periodiek bedrag bestaat slechts indien de in het eerste lid
-            bedoelde ministeri&#xEB;le regeling in werking is getreden voor
-            het tijdstip dat in de aanvraagprocedure is vastgesteld als
-            het tijdstip waarop de aanvraag voor de vergunning kan
-            worden ingediend, dan wel, indien het een vergunning betreft
-            die wordt verleend op de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3,  vierde lid, onder
-            a</intref>, bedoelde wijze, in werking is getreden
-            op het moment  dat de aanvraag is ingediend.</al>
-    </lid>
-    
-    <lid>
-        <lidnr status="officieel">5</lidnr>
-        <al>Bij een verlenging van een vergunning voor het gebruik van
-            frequentieruimte kan, in afwijking van het vierde lid, in
-            het geval de aanvraag tot verlenging wordt gedaan op een
-            tijdstip waarop Onze Minister het voornemen heeft binnen
-            dezelfde bestemming vergunningen te gaan verlenen door
-            middel van een veiling dan wel een vergelijkende toets met
-            een financieel bod, de verplichting tot het betalen van een
-            eenmalig of periodiek bedrag ook bestaan indien de in het
-            eerste lid bedoelde ministeri&#xEB;le regeling in werking is
-            getreden op een tijdstip gelegen na het tijdstip waarop de
-            aanvraag tot verlenging is gedaan, mits:</al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de aanvrager alvorens het besluit tot verlenging
-                    wordt genomen wordt gewezen op het bestaan van het
-                    bedoelde voornemen tot vergunningverlening,</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>het tijdstip van inwerkingtreding van bedoelde
-                    ministeri&#xEB;le regeling ligt binnen vier weken na de
-                    dag waarop de verlening van vergunningen ten gevolge
-                    van de veiling dan wel de vergelijkende toets, heeft
-                    plaatsgevonden, en</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>de verlening van vergunningen ten gevolge van de
-                    veiling dan wel de vergelijkende toets, heeft
-                    plaatsgevonden binnen een jaar nadat de vergunning
-                    is verlengd.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">6</lidnr>
-        <al>In het geval bedoeld in het vijfde lid kan in de in het
-            eerste lid bedoelde ministeri&#xEB;le regeling een onderscheid
-            gemaakt worden tussen de houders van een vergunning voor het
-            gebruik van frequentieruimte van wie de vergunning reeds een
-            of meerdere malen is verlengd en de houders van een
-            vergunning waarbij dit niet het geval is. Een dergelijk
-            onderscheid kan slechts gemaakt worden indien dit nodig is
-            om beide categorie&#xEB;n vergunninghouders voor wat betreft de
-            op hen bij of krachtens deze wet voor het gebruik van de
-            frequentieruimte rustende financi&#xEB;le verplichtingen in een
-            vergelijkbare positie te brengen.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">7</lidnr>
-        <al>Een verplichting tot betaling van een eenmalig of periodiek
-            bedrag voortvloeiend uit een ministeri&#xEB;le regeling die, met
-            gebruikmaking van het vijfde lid, inwerking treedt nadat de
-            vergunning is verlengd bestaat niet indien de verlengde
-            vergunning op verzoek wordt ingetrokken, mits het verzoek
-            gedaan is binnen vier weken na inwerkingtreding van
-            voornoemde ministeri&#xEB;le regeling.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">8</lidnr>
-        <al>In het geval dat:</al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>op grond van het eerste lid bij ministeri&#xEB;le
-                    regeling is bepaald dat voor het gebruik van
-                    frequentieruimte met een op grond van
-                        <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, vijfde
-                    lid</intref>, bepaalde bestemming een
-                    eenmalig of periodiek bedrag verschuldigd is, zal,
-                    zolang er in die bestemming nog houders van
-                    vergunningen voor het gebruik van frequentieruimte
-                    zijn, houders van vergunningen van wie de vergunning
-                    is verlengd uitgezonderd, bij elke volgende uitgifte
-                    van frequentieruimte met die bestemming op een
-                    vergelijkbare wijze voor het gebruik van de
-                    frequentieruimte een bedrag verschuldigd zijn,
-                    tenzij dit ten gevolge van gewijzigde omstandigheden
-                    betreffende het gebruik van die frequentieruimte
-                    niet langer leidt tot een optimaal gebruik van frequentieruimte;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>voor het gebruik van frequentieruimte met een op
-                    grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, vijfde
-                    lid</intref>, bepaalde bestemming geen
-                    gebruik wordt gemaakt van de in het eerste lid
-                    geboden mogelijkheid om voor het gebruik van die
-                    frequentieruimte een eenmalig of periodiek bedrag te
-                    vragen wordt, zolang er in die bestemming nog
-                    houders van vergunningen voor het gebruik van
-                    frequentieruimte zijn, houders van vergunningen van
-                    wie de vergunning is verlengd uitgezonderd, ook bij
-                    elke volgende uitgifte met die bestemming van die
-                    mogelijkheid geen gebruik gemaakt, tenzij dit ten
-                    gevolge van gewijzigde omstandigheden betreffende
-                    het gebruik van die frequentieruimte niet langer
-                    leidt tot een optimaal gebruik van frequentieruimte.</al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">9</lidnr>
-        <al>Bij de in het eerste lid bedoelde ministeri&#xEB;le regeling kan
-            worden bepaald dat het bedrag verschuldigd uit hoofde van
-            een veiling of een vergelijkende toets met de mogelijkheid
-            tot een financieel bod, vermeerderd met een op grond van die
-            regeling verschuldigd eenmalig of periodiek bedrag een
-            bepaalde hoogte niet te boven zal gaan.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">10</lidnr>
-        <al>In geval toepassing wordt gegeven aan het bepaalde in het
-            negende lid en de verlening van een vergunning plaatsvindt
-            door middel van een veiling, wordt, indien meer dan &#xE9;&#xE9;n
-            geldig bod wordt uitgebracht dat bij verlening van de
-            vergunning zou leiden tot financi&#xEB;le verplichtingen gelijk
-            aan of groter dan de op grond van het negende lid bij
-            ministeri&#xEB;le regeling bepaalde hoogte, het tot
-            vergunningverlening  leidende bod uit deze biedingen bepaald
-            door middel van het lot.</al>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
+        <label>&#xA7;</label>
         <nr status="officieel">3.4</nr>
+        <titel status="officieel">Gebruik van frequentieruimte zonder vergunning</titel>
     </kop>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3</intref> is
-            geen vergunning vereist voor gebruik van in het
-            frequentieplan aangewezen frequentieruimte die: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>al dan niet tezamen met bij ministeri&#xEB;le regeling
-                    aan te wijzen categorie&#xEB;n van radiozendapparaten
-                    voor een in het frequentieplan aangegeven bestemming
-                    door eenieder mag worden gebruikt; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>tot gebruik strekt van door Onze Minister aan te
-                    wijzen overheidsorganen, belast met de zorg voor de
-                    veiligheid van de staat, de defensie alsmede de
-                    handhaving van de rechtsorde; </al>
-            </li><li><li.nr>c.</li.nr><al>voor een in het frequentieplan
-aangegeven bestemming vergunningvrij mag worden
-gebruikt.</al></li>
-        </lijst>
-    </lid>
-    <lid><lidnr status="officieel">2</lidnr><al>Bij of krachtens
-algemene maatregel van bestuur kunnen regels worden gesteld met
-betrekking
-tot:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
-<li.nr>a.</li.nr><al>het gebruik van aangewezen frequentieruimte,
-bedoeld in het eerste lid;</al></li><li> <li.nr>b.</li.nr><al>de
-aanwijzing bedoeld in het eerste lid, onderdeel a;</al></li><li>
-<li.nr>c.</li.nr><al>eisen voor gebruikers van
-frequentieruimte;</al></li><li> <li.nr>d.</li.nr><al>een meldings- en
-registratieplicht voor het gebruik van frequentieruimte als bedoeld in
-het eerste lid, onder
-c.</al></li></lijst></lid>
-</artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">3.4a</nr></kop>
-<lid><lidnr status="officieel">1</lidnr><al>Indien vergunningen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel
-3.3, eerste lid</intref>, worden verleend volgens de procedure bedoeld in
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, vierde lid, onder b, of onder c</intref>, kan in het belang van een
-evenwichtige verdeling van schaarse frequentieruimte, voor bij
-ministeri&#xEB;le regeling aan te wijzen diensten, bij die regeling
-de maximale hoeveelheid frequentieruimte worden vastgesteld die een
-aanvrager bij verlening van bedoelde vergunningen kan
-verkrijgen.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Indien een aanvrager
-een onderneming is die rechtstreeks of middellijk een dominerende
-invloed kan uitoefenen op een andere aanvrager worden zij als
-&#xE9;&#xE9;n aanvrager aangemerkt.</al></lid><lid>
-<lidnr status="officieel">3</lidnr><al>Indien de andere aanvrager bedoeld in het tweede
-lid de rechtsvorm van een privaatrechtelijke rechtspersoon heeft, wordt
-dominerende invloed als bedoeld in het tweede lid vermoed te kunnen
-worden uitgeoefend wanneer de onderneming rechtstreeks of
-middellijk:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
-<li.nr>a.</li.nr><al>over de meerderheid van de stemrechten, verbonden
-aan de door de rechtspersoon uitgegeven aandelen beschikt,
-of</al></li><li> <li.nr>b.</li.nr><al>meer dan de helft van de leden
-van het bestuur of het toezichthoudend orgaan
-benoemt.</al></li></lijst></lid><lid> <lidnr status="officieel">4</lidnr><al>Dit artikel
-blijft buiten toepassing als <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.24" compleet="nee">artikel
-6.24 van de Mediawet 2008</extref> van toepassing
-is.</al></lid></artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.5</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Een vergunning kan in het belang van een goede verdeling van
-            frequentieruimte, alsmede in het belang van een ordelijk en
-            doelmatig gebruik van frequentieruimte onder beperkingen
-            worden verleend. In die belangen kunnen aan een vergunning
-            voorschriften worden verbonden. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Onverminderd het eerste lid kan aan een vergunning het voorschrift worden verbonden dat de frequentieruimte waarop de vergunning betrekking heeft, moet worden gebruikt voor de verzorging van bij de vergunning aan te wijzen diensten, voor zover dat nodig is voor de verwezenlijking van een doelstelling van algemeen belang. In dat geval kunnen de in het eerste lid bedoelde beperkingen en voorschriften tevens betrekking hebben op het belang van een goede dienstverlening.</al>
-    </lid>
-    <lid>
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.9</nr>
+                           </kop>
+                           <al>Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot frequentieruimte voor het gebruik waarvan geen vergunning is vereist. Deze regels kunnen betrekking hebben op:</al>
+                           <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                              <li>
+                                 <li.nr>a.</li.nr>
+                                 <al>het gebruik van de frequentieruimte,</al>
+                              </li>
+                              <li>
+                                 <li.nr>b.</li.nr>
+                                 <al>eisen waaraan bij die regels aan te wijzen categorie&#xEB;n van radiozendapparaten voor bepaalde bestemmingen moeten voldoen,</al>
+                              </li>
+                              <li>
+                                 <li.nr>c.</li.nr>
+                                 <al>eisen voor gebruikers van frequentieruimte,</al>
+                              </li>
+                              <li>
+                                 <li.nr>d.</li.nr>
+                                 <al>een meldingsplicht voor gebruikers, en</al>
+                              </li>
+                              <li>
+                                 <li.nr>e.</li.nr>
+                                 <al>de gegevens die aan Onze Minister moeten worden overgelegd alvorens frequentieruimte in gebruik mag worden genomen.</al>
+                              </li>
+                           </lijst>
+                        </artikel></paragraaf>
+<paragraaf><kop>
+                           <label>&#xA7;</label>
+                           <nr status="officieel">3.5</nr>
+                           <titel status="officieel">Overige vergunningen voor het gebruik van frequentieruimte</titel>
+                        </kop><artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.10</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>De verlening van vergunningen door Onze Minister in andere gevallen dan bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.6">artikel 3.6</intref> geschiedt met toepassing van een van de volgende procedures:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>op volgorde van binnenkomst van de aanvragen,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>op volgorde van binnenkomst van de aanvragen dan wel door middel van een veiling, afhankelijk van het aantal aanvragen dat voor bepaalde frequentieruimte is ingediend,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>door middel van een vergelijkende toets zonder een financieel bod,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>door middel van een vergelijkende toets met inbegrip van een financieel bod,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>e.</li.nr>
+                                    <al>door middel van een vergelijkende toets, zo nodig gevolgd door een veiling,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>f.</li.nr>
+                                    <al>door middel van een veiling.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>De procedures, bedoeld in het eerste lid, onder c tot en met f, worden niet toegepast indien het redelijkerwijs te verwachten is dat de voor verdeling beschikbare frequentieruimte voldoende is om aan de vraag te voldoen.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Onze Minister neemt, gelet op het belang van een optimale verdeling van frequentieruimte, een besluit omtrent de keuze en het tijdstip van aanvang van een van de procedures, bedoeld in het eerste lid, onder c tot en met f.. Voor zover dat op dat moment reeds mogelijk is, stelt hij bij dat besluit tevens de voorschriften en beperkingen vast die aan de vergunning zullen worden verbonden. Onze Minister kan daarbij voorts, met inachtneming van het frequentieplan, nader de bestemming vaststellen van de frequentieruimte waarop de keuze betrekking heeft. Op de voorbereiding van het besluit is <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de Algemene wet bestuursrecht</extref> van toepassing. Hij stelt beide Kamers der Staten-Generaal in kennis van het ontwerp van het besluit.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">4</lidnr>
+                              <al>Voor zover het de verlening van vergunningen voor het gebruik van frequentieruimte door of ten behoeve van commerci&#xEB;le media-instellingen als bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=1.1" compleet="nee">artikel 1.1 van de Mediawet 2008</extref> betreft, geschiedt de in het derde lid bedoelde keuze in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">5</lidnr>
+                              <al>Voor zover de in het derde lid bedoelde keuze betrekking heeft op het al dan niet toepassen van een financieel bod bij de toepassing van de vergelijkende toets, geschiedt deze tevens in overeenstemming met Onze Minister van Financi&#xEB;n.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">6</lidnr>
+                              <al>Na de ontvangst van een aanvraag om een vergunning die wordt verleend met toepassing van een van de procedures, bedoeld in het eerste lid, onder c tot en met f, neemt Onze Minister:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>binnen 20 weken een besluit als bedoeld in het derde lid, en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>binnen 40 weken een besluit omtrent de verlening van een vergunning.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">7</lidnr>
+                              <al>Het zesde lid is niet van toepassing indien de naleving van een verdrag of een besluit van een volkenrechtelijke organisatie betreffende het gebruik van radiofrequenties of posities in de ruimte het nemen van een besluit binnen genoemde termijnen verhindert.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">8</lidnr>
+                              <al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.18">Artikel 3.18</intref> is van overeenkomstige toepassing op een besluit als bedoeld in het zesde lid.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.11</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Indien vergunningen worden verleend met toepassing van een van de procedures, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid, onder b tot en met f</intref>, kan, tenzij <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.24" compleet="nee">artikel 6.24 van de Mediawet 2008</extref> van toepassing is, bij ministeri&#xEB;le regeling, in het belang van een optimale verdeling dan wel een doelmatig gebruik van schaarse frequentieruimte, de maximale hoeveelheid frequentieruimte worden vastgesteld die een natuurlijk persoon of een rechtspersoon in de desbetreffende procedure kan verwerven, hetzij louter in die procedure, hetzij tezamen met de hoeveelheid frequentieruimte waarover die natuurlijke persoon of die rechtspersoon reeds voor de vergunningverlening beschikt. Bij de ministeri&#xEB;le regeling, bedoeld in de eerste volzin, kan worden bepaald voor welke periode de maximale hoeveelheid frequentieruimte van toepassing is.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Indien een natuurlijke persoon of rechtspersoon deel uitmaakt van een groep als bedoeld in <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=24b" compleet="nee">artikel 24b van boek 2 van het Burgerlijk Wetboek</extref> waartoe een andere rechtspersoon of vennootschap behoort die een vergunning heeft of verwerft met betrekking tot frequentieruimte waarvoor een maximum is vastgesteld, wordt bij de toepassing van het eerste lid ook die vergunning in aanmerking genomen.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.12</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Onze Minister kan op aanvraag vergunning verlenen voor het doen van experimenten met een looptijd van ten hoogste &#xE9;&#xE9;n jaar. Op een dergelijke vergunningverlening zijn de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.13">artikelen 3.13, tweede lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.18">3.18, eerste lid, onder a</intref>, niet van toepassing.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Vergunningen als bedoeld in het eerst lid, worden op volgorde van binnenkomst verleend.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Onze Minister kan aan de vergunning voorschriften en beperkingen verbinden.</al>
+                           </lid>
+                        </artikel></paragraaf><paragraaf><kop>
+                           <label>&#xA7;</label>
+                           <nr status="officieel">3.6</nr>
+                           <titel status="officieel">Algemene bepalingen inzake vergunningen</titel>
+                        </kop>
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.13</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Voor het gebruik van andere frequentieruimte dan die welke in het frequentieplan is aangewezen als frequentieruimte waarvan het gebruik zonder vergunning is toegestaan, dan wel die op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.5">artikel 3.5</intref> is toegewezen, is een vergunning vereist van Onze Minister.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Vergunningen worden slechts verleend in overeenstemming met het frequentieplan.</al>
+                           </lid>
+                        </artikel>
+                        
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.14</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>In het belang van een optimale verdeling en een doelmatig gebruik van frequentieruimte kan een vergunning onder beperkingen worden verleend en kunnen er voorschriften aan worden verbonden.</al>
+                           </lid>
+                           <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Onverminderd het eerste lid kan aan een vergunning voor het gebruik van frequentieruimte ten behoeve van elektronische communicatienetwerken en- diensten het voorschrift worden verbonden dat de frequentieruimte waarop de vergunning betrekking heeft, moet worden gebruikt voor de verzorging van bij de vergunning aan te wijzen diensten, voor zover dat nodig is voor de verwezenlijking van een doelstelling van algemeen belang. In dat geval kunnen de in het eerste lid bedoelde beperkingen en voorschriften tevens betrekking hebben op het belang van een goede dienstverlening.</al>
+                     </lid>
+                        <lid>
                         <lidnr status="officieel">3</lidnr>
                         <al>Als redenen van algemeen belang als bedoeld in het tweede lid, worden in ieder geval aangemerkt:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
@@ -1358,211 +1203,234 @@ is.</al></lid></artikel><artikel status="goed">
                      <lid>
                         <lidnr status="officieel">5</lidnr>
                         <al>Indien een voorschrift als bedoeld in het tweede en vierde lid wordt opgelegd, onderzoekt Onze Minister uiterlijk vijf jaar nadat het voorschrift aan de vergunning is verbonden, en vervolgens iedere vijf jaar, of het voorschrift kan worden geschrapt. Indien een voorschrift niet meer nodig is voor de verwezenlijking van een van de in het tweede en vierde lid genoemde doelstellingen, wordt de vergunning hierop aangepast.</al>
-                     </lid><lid>
-        <lidnr status="officieel">6</lidnr>
-        <al>Bij of krachtens algemene maatregel van bestuur kunnen
-            regels worden gesteld terzake van de beperkingen waaronder
-            een vergunning kan worden verleend en de voorschriften die
-            op grond van het eerste of tweede lid aan een vergunning
-            kunnen worden verbonden. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">7</lidnr>
-        <al>In het geval frequentieruimte moet worden gebruikt voor de
-            verzorging voor het publiek van diensten als bedoeld in het
-            tweede lid, kunnen bij of krachtens algemene maatregel van
-            bestuur in het belang van een goede dienstverlening regels
-            worden gesteld voor aanbieders van die diensten. </al>
-    </lid>
-<lid>
-                        <lidnr status="officieel">8</lidnr>
-                        <al>Indien een vergunning wordt verleend met toepassing van een van de procedures, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, vierde lid, onder b of c</intref>, wordt een voornemen om een vergunning onder beperkingen te verlenen en een voornemen om aan een vergunning voorschriften te verbinden, op passende wijze bekendgemaakt. Belanghebbenden, gebruikers en consumenten kunnen tot vier weken na bekendmaking van een voornemen hun zienswijze over het voornemen naar voren brengen.</al>
                      </lid></artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.6</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Een vergunning wordt door Onze Minister geweigerd indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>verlening daarvan in strijd is met het
-                    frequentieplan; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>een doelmatig gebruik van het frequentiespectrum dit
-                    vordert; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>reeds een vergunning voor het gebruik van de in de
-                    aanvraag gevraagde frequentieruimte is verleend,
-                    tenzij gedeeld gebruik van frequentieruimte mogelijk
-                    is; </al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>deze
-is gevraagd voor het verspreiden van programma-aanbod anders dan ter
-uitvoering van de publieke mediaopdracht, bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=2.1" compleet="nee">artikel 2.1 van de
-Mediawet 2008</extref>, en de vergunning anders dan bij voorrang wordt
-verleend;</al>
-            </li>
-            <li>
-                <li.nr>e.</li.nr>
-                <al>feiten of omstandigheden er naar het oordeel van
-                    Onze Minister op duiden dat de veiligheid van de
-                    staat of de openbare orde door het verlenen van de
-                    vergunning in gevaar kan worden gebracht, of </al>
-            </li>
-            <li>
-                <li.nr>f.</li.nr>
-                <al>verlening daarvan in strijd zou zijn met de bij of
-                    krachtens deze wet, dan wel bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.23" compleet="nee">artikelen 6.23</extref>
-of&#xA0;<extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.24" compleet="nee">6.24 van de Mediawet
-2008</extref>, gestelde regels. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Een vergunning kan door Onze Minister worden geweigerd,
-            indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>een eerder verleende vergunning is ingetrokken
-                    wegens overtreding van bij of krachtens deze wet
-                    gestelde regels dan wel van de aan de vergunning
-                    verbonden voorschriften; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de aanvrager niet heeft voldaan aan op hem rustende
-                    verplichtingen, voortvloeiend uit een eerder aan hem
-                    verleende vergunning; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>de aanvraag of de aanvrager niet voldoet aan de
-                    daarvoor bij of krachtens deze wet gestelde regels,
-                    of </al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>door het verlenen van de vergunning aan de aanvrager
-                    de daadwerkelijke mededinging op de relevante markt
-                    in aanzienlijke mate zou worden beperkt, met dien
-                    verstande dat naar redelijkheid rekening wordt
-                    gehouden met gerechtvaardigde belangen bij het
-                    gebruik van nieuwe technologie, of </al>
-            </li>
-            <li>
-                <li.nr>e.</li.nr>
-                <al>de vrees is gewettigd dat door het verlenen van een
-                    vergunning ontoelaatbare belemmeringen worden
-                    veroorzaakt door het gewenste signaal van
-                    radiozendapparaten in andere radiozendapparaten,
-                    ontvanginrichtingen of elektrische of elektronische
-                    inrichtingen. </al>
-            </li>
-        </lijst>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.7</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Een vergunning wordt door Onze Minister ingetrokken indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de houder van de vergunning hierom verzoekt; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de naleving van een bindend besluit van een
-                    instelling van de Europese Unie of de nakoming van
-                    Nederland bindende verdragen en besluiten van
-                    volkenrechtelijke organisaties dit vordert. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Een vergunning kan door Onze Minister voorts slechts worden
-            ingetrokken indien: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de houder van de vergunning niet meer voldoet aan de
-                    aan hem gestelde eisen om in aanmerking te komen
-                    voor een vergunning; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>de houder van de vergunning de bij of krachtens deze
-                    wet, dan wel bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.10" compleet="nee">artikelen 6.10</extref>, <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.23" compleet="nee">6.23</extref> of&#xA0;<extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.24" compleet="nee">6.24 van
-de Mediawet 2008</extref> gestelde regels dan wel de
-                    aan de vergunning verbonden voorschriften niet
-                    nakomt; </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>een doelmatig gebruik van het frequentiespectrum dit
-                    vordert; </al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>de vrees gewettigd is dat het van kracht blijven van
-                    de vergunning ernstig gevaar zal opleveren voor de
-                    veiligheid van de staat of de openbare orde; </al>
-            </li>
-            <li>
-                <li.nr>e.</li.nr>
-                <al>de gronden waarop de vergunning is verleend zijn
-                    vervallen, of </al>
-            </li>
-            <li>
-                <li.nr>f.</li.nr>
-                <al>de instandhouding van de vergunning de
-                    daadwerkelijke mededinging op de relevante markt in
-                    aanzienlijke mate zou beperken. </al>
-            </li><li><li.nr>g.</li.nr>
-                <al>de vergunning met toepassing van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4a">artikel 3.4a</intref> is verleend en de
-zeggenschap over het gebruik van de vergunning is overgegaan naar een
-andere vergunninghouder aan wie eveneens met toepassing van dat artikel
-een vergunning is verleend voor frequentieruimte met een zelfde
-bestemming, en daardoor de maximale hoeveelheid te verkrijgen
-frequentieruimte wordt overschreden en rekeninghoudend met de dan
-geldende omstandigheden een evenwichtige verdeling van schaarse
-frequentieruimte het in stand laten van de vergunning niet langer
-rechtvaardigt.</al></li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Op de gronden, genoemd in het tweede lid, kan Onze Minister
-            in plaats van de vergunning intrekken deze ook wijzigen. </al>
-    </lid>
-</artikel>
-    <artikel status="goed">
+                        
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.15</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Teneinde een optimaal gebruik van frequentieruimte te waarborgen kan Onze Minister, in overeenstemming met Onze Minister van Financi&#xEB;n, bij ministeri&#xEB;le regeling bepalen dat de houder van een vergunning een bedrag verschuldigd is voor het gebruik van de frequentieruimte waarop de vergunning betrekking heeft,</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>bij de verlening van de vergunning,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>bij een verlenging van de vergunning,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>bij een wijziging van de vergunning,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>bij een verruiming van de gebruiksmogelijkheden van de vergunning.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>In&#xA0;de in het eerste lid bedoelde ministeri&#xEB;le regeling wordt de hoogte van het te betalen bedrag&#xA0;gerelateerd aan de economische waarde van de gedurende de looptijd van de vergunning uit het gebruik van de desbetreffende frequentieruimte te verwachten voordelen.</al>
+                           </lid>
+                        </artikel>
+                        
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.16</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de verlening en wijziging van vergunningen.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>De in het eerste lid bedoelde regels kunnen betrekking hebben op:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>de eisen die aan een aanvrager worden gesteld om in aanmerking te komen voor een vergunning,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>het door Onze Minister uitsluiten van een of meer aanbieders van elektronische communicatienetwerken of elektronische communicatiediensten van deelname of verdere deelname aan een van de procedures, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid, onder b tot en met f</intref>, indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is, of indien zij reeds over de maximale hoeveelheid frequentieruimte beschikken die met toepassing van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikel 3.11</intref> is vastgesteld,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>de toepassing en uitvoering van de procedures, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid</intref>,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>de criteria die worden toegepast bij een vergelijkende toets als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid, onder c tot en met e</intref>,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>e.</li.nr>
+                                    <al>de beperkingen waaronder een vergunning kan worden verleend en de voorschriften die aan een vergunning kunnen worden verbonden.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                        <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Indien een vergunning wordt verleend met toepassing van een van de procedures, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid, onder b tot en met f</intref>, wordt een voornemen om een vergunning onder beperkingen te verlenen en een voornemen om aan een vergunning voorschriften te verbinden, op passende wijze bekendgemaakt. Belanghebbenden, gebruikers en consumenten kunnen tot vier weken na bekendmaking van een voornemen hun zienswijze over het voornemen naar voren brengen.</al>
+                     </lid></artikel>
+                        
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.17</nr>
+                           </kop>
+                           <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Vergunningen worden verleend voor een bij die vergunning te bepalen termijn die gerelateerd is aan de betrokken dienstverlening, het met de vergunningverlening nagestreefde doel en die rekening houdt met een passende periode die nodig is voor de afschrijving van investeringen.</al>
+                     </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Vergunningen die zijn verleend met toepassing van de procedure, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid, onder a</intref>, worden na afloop van de in het eerste lid bedoelde termijn van rechtswege telkens voor een bij of krachtens algemene maatregel van bestuur per categorie van vergunningen te bepalen periode verlengd, tenzij Onze Minister uiterlijk twee jaar voor het tijdstip waarop de periode waarvoor de vergunning is verleend, onderscheidenlijk is verlengd, is verstreken, besluit dat de vergunningen niet worden verlengd.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Andere vergunningen dan die, welke zijn verleend met toepassing van de procedure, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10, eerste lid, onder a</intref>, worden door Onze Minister slechts verlengd voor zover daartoe bij of krachtens algemene maatregel van bestuur regels zijn gesteld.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">4</lidnr>
+                              <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het verlengen van vergunningen.</al>
+                           </lid>
+                        </artikel>
+                        
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.18</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Een vergunning wordt door Onze Minister geweigerd voor zover:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>verlening daarvan in strijd is met het frequentieplan,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>een doelmatig gebruik van frequentieruimte dit vordert,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>reeds een vergunning voor het gebruik van de in de aanvraag gevraagde frequentieruimte is verleend, tenzij gedeeld gebruik van frequentieruimte mogelijk is,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>deze is gevraagd voor het verspreiden van programma-aanbod ter uitvoering van de publieke mediaopdracht, bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=2.1" compleet="nee">artikel 2.1 van de Mediawet 2008</extref>, en de vergunning zal worden verleend op &#xE9;&#xE9;n van de wijzen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikel 3.10</intref>,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>e.</li.nr>
+                                    <al>feiten of omstandigheden er naar het oordeel van Onze Minister op duiden dat de veiligheid van de staat of de openbare orde door het verlenen van de vergunning in gevaar kan worden gebracht, of</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>f.</li.nr>
+                                    <al>verlening daarvan in strijd zou zijn met de bij of krachtens deze wet, dan wel bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.23" compleet="nee">artikelen 6.23</extref> of <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.24" compleet="nee">6.24 van de Mediawet 2008</extref>, gestelde regels.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Een vergunning kan door Onze Minister worden geweigerd voor zover:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>een eerder verleende vergunning is ingetrokken wegens overtreding van bij of krachtens deze wet gestelde regels dan wel van de aan de vergunning verbonden voorschriften en beperkingen,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>de aanvrager niet heeft voldaan aan op hem rustende verplichtingen, voortvloeiend uit een eerder aan hem verleende vergunning,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>door het verlenen van de vergunning aan de aanvrager de daadwerkelijke mededinging op de relevante markt in aanzienlijke mate zou worden beperkt, met dien verstande dat naar redelijkheid rekening wordt gehouden met gerechtvaardigde belangen bij het gebruik van nieuwe technologie, of</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>de vrees is gewettigd dat door het gewenste signaal van de gebruikte radiozendapparaten ontoelaatbare belemmeringen worden veroorzaakt in andere radiozendapparaten, ontvanginrichtingen of elektrische of elektronische inrichtingen.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                        </artikel>
+                        
+<artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.19</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Een vergunning wordt door Onze Minister ingetrokken indien:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>de houder van de vergunning hierom verzoekt, of</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>de naleving van een bindend besluit van een instelling van de Europese Unie of de nakoming van Nederland bindende verdragen en besluiten van volkenrechtelijke organisaties dit vordert.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Een vergunning kan door Onze Minister worden ingetrokken indien:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>de houder van de vergunning niet meer voldoet aan de aan hem gestelde eisen om in aanmerking te komen voor een vergunning,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>de houder van de vergunning de bij of krachtens deze wet, dan wel bij of krachtens de <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.10" compleet="nee">artikelen 6.10</extref>, <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.11" compleet="nee">6.11</extref>, <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.23" compleet="nee">6.23</extref> of <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=6.24" compleet="nee">6.24 van de Mediawet 2008</extref> gestelde regels dan wel de aan de vergunning verbonden voorschriften en beperkingen niet nakomt,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>een doelmatig gebruik van frequentieruimte dit vordert,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>de vrees gewettigd is dat het van kracht blijven van de vergunning ernstig gevaar zal opleveren voor de veiligheid van de staat of de openbare orde,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>e.</li.nr>
+                                    <al>de gronden waarop de vergunning is verleend zijn vervallen,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>f.</li.nr>
+                                    <al>de instandhouding van de vergunning de daadwerkelijke mededinging op de relevante markt in aanzienlijke mate zou beperken,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>g.</li.nr>
+                                    <al>de houder van de vergunning gedurende de periode, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikel 3.11</intref> meer frequentieruimte verwerft dan de maximale hoeveelheid die met toepassing van artikel 3.11 voor die periode is vastgesteld, of</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>h.</li.nr>
+                                    <al>de vrees is gewettigd dat door het gewenste signaal van de gebruikte radiozendapparaten ontoelaatbare belemmeringen worden veroorzaakt in andere radiozendapparaten, ontvanginrichtingen of elektrische of elektronische inrichtingen.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Op de gronden, genoemd in het eerste en tweede lid, kan Onze Minister in plaats van de vergunning intrekken deze ook wijzigen.</al>
+                           </lid>
+                        </artikel>
+                        
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
-                        <nr status="officieel">3.7a</nr>
+                        <nr status="officieel">3.19a</nr>
                      </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Indien een van de gronden, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.7">artikel 3.7, tweede lid</intref>, van toepassing is, kan Onze Minister in plaats van intrekken of wijzigen van een vergunning, de houder van een vergunning verplichten om die vergunning overeenkomstig de in het zevende lid, onderdeel a, bedoelde procedure binnen een bij ministeri&#xEB;le regeling te bepalen termijn geheel of gedeeltelijk over te dragen aan een natuurlijke of rechtspersoon die een toestemming heeft verkregen van Onze Minister. De houder van de vergunning deelt Onze Minister binnen zeven dagen na afloop van de in de eerste volzin bedoelde periode mede aan wie de vergunning is overgedragen.</al>
+                        <al>Indien een van de gronden, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.19">artikel 3.19, tweede lid</intref>, van toepassing is, kan Onze Minister in plaats van intrekken of wijzigen van een vergunning, de houder van een vergunning verplichten om die vergunning overeenkomstig de in het zevende lid, onderdeel a, bedoelde procedure binnen een bij ministeri&#xEB;le regeling te bepalen termijn geheel of gedeeltelijk over te dragen aan een natuurlijke of rechtspersoon die een toestemming heeft verkregen van Onze Minister. De houder van de vergunning deelt Onze Minister binnen zeven dagen na afloop van de in de eerste volzin bedoelde periode mede aan wie de vergunning is overgedragen.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
@@ -1574,7 +1442,7 @@ rechtvaardigt.</al></li>
                      </lid>
                      <lid>
                         <lidnr status="officieel">4</lidnr>
-                        <al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.8">Artikel 3.8, tweede en vierde lid</intref>, zijn van overeenkomstige toepassing.</al>
+                        <al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.20">Artikel 3.20, tweede tot en met zesde lid</intref>, zijn van overeenkomstige toepassing.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">5</lidnr>
@@ -1582,22 +1450,22 @@ rechtvaardigt.</al></li>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
-                              <al>intrekking van de vergunning op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.7">artikel 3.7, eerste lid, onderdeel a</intref>,</al>
+                              <al>intrekking van de vergunning op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.19">artikel 3.19, eerste lid, onderdeel a</intref>,</al>
                            </li>
                            <li>
                               <li.nr>b.</li.nr>
-                              <al>wijziging van de vergunning op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.7">artikel 3.7, derde lid</intref>, of</al>
+                              <al>wijziging van de vergunning op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.19">artikel 3.19, derde lid</intref>, of</al>
                            </li>
                            <li>
                               <li.nr>c.</li.nr>
-                              <al>toestemming voor overdracht op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.8">artikel 3.8, eerste lid</intref>.</al>
+                              <al>toestemming voor overdracht op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.20">artikel 3.20, eerste lid</intref>.</al>
                            </li>
                         </lijst>
                         <al>Onze minister wijst een verzoek dat wordt ingediend na afloop van deze periode af.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">6</lidnr>
-                        <al>Gedurende de procedure, bedoeld in het zevende lid, onderdeel a, en gedurende acht weken na het tijdstip waarop de procedure is afgerond, zijn <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.7">artikel 3:7, eerste lid, aanhef en onderdeel a, tweede en derde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.8">artikel 3.8, eerste lid, eerste volzin</intref>, niet van toepassing op de vergunning waarop het ontwerpbesluit, bedoeld in het eerste lid, betrekking heeft.</al>
+                        <al>Gedurende de procedure, bedoeld in het zevende lid, onderdeel a, en gedurende acht weken na het tijdstip waarop de procedure is afgerond, zijn <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.19">artikel 3:19, eerste lid, aanhef en onderdeel a, tweede en derde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.20">artikel 3.20, eerste lid, eerste volzin</intref>, niet van toepassing op de vergunning waarop het ontwerpbesluit, bedoeld in het eerste lid, betrekking heeft.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">7</lidnr>
@@ -1622,328 +1490,196 @@ rechtvaardigt.</al></li>
                         </lijst>
                      </lid>
                   </artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.8</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Een vergunning kan op aanvraag van de houder van die
-vergunning geheel of gedeeltelijk aan een ander worden overgedragen met toestemming
-            van Onze Minister onverminderd hetgeen is bepaald in het
-derde lid. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>De
-voorschriften en beperkingen die aan een geheel of gedeeltelijk over te
-dragen vergunning zijn verbonden kunnen met het oog op het waarborgen
-van bestaande belangen worden gewijzigd dan wel aangevuld met nieuwe
-voorschriften of beperkingen.</al></lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>
-            De
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikelen 3.3, tiende lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.6">3.6</intref> zijn
-            van overeenkomstige toepassing.</al>
-    </lid>
-<lid>
-                <lidnr status="officieel">4</lidnr>
-                <al>Indien de toestemming betrekking heeft op de overdracht van een vergunning
-voor het gebruik van frequentieruimte die bestemd is voor het aanbieden van
-openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten,
-doet Onze Minister mededeling in
-de Staatscourant van het besluit tot die toestemming, van het al dan
-niet gewijzigd zijn van de aan de vergunning verbonden voorschriften
-alsmede van het besluit nieuwe voorschriften aan de vergunning te
-verbinden.</al>
-              </lid></artikel>
-</paragraaf>
-    <paragraaf>
-    <kop>
-        <label>&#xA7;</label>
-        <nr>3.3</nr>
-        <titel>Bijzonder gebruik van frequentieruimte  </titel>
-    </kop>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.9</nr>
-    </kop>
-    
-    
-<al>In de gevallen waarin samenwerking tussen vergunninghouders
-            van frequentieruimte noodzakelijk is voor het kunnen
-            gebruiken van de aan hen toegewezen frequentieruimte,
-            sluiten de betreffende vergunninghouders binnen een periode
-            van ten hoogste zes weken na verlening van de vergunning een
-            overeenkomst betreffende de voorwaarden tot gezamenlijk
-            gebruik van dat deel van de frequentieruimte. </al></artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.10</nr>
-    </kop>
-    
-    <lid>
-                        <lidnr status="officieel">1</lidnr>
-                        <al>Onze
-Minister kan, in overeenstemming met Onze Minister van Justitie,
-toestemming geven tot een gebruik van de frequentieruimte dat afwijkt
-van het bepaalde bij of krachtens dit hoofdstuk, wanneer dit
-noodzakelijk
-is:</al>
-                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-                           <li>
-                              <li.nr>a.</li.nr>
-                              <al>ter
-voorkoming, be&#xEB;indiging of opsporing van een misdrijf als
-omschreven in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=67" compleet="nee">artikel 67, eerste lid, van het Wetboek van
-Strafvordering</extref>, dat gezien zijn aard of de samenhang met andere
-strafbare feiten een ernstige inbreuk op de rechtsorde
-oplevert;</al>
-                           </li>
-                           <li>
-                              <li.nr>b.</li.nr>
-                              <al>ter
-vaststelling van de verblijfplaats van een aan te houden
-persoon op de voet van het bepaalde in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=565" compleet="nee">artikel 565, tweede
-lid, van het Wetboek van
-Strafvordering</extref>;</al>
-                           </li>
-                           <li>
-                              <li.nr>c.</li.nr>
-                              <al>ter
-vaststelling van de plaats waar zich een persoon bevindt van wie moet
-worden gevreesd dat deze in acuut levensgevaar verkeert of ter
-be&#xEB;indiging van een zodanig acuut
-levensgevaar;</al>
-                           </li>
-                           <li>
-                              <li.nr>d.</li.nr>
-                              <al>ten
-behoeve van
-oefendoeleinden.</al>
-                           </li>
-                        </lijst>
-                     </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Onze Minister kan, in overeenstemming met Onze Minister van
-            Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk
-            Onze Minister van Defensie, toestemming geven tot een
-            gebruik van de frequentieruimte dat afwijkt van het bepaalde
-            bij of krachtens dit hoofdstuk, wanneer dit noodzakelijk is
-            ter uitvoering van de aan de Algemene Inlichtingen- en
-            Veiligheidsdienst onderscheidenlijk Militaire Inlichtingen-
-            en Veiligheidsdienst opgedragen taken in de <extref status="actief" doc="1.0:v:BWBR0013409" compleet="nee">Wet op de inlichtingen- en
-                veiligheidsdiensten 2002</extref>.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>In overeenstemming met Onze Minister van Justitie
-            onderscheidenlijk Onze Minister van Binnenlandse Zaken en
-            Koninkrijksrelaties of Onze Minister van
-Defensie, kan bij ministeri&#xEB;le regeling van het
-            toestemmingsvereiste, bedoeld in het eerste of tweede lid,
-            vrijstelling worden verleend onder bij die regeling te
-            stellen voorschriften. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>In afwijking van het eerste lid is gebruik van
-            frequentieruimte dat afwijkt van het bepaalde bij of
-            krachtens dit hoofdstuk eveneens mogelijk wanneer dit nodig
-            is teneinde toepassing te kunnen geven aan de
-            strafvorderlijke bevoegdheden tot het onderzoek van
-            telecommunicatie, mits: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>dit gebruik plaatsvindt met behulp van apparatuur
-                    die voldoet aan bij algemene maatregel van bestuur
-                    te stellen eisen en door bij algemene maatregel van
-                    bestuur aan te wijzen ambtenaren; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>daartoe een last wordt verstrekt door een tot het
-                    onderzoek van telecommunicatie bevoegde autoriteit,
-                    en </al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>dit plaatsvindt met het doel de gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">artikel 13.4,
-eerste lid</intref>, onderscheidenlijk <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">artikel 13.4, tweede lid</intref>, te achterhalen en
-het door de aanbieder voldoen aan de vordering van deze gegevens onvoldoende
-het belang van de strafvordering dient.</al>
-            </li>
-        </lijst>
-    </lid>
-<lid>
-<lidnr status="officieel">5</lidnr><al>De <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet bestuursrecht</extref> is niet van
-toepassing op de voorbereiding, totstandkoming en tenuitvoerlegging van
-een besluit, genomen bij of krachtens het eerste tot en met derde
-lid.</al></lid></artikel>
-</paragraaf>
-    <paragraaf>
-    <kop>
-        <label>&#xA7;</label>
-        <nr status="officieel">3.4</nr>
-        <titel status="officieel">Antenne-opstelpunten, antennesystemen
-            en antennes  </titel>
-    </kop>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.11</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>De houders van een vergunning voor het gebruik van
-            frequentieruimte die bestemd is voor het aanbieden van
-            openbare telecommunicatienetwerken of openbare
-            telecommunicatiediensten, zijn over en weer verplicht te
-            voldoen aan redelijke verzoeken tot het medegebruik van
-            antenne-opstelpunten. Hierbij worden in ieder geval de
-            technische mogelijkheden in acht genomen. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>In het geval dat voor het verlenen van medegebruik
-            toestemming van een derde is vereist, is deze daartoe
-            slechts gehouden indien het een redelijk verzoek betreft en
-            hij: </al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>direct of indirect een relevant economisch belang
-                    heeft in de houder, bedoeld in het eerste lid, tot
-                    wie het verzoek is gericht; </al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>deel uitmaakt van een groep als bedoeld in
-                        <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=24b" compleet="nee">artikel 24b van boek 2
-                        van het Burgerlijk Wetboek</extref>
-                    waartoe een andere groepsmaatschappij als bedoeld in
-                    dat artikel behoort, die een direct of indirect
-                    relevant economisch belang heeft in de houder van
-                    een vergunning. </al>
-            </li>
-        </lijst>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>De houder, bedoeld in het eerste lid, en de derde die op
-            grond van het tweede lid gehouden is toestemming te
-            verlenen, stellen het medegebruik ter beschikking tegen een
-            redelijke vergoeding. </al>
-    </lid>
-    
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>Aanbieders
-van elektronische communicatienetwerken die bestaan uit
-radiozendapparaten die geschikt zijn voor het verspreiden van
-programma&#x2019;s, alsmede aanbieders van antenne-opstelpunten welke
-bestemd zijn om genoemde genoemde netwerken te ondersteunen, voldoen
-aan redelijke verzoeken tot medegebruik van antenne-opstelpunten,
-antennesystemen of antennes. Het tweede en derde lid zijn van
-overeenkomstige
-toepassing.</al>
-    </lid>
-</artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">3.12</nr>
-    </kop>
-    
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Bij of krachtens algemene maatregel van bestuur kunnen
-            nadere regels gesteld worden met betrekking tot
-            het
-bepaalde in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikel 3.11</intref>. Hierbij kunnen aan het college
-            taken worden opgedragen en bevoegdheden worden verleend.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>De in het eerste lid bedoelde regels kunnen in ieder geval
-            betrekking hebben op:</al>
-        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
-            <li>
-                <li.nr>a.</li.nr>
-                <al>de door degene, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikel 3.11, eerste of
-                        vierde lid</intref>, te verstrekken
-                    informatie over de antenne-opstelpunten waarover zij beschikken;</al>
-            </li>
-            <li>
-                <li.nr>b.</li.nr>
-                <al>het reserveren van ruimte op antenne-opstelpunten
-                    voor eigen gebruik of voor medegebruik;</al>
-            </li>
-            <li>
-                <li.nr>c.</li.nr>
-                <al>de termijnen waarbinnen op een verzoek als bedoeld
-                    in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikel 3.11, eerste
-                    lid</intref>, tot medegebruik van een
-                    antenne-opstelpunt moet worden beslist;</al>
-            </li>
-            <li>
-                <li.nr>d.</li.nr>
-                <al>de vergoeding, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikel 3.11, derde lid</intref>.</al>
-            </li>
-        </lijst>
-    </lid>
-</artikel>
-<artikel status="goed">
-              <kop>
-                <label>Artikel</label>
-                <nr status="officieel">3.13</nr>
-              </kop>
-              <al>Onverminderd <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.12">artikel 3.12</intref> is het college bevoegd om op eigen initiatief
-in concrete gevallen maatregelen te nemen die gericht zijn op de verwezenlijking
-van de in artikel 8, tweede, derde of vierde lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn
-nr. 2002/21/EG</extref> genoemde doelstellingen. Op de voorbereiding van een besluit
-van het college en op het besluit van het college is de Algemene wet bestuursrecht
-van toepassing. Het college handelt bij gebruikmaking van zijn bevoegdheid
-als bedoeld in de eerste volzin, met inachtneming van bij ministeri&#xEB;le
-regeling te geven voorschriften.</al>
-            </artikel><artikel status="goed">
-                     <kop>
-                        <label>Artikel</label>
-                        <nr status="officieel">3.14</nr>
-                     </kop>
-                     <lid>
-                        <lidnr status="officieel">1</lidnr>
-                        <al>Onze
-Minister houdt een openbaar antenneregister met gegevens betreffende
-antenne-opstelpunten, antennesystemen en antennes.</al>
-                     </lid>
-                     <lid>
-                        <lidnr status="officieel">2</lidnr>
-                        <al>Bij
-algemene maatregel van bestuur worden regels gesteld met betrekking tot
-de soorten gegevens die in het register worden opgenomen en degenen die
-worden verplicht tot het verstrekken van gegevens ten behoeve van het
-register.</al>
-                     </lid>
-                     <lid>
-                        <lidnr status="officieel">3</lidnr>
-                        <al>Bij&#xA0;of
-krachtens algemene maatregel van bestuur worden regels
-gesteld&#xA0;over&#xA0;de inrichting van het register, het tijdstip en
-de wijze waarop de gegevens voor opneming in het register dienen te
-worden aangeleverd, alsmede de wijze waarop van de gegevens kan worden
-kennis
-genomen.</al>
-                     </lid>
-                  </artikel></paragraaf>
-</hoofdstuk>
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.20</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Een vergunning kan op aanvraag van de houder van die vergunning en een andere natuurlijke persoon of rechtspersoon geheel of gedeeltelijk aan die andere natuurlijke persoon of rechtspersoon worden overgedragen met toestemming van Onze Minister.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>De <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.18">artikelen 3.18</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.19">3.19, tweede lid, onder g</intref>, zijn van overeenkomstige toepassing. Onze minister verleent voorts geen toestemming indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Indien de aanvraag betrekking heeft op een geheel over te dragen vergunning kan Onze Minister bij het toestemmingsbesluit de voorschriften en beperkingen die aan de over te dragen vergunning zijn verbonden, wijzigen.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">4</lidnr>
+                              <al>Indien de aanvraag betrekking heeft op een gedeeltelijke overdracht van een vergunning kan Onze Minister bij het toestemmingsbesluit de voorschriften en beperkingen verbonden aan de oorspronkelijke vergunning wijzigen en aan de andere natuurlijke persoon of rechtspersoon een nieuwe vergunning verlenen. De <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.10">artikelen 3.10</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.13">3.13, tweede lid</intref>, zijn niet van toepassing op de verlening van de in de vorige volzin bedoelde vergunning.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">5</lidnr>
+                              <al>Alvorens een besluit te nemen als bedoeld in het eerste lid, stelt Onze Minister indien de overdracht van de vergunning de daadwerkelijke mededinging op de markt in aanzienlijke mate zou kunnen beperken, het college in de gelegenheid hem advies uit te brengen over de overdracht, bedoeld in het eerste lid.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">6</lidnr>
+                              <al>Indien de toestemming betrekking heeft op de overdracht van een vergunning voor het gebruik van frequentieruimte die bestemd is voor het aanbieden van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, doet Onze Minister mededeling in de Staatscourant van het besluit tot die toestemming, van het al dan niet gewijzigd zijn van de aan de vergunning verbonden voorschriften alsmede van het besluit nieuwe voorschriften aan de vergunning te verbinden.</al>
+                           </lid>
+                        </artikel></paragraaf><paragraaf><kop>
+                           <label>&#xA7;</label>
+                           <nr status="officieel">3.7</nr>
+                           <titel status="officieel">Bijzonder gebruik van frequentieruimte</titel>
+                        </kop><artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.21</nr>
+                           </kop>
+                           <al>In de gevallen waarin samenwerking tussen gebruikers van frequentieruimte noodzakelijk is voor het kunnen gebruiken van de aan hen toegewezen frequentieruimte, sluiten de desbetreffende gebruikers binnen een door Onze Minister te bepalen periode na de toewijzing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.5">artikel 3.5</intref> of de verlening van de vergunning een overeenkomst betreffende de voorwaarden tot gezamenlijk gebruik van dat deel van de frequentieruimte. De periode kan voor de verschillende soorten gebruikers verschillend worden vastgesteld.</al>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.22</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Frequentieruimte mag in afwijking van het bepaalde bij of krachtens dit hoofdstuk worden gebruikt, indien dit nodig is teneinde toepassing te kunnen geven aan strafvorderlijke bevoegdheden tot het onderzoek van telecommunicatie, mits:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>daartoe een last wordt verstrekt door een tot het onderzoek van telecommunicatie bevoegde autoriteit, en</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>dit plaats vindt met het doel de gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=13.4">artikel 13.4, eerste lid</intref>, onderscheidenlijk artikel 13.4, tweede lid, te achterhalen en het door de aanbieder voldoen aan de vordering van deze gegevens onvoldoende het belang van de strafvordering dient.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Onze Minister kan bij ministeri&#xEB;le regeling vrijstelling verlenen van bij of krachtens dit hoofdstuk geldende verplichtingen ter zake van het gebruik van frequentieruimte.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Gebruik van frequentieruimte dat afwijkt van het bepaalde bij of krachtens dit hoofdstuk is voorts toegestaan met ontheffing van Onze Minister, indien dit noodzakelijk is:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>ter voorkoming, be&#xEB;indiging of opsporing van een misdrijf als omschreven in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=67" compleet="nee">artikel 67, eerste lid, van het Wetboek van Strafvordering</extref>, dat gezien zijn aard of de samenhang met andere strafbare feiten een ernstige inbreuk op de rechtsorde oplevert;</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>ter vaststelling van de verblijfplaats van een aan te houden persoon op de voet van het bepaalde in <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=565" compleet="nee">artikel 565, tweede lid, van het Wetboek van Strafvordering</extref>;</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>ter uitvoering van de in de <extref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=6" compleet="nee">artikelen 6</extref> en <extref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=7" compleet="nee">7 van de Wet op de inlichtingen- en veiligheidsdiensten 2002</extref> aan de in <extref status="actief" doc="1.0:v:BWBR0013409&amp;artikel=1" compleet="nee">artikel 1 van die wet</extref> bedoelde diensten opgedragen taken;</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>ter vaststelling van de plaats waar zich een persoon bevindt van wie moet worden gevreesd dat deze in acuut levensgevaar verkeert of ter be&#xEB;indiging van een zodanig acuut levensgevaar,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>e.</li.nr>
+                                    <al>ten behoeve van oefendoeleinden.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">4</lidnr>
+                              <al>Bij of krachtens algemene maatregel van bestuur kunnen eisen worden gesteld waaraan apparatuur die wordt gebruikt bij het gebruik van frequentieruimte als bedoeld in het eerste tot en met derde lid, moet voldoen en kunnen ambtenaren worden aangewezen die bevoegd zijn tot dat gebruik.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">5</lidnr>
+                              <al>De <extref status="actief" doc="1.0:v:BWBR0005537" compleet="nee">Algemene wet bestuursrecht</extref> is niet van toepassing op de voorbereiding, totstandkoming en tenuitvoerlegging van een besluit, genomen bij of krachtens het derde lid, onder a tot en met d, en het vierde lid.</al>
+                           </lid>
+                        </artikel></paragraaf><paragraaf><kop>
+                           <label>&#xA7;</label>
+                           <nr status="officieel">3.8</nr>
+                           <titel status="officieel">Antenne-opstelpunten, antennesystemen en antennes</titel>
+                        </kop><artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.23</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Onze Minister houdt een openbaar antenneregister met gegevens betreffende antenne-opstelpunten, antennesystemen en antennes.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de soorten gegevens die in het register worden opgenomen en degenen die worden verplicht tot het verstrekken van gegevens ten behoeve van het register.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inrichting van het register, het tijdstip en de wijze waarop de gegevens voor opneming in het register dienen te worden aangeleverd, alsmede de wijze waarop van de gegevens kan worden kennis genomen.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">4</lidnr>
+                              <al>Bij of krachtens algemene maatregel van bestuur kan voorts worden bepaald dat bepaalde gegevens niet in het register worden opgenomen, indien opneming daarvan de veiligheid van de staat zou kunnen schaden, dan wel de opsporing en vervolging van strafbare feiten zou kunnen bemoeilijken.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.24</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>De gebruikers van bij of krachtens algemene maatregel van bestuur aan te wijzen frequentieruimte, zijn over en weer verplicht te voldoen aan redelijke verzoeken tot het medegebruik van antenne-opstelpunten. Hierbij worden in ieder geval de technische mogelijkheden in acht genomen.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>In het geval dat voor het verlenen van medegebruik toestemming van een derde is vereist, is deze daartoe slechts gehouden indien het een redelijk verzoek betreft en hij:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>direct of indirect een relevant economisch belang heeft in de gebruiker, bedoeld in het eerste lid, tot wie het verzoek is gericht;</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>deel uitmaakt van een groep als bedoeld in <extref status="actief" doc="1.0:v:BWBR0003045&amp;artikel=24b" compleet="nee">artikel 24b van boek 2 van het Burgerlijk Wetboek</extref> waartoe een andere groepsmaatschappij als bedoeld in dat artikel behoort, die een direct of indirect relevant economisch belang heeft in de gebruiker.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">3</lidnr>
+                              <al>De gebruiker, bedoeld in het eerste lid, en de derde die op grond van het tweede lid gehouden is toestemming te verlenen, stellen het medegebruik ter beschikking tegen een redelijke vergoeding.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">4</lidnr>
+                              <al>Aanbieders van elektronische communicatienetwerken die bestaan uit radiozendapparaten die geschikt zijn voor het verspreiden van programma&#x2019;s, alsmede aanbieders van antenne-opstelpunten welke bestemd zijn om genoemde netwerken te ondersteunen, voldoen aan redelijke verzoeken tot medegebruik van antenne-opstelpunten, antennesystemen of antennes. Het tweede en derde lid zijn van overeenkomstige toepassing. Hierbij is bij het medegebruik van de genoemde antenne-opstelpunten slechts sprake van een redelijke vergoeding als bedoeld in het derde lid, indien de vergoeding effici&#xEB;nt, transparant en niet-discriminatoir is, en de kosten van de werkelijk afgenomen capaciteit weerspiegelt. Daarbij draagt de aanbieder die aan het verzoek tot medegebruik voldoet bij geschillen de bewijslast voor de redelijkheid van de vergoeding.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">5</lidnr>
+                              <al>In het geval de voor medegebruik als bedoeld in het vierde lid te betalen vergoeding mede wordt bepaald door een door de verlener van het medegebruik zelf voor medegebruik aan een derde te betalen vergoeding mag laatstbedoelde vergoeding slechts worden doorberekend voor zover deze vergoeding redelijk is.</al>
+                           </lid>
+                        </artikel>
+                        <artikel status="goed">
+                           <kop>
+                              <label>Artikel</label>
+                              <nr status="officieel">3.25</nr>
+                           </kop>
+                           <lid>
+                              <lidnr status="officieel">1</lidnr>
+                              <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden met betrekking tot het bepaalde in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24</intref>. Hierbij kunnen aan het college taken worden opgedragen en bevoegdheden worden verleend.</al>
+                           </lid>
+                           <lid>
+                              <lidnr status="officieel">2</lidnr>
+                              <al>De in het eerste lid bedoelde regels kunnen betrekking hebben op:</al>
+                              <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                                 <li>
+                                    <li.nr>a.</li.nr>
+                                    <al>de door degene, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24, eerste of vierde lid</intref>, te verstrekken informatie over de antenne-opstelpunten waarover zij beschikken,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>b.</li.nr>
+                                    <al>het reserveren van ruimte op antenne-opstelpunten voor eigen gebruik of voor medegebruik,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>c.</li.nr>
+                                    <al>de termijnen waarbinnen op een verzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24, eerste of vierde lid</intref>, tot medegebruik van een antenne-opstelpunt moet worden beslist,</al>
+                                 </li>
+                                 <li>
+                                    <li.nr>d.</li.nr>
+                                    <al>de vergoeding, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24, derde en vijfde lid</intref>.</al>
+                                 </li>
+                              </lijst>
+                           </lid>
+                        </artikel></paragraaf></hoofdstuk>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
@@ -2991,8 +2727,7 @@ derde.</al></artikel><artikel status="goed"><kop>
 toepassing van dit hoofdstuk, met uitzondering van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.12">artikel 5.12</intref>, wordt
 gelijkgesteld met een openbaar elektronisch communicatienetwerk een
 door Onze Minister aangewezen elektronisch communicatienetwerk dat
-geheel of hoofdzakelijk gebruikt wordt voor vitale
-overheidstaken.</al></artikel><artikel status="goed"><kop>
+geheel of hoofdzakelijk gebruikt wordt voor publieke taken.</al></artikel><artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">5.17</nr></kop> <al>De
 <extref status="actief" doc="1.0:v:BWBR0005291&amp;artikel=17" compleet="nee">artikelen 17, eerste lid, onder k, van Boek 3 van het Burgerlijk
 Wetboek</extref>, <extref status="actief" doc="1.0:v:BWBR0005288&amp;artikel=20" compleet="nee">20, tweede lid, van Boek 5 van het Burgerlijk Wetboek</extref>, <extref status="actief" doc="1.0:v:BWBR0004541&amp;artikel=36" compleet="nee">36,
@@ -4304,7 +4039,8 @@ van een transnationale markt als bedoeld in <intref status="actief" doc="1.0:v:B
         <nr status="officieel">7</nr>
         <titel status="officieel">Eindgebruikersbelangen</titel>
     </kop>
-    <artikel status="goed">
+    
+<artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.1</nr>
@@ -4372,7 +4108,8 @@ buiten toepassing blijft.</al>
                         <lidnr status="officieel">5</lidnr>
                         <al>Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van de in het eerste lid genoemde gegevens nadere regels worden gesteld.</al>
                      </lid></artikel>
-              <artikel status="goed">
+              
+<artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.2</nr>
@@ -4398,7 +4135,8 @@ blijft.</al></lid><lid>
                         <lidnr status="officieel">3</lidnr>
                         <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de opmaak van de mededeling waarmee de abonnee op de hoogte wordt gesteld van een voorgenomen wijziging, bedoeld in het eerste lid.</al>
                      </lid></artikel>
-              <artikel status="goed">
+              
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">7.2a</nr>
@@ -4444,7 +4182,8 @@ maand.</al>
                               <al>waarbij, indien de aanbieder ook abonnementen aanbiedt waarbij de gespreksduur niet in seconden in rekening wordt gebracht, het tarief, gezien de overige voorwaarden van de overeenkomst, vergelijkbaar is met het tarief bij de andere door de aanbieder aangeboden abonnementen.</al>
                            </li>
                         </lijst>
-                     </lid></artikel><artikel status="goed">
+                     </lid></artikel>
+<artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.3</nr>
@@ -4506,7 +4245,8 @@ maand.</al>
                         </lijst>
                      </lid>
               </artikel>
-              <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">7.3a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
+              
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">7.3a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
 college kan aanbieders van openbare elektronische communicatiediensten
 een aanwijzing geven de betaling die gerelateerd is aan het gebruik van
 bij ministeri&#xEB;le regeling aan te wijzen categorie&#xEB;n van
@@ -4522,7 +4262,8 @@ genoemde periode is maximaal vier weken en kan door het college
 eenmalig met maximaal vier weken worden
 verlengd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het college stelt de
 nummergebruiker, voorzover deze bij het college bekend is, van de
-aanwijzing op de hoogte.</al></lid></artikel><artikel status="goed"><kop>
+aanwijzing op de hoogte.</al></lid></artikel>
+<artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">7.3b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
 college kan aanbieders van openbare elektronische communicatiediensten
 een aanwijzing geven de aankiesbaarheid van een nummer uit bij
@@ -4539,7 +4280,8 @@ genoemde periode is maximaal vier weken en kan door het college
 eenmalig met maximaal vier weken worden
 verlengd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het college stelt de
 nummergebruiker, voorzover deze bij het college bekend is, van de
-aanwijzing op de hoogte.</al></lid></artikel><artikel status="goed"><kop>
+aanwijzing op de hoogte.</al></lid></artikel>
+<artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">7.3c</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Indien
 het college heeft vastgesteld dat de nummergebruiker met betrekking tot
 een nummer gedurende een bepaalde periode niet heeft voldaan aan het
@@ -4557,7 +4299,8 @@ mededeling betrekking heeft.</al></li></lijst></lid><lid>
 oproepen naar nummers als bedoeld in het tweede lid, betaalt de
 aanbieder de bedragen binnen twee maanden na publicatie van de
 mededeling als bedoeld in het eerste lid,
-terug.</al></lid></artikel><artikel status="goed">
+terug.</al></lid></artikel>
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">7.3d</nr>
@@ -4570,7 +4313,8 @@ terug.</al></lid></artikel><artikel status="goed">
                         <lidnr status="officieel">2</lidnr>
                         <al>Bij de regels, bedoeld in het eerste lid, kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college.</al>
                      </lid>
-                  </artikel><artikel status="goed">
+                  </artikel>
+<artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.4</nr>
@@ -4627,7 +4371,8 @@ te bepalen categorie&#xEB;n van openbare elektronische communicatiediensten of p
 opgedragen en bevoegdheden worden verleend aan het college.</al>
                 </lid>
               </artikel>
-              <artikel status="goed">
+              
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">7.4a</nr>
@@ -4671,7 +4416,8 @@ opgedragen en bevoegdheden worden verleend aan het college.</al>
                         <lidnr status="officieel">5</lidnr>
                         <al>Bij of krachtens algemene maatregel van bestuur kunnen ter voorkoming van een achteruitgang van de dienstverlening en een belemmering of vertraging van het verkeer over openbare elektronische communicatienetwerken, nadere minimumvoorschriften inzake de kwaliteit van openbare elektronische communicatiediensten worden gesteld aan aanbieders van openbare elektronische communicatienetwerken.</al>
                      </lid>
-                  </artikel><artikel status="goed">
+                  </artikel>
+<artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.5</nr>
@@ -4682,7 +4428,8 @@ beschikking stellen van bij die regels aan te wijzen categorie&#xEB;n van
 nummers met bijbehorende gegevens ten behoeve van de beschikbaarheid van telefoongidsen
 en van een abonnee-informatiedienst.</al>
               </artikel>
-              <artikel status="goed">
+              
+<artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.6</nr>
@@ -4699,7 +4446,8 @@ hebben tot de diensten van een telefonist en tot een abonnee-informatiedienst.</
 het eerste lid bedoelde abonnee-informatiedienst moet voldoen.</al>
                 </lid>
               </artikel>
-              <artikel status="goed">
+              
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">7.6a</nr>
@@ -4738,7 +4486,8 @@ het eerste lid bedoelde abonnee-informatiedienst moet voldoen.</al>
                         <lidnr status="officieel">2</lidnr>
                         <al>De aanbieder gaat niet over tot een maatregel als bedoeld in het eerste lid, aanhef en onderdeel c, dan nadat hij de abonnee schriftelijk op de hoogte heeft gesteld van het voornemen om tot deze maatregel over te gaan, voorzien van een schriftelijke motivering omtrent het gestelde bedrog, en hij de abonnee een redelijke termijn heeft geboden om op het voornemen en het gestelde bedrog te reageren.</al>
                      </lid>
-                  </artikel><artikel status="goed">
+                  </artikel>
+<artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.7</nr>
@@ -4770,7 +4519,8 @@ beperkingen worden verleend. Onze Minister kan voorschriften verbinden aan
 een ontheffing.</al>
                 </lid>
               </artikel>
-              <artikel status="goed">
+              
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">7.7a</nr>
@@ -4783,7 +4533,8 @@ een ontheffing.</al>
                         <lidnr status="officieel">2</lidnr>
                         <al>Een krachtens het eerste lid opgelegde verplichting die strekt tot uitvoering van bijlage I, deel B, van richtlijn nr. 2002/22/EG, geldt niet indien deze technisch niet uitvoerbaar dan wel economisch niet haalbaar is.</al>
                      </lid>
-                  </artikel><artikel status="goed">
+                  </artikel>
+<artikel status="goed">
                 <kop>
                   <label>Artikel</label>
                   <nr status="officieel">7.8</nr>
@@ -4837,7 +4588,13 @@ worden opgedragen en bevoegdheden worden verleend aan het college.</al>
                            </li>
                         </lijst>
                      </lid></artikel>
-</hoofdstuk>
+<artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">7.9</nr>
+                     </kop>
+                     <al>Bij ministeri&#xEB;le regeling kunnen voorschriften worden gesteld met betrekking tot het door een aanbieder van een openbaar elektronisch communicatienetwerk of openbare elektronische communicatiedienst innen van gelden verschuldigd voor andere diensten dan&#xA0;het door hem geleverde&#xA0;openbare elektronische communicatienetwerk of de door hem geleverde&#xA0;openbare elektronische communicatiedienst.</al>
+                  </artikel></hoofdstuk>
             <hoofdstuk>
     <kop>
         <label>Hoofdstuk</label>
@@ -5407,7 +5164,7 @@ indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li
 <li.nr>a.</li.nr><al>krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstuk 3</intref> geen
 vergunning is vereist voor het gebruik van frequentieruimte en, indien
 voor het gebruik melding en registratie verplicht zijn krachtens
-<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4">artikel 3.4, tweede lid, onder d</intref>, indien melding en registratie heeft
+<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.9">artikel 3.9, eerste lid, onder d</intref>, indien melding en registratie heeft
 plaatsgevonden;</al></li><li>
 <li.nr>b.</li.nr><al>de houder van het radiozendappararaat met de
 houder van een vergunning voor het gebruik van frequentieruimte een
@@ -6759,7 +6516,7 @@ erkende geschillencommissie welke geschillen behandelt over de levering
 van een dienst door een hiervoor bedoelde nummergebruiker aan een
 consument voor zover het geschil verplichtingen betreft die bij of
 krachtens deze wet zijn
-opgelegd.</al></lid></artikel></paragraaf>
+opgelegd dan wel betrekking heeft op krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref> aangewezen gedragingen voor zover het een nummer betreft waarvoor die aanwijzing geldt.</al></lid></artikel></paragraaf>
 <paragraaf><kop><label>&#xA7;</label>
                 <nr>12.2</nr>
                 <titel>Geschilbeslechting door het college</titel></kop><sub-paragraaf><kop><label>&#xA7;</label>
@@ -6796,29 +6553,26 @@ strijdig zijn, onderscheidenlijk strijdig is met het bij of krachtens deze
 wet bepaalde.</al>
                   </lid>
                   <lid>
-                    <lidnr status="officieel">3</lidnr>
-                    <al>Het eerste en tweede lid zijn van overeenkomstige toepassing indien een
-geschil is gerezen tussen degenen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.11">artikel 3.11, vierde lid</intref>, dan
-wel tussen een aanbieder en een derde als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.12">artikel 5.12,
-tweede lid</intref>.</al>
-                  </lid>
-                <lid><lidnr status="officieel">4</lidnr><al>Met uitzondering
-van geschillen op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.12">artikel 5.12</intref> is het eerste lid niet van
-toepassing op geschillen voortvloeiend uit <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=5">hoofdstuk 5</intref> van deze
-wet.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Met
-uitzondering van geschillen op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.12">artikel 5.12</intref> is het eerste lid
-niet van toepassing op geschillen voortvloeiend uit <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=5">hoofdstuk 5</intref> van
-deze
-wet.</al></lid><lid><lidnr status="officieel">5</lidnr><al>Indien
-nummerhouders als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2b">artikel 4.2b</intref> geen overeenstemming kunnen
-bereiken over de voorwaarden waaronder de aan hen in gebruik gegeven
-nummers gezamenlijk in gebruik zullen worden genomen, kan het college
-op aanvraag van een of meer van hen, voorschriften geven inzake het tot
-stand brengen van een overeenkomst als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2b">artikel
-4.2b</intref>.</al></lid><lid> <lidnr status="officieel">6</lidnr><al>Op aanvraag van de
-gezamenlijke nummerhouders kan het college een besluit als bedoeld in
-het vierde lid
-intrekken.</al></lid></artikel>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Het eerste en tweede lid zijn van overeenkomstige toepassing indien een geschil is gerezen tussen degenen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24, eerste en vierde lid</intref>, dan wel tussen een aanbieder en een derde als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.12">artikel 5.12, tweede lid</intref>.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Indien een geschil is gerezen over de redelijkheid van een vergoeding voor medegebruik als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24, vierde lid, derde volzin</intref>, draagt het college er zorg voor dat de vergoeding voldoet aan de in dat lid gestelde vereisten. Het college is daarbij gehouden om de bij het geschil betrokken partijen te raadplegen over de mate waarin met de vergoeding aan de vereisten wordt voldaan. Indien naar het oordeel van het college niet of onvoldoende aan de vereisten wordt voldaan, raadpleegt het college de geschilpartijen opnieuw en geeft het, met inachtneming van de door de geschilpartijen verschafte informatie, aanwijzingen voor het alsnog voldoen aan de vereisten. Het college houdt nadien toezicht op de naleving van de gegeven aanwijzingen. Het kan de aanbieder verplichten periodiek een rapportage over te leggen waarmee de blijvende effici&#xEB;ntie van de tarieven kan worden gecontroleerd.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Met uitzondering van geschillen op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.12">artikel 5.12</intref> is het eerste lid niet van toepassing op geschillen voortvloeiend uit <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=5">hoofdstuk 5</intref> van deze wet.</al>
+                     </lid>
+                     
+                     <lid>
+                        <lidnr status="officieel">6</lidnr>
+                        <al>Indien nummerhouders als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2b">artikel 4.2b</intref> geen overeenstemming kunnen bereiken over de voorwaarden waaronder de aan hen in gebruik gegeven nummers gezamenlijk in gebruik zullen worden genomen, kan het college op aanvraag van een of meer van hen, voorschriften geven inzake het tot stand brengen van een overeenkomst als bedoeld in artikel 4.2b.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">7</lidnr>
+                        <al>Op aanvraag van de gezamenlijke nummerhouders kan het college een besluit als bedoeld in het vijfde lid intrekken.</al>
+                     </lid></artikel>
                 <artikel status="goed">
                   <kop>
                     <label>Artikel</label>
@@ -6956,18 +6710,13 @@ toepassing.</al>
                   <label>Artikel</label>
                   <nr status="officieel">12.10</nr>
                 </kop>
+                
                 <lid>
-                  <lidnr status="officieel">1</lidnr>
-                  <al>Indien houders van een vergunning als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.9">artikel 3.9, eerste lid</intref>,
-geen overeenstemming kunnen bereiken over de voorwaarden waaronder de aan
-hen toegewezen frequentieruimte gezamenlijk in gebruik zal worden genomen,
-kan Onze Minister op aanvraag van een of meer van hen, voorschriften geven
-inzake het tot stand brengen van een overeenkomst als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.9">artikel 3.9,
-eerste lid</intref>.</al>
-                </lid>
-                <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Indien gebruikers als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.21">artikel 3.21</intref> aan wie frequentieruimte is toegewezen als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.5">artikel 3.5</intref>, dan wel aan wie vergunning is verleend voor het gebruik van frequentieruimte, geen overeenstemming kunnen bereiken over de voorwaarden waaronder de aan hen toegewezen frequentieruimte gezamenlijk in gebruik zal worden genomen, kan Onze Minister op aanvraag van een of meer van hen, voorschriften geven inzake het tot stand brengen van een overeenkomst als bedoeld in artikel 3.21.</al>
+                     </lid><lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>Op aanvraag van de gezamenlijke vergunninghouders kan Onze Minister een
+                  <al>Op aanvraag van de gezamenlijke gebruikers kan Onze Minister een
 besluit als bedoeld in het eerste lid intrekken.</al>
                 </lid>
                 <lid>
@@ -8091,63 +7840,7 @@ overbrengt.</al>
         <nr status="officieel">18</nr>
         <titel status="officieel">Verdere bepalingen  </titel>
     </kop>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr status="officieel">18.1</nr>
-    </kop>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Bij of krachtens algemene maatregel van bestuur kunnen
-            regels worden gesteld om te kunnen onderzoeken of bepaalde
-            ontwikkelingen in belangrijke mate kunnen bijdragen aan het
-            bereiken van de doelstellingen van deze wet. Deze regels
-            kunnen afwijken van het bij of krachtens deze wet bepaalde. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>Bij de voorbereiding van de regels worden de bij de in de
-            regels te behandelen onderwerpen meest betrokken personen of
-            instanties betrokken. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>Het ontwerp van een regeling krachtens het eerste lid wordt
-            bekendgemaakt in de Staatscourant. Aan eenieder wordt de
-            gelegenheid geboden binnen een bij die bekendmaking vast te
-            stellen termijn van ten minste vier weken opmerkingen over
-            het ontwerp schriftelijk ter kennis te brengen van Onze
-            Minister. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">4</lidnr>
-        <al>De regels vervallen uiterlijk binnen twee jaar na het
-            tijdstip van inwerkingtreding van die regels. Een algemene
-            maatregel van bestuur als bedoeld in het eerste lid kan bij
-            koninklijk besluit worden ingetrokken op een bij dat besluit
-            te bepalen tijdstip, dat ligt binnen de in de eerste volzin
-            bedoelde termijn. </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">5</lidnr>
-        <al>Indien Onze Minister tot het oordeel komt dat een
-            definitieve voorziening terzake wenselijk is, zorgt deze
-            voor vervanging van de regels. Indien voor de vervanging een
-            wet nodig is, wordt binnen twee jaar na inwerkingtreding van
-            de regels een voorstel van wet ingediend bij de
-            Staten-Generaal. Indien voor de vervanging een algemene
-            maatregel van bestuur nodig is, wordt binnen twee jaar na
-            inwerkingtreding van de regels aan Ons een voordracht
-            daartoe gedaan.  </al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">6</lidnr>
-        <al>Bij de regels, bedoeld in het eerste lid, kunnen taken
-            worden opgedragen en bevoegdheden worden verleend aan het
-            college. </al>
-    </lid>
-</artikel>
     <artikel status="goed">
     <kop>
                 <label>Artikel</label>
@@ -8172,21 +7865,12 @@ roamingverordening.</al></artikel><artikel status="goed">
         <nr status="officieel">18.3</nr>
     </kop>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Onze Minister stelt het
-college, in de gelegenheid hem
-            advies uit te brengen over het voornemen om op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3, tiende lid</intref>, een of meer
-aanbieders van het verkrijgen van een vergunning uit te sluiten, of over het ontwerp van een besluit tot
-            weigering of intrekking van een vergunning voorzover dit
-            verband houdt met het in aanzienlijke mate beperken van de
-            daadwerkelijke mededinging op de relevante markt, bedoeld in
-                <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.6">de artikelen 3.6, tweede lid,
-                onder d</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.7">3.7, tweede lid, onder
-            f</intref>. </al>
-    </lid>
+    
     
     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Onze Minister stelt het college in de gelegenheid hem advies uit te brengen over een voornemen om krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.16">artikel 3.16, tweede lid onder b</intref>, een of meer aanbieders van het verkrijgen van een vergunning uit te sluiten, indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is, of over het ontwerp van een besluit tot weigering, intrekking of wijziging van een vergunning voor zover dit verband houdt met het in aanzienlijke mate beperken van de daadwerkelijke mededinging op de relevante markt, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.18">artikelen 3.18, tweede lid, onder c</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.19">3.19, tweede lid, onder f</intref>.</al>
+                     </lid><lid>
                         <lidnr status="officieel">2</lidnr>
                         <al>Het
 college en de raad van bestuur van de mededingingsautoriteit maken in
@@ -8251,8 +7935,7 @@ elektronisch communicatieverkeer wordt verzorgd leeft de
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
-        <al>Degene aan wie door Onze Minister een vergunning is verleend
-            voor het gebruik van frequentieruimte of degene die
+        <al>Degene die op grond van het bepaalde bij of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=3">hoofdstuk 3</intref> gerechtigd is tot het gebruik van frequentieruimte of degene die
 overeenkomstig <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.4">artikel 3.4, eerste lid, onderdeel c</intref>, vergunningvrij
 gebruik maakt van
 frequentieruimte, leeft de verplichtingen na die
@@ -8991,7 +8674,7 @@ verleend., <extref status="actief" doc="" compleet="nee">13l</extref>,
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">20.2a</nr>
-                     <al><redactie type="extra">Treedt in werking per 15-03-2013</redactie></al></kop>
+                     </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
                         <al>Vergunningen voor het gebruik van frequentieruimte die zijn verleend op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.3">artikel 3.3</intref> van deze wet en de daarop berustende bepalingen zoals die luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel A van de wet van 10&#xA0;mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Stb. 2013, 48) dan wel vergunningen of machtigingen die daarmee op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=20.2">artikel 20.2</intref>, onderscheidenlijk <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=20.3">20.3</intref> zijn gelijkgesteld, blijven van kracht voor de periode waarvoor zij zijn verleend.</al>
