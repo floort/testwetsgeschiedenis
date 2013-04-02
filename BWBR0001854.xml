@@ -731,30 +731,29 @@ opgelegd.</al></lid>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>10</nr>
+        <nr status="officieel">10</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>De gevangenisstraf is levenslang of tijdelijk.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
-        <al> De duur van de tijdelijke gevangenisstraf is ten minste een
-            dag en ten hoogste vijftien achtereenvolgende jaren.</al>
-    </lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste achttien jaren.</al>
+                     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al> Zij kan voor ten hoogste dertig achtereenvolgende jaren
             worden opgelegd in de gevallen waarin op het misdrijf
             levenslange en tijdelijke gevangenisstraf ter keuze van de
             rechter zijn gesteld, en in die waarin wegens strafverhoging
             ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van
             misdrijf of het bepaalde bij <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=44">artikel 44</intref>, de
-            tijd van vijftien jaren wordt overschreden.</al>
+            tijd van achttien jaren wordt overschreden.</al>
     </lid>
     <lid>
-        <lidnr>4</lidnr>
+        <lidnr status="officieel">4</lidnr>
         <al> Zij kan in geen geval de tijd van dertig jaren te boven gaan.</al>
     </lid>
 </artikel>
@@ -5389,16 +5388,25 @@ Eustatius en Saba onherroepelijk is beslist.</al>
                 gevangenisstraf van meer dan drie jaren is gesteld;</al>
         </li>
         <li>
-            <li.nr>4&#xB0;.</li.nr>
-            <al>in twintig jaren voor de misdrijven waarop
-                gevangenisstraf van meer dan tien jaren is gesteld.</al>
-        </li>
+                           <li.nr>4&#xB0;.</li.nr>
+                           <al>in twintig jaren voor de misdrijven waarop gevangenisstraf van acht jaren of meer is gesteld.</al>
+                        </li>
         
-    </lijst></lid><lid> <lidnr status="officieel">2</lidnr><al>In
-afwijking van het eerste lid verjaart het recht tot strafvordering niet
-voor misdrijven waarop levenslange gevangenisstraf is
-gesteld.</al></lid>
-</artikel>
+    </lijst></lid>
+<lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>In afwijking van het eerste lid verjaart het recht tot strafvordering niet:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>1&#xB0;.</li.nr>
+                              <al>voor de misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld;</al>
+                           </li>
+                           <li>
+                              <li.nr>2&#xB0;.</li.nr>
+                              <al>voor de misdrijven, omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=245">245</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=246">246</intref>, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.</al>
+                           </li>
+                        </lijst>
+                     </lid></artikel>
     <artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
@@ -5411,9 +5419,7 @@ gesteld.</al></lid>
 	 <li> 
 		<li.nr>1&#xB0;.</li.nr> 
 		<al>bij de misdrijven omschreven in de
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=172">artikelen 172, eerste lid</intref>,
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173">173, eerste lid</intref>,
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173a">173a</intref> en
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173">artikelen 173, eerste lid</intref>, en
 		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=173b">173b</intref>,
 		  vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen
 		  van een ambtenaar belast met de opsporing van strafbare feiten;</al> 
@@ -5427,8 +5433,8 @@ gesteld.</al></lid>
 	 <li> 
 		<li.nr>3&#xB0;.</li.nr> 
 		<al>bij de misdrijven omschreven in de
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>,
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met 250</intref> en
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b, eerste lid</intref>,
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=247">247 tot en met 250</intref> en
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">273f</intref>, dan wel <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=300">300 tot
 en met 303</intref>, voor zover het feit oplevert genitale verminking van een
 persoon van het vrouwelijke geslacht en gepleegd ten aanzien van een
@@ -5440,10 +5446,8 @@ bereikt, op de dag na die waarop die persoon achttien jaren is
 	 <li> 
 		<li.nr>4&#xB0;.</li.nr> 
 		<al>bij de misdrijven omschreven in de
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=278">artikelen 278</intref>,
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=279">279</intref>,
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282">282</intref> en
-		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282a">282a</intref> op de
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=279">artikelen 279</intref> en
+		  <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=282">282, eerste en tweede lid</intref> op de
 		  dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het
 		  misdrijf gepleegd is;</al> 
 	 </li> 
@@ -5648,69 +5652,7 @@ geldende verjaringstermijn.</al>
             Strafvordering</extref> zijn van overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>74c</nr>
-    </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Bij algemene maatregel van bestuur kan aan daartoe aan te
-            wijzen opsporingsambtenaren in bij die algemene maatregel
-            van bestuur aangewezen zaken betreffende overtredingen,
-            begaan door personen die de leeftijd van twaalf jaren hebben
-            bereikt, tot wederopzeggens de bevoegdheid worden verleend
-            die bij <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74">artikel 74, eerste
-            lid</intref>, aan de officier van justitie is toegekend.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al> De te stellen voorwaarde bestaat in de betaling van een
-            bepaalde geldsom. Bij of krachtens algemene maatregel van
-            bestuur worden voorschriften gegeven omtrent de plaats en
-            wijze van betaling en de termijn waarbinnen de betaling moet
-            zijn geschied.</al>
-    </lid>
-    <lid>
-        <lidnr>3</lidnr>
-        <al> Het eerste en het tweede lid zijn van overeenkomstige
-            toepassing op zaken betreffende misdrijven, als bedoeld in
-                <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74">artikel 74, eerste
-            lid</intref>, van eenvoudige aard, welke zijn begaan
-            door personen die de leeftijd van achttien jaren hebben
-            bereikt, met dien verstande dat de te betalen geldsom ten
-            hoogste &#x20AC; 350 bedraagt.</al>
-    </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>De ambtenaren bekleed met de bevoegdheid, bedoeld in het
-            eerste lid, maken hiervan gebruik volgens richtlijnen, vast
-            te stellen door het College van procureurs-generaal. </al>
-    </lid>
-    <lid>
-        <lidnr>5</lidnr>
-        <al> Bij of krachtens algemene maatregel van bestuur worden
-            voorschriften gegeven met betrekking tot de aanwijzing van
-            de in het eerste lid bedoelde opsporingsambtenaren, het
-            toezicht op de wijze waarop zij van de hun verleende
-            bevoegdheid gebruik maken en de intrekking van de aanwijzing
-            van een opsporingsambtenaar.</al>
-    </lid>
-    <lid>
-        <lidnr>6</lidnr>
-        <al> Bij of krachtens algemene maatregel van bestuur worden
-            voorschriften gegeven inzake de verantwoording van ingevolge
-            het tweede en derde lid betaalde geldbedragen.</al>
-    </lid>
-    <lid>
-        <lidnr>7</lidnr>
-        <al>Bij het stellen van voorwaarden door opsporingsambtenaren
-            zijn de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74">artikelen 74, derde
-            lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=74b">74b</intref> van
-            overeenkomstige toepassing.</al>
-    </lid>
-</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -5725,20 +5667,19 @@ geldende verjaringstermijn.</al>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>76</nr>
+        <nr status="officieel">76</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Het recht tot uitvoering van de straf of maatregel vervalt
             door verjaring.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> De termijn van deze verjaring is een derde langer dan de
-            termijn van verjaring van het recht tot strafvordering. In
-            geen geval is de termijn korter dan de duur van de opgelegde straf.</al>
+            termijn van verjaring van het recht tot strafvordering.</al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -5901,17 +5842,17 @@ opgelegd.</al></lid></artikel>
     <lid>
         <lidnr status="officieel">2</lidnr>
         <al>Het eerste lid is niet van toepassing op misdrijven
-            omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=242">242 tot en met
+            omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=247">247 tot en met
             250</intref> en
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=273f">273f</intref>, gepleegd door een persoon die ten
             tijde van het begaan van het strafbaar feit de leeftijd van
             zestien jaren heeft bereikt, ten aanzien van een persoon die de
 leeftijd van achttien jaren nog niet heeft
 bereikt.</al>
-    </lid><lid><lidnr status="officieel">3</lidnr><al>Het
-recht tot strafvordering voor misdrijven waarop levenslange
-gevangenisstraf is gesteld, verjaart in twintig
-jaren.</al></lid>
+    </lid><lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Het recht tot strafvordering voor misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld, en de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=245">245</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=246">246</intref> voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, verjaart in twintig jaren.</al>
+                     </lid>
 </artikel>
     <artikel status="goed">
     <kop>
@@ -9688,8 +9629,7 @@ verspreidt of anderszins ter beschikking stelt of voorhanden
 heeft.</al></li></lijst></lid><lid><lidnr status="officieel">3</lidnr><al>Met gevangenisstraf van ten hoogste vier
 jaren of geldboete van de vierde categorie wordt gestraft hij die het
 in het tweede lid bedoelde feit pleegt terwijl zijn oogmerk is gericht
-op een misdrijf als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138a">artikel 138a, tweede of derde
-lid</intref>.</al></lid></artikel>
+op een misdrijf als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=138ab">artikel 138ab, tweede of derde lid</intref>.</al></lid></artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -10581,19 +10521,19 @@ jaren of geldboete van de vierde categorie, indien het
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>164</nr>
+        <nr status="officieel">164</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij die opzettelijk gevaar veroorzaakt voor het verkeer door
-            mechanische kracht over een spoorweg, wordt gestraft met
+            mechanische kracht over een spoorweg of voor het luchtverkeer, wordt gestraft met
             gevangenisstraf van ten hoogste vijftien jaren of geldboete
             van de vijfde categorie.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Indien het feit iemands dood ten gevolge heeft, wordt de
             schuldige gestraft met levenslange gevangenisstraf of
             tijdelijke van ten hoogste dertig jaren of geldboete van de
@@ -10603,19 +10543,19 @@ jaren of geldboete van de vierde categorie, indien het
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>165</nr>
+        <nr status="officieel">165</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Hij aan wiens schuld te wijten is dat gevaar ontstaat voor
-            het verkeer door mechanische kracht over een spoorweg, wordt
+            het verkeer door mechanische kracht over een spoorweg of voor het luchtverkeer, wordt
             gestraft met gevangenisstraf van ten hoogste een
 jaar of geldboete van de vierde categorie.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Indien het feit iemands dood ten gevolge heeft, wordt de
             schuldige gestraft met gevangenisstraf van ten hoogste twee
 jaren of geldboete van de vierde categorie.</al>
@@ -11828,7 +11768,7 @@ Saba.</al>
         <nr status="officieel">197c</nr>
     </kop>
     <al>Hij die van het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=197b">artikel 197b</intref> omschreven feit een beroep of gewoonte maakt
-        wordt gestraft met een gevangenisstraf van ten hoogste drie
+        wordt gestraft met een gevangenisstraf van ten hoogste vier
         jaren of geldboete van de vijfde categorie.</al>
 </artikel>
     <artikel status="goed">
@@ -13889,7 +13829,7 @@ maakt.</al>
     </kop>
     <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">273f</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Als schuldig aan mensenhandel wordt met
-gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde
+gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde
 categorie
 gestraft:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
 <li.nr>1&#xB0;.</li.nr><al>degene die een ander door dwang, geweld of
@@ -13944,7 +13884,7 @@ ander in de prostitutie, andere vormen van seksuele uitbuiting,
 gedwongen of verplichte arbeid of diensten, slavernij en met slavernij
 of dienstbaarheid te vergelijken praktijken.</al></lid><lid>
 <lidnr status="officieel">3</lidnr><al>De schuldige wordt gestraft met gevangenisstraf
-van ten hoogste twaalf jaren of geldboete van de vijfde categorie,
+van ten hoogste vijftien jaren of geldboete van de vijfde categorie,
 indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
 <li.nr>1&#xB0;.</li.nr><al>de feiten, omschreven in het eerste lid,
 worden gepleegd door twee of meer verenigde personen;</al></li><li>
@@ -13953,10 +13893,10 @@ eerste lid omschreven feiten worden gepleegd, de leeftijd van zestien
 jaren nog niet heeft bereikt.</al></li></lijst></lid><lid> <lidnr status="officieel">4</lidnr><al>Indien een van de in
 het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge
 heeft of daarvan levensgevaar voor een ander te duchten is, wordt
-gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde
+gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde
 categorie opgelegd.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Indien een van
 de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt
-gevangenisstraf van ten hoogste achttien jaren of geldboete van de
+levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de
 vijfde categorie opgelegd.</al></lid><lid> <lidnr status="officieel">6</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=251">Artikel
 251</intref> is van overeenkomstige
 toepassing.</al></lid></artikel><artikel status="goed">
@@ -15434,8 +15374,7 @@ aannemen of vragen in strijd met de goede trouw verzwijgt tegenover
             gedaan of nagelaten dan wel zal doen of nalaten, een gift of
             belofte doet dan wel een dienst verleent of
 aanbiedt van die aard of onder zodanige omstandigheden,
-            dat hij redelijkerwijs moet aannemen dat deze de gift of
-            belofte in strijd met de goede trouw zal verzwijgen
+            dat hij redelijkerwijs moet aannemen dat deze de gift, belofte of dienst in strijd met de goede trouw zal verzwijgen
             tegenover zijn werkgever of lastgever.</al>
     </lid>
 </artikel>
@@ -18069,9 +18008,12 @@ luchtvaart</extref>,
             <al>hij die een vlieger oplaat of in de lucht heeft aan een
                 lijn die zich geheel of ten dele bevindt binnen een
                 afstand van vijfhonderd meter van een bovengrondse
-                elektrische hoogspanningsleiding.</al>
+                elektrische hoogspanningsleiding;</al>
         </li>
-    </lijst>
+    <li>
+                           <li.nr>6&#xB0;.</li.nr>
+                           <al>hij die zich zodanig gedraagt dat gevaar voor het luchtverkeer wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer in de lucht wordt gehinderd of kan worden gehinderd.</al>
+                        </li></lijst>
 </artikel>
 </titeldeel>
     <titeldeel>
