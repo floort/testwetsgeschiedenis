@@ -41,12 +41,12 @@
     <al>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</al>
               <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
                   <al>Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;</al>
-                </li><li><li.nr>b.</li.nr>
-                  <al>college: college, genoemd in <extref status="actief" doc="1.0:v:BWBR0008807&amp;artikel=2" compleet="nee">artikel 2 van de Wet Onafhankelijke post-
-en telecommunicatieautoriteit</extref>;</al>
-                </li><li><li.nr>c.</li.nr>
-                  <al>raad van bestuur van de mededingingsautoriteit: raad van bestuur van
-de Nederlandse mededingingsautoriteit als bedoeld in <extref status="actief" doc="1.0:v:BWBR0008691&amp;artikel=2" compleet="nee">artikel 2 van de Mededingingswet</extref>;</al>
+                </li><li>
+                              <li.nr>b.</li.nr>
+                              <al>
+                                 <nadruk type="cur">Autoriteit Consument en Markt:</nadruk> de Autoriteit Consument en Markt, genoemd in <extref status="actief" doc="1.0:v:BWBR0033043&amp;artikel=2" compleet="nee">artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt</extref>;</al>
+                           </li><li><li.nr>c.</li.nr>
+                  <al><redactie type="vervanging">vervallen;</redactie></al>
                 </li><li><li.nr>d.</li.nr>
                   <al>nationale regelgevende instantie: instantie in een andere lidstaat
 van de Europese Unie die krachtens het recht van die lidstaat is belast met
@@ -306,7 +306,7 @@ of vooruitbetaalde telefoonkaarten;</al>
                         </li>
                         <li>
                            <li.nr>ddd.</li.nr>
-                           <al>nummerhouder: degene aan wie het college op aanvraag een nummer heeft toegekend;</al>
+                           <al>nummerhouder: degene aan wie de Autoriteit Consument en Markt op aanvraag een nummer heeft toegekend;</al>
                         </li>
                         <li>
                            <li.nr>eee.</li.nr>
@@ -355,7 +355,7 @@ of vooruitbetaalde telefoonkaarten;</al>
               </kop>
               <lid>
                 <lidnr status="officieel">1</lidnr>
-                <al>Het college draagt er zorg voor dat zijn besluiten bijdragen aan het verwezenlijken
+                <al>De Autoriteit Consument en Markt draagt er zorg voor dat haar besluiten bijdragen aan het verwezenlijken
 van de doelstellingen als bedoeld in artikel 8, tweede tot en met vijfde lid,
 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> in elk geval door:</al>
                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
@@ -379,12 +379,12 @@ en kwaliteit.</al></li></lijst>
               </lid>
               <lid>
                 <lidnr status="officieel">2</lidnr>
-                <al>Het college houdt bij de uitoefening van zijn taken en bevoegdheden zoveel mogelijk rekening met aanbevelingen van de Europese Commissie als bedoeld in artikel 19, eerste lid, van richtlijn nr. 2002/21/EG, en met door BEREC gegeven adviezen en gemeenschappelijke standpunten, voor zover die aanbevelingen, adviezen en standpunten betrekking hebben op de bij of krachtens deze wet aan het college opgedragen taken of verleende bevoegdheden.</al>
+                <al>De Autoriteit Consument en Markt houdt bij de uitoefening van haar taken en bevoegdheden zoveel mogelijk rekening met aanbevelingen van de Europese Commissie als bedoeld in artikel 19, eerste lid, van richtlijn nr. 2002/21/EG, en met door BEREC gegeven adviezen en gemeenschappelijke standpunten, voor zover die aanbevelingen, adviezen en standpunten betrekking hebben op de bij of krachtens deze wet aan de Autoriteit Consument en Markt opgedragen taken of verleende bevoegdheden.</al>
               </lid>
               <lid>
                 <lidnr status="officieel">3</lidnr>
-                <al>Indien het college geen toepassing geeft aan een aanbeveling van de Europese Commissie als bedoeld
-in het tweede lid, informeert hij, onder vermelding van de redenen, de Commissie
+                <al>Indien de Autoriteit Consument en Markt geen toepassing geeft aan een aanbeveling van de Europese Commissie als bedoeld
+in het tweede lid, informeert zij, onder vermelding van de redenen, de Commissie
 van de Europese Gemeenschappen en Onze Minister.</al>
               </lid>
               
@@ -405,15 +405,15 @@ van de Europese Gemeenschappen en Onze Minister.</al>
                   <al>Degene die een openbaar elektronisch communicatienetwerk of een openbare
 elektronische communicatiedienst aanbiedt dan wel bijbehorende faciliteiten
 aanlegt of aanbiedt, met uitzondering van degene die een elektronische programmagids
-aanbiedt, doet daarvan mededeling aan het college.</al>
+aanbiedt, doet daarvan mededeling aan de Autoriteit Consument en Markt.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>Het college stelt vast welke gegevens bij de mededeling aan het college
+                  <al>De Autoriteit Consument en Markt stelt vast welke gegevens bij de mededeling aan de Autoriteit Consument en Markt
 worden overgelegd, alsmede de wijze waarop de mededeling wordt gedaan. Die
 gegevens betreffen in ieder geval de naam, het adres, de vestigingsplaats,
 respectievelijk de woonplaats en een beschrijving van de in het eerste lid
-bedoelde netwerken, diensten of faciliteiten. Het college doet hiervan mededeling
+bedoelde netwerken, diensten of faciliteiten. De Autoriteit Consument en Markt doet hiervan mededeling
 in de Staatscourant.</al>
                 </lid>
                 <lid>
@@ -426,13 +426,13 @@ lid.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">4</lidnr>
-                  <al>Het college registreert degene, bedoeld in het eerste lid, na ontvangst
+                  <al>De Autoriteit Consument en Markt registreert degene, bedoeld in het eerste lid, na ontvangst
 van de in dat lid bedoelde mededeling en de daarbij behorende gegevens.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">5</lidnr>
                   <al>Voor het aanbieden of afgeven van gekwalificeerde certificaten aan het
-publiek is een registratie door het college vereist van de certificatiedienstverlener
+publiek is een registratie door de Autoriteit Consument en Markt vereist van de certificatiedienstverlener
 die in Nederland een vestiging heeft. Bij de
 aanvraag van een registratie legt de certificatiedienstverlener
 over:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
@@ -447,7 +447,7 @@ en</al>
                            <li.nr>b.</li.nr>
                            <al>de gegevens
 waarvoor krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.4">artikel 2.4, vierde lid</intref>, bij ministeri&#xEB;le
-regeling is bepaald, dat die aan het college verstrekt dienen te
+regeling is bepaald, dat die aan de Autoriteit Consument en Markt verstrekt dienen te
 worden.</al>
                         </li>
                      </lijst>
@@ -462,8 +462,7 @@ het overleggen van een geldig bewijs van die vaststelling.</al>
                 </lid>
               <lid>
                         <lidnr status="officieel">7</lidnr>
-                        <al>Het
-college is bevoegd te bepalen welke andere gegevens bij de aanvraag van
+                        <al>De Autoriteit Consument en Markt is bevoegd te bepalen welke andere gegevens bij de aanvraag van
 een registratie dienen te worden
 overgelegd.</al>
                      </lid></artikel>
@@ -474,7 +473,7 @@ overgelegd.</al>
                 </kop>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
-                  <al>Het college gaat niet over tot registratie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1,
+                  <al>De Autoriteit Consument en Markt gaat niet over tot registratie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1,
 vierde lid</intref>, indien:</al>
                   <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
@@ -492,20 +491,20 @@ onvolledig, of niet juist zijn verstrekt.</al></li></lijst>
                 </lid>
                 <lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>Het college weigert een registratie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, vijfde
+                  <al>De Autoriteit Consument en Markt weigert een registratie als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, vijfde
 lid</intref>, indien de gevraagde registratie geen betrekking heeft op het aanbieden
 of afgeven van gekwalificeerde certificaten aan het publiek.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">3</lidnr>
-                  <al>Het college kan de registratie van een certificatiedienstverlener weigeren
+                  <al>De Autoriteit Consument en Markt kan de registratie van een certificatiedienstverlener weigeren
 indien de door hem op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel
 2.1, vijfde, zesde of zevende lid</intref>, te overleggen
 gegevens niet, onvolledig of niet juist zijn verstrekt.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">4</lidnr>
-                  <al>Het college be&#xEB;indigt of wijzigt de registratie:</al>
+                  <al>De Autoriteit Consument en Markt be&#xEB;indigt of wijzigt de registratie:</al>
                   <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
                 <li.nr>a.</li.nr>
@@ -518,18 +517,18 @@ gegevens niet, onvolledig of niet juist zijn verstrekt.</al>
 in strijd met het bepaalde bij of krachtens deze wet,</al></li><li>
                 <li.nr>c.</li.nr>
                 
-              <al>indien het college heeft vastgesteld dat de certificatiedienstverlener
+              <al>indien de Autoriteit Consument en Markt heeft vastgesteld dat de certificatiedienstverlener
 niet of niet geheel voldoet aan de eisen bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=18.15">artikel 18.15, eerste
-en tweede lid</intref>, en de certificatiedienstverlener niet binnen de door het college
+en tweede lid</intref>, en de certificatiedienstverlener niet binnen de door de Autoriteit Consument en Markt
 gestelde termijn heeft aangetoond aan deze eisen te voldoen. Indien de certificatiedienstverlener
 aantoont redelijkerwijs niet binnen de gestelde termijn aan de eisen te kunnen
-voldoen, kan het college de termijn verlengen; of</al></li><li>
+voldoen, kan de Autoriteit Consument en Markt de termijn verlengen; of</al></li><li>
                            <li.nr>d.</li.nr>
                            <al>indien
-het college heeft vastgesteld dat de certificatiedienstverlener de
+de Autoriteit Consument en Markt heeft vastgesteld dat de certificatiedienstverlener de
 gegevens, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, vijfde lid, onder b</intref>, of wijzigingen
 daarin niet, onvolledig of niet juist heeft verstrekt, en de
-certificatiedienstverlener niet binnen de door het college gestelde
+certificatiedienstverlener niet binnen de door de Autoriteit Consument en Markt gestelde
 termijn de volledige of juiste gegevens alsnog
 verstrekt.</al>
                         </li></lijst>
@@ -543,7 +542,7 @@ certificatiedienstverlener aantoont redelijkerwijs niet binnen de
 gestelde termijn, bedoeld in het vierde lid, onder c, aan de eisen,
 bedoeld in dat onderdeel, te kunnen voldoen, of binnen de gestelde
 termijn, bedoeld in het vierde lid, onder d, alsnog de juiste gegevens,
-bedoeld in dat onderdeel, te kunnen verstrekken, kan het college de
+bedoeld in dat onderdeel, te kunnen verstrekken, kan de Autoriteit Consument en Markt de
 termijn
 verlengen.</al>
                      </lid></artikel>
@@ -554,14 +553,14 @@ verlengen.</al>
                 </kop>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
-                  <al>In het belang van de goede uitvoering van deze wet wordt door het college
+                  <al>In het belang van de goede uitvoering van deze wet wordt door de Autoriteit Consument en Markt
 een register van de registraties bijgehouden. In het register worden in ieder
 geval de naam, het adres en de vestigingsplaats, respectievelijk de woonplaats
 van de geregistreerde vermeld.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>Het register ligt voor eenieder kosteloos ter inzage op een door het college
+                  <al>Het register ligt voor eenieder kosteloos ter inzage op een door de Autoriteit Consument en Markt
 te bepalen plaats. De gegevens uit het register zijn kosteloos op elektronische
 wijze te raadplegen.</al>
                 </lid>
@@ -574,7 +573,7 @@ over:</al>
                            <li>
                               <li.nr>a.</li.nr>
                               <al>de
-door het college in het register te vermelden gegevens anders dan die,
+door de Autoriteit Consument en Markt in het register te vermelden gegevens anders dan die,
 bedoeld in het eerste
 lid;</al>
                            </li>
@@ -592,25 +591,24 @@ register.</al>
 ministeri&#xEB;le regeling, bedoeld in het derde lid, nadere regels
 stelt over de in het register te vermelden gegevens, kan daarbij tevens
 worden bepaald welke van die gegevens door een
-certificatiedienstverlener aan het college verstrekt dienen te worden
+certificatiedienstverlener aan de Autoriteit Consument en Markt verstrekt dienen te worden
 tot opname in het register.</al>
                      </lid><lid>
                   <lidnr status="officieel">5</lidnr>
-                  <al>De geregistreerde geeft aan het college onverwijld alle wijzigingen door
+                  <al>De geregistreerde geeft aan de Autoriteit Consument en Markt onverwijld alle wijzigingen door
 die van
 invloed zijn op de registratie of op de in het register opgenomen
 gegevens die krachtens het vierde lid zijn verstrekt.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">6</lidnr>
-                  <al>Het college brengt het register in overeenstemming met de wijzigingen
-die voortvloeien uit <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.2">artikel 2.2, vierde lid</intref>, of met de wijzigingen die het
-college op grond van het vijfde lid heeft ontvangen.</al>
+                  <al>De Autoriteit Consument en Markt brengt het register in overeenstemming met de wijzigingen
+die voortvloeien uit <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.2">artikel 2.2, vierde lid</intref>, of met de wijzigingen die de Autoriteit Consument en Markt op grond van het vijfde lid heeft ontvangen.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">7</lidnr>
                   <al>Onverminderd het zesde
-lid, kan het college de gegevens met betrekking
+lid, kan de Autoriteit Consument en Markt de gegevens met betrekking
 tot de registratie wijzigen indien dit noodzakelijk is om feitelijke onjuistheden
 van eenvoudige aard weg te nemen.</al>
                 </lid>
@@ -622,10 +620,10 @@ van eenvoudige aard weg te nemen.</al>
                 </kop>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
-                  <al>Het college verstrekt zo spoedig mogelijk na de registratie, bedoeld in
+                  <al>De Autoriteit Consument en Markt verstrekt zo spoedig mogelijk na de registratie, bedoeld in
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, vierde lid</intref>, aan de desbetreffende geregistreerde een schriftelijke
 verklaring waaruit blijkt dat de mededeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, eerste
-lid</intref>, aan het college is gedaan. Bij de verklaring worden tevens vermeld de
+lid</intref>, aan de Autoriteit Consument en Markt is gedaan. Bij de verklaring worden tevens vermeld de
 geldende wettelijke bepalingen inzake het medegebruik van antenne-opstelpunten,
 antennesystemen of antennes, de gedoogplicht voor de aanleg, instandhouding
 en opruiming van kabels, eind- tot eindverbindingen, alsmede toegang met betrekking
@@ -633,7 +631,7 @@ tot aanbieders met aanmerkelijke marktmacht.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>Het college verstrekt de verklaring, bedoeld in het eerste lid, in afwijking
+                  <al>De Autoriteit Consument en Markt verstrekt de verklaring, bedoeld in het eerste lid, in afwijking
 van dat lid, binnen een week na ontvangst van een daartoe strekkend schriftelijk
 verzoek van een geregistreerde als bedoeld in het eerste lid.</al>
                 </lid>
@@ -643,7 +641,7 @@ verzoek van een geregistreerde als bedoeld in het eerste lid.</al>
                   <label>Artikel</label>
                   <nr status="officieel">2.5</nr>
                 </kop>
-                <al>Het college is verantwoordelijke in de zin van <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1, onderdeel d,
+                <al>De Autoriteit Consument en Markt is verantwoordelijke in de zin van <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1, onderdeel d,
 van de Wet bescherming persoonsgegevens</extref> voor de gegevensverzameling, bedoeld
 in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</intref> en voor het register, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel 2.3</intref>.</al>
               </artikel>
@@ -1512,7 +1510,7 @@ in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</
                            </lid>
                            <lid>
                               <lidnr status="officieel">5</lidnr>
-                              <al>Alvorens een besluit te nemen als bedoeld in het eerste lid, stelt Onze Minister indien de overdracht van de vergunning de daadwerkelijke mededinging op de markt in aanzienlijke mate zou kunnen beperken, het college in de gelegenheid hem advies uit te brengen over de overdracht, bedoeld in het eerste lid.</al>
+                              <al>Alvorens een besluit te nemen als bedoeld in het eerste lid, stelt Onze Minister indien de overdracht van de vergunning de daadwerkelijke mededinging op de markt in aanzienlijke mate zou kunnen beperken, de Autoriteit Consument en Markt in de gelegenheid hem advies uit te brengen over de overdracht, bedoeld in het eerste lid.</al>
                            </lid>
                            <lid>
                               <lidnr status="officieel">6</lidnr>
@@ -1655,7 +1653,7 @@ in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</
                            </kop>
                            <lid>
                               <lidnr status="officieel">1</lidnr>
-                              <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden met betrekking tot het bepaalde in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24</intref>. Hierbij kunnen aan het college taken worden opgedragen en bevoegdheden worden verleend.</al>
+                              <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden met betrekking tot het bepaalde in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24</intref>. Hierbij kunnen aan de Autoriteit Consument en Markt taken worden opgedragen en bevoegdheden worden verleend.</al>
                            </lid>
                            <lid>
                               <lidnr status="officieel">2</lidnr>
@@ -1694,7 +1692,7 @@ in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1</
     
     <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Onze Minister stelt, na overleg met het college, nummerplannen vast waarin in ieder geval de bestemming van de daarin opgenomen nummers wordt aangegeven. In een nummerplan kan voorts:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                        <al>Onze Minister stelt, na overleg met de Autoriteit Consument en Markt, nummerplannen vast waarin in ieder geval de bestemming van de daarin opgenomen nummers wordt aangegeven. In een nummerplan kan voorts:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
                               <al>worden bepaald dat eenzelfde nummer aan meerdere aanvragers kan worden toegekend;</al>
@@ -1749,7 +1747,7 @@ ondersteunen.</al>
               <lid>
                 <lidnr status="officieel">1</lidnr>
                 <al>Nummers die in een nummerplan of in een op grond van het vijfde lid vastgestelde
-aanwijzing zijn opgenomen kunnen op aanvraag door het college worden toegekend
+aanwijzing zijn opgenomen kunnen op aanvraag door de Autoriteit Consument en Markt worden toegekend
 aan:</al>
                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
@@ -1800,7 +1798,7 @@ toekenning voorschriften worden verbonden.</al>
               </lid>
               <lid>
                 <lidnr status="officieel">5</lidnr>
-                <al>Gedurende de voorbereiding van een nummerplan kan het college, in overeenstemming
+                <al>Gedurende de voorbereiding van een nummerplan kan de Autoriteit Consument en Markt, in overeenstemming
 met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende
 nummers, nummers toekennen gedurende een bij dat besluit vast te stellen termijn.
 Het verbod van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.1">artikel 4.1, vierde lid</intref>, is van overeenkomstige toepassing
@@ -1809,8 +1807,8 @@ op de door Onze Minister aangewezen nummers.</al>
               <lid>
                 <lidnr status="officieel">6</lidnr>
                 <al>Indien meer aanvragen met een gelijke voorkeur om toekenning van een bepaald
-nummer, dan wel bepaalde nummers op dezelfde dag bij het college ter behandeling
-zijn ingediend, besluit het college op die aanvragen door middel van het lot.
+nummer, dan wel bepaalde nummers op dezelfde dag bij de Autoriteit Consument en Markt ter behandeling
+zijn ingediend, besluit de Autoriteit Consument en Markt op die aanvragen door middel van het lot.
 Van deze procedure zijn uitgesloten nummers als bedoeld in het
 zevende lid en nummers als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2b">artikel
 4.2b</intref>.</al>
@@ -1824,8 +1822,7 @@ toe aan de Staat.</al>
               </lid>
               <lid>
                 <lidnr status="officieel">8</lidnr>
-                <al>In afwijking van het bepaalde in het zesde en het zevende lid kan het
-college:</al>
+                <al>In afwijking van het bepaalde in het zesde en het zevende lid kan de Autoriteit Consument en Markt:</al>
                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
                 <li.nr>a.</li.nr>
@@ -1837,8 +1834,7 @@ nummer aanvraagt, en</al></li>
                 <li.nr>b.</li.nr>
                 
               <al>in uitzonderlijke omstandigheden besluiten een nummer van uitzonderlijke
-economische waarde op de dag van aanvraag toe te kennen voor een door het
-college vast te stellen termijn die niet langer is dan drie maanden.</al></li></lijst>
+economische waarde op de dag van aanvraag toe te kennen voor een door de Autoriteit Consument en Markt vast te stellen termijn die niet langer is dan drie maanden.</al></li></lijst>
                 
               </lid>
               <lid>
@@ -1941,7 +1937,7 @@ nummer.</al></artikel><artikel status="goed">
             </li>
             <li>
                 <li.nr>c.</li.nr>
-                <al>het college
+                <al>de Autoriteit Consument en Markt
 eerder een aanvraag heeft geweigerd of een eerdere toekenning heeft
 opgeschort of ingetrokken op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.7">artikel 4.7, derde, vierde of
 vijfde
@@ -1968,7 +1964,7 @@ bestuur</extref>.</al></li></lijst></lid><lid> <lidnr status="officieel">4</lidn
 toepassing wordt gegeven aan het derde lid, onderdeel b, kan het Bureau
 bevordering integriteitsbeoordelingen door het openbaar bestuur,
 bedoeld in <extref status="actief" doc="1.0:v:BWBR0013798&amp;artikel=8" compleet="nee">artikel 8 van de Wet bevordering integriteitsbeoordelingen
-door het openbaar bestuur</extref>, door het college om een advies als bedoeld
+door het openbaar bestuur</extref>, door de Autoriteit Consument en Markt om een advies als bedoeld
 in <extref status="actief" doc="1.0:v:BWBR0013798&amp;artikel=9" compleet="nee">artikel 9 van die wet</extref> worden
 gevraagd.</al></lid></artikel>
     <artikel status="goed">
@@ -1978,7 +1974,7 @@ gevraagd.</al></lid></artikel>
     </kop>
     <lid><lidnr status="officieel">1</lidnr><al>Bij
 algemene maatregel van bestuur wordt bepaald welke gedragingen van een
-nummergebruiker voor het college aanleiding kunnen zijn
+nummergebruiker voor de Autoriteit Consument en Markt aanleiding kunnen zijn
 om:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
 <li.nr>a.</li.nr><al>de toekenning van een nummer te weigeren, op te
 schorten of in te trekken,</al></li><li> <li.nr>b.</li.nr><al>de
@@ -1999,8 +1995,7 @@ nummer.</al></lid>
         <nr status="officieel">4.5</nr>
     </kop>
     
-    <lid><lidnr status="officieel">1</lidnr><al>Het
-college kan op aanvraag van de nummerhouder een toekenning wijzigen of
+    <lid><lidnr status="officieel">1</lidnr><al>De Autoriteit Consument en Markt kan op aanvraag van de nummerhouder een toekenning wijzigen of
 intrekken.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Op een aanvraag tot
 wijziging is <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.3">artikel 4.3</intref> van overeenkomstige
 toepassing.</al></lid>
@@ -2010,7 +2005,7 @@ toepassing.</al></lid>
         <label>Artikel</label>
         <nr status="officieel">4.6</nr>
     </kop>
-    <al>Het college kan op gezamenlijke aanvraag van de desbetreffende
+    <al>De Autoriteit Consument en Markt kan op gezamenlijke aanvraag van de desbetreffende
 nummerhouder en een derde toestaan dat de toekenning overgaat op de
 derde. <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">Artikel 4.2, vierde
         lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.3">artikel 4.3</intref> zijn
@@ -2023,7 +2018,7 @@ derde. <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2">Artikel 4
     </kop>
     
     <lid> <lidnr status="officieel">1</lidnr><al>Een
-toekenning wordt door het college gewijzigd of ingetrokken,
+toekenning wordt door de Autoriteit Consument en Markt gewijzigd of ingetrokken,
 indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
 <li.nr>a.</li.nr><al>een wijziging van het desbetreffende nummerplan
 daartoe noodzaakt, voor zover de nummerhouder aanspraak behoudt op
@@ -2033,18 +2028,18 @@ economisch belang dit
 vordert.</al></li></lijst></lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
-        <al>Een toekenning wordt voorts door het college
+        <al>Een toekenning wordt voorts door de Autoriteit Consument en Markt
             gewijzigd indien dit noodzakelijk is om feitelijke
             onjuistheden van eenvoudige aard weg te nemen. </al>
     </lid>
     <lid>
         <lidnr status="officieel">3</lidnr>
-        <al>Een toekenning wordt voorts door het college
+        <al>Een toekenning wordt voorts door de Autoriteit Consument en Markt
             ingetrokken op aanwijzing van Onze Minister in het belang
             van de veiligheid van de staat. </al>
     </lid>
     <lid> <lidnr status="officieel">4</lidnr><al>Een toekenning
-kan door het college worden opgeschort voor een door het college te
+kan door de Autoriteit Consument en Markt worden opgeschort voor een door de Autoriteit Consument en Markt te
 bepalen termijn of worden ingetrokken,
 indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
 <li.nr>a.</li.nr><al>de nummerhouder of de nummergebruiker de bij of krachtens deze wet met betrekking tot nummers gestelde regels of de aan het toekenningsbesluit
@@ -2057,12 +2052,12 @@ toekenning van dat
 nummer.</al></li></lijst></lid>
     <lid> <lidnr status="officieel">5</lidnr><al>Met betrekking
 tot bij ministeri&#xEB;le regeling aangewezen categorie&#xEB;n van
-nummers kan een toekenning door het college worden opgeschort voor een
-door het college te bepalen termijn die niet langer duurt dan twee
-weken, indien het college een aanwijzing heeft dat de nummergebruiker
+nummers kan een toekenning door de Autoriteit Consument en Markt worden opgeschort voor een
+door de Autoriteit Consument en Markt te bepalen termijn die niet langer duurt dan twee
+weken, indien de Autoriteit Consument en Markt een aanwijzing heeft dat de nummergebruiker
 de bij of krachtens deze wet met betrekking tot nummers gestelde regels niet nakomt of de aan het
 toekenningsbesluit verbonden voorschriften of een gedraging als bedoeld
-in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref> verricht. Het college kan de in de vorige volzin
+in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref> verricht. De Autoriteit Consument en Markt kan de in de vorige volzin
 genoemde periode eenmalig met maximaal twee weken
 verlengen.</al></lid>
 </artikel>
@@ -2075,18 +2070,18 @@ verlengen.</al></lid>
     <lid>
         <lidnr status="officieel">1</lidnr>
         <al>In het belang van de goede uitvoering van de bij of
-            krachtens de wet aan het college opgedragen taken en
-            toegekende bevoegdheden wordt door het college een
+            krachtens de wet aan de Autoriteit Consument en Markt opgedragen taken en
+            toegekende bevoegdheden wordt door de Autoriteit Consument en Markt een
             nummerregister bijgehouden dat een overzicht bevat van
             toekenningen. Het register bevat de
             vermelding van de naam, het adres en de vestigingsplaats, respectievelijk de woonplaats van degene aan wie nummers zijn
             toegekend. Tevens wordt de duur van de toekenning  vermeld.
-            Het college is verantwoordelijke in de zin van
+            De Autoriteit Consument en Markt is verantwoordelijke in de zin van
                 <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=1" compleet="nee">artikel 1, onderdeel d, van de
                 Wet bescherming persoonsgegevens</extref> voor
             het register.</al>
     </lid>
-    <lid><lidnr status="officieel">2</lidnr><al> Onverminderd het derde lid ligt het register voor eenieder kosteloos ter inzage op een door het college te bepalen plaats.
+    <lid><lidnr status="officieel">2</lidnr><al> Onverminderd het derde lid ligt het register voor eenieder kosteloos ter inzage op een door de Autoriteit Consument en Markt te bepalen plaats.
 </al></lid><lid>
         <lidnr status="officieel">3</lidnr>
         <al>Op verzoek van de
@@ -2210,7 +2205,7 @@ overeenkomst; </al>
     </lid>
     <lid>
         <lidnr status="officieel">4</lidnr>
-        <al>Het college kan categorie&#xEB;n van nummers aanwijzen waarvoor
+        <al>De Autoriteit Consument en Markt kan categorie&#xEB;n van nummers aanwijzen waarvoor
             geldt dat, in het geval een nummer uit die categorie na een
             overgang op grond van het derde lid niet langer in gebruik
             is, de toekenning van het nummer teruggaat naar de aanbieder
@@ -2218,25 +2213,24 @@ overeenkomst; </al>
     </lid>
     <lid>
         <lidnr status="officieel">5</lidnr>
-        <al>Een aanbieder die een nummer behorende tot een door het
-            college op grond van het vierde lid aangewezen categorie
+        <al>Een aanbieder die een nummer behorende tot een door de Autoriteit Consument en Markt op grond van het vierde lid aangewezen categorie
             niet heeft toegekend gekregen op grond van een aanvraag
             doet, indien hij het nummer niet langer in gebruik heeft,
-            hiervan mededeling aan het college. Na ontvangst van de in
-            de vorige zin bedoelde mededeling stelt het college de
+            hiervan mededeling aan de Autoriteit Consument en Markt. Na ontvangst van de in
+            de vorige zin bedoelde mededeling stelt de Autoriteit Consument en Markt de
             aanbieder naar wie de toekenning van het nummer op grond van
             het vierde lid is teruggegaan hiervan op de hoogte. </al>
     </lid>
     <lid>
         <lidnr status="officieel">6</lidnr>
-        <al>De in het derde lid bedoelde aanbieders stellen het college
-            binnen een door het college te bepalen termijn en op een
-            door het college te bepalen wijze op de hoogte van de
-            toekenningen van nummers die in een door het college te
+        <al>De in het derde lid bedoelde aanbieders stellen de Autoriteit Consument en Markt
+            binnen een door de Autoriteit Consument en Markt te bepalen termijn en op een
+            door de Autoriteit Consument en Markt te bepalen wijze op de hoogte van de
+            toekenningen van nummers die in een door de Autoriteit Consument en Markt te
             bepalen periode op grond van het derde lid van hen op andere
             aanbieders zijn overgegaan, alsmede van de toekenningen van
             nummers die op grond van het derde lid van andere aanbieders
-            op hen zijn overgegaan. Het college maakt de door hem
+            op hen zijn overgegaan. De Autoriteit Consument en Markt maakt de door haar
             bepaalde termijn, wijze en periode, bedoeld in de eerste
             volzin, bekend in de Staatscourant. </al>
     </lid>
@@ -2387,9 +2381,9 @@ gelegen dan drie weken na verzending van de tweede kennisgeving, en de
 wijze van de uit te voeren werkzaamheden wordt gegeven.</al></lid><lid>
 <lidnr status="officieel">3</lidnr><al>Indien degene op wie de gedoogplicht rust tegen
 deze tweede kennisgeving bedenkingen heeft, kan hij binnen twee weken
-na ontvangst daarvan het college verzoeken een beschikking te geven
+na ontvangst daarvan de Autoriteit Consument en Markt verzoeken een beschikking te geven
 over de plaats, het tijdstip en de wijze van de uit te voeren
-werkzaamheden.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>Het college geeft
+werkzaamheden.</al></lid><lid> <lidnr status="officieel">4</lidnr><al>De Autoriteit Consument en Markt geeft
 de beschikking binnen acht weken na ontvangst van het
 verzoek.</al></lid><lid> <lidnr status="officieel">5</lidnr><al>Het verzoek schorst het
 recht op uitvoering van de werkzaamheden.</al></lid><lid>
@@ -2593,8 +2587,8 @@ van kabels betreft voor zover mogelijk een voorstel voor de plaats waar
 de kabels kunnen worden aangelegd.</al></lid><lid>
 <lidnr status="officieel">7</lidnr><al>Bij gebrek aan overeenstemming over de vraag wie
 de kosten van de te nemen maatregelen dient te dragen, kan degene op
-wie de gedoogplicht rust dan wel de aanbieder het college verzoeken een
-beschikking te geven.</al></lid><lid> <lidnr status="officieel">8</lidnr><al>Het college
+wie de gedoogplicht rust dan wel de aanbieder de Autoriteit Consument en Markt verzoeken een
+beschikking te geven.</al></lid><lid> <lidnr status="officieel">8</lidnr><al>De Autoriteit Consument en Markt
 geeft de beschikking binnen zeventien weken na ontvangst van het
 verzoek.</al></lid>
 </artikel><artikel status="goed">
@@ -2779,13 +2773,13 @@ behalen.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">3</lidnr>
-                  <al>Het college kan op aanvraag van een aanbieder van openbare elektronische
+                  <al>De Autoriteit Consument en Markt kan op aanvraag van een aanbieder van openbare elektronische
 communicatienetwerken of openbare elektronische communicatiediensten die van
 mening is dat een andere aanbieder jegens hem de verplichting tot onderhandelen
 niet nakomt, voorschriften geven met betrekking tot de wijze waarop de onderhandelingen
 gevoerd moeten worden, onverminderd het recht van aanbieders gezamenlijk de
 onderhandelingen te be&#xEB;indigen. De betrokken aanbieders houden zich bij
-hun onderhandelingen aan de door het college gegeven voorschriften.</al>
+hun onderhandelingen aan de door de Autoriteit Consument en Markt gegeven voorschriften.</al>
                 </lid>
               </artikel>
               <artikel status="goed">
@@ -2796,19 +2790,19 @@ hun onderhandelingen aan de door het college gegeven voorschriften.</al>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
                   <al>Indien de onderhandelingen, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.1">artikel 6.1</intref>, niet resulteren in
-een overeenkomst tussen de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.1">dat artikel</intref> bedoelde aanbieders, kan het college
-op aanvraag van een van hen, voor zover naar het oordeel van het college verdere
+een overeenkomst tussen de in dat artikel bedoelde aanbieders, kan de Autoriteit Consument en Markt
+op aanvraag van een van hen, voor zover naar het oordeel van de Autoriteit Consument en Markt verdere
 onderhandelingen redelijkerwijs niet meer zullen leiden tot een overeenkomst,
 de andere betrokken aanbieder, voor zover deze daarbij de toegang tot eindgebruikers
 controleert, verplichten de door de aanvrager gewenste eind- tot eindverbindingen
-tot stand te brengen en te waarborgen onder door het college te bepalen voorwaarden,
-indien het college van oordeel is dat de belangen van de andere aanbieder
+tot stand te brengen en te waarborgen onder door de Autoriteit Consument en Markt te bepalen voorwaarden,
+indien de Autoriteit Consument en Markt van oordeel is dat de belangen van de andere aanbieder
 die ertoe geleid hebben dat er geen overeenkomst tot stand is gekomen redelijkerwijs
 niet opwegen tegen de belangen van de indiener van het verzoek.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>Het college kan voorts ambtshalve, al dan niet in het kader van een aanvraag
+                  <al>De Autoriteit Consument en Markt kan voorts ambtshalve, al dan niet in het kader van een aanvraag
 als bedoeld in het eerste lid, aanbieders van openbare elektronische communicatienetwerken
 of openbare elektronische communicatiediensten, die daarbij de toegang tot
 eindgebruikers controleren, verplichtingen opleggen met betrekking tot het
@@ -2864,7 +2858,7 @@ proportioneel en niet-discriminerend.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">3</lidnr>
-                        <al>De regels, bedoeld in het tweede lid, kunnen voor bij die regels te bepalen categorie&#xEB;n van aanbieders, als bedoeld in het eerste lid, verschillen. Bij die regels kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college.</al>
+                        <al>De regels, bedoeld in het tweede lid, kunnen voor bij die regels te bepalen categorie&#xEB;n van aanbieders, als bedoeld in het eerste lid, verschillen. Bij die regels kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt.</al>
                      </lid></artikel>
 <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">6.6</nr></kop>
 <al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.1">Artikel 6.1, tweede lid</intref>, is van overeenkomstige toepassing op
@@ -2883,28 +2877,28 @@ communicatienetwerken.</al></artikel></hoofdstuk>
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Het college bepaalt in overeenstemming met de beginselen van het algemene
+                    <al>De Autoriteit Consument en Markt bepaalt in overeenstemming met de beginselen van het algemene
 Europese mededingingsrecht de relevante markten in de elektronische communicatiesector
 waarvan de product- of dienstenmarkt overeenkomt met een in een aanbeveling
 als bedoeld in artikel 15, eerste lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> vermelde
-product- of dienstenmarkt. Het college bepaalt in elk geval zo spoedig mogelijk
+product- of dienstenmarkt. De Autoriteit Consument en Markt bepaalt in elk geval zo spoedig mogelijk
 nadat een aanbeveling als bedoeld in de eerste volzin in werking is getreden,
 de in die volzin bedoelde relevante markten.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
-                    <al>Het college bepaalt in overeenstemming met de beginselen van het algemene
+                    <al>De Autoriteit Consument en Markt bepaalt in overeenstemming met de beginselen van het algemene
 Europese mededingingsrecht andere dan de in het eerste lid bedoelde relevante
-markten in de elektronische communicatiesector indien hier naar zijn oordeel
+markten in de elektronische communicatiesector indien hier naar haar oordeel
 aanleiding toe is, of indien dit voortvloeit uit <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.4">artikel 6a.4</intref>.</al>
                   </lid>
                   <lid>
                         <lidnr status="officieel">3</lidnr>
-                        <al>Het college onderzoekt de overeenkomstig het eerste en tweede lid, bepaalde relevante markten zo spoedig mogelijk, doch voor markten waarvoor nog niet eerder een kennisgeving bij de Europese Commissie is gedaan uiterlijk binnen twee jaar, nadat een aanbeveling als bedoeld in artikel 15, eerste lid, van richtlijn nr. 2002/21/EG in werking is getreden. De termijn van twee jaar kan door het college worden verlengd met zes maanden indien het college met bijstand van BEREC de relevante markten onderzoekt.</al>
+                        <al>De Autoriteit Consument en Markt onderzoekt de overeenkomstig het eerste en tweede lid, bepaalde relevante markten zo spoedig mogelijk, doch voor markten waarvoor nog niet eerder een kennisgeving bij de Europese Commissie is gedaan uiterlijk binnen twee jaar, nadat een aanbeveling als bedoeld in artikel 15, eerste lid, van richtlijn nr. 2002/21/EG in werking is getreden. De termijn van twee jaar kan door de Autoriteit Consument en Markt worden verlengd met zes maanden indien de Autoriteit Consument en Markt met bijstand van BEREC de relevante markten onderzoekt.</al>
                      </lid>
                   <lid>
                     <lidnr status="officieel">4</lidnr>
-                    <al>Het college onderzoekt een transnationale markt zo spoedig mogelijk nadat
+                    <al>De Autoriteit Consument en Markt onderzoekt een transnationale markt zo spoedig mogelijk nadat
 een beschikking van de Commissie van de Europese Gemeenschappen
 die hieraan ten grondslag ligt in werking is getreden en vervolgens op gezette
 tijden.</al>
@@ -2931,11 +2925,11 @@ die beschikken over een aanmerkelijke marktmacht.</al></li></lijst>
                   </lid>
                   <lid>
                         <lidnr status="officieel">6</lidnr>
-                        <al>Nadat het onderzoek als bedoeld in het derde of vierde lid is afgerond, geeft het college zo spoedig mogelijk uitvoering aan de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>, doch voor relevante markten waarvoor nog niet eerder een kennisgeving bij de Europese Commissie is gedaan uiterlijk binnen de in het derde lid, bedoelde termijn van twee jaar. De termijn van twee jaar kan door het college worden verlengd met zes maanden indien het college met bijstand van BEREC de relevante markten onderzoekt.</al>
+                        <al>Nadat het onderzoek als bedoeld in het derde of vierde lid is afgerond, geeft de Autoriteit Consument en Markt zo spoedig mogelijk uitvoering aan de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>, doch voor relevante markten waarvoor nog niet eerder een kennisgeving bij de Europese Commissie is gedaan uiterlijk binnen de in het derde lid, bedoelde termijn van twee jaar. De termijn van twee jaar kan door de Autoriteit Consument en Markt worden verlengd met zes maanden indien de Autoriteit Consument en Markt met bijstand van BEREC de relevante markten onderzoekt.</al>
                      </lid>
                   <lid>
                     <lidnr status="officieel">7</lidnr>
-                    <al>Het college houdt bij de uitoefening van zijn taken en bevoegdheden op
+                    <al>De Autoriteit Consument en Markt houdt bij de uitoefening van haar taken en bevoegdheden op
 grond van dit hoofdstuk rekening met door de Commissie van de Europese Gemeenschappen
 krachtens artikel 15, tweede lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> vastgestelde
 richtsnoeren.</al>
@@ -2943,12 +2937,11 @@ richtsnoeren.</al>
                   <lid>
                     <lidnr status="officieel">8</lidnr>
                     <al>Bij het beoordelen of twee of meer ondernemingen tezamen beschikken over
-een economische kracht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1">artikel 1.1, onderdeel s</intref>, hanteert het
-college in elk geval de criteria bedoeld in bijlage II van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>.</al>
+een economische kracht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=1.1">artikel 1.1, onderdeel s</intref>, hanteert de Autoriteit Consument en Markt in elk geval de criteria bedoeld in bijlage II van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">9</lidnr>
-                    <al>Het college oefent bij transnationale markten zijn taken en bevoegdheden
+                    <al>De Autoriteit Consument en Markt oefent bij transnationale markten haar taken en bevoegdheden
 op grond van dit hoofdstuk uit in samenspraak met de betrokken nationale regelgevende
 instanties.</al>
                   </lid>
@@ -2962,7 +2955,7 @@ instanties.</al>
                     <lidnr status="officieel">1</lidnr>
                     <al>Indien uit een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde of vierde
 lid</intref>, blijkt dat een relevante markt onderscheidenlijk een transnationale markt
-niet daadwerkelijk concurrerend is, stelt het college vast welke ondernemingen
+niet daadwerkelijk concurrerend is, stelt de Autoriteit Consument en Markt vast welke ondernemingen
 die openbare elektronische communicatienetwerken, bijbehorende faciliteiten
 of openbare elektronische communicatiediensten aanbieden, beschikken over
 een aanmerkelijke marktmacht, en:</al>
@@ -2970,17 +2963,17 @@ een aanmerkelijke marktmacht, en:</al>
               <li>
                 <li.nr>a.</li.nr>
                 
-              <al>legt hij ieder van hen, voor zover passend, verplichtingen als bedoeld
+              <al>legt zij ieder van hen, voor zover passend, verplichtingen als bedoeld
 in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">6a.12 tot en met 6a.15</intref> op;</al></li>
             <li>
                 <li.nr>b.</li.nr>
                 
-              <al>houdt hij eerder opgelegde of in stand gehouden verplichtingen, voor
+              <al>houdt zij eerder opgelegde of in stand gehouden verplichtingen, voor
 zover zij betrekking hebben op deze markt, in stand indien zij nog steeds
 passend zijn, of</al></li><li>
                 <li.nr>c.</li.nr>
                 
-              <al>trekt hij eerder opgelegde of in stand gehouden verplichtingen, voor
+              <al>trekt zij eerder opgelegde of in stand gehouden verplichtingen, voor
 zover zij betrekking hebben op deze markt, in indien zij niet langer passend
 zijn.</al></li></lijst>
                     
@@ -2988,7 +2981,7 @@ zijn.</al></li></lijst>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
-                    <al>Het college legt op grond van het eerste lid, onderdeel a:</al>
+                    <al>De Autoriteit Consument en Markt legt op grond van het eerste lid, onderdeel a:</al>
                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
                 <li.nr>a.</li.nr>
@@ -3016,7 +3009,7 @@ en gerechtvaardigd is.</al>
                     <lidnr status="officieel">4</lidnr>
                     <al>Bij de beoordeling of het opleggen van een verplichting om te voldoen
 aan redelijke verzoeken tot toegang als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikel 6a.6</intref> passend
-is, houdt het college met name rekening met de factoren, bedoeld in artikel
+is, houdt de Autoriteit Consument en Markt met name rekening met de factoren, bedoeld in artikel
 12, tweede lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref>.</al>
                   </lid>
                 </artikel>
@@ -3029,7 +3022,7 @@ is, houdt het college met name rekening met de factoren, bedoeld in artikel
                     <lidnr status="officieel">1</lidnr>
                     <al>Indien uit een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde of vierde
 lid</intref>, blijkt dat een relevante markt onderscheidenlijk een transnationale markt
-daadwerkelijk concurrerend is, bepaalt het college dit en trekt hij eerder
+daadwerkelijk concurrerend is, bepaalt de Autoriteit Consument en Markt dit en trekt zij eerder
 krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, opgelegde of in stand gehouden verplichtingen,
 voor zover zij betrekking hebben op die markt, in.</al>
                   </lid>
@@ -3039,19 +3032,19 @@ voor zover zij betrekking hebben op die markt, in.</al>
 lid</intref>, blijkt dat een onderneming op een niet daadwerkelijk concurrerende relevante
 markt onderscheidenlijk transnationale markt moet voldoen aan eerder krachtens
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, opgelegde of in stand gehouden verplichtingen, trekt
-het college deze verplichtingen, voor zover zij betrekking hebben op die markt,
+de Autoriteit Consument en Markt deze verplichtingen, voor zover zij betrekking hebben op die markt,
 in, indien de onderneming op die relevante markt onderscheidenlijk transnationale
 markt niet beschikt over een aanmerkelijke marktmacht.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">3</lidnr>
-                    <al>Indien uit een onderzoek als bedoeld in artikel 6a.1, derde of vierde
-lid, blijkt dat een relevante markt onderscheidenlijk transnationale markt
-niet daadwerkelijk concurrerend is en de verplichtingen, bedoeld in de artikelen
-6a.6 tot en met 6a.11, toereikend zijn om daadwerkelijke concurrentie te verwezenlijken
-of de belangen van eindgebruikers te beschermen, trekt het college eerder
-krachtens artikel 6a.2, eerste lid, opgelegde of in stand gehouden verplichtingen
-als bedoeld in de artikelen 6a.12 tot en met 6a.15, voor zover zij betrekking
+                    <al>Indien uit een onderzoek als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, derde of vierde
+lid</intref>, blijkt dat een relevante markt onderscheidenlijk transnationale markt
+niet daadwerkelijk concurrerend is en de verplichtingen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen
+6a.6 tot en met 6a.11</intref>, toereikend zijn om daadwerkelijke concurrentie te verwezenlijken
+of de belangen van eindgebruikers te beschermen, trekt de Autoriteit Consument en Markt eerder
+krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, opgelegde of in stand gehouden verplichtingen
+als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12 tot en met 6a.15</intref>, voor zover zij betrekking
 hebben op die markt, in.</al>
                   </lid>
                 </artikel>
@@ -3063,7 +3056,7 @@ hebben op die markt, in.</al>
                   <lid><lidnr status="officieel">1</lidnr><al>Uiterlijk binnen drie jaar nadat een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2,
 eerste lid</intref>, inzake het opleggen of in stand houden van verplichtingen met
 betrekking tot een onderneming die beschikt over een aanmerkelijke macht op
-een relevante markt in werking is getreden, besluit het college op grond van:</al>
+een relevante markt in werking is getreden, besluit de Autoriteit Consument en Markt op grond van:</al>
                   <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
                       <al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid, onderdeel b</intref>, om deze verplichtingen in stand
 te houden, of</al>
@@ -3073,7 +3066,7 @@ in te trekken.</al>
                     </li></lijst>
                 </lid><lid>
                         <lidnr status="officieel">2</lidnr>
-                        <al>De termijn van drie jaar, bedoeld in het eerste lid, kan in uitzonderlijke gevallen door het college worden verlengd met ten hoogste drie jaar indien het college daartoe bij de Europese Commissie een gemotiveerd verzoek heeft ingediend en de Europese Commissie niet binnen een maand na ontvangst van dat verzoek bezwaar heeft gemaakt tegen de verlenging. Voorts wordt deze termijn verlengd met zes maanden indien het college met bijstand van BEREC de relevante markten en de verplichtingen, bedoeld in het eerste lid, onderzoekt.</al>
+                        <al>De termijn van drie jaar, bedoeld in het eerste lid, kan in uitzonderlijke gevallen door de Autoriteit Consument en Markt worden verlengd met ten hoogste drie jaar indien de Autoriteit Consument en Markt daartoe bij de Europese Commissie een gemotiveerd verzoek heeft ingediend en de Europese Commissie niet binnen een maand na ontvangst van dat verzoek bezwaar heeft gemaakt tegen de verlenging. Voorts wordt deze termijn verlengd met zes maanden indien de Autoriteit Consument en Markt met bijstand van BEREC de relevante markten en de verplichtingen, bedoeld in het eerste lid, onderzoekt.</al>
                      </lid></artikel>
                 <artikel status="goed">
                      <kop>
@@ -3082,11 +3075,11 @@ in te trekken.</al>
                      </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Indien naar het oordeel van het college na het opleggen van een verplichting als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref>, voor zover deze passend zijn, die verplichtingen ontoereikend zijn gebleken om daadwerkelijke en duurzame op infrastructuur gegronde concurrentie te verwezenlijken op een relevante markt onderscheidenlijk een transnationale markt, kan het college die onderneming de verplichting opleggen om de activiteiten die verband houden met het aanbieden van door het college te bepalen vormen van toegang in een zelfstandig opererende bedrijfseenheid te plaatsen en deze activiteiten te leveren aan alle ondernemingen onder dezelfde voorwaarden en prijzen en door middel van dezelfde systemen en processen.</al>
+                        <al>Indien naar het oordeel van de Autoriteit Consument en Markt na het opleggen van een verplichting als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref>, voor zover deze passend zijn, die verplichtingen ontoereikend zijn gebleken om daadwerkelijke en duurzame op infrastructuur gegronde concurrentie te verwezenlijken op een relevante markt onderscheidenlijk een transnationale markt, kan de Autoriteit Consument en Markt die onderneming de verplichting opleggen om de activiteiten die verband houden met het aanbieden van door de Autoriteit Consument en Markt te bepalen vormen van toegang in een zelfstandig opererende bedrijfseenheid te plaatsen en deze activiteiten te leveren aan alle ondernemingen onder dezelfde voorwaarden en prijzen en door middel van dezelfde systemen en processen.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
-                        <al>Het college gaat in het besluit, bedoeld in het eerste lid, in ieder geval in op de volgende elementen:</al>
+                        <al>De Autoriteit Consument en Markt gaat in het besluit, bedoeld in het eerste lid, in ieder geval in op de volgende elementen:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
@@ -3120,11 +3113,11 @@ in te trekken.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">3</lidnr>
-                        <al>Het college kan in het besluit, bedoeld in het eerste lid, verplichtingen opleggen ten aanzien van de elementen, bedoeld in het tweede lid, voor zover dat nodig is om te waarborgen dat de zelfstandige bedrijfseenheid de activiteiten die verband houden met het aanbieden van door het college te bepalen vormen van toegang aan alle ondernemingen onder dezelfde voorwaarden en prijzen levert.</al>
+                        <al>De Autoriteit Consument en Markt kan in het besluit, bedoeld in het eerste lid, verplichtingen opleggen ten aanzien van de elementen, bedoeld in het tweede lid, voor zover dat nodig is om te waarborgen dat de zelfstandige bedrijfseenheid de activiteiten die verband houden met het aanbieden van door de Autoriteit Consument en Markt te bepalen vormen van toegang aan alle ondernemingen onder dezelfde voorwaarden en prijzen levert.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">4</lidnr>
-                        <al>Het college legt het ontwerp van het besluit, bedoeld in het eerste lid, en de gronden die aan het ontwerpbesluit ten grondslag liggen voor aan de Europese Commissie, en voegt het volgende bij:</al>
+                        <al>De Autoriteit Consument en Markt legt het ontwerp van het besluit, bedoeld in het eerste lid, en de gronden die aan het ontwerpbesluit ten grondslag liggen voor aan de Europese Commissie, en voegt het volgende bij:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
@@ -3136,7 +3129,7 @@ in te trekken.</al>
                            </li>
                            <li>
                               <li.nr>c.</li.nr>
-                              <al>een analyse van de verwachte impact van het ontwerpbesluit op het college, de onderneming, de werknemers van de onderneming, de elektronische communicatiesector als geheel en de stimuli om in deze sector als een geheel te investeren, de sociale en territoriale cohesie, en op andere belanghebbenden alsmede de verwachte impact op de mededinging op het gebied van infrastructuur en gevolgen voor de consument, en</al>
+                              <al>een analyse van de verwachte impact van het ontwerpbesluit op de Autoriteit Consument en Markt, de onderneming, de werknemers van de onderneming, de elektronische communicatiesector als geheel en de stimuli om in deze sector als een geheel te investeren, de sociale en territoriale cohesie, en op andere belanghebbenden alsmede de verwachte impact op de mededinging op het gebied van infrastructuur en gevolgen voor de consument, en</al>
                            </li>
                            <li>
                               <li.nr>d.</li.nr>
@@ -3146,7 +3139,7 @@ in te trekken.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">5</lidnr>
-                        <al>Het college kan de verplichting tot functionele scheiding pas opleggen nadat de Europese Commissie ten aanzien van het ontwerpbesluit, bedoeld in het eerste lid, een besluit heeft genomen dat het college toestaat een verplichting tot functionele scheiding op te leggen. Het college stelt in dit besluit tevens vast of ingevolge de in het eerste lid bedoelde verplichting op de betrokken relevante markt tevens verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref>, op grond van:</al>
+                        <al>De Autoriteit Consument en Markt kan de verplichting tot functionele scheiding pas opleggen nadat de Europese Commissie ten aanzien van het ontwerpbesluit, bedoeld in het eerste lid, een besluit heeft genomen dat de Autoriteit Consument en Markt toestaat een verplichting tot functionele scheiding op te leggen. De Autoriteit Consument en Markt stelt in dit besluit tevens vast of ingevolge de in het eerste lid bedoelde verplichting op de betrokken relevante markt tevens verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref>, op grond van:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
@@ -3164,7 +3157,7 @@ in te trekken.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">6</lidnr>
-                        <al>Het college stelt voorts vast of ingevolge het in het eerste lid bedoelde besluit tevens op aan het toegangsnetwerk verbonden markten verplichtingen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">6a.12 tot en met 6a.15</intref>, op grond van:</al>
+                        <al>De Autoriteit Consument en Markt stelt voorts vast of ingevolge het in het eerste lid bedoelde besluit tevens op aan het toegangsnetwerk verbonden markten verplichtingen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">6a.12 tot en met 6a.15</intref>, op grond van:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
@@ -3188,7 +3181,7 @@ in te trekken.</al>
                      </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Een onderneming waarvan het college overeenkomstig <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, heeft vastgesteld dat die beschikt over een aanmerkelijke marktmacht, informeert het college over de beslissing van het bestuur van de onderneming om de activiteiten die verband houden met het aanbieden van vormen van toegang op groothandelsniveau:</al>
+                        <al>Een onderneming waarvan de Autoriteit Consument en Markt overeenkomstig <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, heeft vastgesteld dat die beschikt over een aanmerkelijke marktmacht, informeert de Autoriteit Consument en Markt over de beslissing van het bestuur van de onderneming om de activiteiten die verband houden met het aanbieden van vormen van toegang op groothandelsniveau:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
@@ -3199,11 +3192,11 @@ in te trekken.</al>
                               <al>voor een belangrijk deel in een zelfstandig opererende bedrijfseenheid te plaatsen, teneinde aan alle ondernemingen gelijkwaardige vormen van toegang aan te bieden onder dezelfde voorwaarden en prijzen.</al>
                            </li>
                         </lijst>
-                        <al>Hierbij overlegt de onderneming de beslissing van het bestuur, alsmede alle informatie die het college nodig heeft voor het besluit, bedoeld in het tweede lid.</al>
+                        <al>Hierbij overlegt de onderneming de beslissing van het bestuur, alsmede alle informatie die de Autoriteit Consument en Markt nodig heeft voor het besluit, bedoeld in het tweede lid.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
-                        <al>Zo spoedig mogelijk, doch uiterlijk binnen twee jaar na ontvangst van een beslissing van het bestuur als bedoeld in het eerste lid, stelt het college in een ontwerpbesluit vast of de verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">6a.12 tot en met 6a.15</intref> op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van:</al>
+                        <al>Zo spoedig mogelijk, doch uiterlijk binnen twee jaar na ontvangst van een beslissing van het bestuur als bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt in een ontwerpbesluit vast of de verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">6a.12 tot en met 6a.15</intref> op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
@@ -3215,17 +3208,17 @@ in te trekken.</al>
                            </li>
                            <li>
                               <li.nr>c.</li.nr>
-                              <al><intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">de artikelen 6a.2, eerste lid, onderdeel c</intref>, of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>, ingetrokken worden.</al>
+                              <al>de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste lid, onderdeel c</intref>, of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>, ingetrokken worden.</al>
                            </li>
                         </lijst>
                      </lid>
                      <lid>
                         <lidnr status="officieel">3</lidnr>
-                        <al>De onderneming die het college heeft ge&#xEF;nformeerd over een beslissing, bedoeld in het eerste lid, informeert het college tevens zo spoedig mogelijk over wijzigingen van die beslissing en over het tijdstip waarop de beslissing is uitgevoerd. Voorts verstrekt de onderneming desgevraagd alle informatie die het college nodig heeft voor het nemen van het besluit, bedoeld in het tweede lid.</al>
+                        <al>De onderneming die de Autoriteit Consument en Markt heeft ge&#xEF;nformeerd over een beslissing, bedoeld in het eerste lid, informeert de Autoriteit Consument en Markt tevens zo spoedig mogelijk over wijzigingen van die beslissing en over het tijdstip waarop de beslissing is uitgevoerd. Voorts verstrekt de onderneming desgevraagd alle informatie die de Autoriteit Consument en Markt nodig heeft voor het nemen van het besluit, bedoeld in het tweede lid.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">4</lidnr>
-                        <al>Zo spoedig mogelijk, doch uiterlijk binnen vier weken na vaststelling van het ontwerpbesluit als bedoeld in het tweede lid, beslist het college of de verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">6a.12 tot en met 6a.15</intref> op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van:</al>
+                        <al>Zo spoedig mogelijk, doch uiterlijk binnen vier weken na vaststelling van het ontwerpbesluit als bedoeld in het tweede lid, beslist de Autoriteit Consument en Markt of de verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref> of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">6a.12 tot en met 6a.15</intref> op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
@@ -3243,7 +3236,7 @@ in te trekken.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">5</lidnr>
-                        <al>Indien de onderneming voor het einde van de in het vierde lid genoemde termijn geen uitvoering heeft gegeven aan de beslissing van het bestuur als bedoeld in het eerste lid, stelt het college het besluit als bedoeld in het vierde lid eerst vast uiterlijk binnen vier weken nadat de onderneming uitvoering heeft gegeven aan die beslissing van het bestuur.</al>
+                        <al>Indien de onderneming voor het einde van de in het vierde lid genoemde termijn geen uitvoering heeft gegeven aan de beslissing van het bestuur als bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt het besluit als bedoeld in het vierde lid eerst vast uiterlijk binnen vier weken nadat de onderneming uitvoering heeft gegeven aan die beslissing van het bestuur.</al>
                      </lid>
                   </artikel><artikel status="goed">
                   <kop>
@@ -3251,7 +3244,7 @@ in te trekken.</al>
                     <nr status="officieel">6a.5</nr>
                   </kop>
                   <al>Van een besluit als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikelen 6a.2, eerste lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.4a">6a.4a, eerste lid</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.4b">6a.4b, vierde lid</intref>
-wordt door het college mededeling gedaan in de Staatscourant. Van gegevens
+wordt door de Autoriteit Consument en Markt mededeling gedaan in de Staatscourant. Van gegevens
 als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid
 van bestuur</extref> wordt geen mededeling gedaan.</al>
                 </artikel></paragraaf><paragraaf><kop>
@@ -3265,9 +3258,9 @@ van bestuur</extref> wordt geen mededeling gedaan.</al>
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
-opleggen om te voldoen aan redelijke verzoeken tot door het college te bepalen
-vormen van toegang, onder andere indien het college van oordeel is dat het
+                    <al>De Autoriteit Consument en Markt kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
+opleggen om te voldoen aan redelijke verzoeken tot door de Autoriteit Consument en Markt te bepalen
+vormen van toegang, onder andere indien de Autoriteit Consument en Markt van oordeel is dat het
 weigeren van toegang of het stellen van onredelijke voorwaarden met eenzelfde
 effect, de ontwikkeling van een door duurzame concurrentie gekenmerkte eindgebruikersmarkt
 zou belemmeren of niet in het belang van de eindgebruiker zou zijn.</al>
@@ -3334,13 +3327,13 @@ of netwerkfaciliteiten;</al></li>
                   </lid>
                   <lid>
                     <lidnr status="officieel">3</lidnr>
-                    <al>Het college kan aan de verplichting, bedoeld in het eerste lid, voorschriften
+                    <al>De Autoriteit Consument en Markt kan aan de verplichting, bedoeld in het eerste lid, voorschriften
 verbinden betreffende billijkheid, redelijkheid en opportuniteit.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">4</lidnr>
                     <al>Indien dit nodig is om de normale werking van het betrokken openbare elektronische
-communicatienetwerk te garanderen, kan het college technische of operationele
+communicatienetwerk te garanderen, kan de Autoriteit Consument en Markt technische of operationele
 voorschriften vaststellen die:</al>
                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
@@ -3363,7 +3356,7 @@ als bedoeld in het vierde lid.</al>
                   <lid>
                     <lidnr status="officieel">6</lidnr>
                     <al>Voor zover dat op grond van de notificatierichtlijn noodzakelijk is, stelt
-het college de voorschriften niet vast dan nadat de voorschriften aan de Commissie
+de Autoriteit Consument en Markt de voorschriften niet vast dan nadat de voorschriften aan de Commissie
 van de Europese Gemeenschappen in ontwerp zijn medegedeeld en de van toepassing
 zijnde termijnen, bedoeld in artikel 9 van de notificatierichtlijn, zijn verstreken.</al>
                   </lid>
@@ -3381,30 +3374,29 @@ stroken deze met de normen, bedoeld in artikel 17, eerste of tweede lid, van
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, voor door het college
+                    <al>De Autoriteit Consument en Markt kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, voor door de Autoriteit Consument en Markt
 te bepalen vormen van toegang een verplichting opleggen betreffende het beheersen
 van de hiervoor te rekenen tarieven of kostentoerekening indien uit een marktanalyse
 blijkt dat de betrokken exploitant de prijzen door het ontbreken van werkelijke
 concurrentie op een buitensporig hoog peil kan handhaven of de marges kan
 uithollen, in beide gevallen ten nadele van de eindgebruikers. Aan de verplichting
-kunnen door het college voorschriften worden verbonden die nodig zijn voor
+kunnen door de Autoriteit Consument en Markt voorschriften worden verbonden die nodig zijn voor
 een goede uitvoering van de verplichting.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
                     <al>Een verplichting als bedoeld in het eerste lid kan inhouden dat voor toegang
-een kostengeori&#xEB;nteerd tarief moet worden gerekend of dat een door het
-college te bepalen of goed te keuren kostentoerekeningssysteem moet worden
+een kostengeori&#xEB;nteerd tarief moet worden gerekend of dat een door de Autoriteit Consument en Markt te bepalen of goed te keuren kostentoerekeningssysteem moet worden
 gehanteerd.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">3</lidnr>
-                    <al>Indien het college een onderneming heeft verplicht om voor toegang een kostengeori&#xEB;nteerd tarief te rekenen, toont de onderneming
+                    <al>Indien de Autoriteit Consument en Markt een onderneming heeft verplicht om voor toegang een kostengeori&#xEB;nteerd tarief te rekenen, toont de onderneming
 aan dat haar tarieven werkelijk kostengeori&#xEB;nteerd zijn.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">4</lidnr>
-                    <al>Onverminderd het eerste lid, tweede volzin, kan het college aan een verplichting
+                    <al>Onverminderd het eerste lid, tweede volzin, kan de Autoriteit Consument en Markt aan een verplichting
 tot het opstellen van een kostentoerekeningssysteem voorschriften verbinden
 met betrekking tot het overleggen van de resultaten van de toepassing van
 het systeem door de onderneming waarop de verplichting rust.</al>
@@ -3417,14 +3409,13 @@ is opgelegd:</al>
               <li>
                 <li.nr>a.</li.nr>
                 
-              <al>maakt de desbetreffende onderneming, met inachtneming van de door het
-college gegeven voorschriften, op genoegzame wijze bekend een beschrijving
+              <al>maakt de desbetreffende onderneming, met inachtneming van de door de Autoriteit Consument en Markt gegeven voorschriften, op genoegzame wijze bekend een beschrijving
 van het systeem die ten minste de hoofdcategorie&#xEB;n bevat waarin de kosten
 worden ingedeeld en de voor de toerekening van de kosten toegepaste regels;</al></li>
             <li>
                 <li.nr>b.</li.nr>
                 
-              <al>onderzoekt het college dan wel een door het college aan te wijzen onafhankelijke
+              <al>onderzoekt de Autoriteit Consument en Markt dan wel een door de Autoriteit Consument en Markt aan te wijzen onafhankelijke
 deskundige derde jaarlijks of er in overeenstemming met het systeem is gehandeld.</al></li></lijst>
                     
                   </lid>
@@ -3439,7 +3430,7 @@ b, wordt mededeling gedaan in de Staatscourant.</al>
                     <label>Artikel</label>
                     <nr status="officieel">6a.8</nr>
                   </kop>
-                  <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, voor door het college
+                  <al>De Autoriteit Consument en Markt kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, voor door de Autoriteit Consument en Markt
 te bepalen vormen van toegang de verplichting opleggen om deze toegang onder
 gelijke omstandigheden onder gelijke voorwaarden te verlenen. Deze verplichting
 houdt tevens in dat de onderneming gelijke voorwaarden toepast als die welke
@@ -3453,9 +3444,8 @@ of haar partnerondernemingen.</al>
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Het college kan op grond <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting opleggen
-om door het college nader te bepalen informatie met betrekking tot door het
-college te bepalen vormen van toegang bekend te maken. Deze informatie kan
+                    <al>De Autoriteit Consument en Markt kan op grond <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting opleggen
+om door de Autoriteit Consument en Markt nader te bepalen informatie met betrekking tot door de Autoriteit Consument en Markt te bepalen vormen van toegang bekend te maken. Deze informatie kan
 onder meer betrekking hebben op:</al>
                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
@@ -3471,9 +3461,9 @@ gehanteerd;</al></li>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
-                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
+                    <al>De Autoriteit Consument en Markt kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
 opleggen om een referentieaanbod bekend te maken waarin een omschrijving is
-opgenomen van door het college te bepalen vormen van toegang. Het referentieaanbod
+opgenomen van door de Autoriteit Consument en Markt te bepalen vormen van toegang. Het referentieaanbod
 is opgesplitst naar de onderscheiden vormen van toegang en de daarbij gehanteerde
 tarieven en andere voorwaarden.</al>
                   </lid>
@@ -3487,13 +3477,13 @@ van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 
                   </lid>
                   <lid>
                     <lidnr status="officieel">4</lidnr>
-                    <al>Indien het college van oordeel is dat het referentieaanbod niet in overeenstemming
+                    <al>Indien de Autoriteit Consument en Markt van oordeel is dat het referentieaanbod niet in overeenstemming
 is met de op grond van dit hoofdstuk opgelegde verplichtingen, geeft het de
 onderneming aanwijzingen met betrekking tot de aan te brengen wijzigingen.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">5</lidnr>
-                    <al>Aan een verplichting als bedoeld in het eerste en tweede lid kan het college
+                    <al>Aan een verplichting als bedoeld in het eerste en tweede lid kan de Autoriteit Consument en Markt
 voorschriften verbinden met betrekking tot de mate van detaillering en de
 wijze van bekendmaking.</al>
                   </lid>
@@ -3505,17 +3495,17 @@ wijze van bekendmaking.</al>
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
+                    <al>De Autoriteit Consument en Markt kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
 opleggen om een gescheiden boekhouding te voeren waarin de opbrengsten en
-de kosten van de door het college te bepalen vormen van toegang, aan de onderneming
+de kosten van de door de Autoriteit Consument en Markt te bepalen vormen van toegang, aan de onderneming
 zelf of aan andere ondernemingen, gescheiden zijn van die van de door de ondernemingen
 verrichte overige activiteiten.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
                     <al>Aan de verplichting tot het voeren van een gescheiden boekhouding kan
-het college voorschriften verbinden met betrekking tot de methode van inrichting
-van de boekhouding en het aan het college verstrekken van boekhoudkundige
+de Autoriteit Consument en Markt voorschriften verbinden met betrekking tot de methode van inrichting
+van de boekhouding en het aan de Autoriteit Consument en Markt verstrekken van boekhoudkundige
 documenten met inbegrip van gegevens over van derden ontvangen inkomsten.</al>
                   </lid>
                 </artikel>
@@ -3526,8 +3516,8 @@ documenten met inbegrip van gegevens over van derden ontvangen inkomsten.</al>
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>In uitzonderlijke omstandigheden kan het college aan een onderneming waarvan
-door het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, is vastgesteld dat
+                    <al>In uitzonderlijke omstandigheden kan de Autoriteit Consument en Markt aan een onderneming waarvan
+door de Autoriteit Consument en Markt op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, is vastgesteld dat
 zij beschikt over een aanmerkelijke marktmacht bij de aanbieding van openbare
 elektronische communicatienetwerken of bijbehorende faciliteiten, andere bij
 ministeri&#xEB;le regeling aan te wijzen verplichtingen die verband houden
@@ -3536,7 +3526,7 @@ met toegang opleggen, voor zover deze passend zijn.</al>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
                     <al>Bij de ministeri&#xEB;le regeling, bedoeld in het eerste lid, kunnen regels
-worden gesteld met betrekking tot het opleggen door het college van bij die
+worden gesteld met betrekking tot het opleggen door de Autoriteit Consument en Markt van bij die
 regeling aangewezen verplichtingen. Deze regels hebben in elk geval betrekking
 op:</al>
                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
@@ -3553,7 +3543,7 @@ kunnen worden opgelegd, en</al></li>
                   </lid>
                   <lid>
                     <lidnr status="officieel">3</lidnr>
-                    <al>Het college trekt een besluit als bedoeld in het eerste lid in, indien:</al>
+                    <al>De Autoriteit Consument en Markt trekt een besluit als bedoeld in het eerste lid in, indien:</al>
                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
                 <li.nr>a.</li.nr>
@@ -3570,7 +3560,7 @@ bedoeld in het eerste lid geen aanmerkelijke marktmacht meer heeft.</al></li></l
                   </lid>
                   <lid>
                     <lidnr status="officieel">4</lidnr>
-                    <al>Het college trekt een besluit als bedoeld in het eerste lid tevens in,
+                    <al>De Autoriteit Consument en Markt trekt een besluit als bedoeld in het eerste lid tevens in,
 indien:</al>
                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
@@ -3587,9 +3577,9 @@ is.</al></li></lijst>
                   <lid>
                     <lidnr status="officieel">5</lidnr>
                     <al>Uiterlijk binnen achttien maanden nadat een besluit als bedoeld in het
-eerste lid in werking is getreden, onderzoekt het college of er nog sprake
+eerste lid in werking is getreden, onderzoekt de Autoriteit Consument en Markt of er nog sprake
 is van uitzonderlijke omstandigheden en of de opgelegde of in stand gehouden
-verplichting nog passend is en besluit het college op grond van:</al>
+verplichting nog passend is en besluit de Autoriteit Consument en Markt op grond van:</al>
                     <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
                 <li.nr>a.</li.nr>
@@ -3610,17 +3600,17 @@ toepassing.</al></lid></artikel></paragraaf><paragraaf><kop><label>&#xA7;</label
                     <label>Artikel</label>
                     <nr status="officieel">6a.12</nr>
                   </kop>
-                  <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
+                  <al>De Autoriteit Consument en Markt kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de verplichting
 opleggen om:</al>
                   <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
-                      <al>bij de levering van door het college te bepalen eindgebruikersdiensten,
+                      <al>bij de levering van door de Autoriteit Consument en Markt te bepalen eindgebruikersdiensten,
 de eindgebruikers van die diensten in gelijke gevallen gelijk te behandelen;</al>
                     </li><li><li.nr>b.</li.nr>
-                      <al>door het college te bepalen eindgebruikersdiensten te ontbundelen van
+                      <al>door de Autoriteit Consument en Markt te bepalen eindgebruikersdiensten te ontbundelen van
 andere diensten, en</al>
                     </li><li><li.nr>c.</li.nr>
-                      <al>door het college te bepalen informatie aan door het college te bepalen
-categorie&#xEB;n van eindgebruikers op een door het college te bepalen wijze
+                      <al>door de Autoriteit Consument en Markt te bepalen informatie aan door de Autoriteit Consument en Markt te bepalen
+categorie&#xEB;n van eindgebruikers op een door de Autoriteit Consument en Markt te bepalen wijze
 bekend te maken.</al>
                     </li></lijst>
                 </artikel>
@@ -3631,29 +3621,29 @@ bekend te maken.</al>
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, verplichtingen
+                    <al>De Autoriteit Consument en Markt kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, verplichtingen
 met betrekking tot de hoogte van eindgebruikerstarieven opleggen.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
-                    <al>Indien het college een verplichting als bedoeld in het eerste lid oplegt,
-legt het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, tevens de verplichting
-op om een door het college te bepalen of goed te keuren kostentoerekeningssysteem
-te hanteren. Het college kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de in
+                    <al>Indien de Autoriteit Consument en Markt een verplichting als bedoeld in het eerste lid oplegt,
+legt de Autoriteit Consument en Markt op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, tevens de verplichting
+op om een door de Autoriteit Consument en Markt te bepalen of goed te keuren kostentoerekeningssysteem
+te hanteren. De Autoriteit Consument en Markt kan op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, de in
 de vorige volzin bedoelde verplichting ook afzonderlijk van een verplichting
 als bedoeld in het eerste lid opleggen.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">3</lidnr>
                     <al>Een onderneming aan wie een verplichting als bedoeld in het tweede lid
-is opgelegd, legt vanaf een door het college te bepalen datum elk jaar in
+is opgelegd, legt vanaf een door de Autoriteit Consument en Markt te bepalen datum elk jaar in
 de maand mei, over het voorafgaande kalenderjaar het resultaat van de toepassing
-van het desbetreffende kostentoerekeningssysteem over aan het college.</al>
+van het desbetreffende kostentoerekeningssysteem over aan de Autoriteit Consument en Markt.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">4</lidnr>
                     <al>Indien een verplichting als bedoeld in het tweede lid is opgelegd, onderzoekt
-het college of een door het college aan te wijzen onafhankelijke deskundige
+de Autoriteit Consument en Markt of een door de Autoriteit Consument en Markt aan te wijzen onafhankelijke deskundige
 derde jaarlijks nadat het in het derde lid bedoelde resultaat is overgelegd
 of er in overeenstemming met het desbetreffende kostentoerekeningssysteem
 is gehandeld. Van het resultaat van het onderzoek wordt mededeling gedaan
@@ -3662,7 +3652,7 @@ in de Staatscourant.</al>
                   <lid>
                     <lidnr status="officieel">5</lidnr>
                     <al>Aan de verplichtingen, bedoeld in het eerste en tweede lid, kunnen door
-het college nadere voorschriften worden verbonden die nodig zijn voor een
+de Autoriteit Consument en Markt nadere voorschriften worden verbonden die nodig zijn voor een
 goede uitvoering van die verplichtingen.</al>
                   </lid>
                 </artikel>
@@ -3673,15 +3663,14 @@ goede uitvoering van die verplichtingen.</al>
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Indien het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, een verplichting
-als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel 6a.13, eerste lid</intref>, oplegt of in stand houdt, kan het
-college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, tevens de verplichting opleggen
+                    <al>Indien de Autoriteit Consument en Markt op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, een verplichting
+als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel 6a.13, eerste lid</intref>, oplegt of in stand houdt, kan de Autoriteit Consument en Markt op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, tevens de verplichting opleggen
 om invoering van nieuwe of gewijzigde eindgebruikerstarieven niet plaats te
-laten vinden dan nadat het college deze tarieven heeft goedgekeurd.</al>
+laten vinden dan nadat de Autoriteit Consument en Markt deze tarieven heeft goedgekeurd.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
-                    <al>Het college beoordeelt binnen drie weken na ontvangst van een verzoek
+                    <al>De Autoriteit Consument en Markt beoordeelt binnen drie weken na ontvangst van een verzoek
 tot goedkeuring, of het nieuwe of gewijzigde eindgebruikerstarief in overeenstemming
 is met de opgelegde of in stand gehouden verplichting, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel
 6a.13, eerste lid</intref>. Indien gegevens als bedoeld in het zevende lid ontbreken
@@ -3690,30 +3679,30 @@ ontvangst van het verzoek, hiervan op de hoogte gesteld.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">3</lidnr>
-                    <al>Het college kan de termijn, bedoeld in het tweede lid, eerste volzin,
-eenmaal met drie weken verlengen. Het college doet hiervan schriftelijk mededeling
+                    <al>De Autoriteit Consument en Markt kan de termijn, bedoeld in het tweede lid, eerste volzin,
+eenmaal met drie weken verlengen. De Autoriteit Consument en Markt doet hiervan schriftelijk mededeling
 aan de onderneming die het verzoek heeft ingediend.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">4</lidnr>
-                    <al>Indien het college van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief
+                    <al>Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief
 in overeenstemming is met de opgelegde of in stand gehouden verplichting,
-bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel 6a.13, eerste lid</intref>, keurt het college de invoering hiervan
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel 6a.13, eerste lid</intref>, keurt de Autoriteit Consument en Markt de invoering hiervan
 goed.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">5</lidnr>
-                    <al>Indien het college van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief
+                    <al>Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde eindgebruikerstarief
 niet in overeenstemming is met de opgelegde of in stand gehouden verplichting,
-bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel 6a.13, eerste lid</intref>, doet het college hiervan mededeling
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">artikel 6a.13, eerste lid</intref>, doet de Autoriteit Consument en Markt hiervan mededeling
 aan de onderneming die het verzoek heeft ingediend. Binnen vier weken na deze
-mededeling, deelt het college aan de in de eerste volzin bedoelde onderneming
+mededeling, deelt de Autoriteit Consument en Markt aan de in de eerste volzin bedoelde onderneming
 schriftelijk mede op welke punten niet voldaan is aan de in de eerste volzin
 bedoelde verplichting.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">6</lidnr>
-                    <al>Het college beoordeelt een verzoek tot goedkeuring volgend op een schriftelijke mededeling als bedoeld in het vijfde lid, tweede volzin,
+                    <al>De Autoriteit Consument en Markt beoordeelt een verzoek tot goedkeuring volgend op een schriftelijke mededeling als bedoeld in het vijfde lid, tweede volzin,
 binnen twee weken na ontvangst van dit verzoek.</al>
                   </lid>
                   <lid>
@@ -3721,10 +3710,10 @@ binnen twee weken na ontvangst van dit verzoek.</al>
                     <al>Uiterlijk op het tijdstip waarop een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2,
 eerste lid</intref>, houdende de oplegging of instandhouding van de verplichting om
 de invoering van nieuwe of gewijzigde eindgebruikerstarieven niet plaats te
-laten vinden dan nadat het college deze tarieven heeft goedgekeurd, in werking
-treedt, stelt het college vast welke gegevens door de desbetreffende onderneming
+laten vinden dan nadat de Autoriteit Consument en Markt deze tarieven heeft goedgekeurd, in werking
+treedt, stelt de Autoriteit Consument en Markt vast welke gegevens door de desbetreffende onderneming
 bij een verzoek als bedoeld in het tweede lid overgelegd moeten worden, en
-in welke vorm deze gegevens worden ingediend. Het college doet hiervan mededeling
+in welke vorm deze gegevens worden ingediend. De Autoriteit Consument en Markt doet hiervan mededeling
 aan de desbetreffende onderneming.</al>
                   </lid>
                 </artikel>
@@ -3735,7 +3724,7 @@ aan de desbetreffende onderneming.</al>
                   </kop>
                   <al>Ter uitvoering van artikel 17 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref> kunnen bij
 algemene maatregel van bestuur andere verplichtingen dan de verplichtingen,
-bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12 tot en met 6a.14</intref> worden aangewezen die het college
+bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12 tot en met 6a.14</intref> worden aangewezen die de Autoriteit Consument en Markt
 op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, kan opleggen aan ondernemingen die
 een aanmerkelijke marktmacht hebben op een relevante eindgebruikersmarkt onderscheidenlijk
 een transnationale eindgebruikersmarkt.</al>
@@ -3793,18 +3782,18 @@ gelden voor haarzelf of haar dochterondernemingen.</al>
                     <al>De verplichting, bedoeld in het derde lid, blijft voor een verticaal ge&#xEF;ntegreerde
 openbare onderneming buiten toepassing voor zover deze verplichting reeds
 voortvloeit uit een krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid</intref>, jo. <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.8">artikel 6a.8</intref> door
-het college opgelegde of instandgehouden verplichting.</al>
+de Autoriteit Consument en Markt opgelegde of instandgehouden verplichting.</al>
                   </lid>
                 </artikel></paragraaf><paragraaf><kop><label>&#xA7;</label><nr status="officieel">6a.7</nr><titel status="officieel">Verplichtingen
 voor aanbieders van programmadiensten die beschikken over een
 aanmerkelijke marktmacht</titel></kop><artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">6a.21</nr></kop>
-<lid><lidnr status="officieel">1</lidnr><al>Het college bepaalt in overeenstemming met de
+<lid><lidnr status="officieel">1</lidnr><al>De Autoriteit Consument en Markt bepaalt in overeenstemming met de
 beginselen van het algemene Europese mededingingsrecht relevante
 markten voor het aanbieden van programmadiensten waarvan de kenmerken
 zodanig zijn dat het opleggen van de in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">6a.13, eerste en tweede
 lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.14">6a.14, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.22">6a.22</intref> bedoelde verplichtingen passend kan
-zijn.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>Het college onderzoekt de
+zijn.</al></lid><lid> <lidnr status="officieel">2</lidnr><al>De Autoriteit Consument en Markt onderzoekt de
 overeenkomstig het eerste lid bedoelde markten zo spoedig mogelijk. Het
 onderzoek is er in ieder geval op gericht om vast te
 stellen:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
@@ -3817,17 +3806,17 @@ lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.14">
 passend zijn voor de onder a bedoelde
 ondernemingen.</al></li></lijst></lid><lid> <lidnr status="officieel">3</lidnr><al>Indien
 uit een onderzoek, bedoeld in tweede lid, blijkt dat een relevante
-markt niet daadwerkelijk concurrerend is, stelt het college vast welke
+markt niet daadwerkelijk concurrerend is, stelt de Autoriteit Consument en Markt vast welke
 ondernemingen die programmadiensten aanbieden, beschikken over een
 aanmerkelijke marktmacht,
 en:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
-<li.nr>a.</li.nr><al>legt hij ieder van hen, voor zover passend,
+<li.nr>a.</li.nr><al>legt zij ieder van hen, voor zover passend,
 verplichtingen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.13">6a.13, eerste en tweede
 lid</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.14">6a.14, eerste lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.22">6a.22</intref>
-op;</al></li><li> <li.nr>b.</li.nr><al>houdt hij eerder opgelegde
+op;</al></li><li> <li.nr>b.</li.nr><al>houdt zij eerder opgelegde
 verplichtingen, voor zover zij betrekking hebben op deze markt, in
 stand indien zij nog steeds passend zijn, of</al></li><li>
-<li.nr>c.</li.nr><al>trekt hij eerder opgelegde verplichtingen, voor
+<li.nr>c.</li.nr><al>trekt zij eerder opgelegde verplichtingen, voor
 zover zij betrekking hebben op deze markt, in, indien zij niet langer
 passend zijn.</al></li></lijst></lid><lid> <lidnr status="officieel">4</lidnr><al>Voor de
 toepassing van dit artikel wordt onder &#xAB;eindgebruiker&#xBB;,
@@ -3845,17 +3834,17 @@ toepassing.</al></lid></artikel><artikel status="goed">
                      </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Het college kan aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.21">artikel 6a.21, derde lid</intref>, mede verplichtingen in verband met toegang opleggen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref>.</al>
+                        <al>De Autoriteit Consument en Markt kan aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.21">artikel 6a.21, derde lid</intref>, mede verplichtingen in verband met toegang opleggen als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikelen 6a.6 tot en met 6a.10</intref>.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
-                        <al>Het college legt aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.21">artikel 6a.21, derde lid</intref>, de verplichting op om op groothandelsniveau programmadiensten en bijbehorende faciliteiten aan te bieden voor de wederverkoop aan eindgebruikers tegen een door het college vastgesteld tarief, tenzij de geringe omvang van het omroepnetwerk of de geringe potenti&#xEB;le vraag naar wederverkoop zulks niet rechtvaardigt.</al>
+                        <al>De Autoriteit Consument en Markt legt aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.21">artikel 6a.21, derde lid</intref>, de verplichting op om op groothandelsniveau programmadiensten en bijbehorende faciliteiten aan te bieden voor de wederverkoop aan eindgebruikers tegen een door de Autoriteit Consument en Markt vastgesteld tarief, tenzij de geringe omvang van het omroepnetwerk of de geringe potenti&#xEB;le vraag naar wederverkoop zulks niet rechtvaardigt.</al>
                      </lid>
                   </artikel><artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">6a.22</nr></kop> <al>Bij
 algemene maatregel van bestuur kunnen andere verplichtingen dan de
 verplichtingen, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.12">artikelen 6a.12 tot en met 6a.14</intref>, worden
-aangewezen die het college op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.21">artikel 6a.21, derde lid</intref>, kan
+aangewezen die de Autoriteit Consument en Markt op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.21">artikel 6a.21, derde lid</intref>, kan
 opleggen aan ondernemingen die een aanmerkelijke marktmacht hebben bij
 het aanbieden van
 programmadiensten.</al></artikel></paragraaf></hoofdstuk><hoofdstuk><kop><label>Hoofdstuk</label><nr>6b</nr><titel>Consultatie</titel></kop><artikel status="goed">
@@ -3865,12 +3854,12 @@ programmadiensten.</al></artikel></paragraaf></hoofdstuk><hoofdstuk><kop><label>
                 </kop>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
-                  <al>Op de voorbereiding van een besluit van het college als bedoeld in de artikelen <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.2">6.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">6a.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.4a">6a.4a</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.2">6b.2, vijfde lid, onderdeel a</intref>, is <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de
+                  <al>Op de voorbereiding van een besluit van de Autoriteit Consument en Markt als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.2">artikelen 6.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">6a.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.3">6a.3</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.4a">6a.4a</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.2">6b.2, vijfde lid, onderdeel a</intref>, is <extref status="actief" doc="1.0:v:BWBR0005537&amp;afdeling=3.4" compleet="nee">afdeling 3.4 van de
 Algemene wet bestuursrecht</extref> van toepassing.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>In afwijking van het eerste lid kan het college besluiten om de in het
+                  <al>In afwijking van het eerste lid kan de Autoriteit Consument en Markt besluiten om de in het
 eerste lid bedoelde procedure niet toe te passen indien het besluit geen aanzienlijke
 gevolgen heeft voor de desbetreffende markt.</al>
                 </lid>
@@ -3887,7 +3876,7 @@ toepassing.</al></lid>
                 
                 <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Indien een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikel 6b.1, eerste lid</intref>, van invloed is op de handel tussen de lidstaten, legt het college het ontwerp van het desbetreffende besluit en de gronden die aan het ontwerpbesluit ten grondslag liggen, voor aan:</al>
+                        <al>Indien een besluit als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikel 6b.1, eerste lid</intref>, van invloed is op de handel tussen de lidstaten, legt de Autoriteit Consument en Markt het ontwerp van het desbetreffende besluit en de gronden die aan het ontwerpbesluit ten grondslag liggen, voor aan:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
@@ -3902,19 +3891,19 @@ toepassing.</al></lid>
                               <al>BEREC,</al>
                            </li>
                         </lijst>
-                        <al>en stelt het college hen gedurende een maand in de gelegenheid daarover opmerkingen te maken.</al>
+                        <al>en stelt de Autoriteit Consument en Markt hen gedurende een maand in de gelegenheid daarover opmerkingen te maken.</al>
                      </lid><lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>Het college neemt het besluit niet dan nadat de in het eerste lid bedoelde
+                  <al>De Autoriteit Consument en Markt neemt het besluit niet dan nadat de in het eerste lid bedoelde
 termijn van een maand is verstreken.</al>
                 </lid>
                 <lid>
                         <lidnr status="officieel">3</lidnr>
-                        <al>Het college houdt bij het nemen van het besluit zoveel mogelijk rekening met de opmerkingen die de Europese Commissie, de nationale regelgevende instanties en BEREC met betrekking tot het ontwerp aan het college hebben medegedeeld.</al>
+                        <al>De Autoriteit Consument en Markt houdt bij het nemen van het besluit zoveel mogelijk rekening met de opmerkingen die de Europese Commissie, de nationale regelgevende instanties en BEREC met betrekking tot het ontwerp aan de Autoriteit Consument en Markt hebben medegedeeld.</al>
                      </lid>
                 <lid>
                         <lidnr status="officieel">4</lidnr>
-                        <al>Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat de bepaling van een relevante markt op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, tweede lid</intref>, of de aanwijzing van een onderneming met aanmerkelijke marktmacht, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid, aanhef</intref>, een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid van het ontwerpbesluit met het Gemeenschapsrecht, wacht het college tenminste twee maanden vanaf de datum van die mededeling met het vaststellen van het besluit.</al>
+                        <al>Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat de bepaling van een relevante markt op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, tweede lid</intref>, of de aanwijzing van een onderneming met aanmerkelijke marktmacht, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">artikel 6a.2, eerste lid, aanhef</intref>, een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid van het ontwerpbesluit met het Gemeenschapsrecht, wacht de Autoriteit Consument en Markt tenminste twee maanden vanaf de datum van die mededeling met het vaststellen van het besluit.</al>
                      </lid>
                 <lid>
                         <lidnr status="officieel">5</lidnr>
@@ -3922,29 +3911,29 @@ termijn van een maand is verstreken.</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
-                              <al>brengt het college het ontwerp met betrekking tot de door de Europese Commissie in de beschikking aangegeven voorstellen in overeenstemming met het Gemeenschapsrecht, of</al>
+                              <al>brengt de Autoriteit Consument en Markt het ontwerp met betrekking tot de door de Europese Commissie in de beschikking aangegeven voorstellen in overeenstemming met het Gemeenschapsrecht, of</al>
                            </li>
                            <li>
                               <li.nr>b.</li.nr>
-                              <al>besluit het college het desbetreffende ontwerpbesluit niet vast te stellen.</al>
+                              <al>besluit de Autoriteit Consument en Markt het desbetreffende ontwerpbesluit niet vast te stellen.</al>
                            </li>
                         </lijst>
                      </lid>
                 <lid>
                         <lidnr status="officieel">6</lidnr>
-                        <al>Van het besluit, bedoeld in het vijfde lid, onder b, doet het college mededeling in de Staatscourant.</al>
+                        <al>Van het besluit, bedoeld in het vijfde lid, onder b, doet de Autoriteit Consument en Markt mededeling in de Staatscourant.</al>
                      </lid>
               <lid>
                         <lidnr status="officieel">7</lidnr>
-                        <al>Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat een in het ontwerpbesluit voorgestelde verplichting als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.2">artikelen 6.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">6a.2, eerste lid, onderdelen a tot en met c</intref>, of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.4a">6a.4a, vijfde of zesde lid</intref>, een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid daarvan met het Gemeenschapsrecht, neemt het college het besluit niet dan nadat de termijn van vier maanden vanaf de datum van die mededeling is verstreken. In afwijking van deze termijn kan het college het besluit nemen zodra de aanbeveling is gedaan of het voorbehoud is ingetrokken.</al>
+                        <al>Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat een in het ontwerpbesluit voorgestelde verplichting als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.2">artikelen 6.2</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">6a.2, eerste lid, onderdelen a tot en met c</intref>, of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.4a">6a.4a, vijfde of zesde lid</intref>, een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid daarvan met het Gemeenschapsrecht, neemt de Autoriteit Consument en Markt het besluit niet dan nadat de termijn van vier maanden vanaf de datum van die mededeling is verstreken. In afwijking van deze termijn kan de Autoriteit Consument en Markt het besluit nemen zodra de aanbeveling is gedaan of het voorbehoud is ingetrokken.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">8</lidnr>
-                        <al>Indien het college een verplichting als bedoeld in het zevende lid in overeenstemming brengt met een advies van BEREC als bedoeld in artikel 7bis, derde lid, van richtlijn nr. 2002/21/EG, of een aanbeveling van de Europese Commissie als bedoeld in artikel 7bis, vijfde lid, onder a, met betrekking tot die verplichting, is <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikel 6b.1</intref> van overeenkomstige toepassing.</al>
+                        <al>Indien de Autoriteit Consument en Markt een verplichting als bedoeld in het zevende lid in overeenstemming brengt met een advies van BEREC als bedoeld in artikel 7bis, derde lid, van richtlijn nr. 2002/21/EG, of een aanbeveling van de Europese Commissie als bedoeld in artikel 7bis, vijfde lid, onder a, met betrekking tot die verplichting, is <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikel 6b.1</intref> van overeenkomstige toepassing.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">9</lidnr>
-                        <al>Indien het college een verplichting als bedoeld in het zevende lid, niet in overeenstemming brengt met:</al>
+                        <al>Indien de Autoriteit Consument en Markt een verplichting als bedoeld in het zevende lid, niet in overeenstemming brengt met:</al>
                         <lijst level="single" nr-sluiting="." start="1" type="expliciet">
                            <li>
                               <li.nr>a.</li.nr>
@@ -3952,13 +3941,13 @@ termijn van een maand is verstreken.</al>
                            </li>
                            <li>
                               <li.nr>b.</li.nr>
-                              <al>een aanbeveling van de Europese Commissie als bedoeld in artikel 7bis, vijfde lid, onder a, met betrekking tot die verplichting, motiveert het college waarom zij de verplichting in het ontwerpbesluit niet wijzigt of intrekt.</al>
+                              <al>een aanbeveling van de Europese Commissie als bedoeld in artikel 7bis, vijfde lid, onder a, met betrekking tot die verplichting, motiveert de Autoriteit Consument en Markt waarom zij de verplichting in het ontwerpbesluit niet wijzigt of intrekt.</al>
                            </li>
                         </lijst>
                      </lid>
                      <lid>
                         <lidnr status="officieel">10</lidnr>
-                        <al>Het college stuurt een overeenkomstig dit artikel voorbereid besluit in afschrift aan de Europese Commissie en BEREC. In het geval van een aanbeveling of een voorbehoud als bedoeld in het zevende lid, verstuurt het college het afschrift binnen een maand nadat de aanbeveling is gedaan of het voorbehoud is ingetrokken. De termijn van een maand kan door het college worden verlengd indien het college de wijziging van het ontwerpbesluit voorbereidt overeenkomstig <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikel 6b.1, eerste lid</intref>.</al>
+                        <al>De Autoriteit Consument en Markt stuurt een overeenkomstig dit artikel voorbereid besluit in afschrift aan de Europese Commissie en BEREC. In het geval van een aanbeveling of een voorbehoud als bedoeld in het zevende lid, verstuurt de Autoriteit Consument en Markt het afschrift binnen een maand nadat de aanbeveling is gedaan of het voorbehoud is ingetrokken. De termijn van een maand kan door de Autoriteit Consument en Markt worden verlengd indien de Autoriteit Consument en Markt de wijziging van het ontwerpbesluit voorbereidt overeenkomstig <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikel 6b.1, eerste lid</intref>.</al>
                      </lid></artikel>
               <artikel status="goed">
                 <kop>
@@ -3966,14 +3955,14 @@ termijn van een maand is verstreken.</al>
                   <nr status="officieel">6b.3</nr>
                 </kop>
                 
-                <lid><lidnr status="officieel">1</lidnr><al>Het college kan in uitzonderlijke omstandigheden indien de vereiste spoed zich verzet tegen de toepassing van de procedures, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikelen 6b.1, eerste lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.2">6b.2</intref>, die procedure buiten toepassing laten bij het nemen van een besluit als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.2">artikelen 6.2</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">6a.2, eerste lid, onder a</intref>, teneinde de concurrentie te waarborgen of de belangen van de gebruikers te beschermen.</al></lid><lid>
+                <lid><lidnr status="officieel">1</lidnr><al>De Autoriteit Consument en Markt kan in uitzonderlijke omstandigheden indien de vereiste spoed zich verzet tegen de toepassing van de procedures, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikelen 6b.1, eerste lid</intref>, of <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.2">6b.2</intref>, die procedure buiten toepassing laten bij het nemen van een besluit als bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6.2">artikelen 6.2</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.2">6a.2, eerste lid, onder a</intref>, teneinde de concurrentie te waarborgen of de belangen van de gebruikers te beschermen.</al></lid><lid>
                   <lidnr status="officieel">2</lidnr>
                   <al>Een besluit als bedoeld in het eerste lid geldt voor een periode van maximaal
 26 weken.</al>
                 </lid>
               <lid>
                         <lidnr status="officieel">3</lidnr>
-                        <al>Het college stuurt een afschrift van een besluit als bedoeld in het eerste lid aan de Europese Commissie, de nationale regelgevende instanties, bedoeld in artikel 7 van richtlijn nr. 2002/21/EG, en BEREC.</al>
+                        <al>De Autoriteit Consument en Markt stuurt een afschrift van een besluit als bedoeld in het eerste lid aan de Europese Commissie, de nationale regelgevende instanties, bedoeld in artikel 7 van richtlijn nr. 2002/21/EG, en BEREC.</al>
                      </lid></artikel>
               <artikel status="goed">
                 <kop>
@@ -3982,7 +3971,7 @@ termijn van een maand is verstreken.</al>
                 </kop>
                 <al>Indien een nationale regelgevende instantie, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.2">artikel 6b.2,
 eerste lid</intref>, ingevolge artikel 7, derde lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref> een
-ontwerp van een besluit aan het college voorlegt, doet het college zijn opmerkingen
+ontwerp van een besluit aan de Autoriteit Consument en Markt voorlegt, doet de Autoriteit Consument en Markt haar opmerkingen
 aan die nationale regelgevende instantie binnen de door die instantie gestelde
 termijn toekomen.</al>
               </artikel>
@@ -3993,23 +3982,23 @@ termijn toekomen.</al>
                 </kop>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
-                  <al>Op de voorbereiding van een besluit van het college tot het opleggen,
+                  <al>Op de voorbereiding van een besluit van de Autoriteit Consument en Markt tot het opleggen,
 instandhouden of intrekken van een verplichting als bedoeld in een op basis
 van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.11">artikel 6a.11</intref> tot stand gekomen ministeri&#xEB;le regeling is de procedure,
 bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6b.1">artikel 6b.1</intref> van toepassing.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">2</lidnr>
-                  <al>Het college legt een ontwerp van een besluit als bedoeld in het eerste
+                  <al>De Autoriteit Consument en Markt legt een ontwerp van een besluit als bedoeld in het eerste
 lid voor aan de Commissie van de Europese Gemeenschappen en de nationale regelgevende
 instanties die overeenkomstig artikel 3, zesde lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>
 zijn aangemeld.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">3</lidnr>
-                  <al>Het college gaat niet over tot het nemen van een besluit als bedoeld in
+                  <al>De Autoriteit Consument en Markt gaat niet over tot het nemen van een besluit als bedoeld in
 het eerste lid dan nadat de Commissie van de Europese Gemeenschappen daartoe
-overeenkomstig artikel 14, tweede lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref> toestemming heeft gegeven. Het college houdt daarbij rekening
+overeenkomstig artikel 14, tweede lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref> toestemming heeft gegeven. De Autoriteit Consument en Markt houdt daarbij rekening
 met de door de nationale regelgevende instanties gemaakte opmerkingen.</al>
                 </lid>
               </artikel>
@@ -4246,47 +4235,45 @@ maand.</al>
                      </lid>
               </artikel>
               
-<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">7.3a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
-college kan aanbieders van openbare elektronische communicatiediensten
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">7.3a</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De Autoriteit Consument en Markt kan aanbieders van openbare elektronische communicatiediensten
 een aanwijzing geven de betaling die gerelateerd is aan het gebruik van
 bij ministeri&#xEB;le regeling aan te wijzen categorie&#xEB;n van
-nummers op te schorten voor een door het college te bepalen periode,
-indien het college een aanwijzing heeft dat de nummergebruiker niet
+nummers op te schorten voor een door de Autoriteit Consument en Markt te bepalen periode,
+indien de Autoriteit Consument en Markt een aanwijzing heeft dat de nummergebruiker niet
 voldoet aan het gestelde bij of krachtens deze wet of een gedraging
 verricht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel
 4.4</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De aanbieder van een openbare
 elektronische communicatiedienst die een aanwijzing, bedoeld in het
-eerste lid, van het college heeft ontvangen, schort de betaling
+eerste lid, van de Autoriteit Consument en Markt heeft ontvangen, schort de betaling
 onverwijld op.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De in het eerste lid
-genoemde periode is maximaal vier weken en kan door het college
+genoemde periode is maximaal vier weken en kan door de Autoriteit Consument en Markt
 eenmalig met maximaal vier weken worden
-verlengd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het college stelt de
-nummergebruiker, voorzover deze bij het college bekend is, van de
+verlengd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>De Autoriteit Consument en Markt stelt de
+nummergebruiker, voorzover deze bij de Autoriteit Consument en Markt bekend is, van de
 aanwijzing op de hoogte.</al></lid></artikel>
 <artikel status="goed"><kop>
-<label>Artikel</label><nr status="officieel">7.3b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Het
-college kan aanbieders van openbare elektronische communicatiediensten
+<label>Artikel</label><nr status="officieel">7.3b</nr></kop><lid><lidnr status="officieel">1</lidnr><al>De Autoriteit Consument en Markt kan aanbieders van openbare elektronische communicatiediensten
 een aanwijzing geven de aankiesbaarheid van een nummer uit bij
 ministeri&#xEB;le regeling aan te wijzen categorie&#xEB;n van
-nummers op te schorten voor een door het college te bepalen periode,
-indien het college een aanwijzing heeft dat de nummergebruiker niet
+nummers op te schorten voor een door de Autoriteit Consument en Markt te bepalen periode,
+indien de Autoriteit Consument en Markt een aanwijzing heeft dat de nummergebruiker niet
 voldoet aan het gestelde bij of krachtens deze wet of een gedraging
 verricht als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel
 4.4</intref>.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De aanbieder van een openbare
 elektronische communicatiedienst die een aanwijzing, bedoeld in het
-eerste lid, van het college heeft ontvangen, schort de aankiesbaarheid
+eerste lid, van de Autoriteit Consument en Markt heeft ontvangen, schort de aankiesbaarheid
 onverwijld op.</al></lid><lid><lidnr status="officieel">3</lidnr><al>De in het eerste lid
-genoemde periode is maximaal vier weken en kan door het college
+genoemde periode is maximaal vier weken en kan door de Autoriteit Consument en Markt
 eenmalig met maximaal vier weken worden
-verlengd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>Het college stelt de
-nummergebruiker, voorzover deze bij het college bekend is, van de
+verlengd.</al></lid><lid><lidnr status="officieel">4</lidnr><al>De Autoriteit Consument en Markt stelt de
+nummergebruiker, voorzover deze bij de Autoriteit Consument en Markt bekend is, van de
 aanwijzing op de hoogte.</al></lid></artikel>
 <artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">7.3c</nr></kop><lid><lidnr status="officieel">1</lidnr><al>Indien
-het college heeft vastgesteld dat de nummergebruiker met betrekking tot
+de Autoriteit Consument en Markt heeft vastgesteld dat de nummergebruiker met betrekking tot
 een nummer gedurende een bepaalde periode niet heeft voldaan aan het
 gestelde bij of krachtens deze wet of een gedraging heeft verricht als
-bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref>, kan het college hiervan mededeling doen in de
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref>, kan de Autoriteit Consument en Markt hiervan mededeling doen in de
 Staatscourant.</al></lid><lid><lidnr status="officieel">2</lidnr><al>De aanbieder van een
 openbare elektronische communicatiedienst verlangt geen betaling van
 consumenten voor oproepen naar nummers
@@ -4311,7 +4298,7 @@ terug.</al></lid></artikel>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
-                        <al>Bij de regels, bedoeld in het eerste lid, kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college.</al>
+                        <al>Bij de regels, bedoeld in het eerste lid, kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt.</al>
                      </lid>
                   </artikel>
 <artikel status="goed">
@@ -4329,7 +4316,7 @@ voor 1&#xA0;april op genoegzame wijze een overzicht over het voorafgaande
 kalenderjaar bekend van de kwaliteit van de door hen aangeboden diensten op
 basis van de in bijlage III van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref> gespecificeerde parameters,
 definities en meetmethoden. Het in de eerste volzin bedoelde overzicht bevat een beschrijving van de door de aanbieder genomen maatregelen om gelijkwaardige toegang voor eindgebruikers met een fysieke beperking te waarborgen. Het in de eerste volzin bedoelde overzicht wordt
-voor bekendmaking aan het college ter beschikking gesteld.</al>
+voor bekendmaking aan de Autoriteit Consument en Markt ter beschikking gesteld.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">2</lidnr>
@@ -4351,12 +4338,12 @@ parameters, definities en meetmethoden;</al></li>
             <li>
                 <li.nr>b.</li.nr>
                 
-              <al>door het college, of een door het college aan te wijzen onafhankelijke deskundige derde, onderzoeken of het overzicht in overeenstemming
+              <al>door de Autoriteit Consument en Markt, of een door de Autoriteit Consument en Markt aan te wijzen onafhankelijke deskundige derde, onderzoeken of het overzicht in overeenstemming
 is met de desbetreffende regels, en</al></li><li>
                 <li.nr>c.</li.nr>
                 
               <al>bekendmaken van het overzicht en het ter beschikking stellen daarvan
-aan het college.</al></li></lijst>
+aan de Autoriteit Consument en Markt.</al></li></lijst>
                   
                   
                 </lid>
@@ -4368,7 +4355,7 @@ te bepalen categorie&#xEB;n van openbare elektronische communicatiediensten of p
                 <lid>
                   <lidnr status="officieel">5</lidnr>
                   <al>Bij de regels, bedoeld in het tweede en derde lid, kunnen taken worden
-opgedragen en bevoegdheden worden verleend aan het college.</al>
+opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt.</al>
                 </lid>
               </artikel>
               
@@ -4572,7 +4559,7 @@ elektronische communicatiedienst mag opschorten of be&#xEB;indigen.</al></li></l
                   <al>De regels, bedoeld in het eerste lid, kunnen voor bij die regels te bepalen
 categorie&#xEB;n van openbare elektronische communicatienetwerken, openbare elektronische communicatiediensten, nummergebruikers of
 programmadiensten verschillen. Bij die regels kunnen taken
-worden opgedragen en bevoegdheden worden verleend aan het college.</al>
+worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt.</al>
                 </lid>
               <lid>
                         <lidnr status="officieel">3</lidnr>
@@ -4710,7 +4697,7 @@ voorwaardelijke toegangsystemen.</al>
                 <lid>
                   <lidnr status="officieel">4</lidnr>
                   <al>Bij de regels, bedoeld in het eerste lid, kunnen taken worden opgedragen
-en bevoegdheden worden verleend aan het college.</al>
+en bevoegdheden worden verleend aan de Autoriteit Consument en Markt.</al>
                 </lid>
               </artikel>
               <artikel status="goed">
@@ -4754,7 +4741,7 @@ programmagidsen en voor de overige activiteiten.</al></li></lijst>
                 <lid>
                   <lidnr status="officieel">3</lidnr>
                   <al>Bij de regels, bedoeld in het eerste lid, kunnen taken worden opgedragen
-en bevoegdheden worden verleend aan het college.</al>
+en bevoegdheden worden verleend aan de Autoriteit Consument en Markt.</al>
                 </lid>
               </artikel>
               <artikel status="goed">
@@ -4762,7 +4749,7 @@ en bevoegdheden worden verleend aan het college.</al>
                   <label>Artikel</label>
                   <nr status="officieel">8.7</nr>
                 </kop>
-                <al>Wanneer door het college de in artikel 6a.6 bedoelde verplichting wordt
+                <al>Wanneer door de Autoriteit Consument en Markt de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.6">artikel 6a.6</intref> bedoelde verplichting wordt
 opgelegd aan een onderneming die openbare elektronische communicatienetwerken
 aanbiedt die gebruikt worden voor het verspreiden van programma's, is deze
 onderneming tevens verplicht toegang te verlenen tot het door haar samengestelde
@@ -4874,7 +4861,7 @@ eindgebruikers.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
-                        <al>Bij of krachtens algemene maatregel van bestuur worden ter uitvoering van hoofdstuk II van richtlijn nr. 2002/22/EG nadere regels gesteld die van toepassing zijn in het geval een aanwijzing tot verzorging van een of meer tot de universele dienst behorende diensten of voorzieningen is gegeven. Hierbij kunnen ter uitvoering van het in de eerste volzin genoemde hoofdstuk taken worden opgedragen en bevoegdheden worden verleend aan het college.</al>
+                        <al>Bij of krachtens algemene maatregel van bestuur worden ter uitvoering van hoofdstuk II van richtlijn nr. 2002/22/EG nadere regels gesteld die van toepassing zijn in het geval een aanwijzing tot verzorging van een of meer tot de universele dienst behorende diensten of voorzieningen is gegeven. Hierbij kunnen ter uitvoering van het in de eerste volzin genoemde hoofdstuk taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt.</al>
                      </lid>
 </artikel>
     <artikel status="goed">
@@ -4884,7 +4871,7 @@ eindgebruikers.</al>
     </kop>
     <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Indien Onze Minister voornemens is over te gaan tot een aanwijzing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=9.2">artikel 9.2, eerste lid</intref>, stelt Onze Minister vast of de aanwijzing een onredelijke last in de zin van artikel 12, eerste lid, van richtlijn nr. 2002/22/EG kan vormen voor degene die wordt aangewezen als universeledienstverlener. Onze Minister kan voorafgaand aan die vaststelling het college vragen om advies.</al>
+                        <al>Indien Onze Minister voornemens is over te gaan tot een aanwijzing als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=9.2">artikel 9.2, eerste lid</intref>, stelt Onze Minister vast of de aanwijzing een onredelijke last in de zin van artikel 12, eerste lid, van richtlijn nr. 2002/22/EG kan vormen voor degene die wordt aangewezen als universeledienstverlener. Onze Minister kan voorafgaand aan die vaststelling de Autoriteit Consument en Markt vragen om advies.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
@@ -4981,7 +4968,7 @@ eindgebruikers.</al>
                      </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Indien ingevolge <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=9.4">artikel 9.4</intref> aan degene die is aangewezen als universeledienstverlener, een vergoeding wordt toegekend, is eenieder die openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbiedt, en die in het kalenderjaar voorafgaande aan het kalenderjaar waarop de te betalen vergoeding betrekking heeft, daaruit in Nederland een hogere omzet realiseert dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag, aan het college een bijdrage verschuldigd.</al>
+                        <al>Indien ingevolge <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=9.4">artikel 9.4</intref> aan degene die is aangewezen als universeledienstverlener, een vergoeding wordt toegekend, is eenieder die openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbiedt, en die in het kalenderjaar voorafgaande aan het kalenderjaar waarop de te betalen vergoeding betrekking heeft, daaruit in Nederland een hogere omzet realiseert dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag, aan de Autoriteit Consument en Markt een bijdrage verschuldigd.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
@@ -5448,7 +5435,7 @@ indicatie van de verwachte kosten.</al>
                      </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>De aanbieder van een openbare elektronische communicatiedienst stelt het college onverwijld in kennis van een inbreuk op de&#xA0;beveiliging, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.3">artikel 11.3</intref>, die&#xA0;nadelige gevolgen heeft voor de bescherming van persoonsgegevens die zijn verwerkt&#xA0;in verband met de levering van een openbare elektronische communicatiedienst in de Europese Unie.</al>
+                        <al>De aanbieder van een openbare elektronische communicatiedienst stelt de Autoriteit Consument en Markt onverwijld in kennis van een inbreuk op de&#xA0;beveiliging, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.3">artikel 11.3</intref>, die&#xA0;nadelige gevolgen heeft voor de bescherming van persoonsgegevens die zijn verwerkt&#xA0;in verband met de levering van een openbare elektronische communicatiedienst in de Europese Unie.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
@@ -5456,16 +5443,16 @@ indicatie van de verwachte kosten.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">3</lidnr>
-                        <al>De kennisgeving aan het college en de persoon wiens persoonsgegevens het betreft, omvat in ieder geval de aard van de inbreuk in verband met persoonsgegevens, de instanties waar meer informatie over de inbreuk kan worden verkregen en de aanbevolen maatregelen om de negatieve gevolgen van de inbreuk te beperken.</al>
-                        <al>De kennisgeving aan het college omvat tevens de gevolgen van de inbreuk op de persoonsgegevens en de maatregelen die de aanbieder voorstelt of heeft getroffen om de inbreuk aan te pakken.</al>
+                        <al>De kennisgeving aan de Autoriteit Consument en Markt en de persoon wiens persoonsgegevens het betreft, omvat in ieder geval de aard van de inbreuk in verband met persoonsgegevens, de instanties waar meer informatie over de inbreuk kan worden verkregen en de aanbevolen maatregelen om de negatieve gevolgen van de inbreuk te beperken.</al>
+                        <al>De kennisgeving aan de Autoriteit Consument en Markt omvat tevens de gevolgen van de inbreuk op de persoonsgegevens en de maatregelen die de aanbieder voorstelt of heeft getroffen om de inbreuk aan te pakken.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">4</lidnr>
-                        <al>Indien de aanbieder van een openbare elektronische communicatiedienst geen kennisgeving als bedoeld in het tweede lid doet, kan het college, indien het van oordeel is dat de inbreuk in verband met persoonsgegevens waarschijnlijk ongunstige gevolgen zal hebben voor de persoonlijke levenssfeer van de persoon wiens persoonsgegevens het betreft, van de aanbieder verlangen dat hij die persoon alsnog in kennis stelt van de inbreuk.</al>
+                        <al>Indien de aanbieder van een openbare elektronische communicatiedienst geen kennisgeving als bedoeld in het tweede lid doet, kan de Autoriteit Consument en Markt, indien het van oordeel is dat de inbreuk in verband met persoonsgegevens waarschijnlijk ongunstige gevolgen zal hebben voor de persoonlijke levenssfeer van de persoon wiens persoonsgegevens het betreft, van de aanbieder verlangen dat hij die persoon alsnog in kennis stelt van de inbreuk.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">5</lidnr>
-                        <al>De kennisgeving, bedoeld in het tweede lid, is niet vereist indien de aanbieder naar het oordeel van het college gepaste technische beschermingsmaatregelen heeft genomen waardoor de persoonsgegevens die het betreft, versleuteld of anderszins onbegrijpelijk zijn voor een ieder die geen recht heeft op toegang tot die gegevens.</al>
+                        <al>De kennisgeving, bedoeld in het tweede lid, is niet vereist indien de aanbieder naar het oordeel van de Autoriteit Consument en Markt gepaste technische beschermingsmaatregelen heeft genomen waardoor de persoonsgegevens die het betreft, versleuteld of anderszins onbegrijpelijk zijn voor een ieder die geen recht heeft op toegang tot die gegevens.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">6</lidnr>
@@ -5510,7 +5497,7 @@ tot het specificeren van nota's voor geleverde elektronische communicatiedienste
 Deze regels kunnen onder meer betrekking hebben op de toekenning van rechten
 aan abonnees, de behandeling van klachten, de verstrekking van informatie
 en de vergoeding van kosten. Bij de algemene maatregel van bestuur kunnen
-aan het college taken worden opgedragen en bevoegdheden verleend.</al>
+aan de Autoriteit Consument en Markt taken worden opgedragen en bevoegdheden verleend.</al>
     </lid>
 <lid>
                 <lidnr status="officieel">3</lidnr>
@@ -6012,11 +5999,11 @@ vijfde tot en met twaalfde lid</intref>, is beperkt tot
                      </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Indien het college met bevoegde nationale instanties in andere lidstaten maatregelen overeen komt aangaande grensoverschrijdende samenwerking bij de handhaving van hoofdstuk 11 waarbij grensoverschrijdende gegevensstromen betrokken zijn, verstrekt het college de Europese Commissie ruime tijd voordat die maatregelen worden vastgelegd een samenvatting van de redenen voor optreden, de geplande afspraken en de voorgestelde aanpak.</al>
+                        <al>Indien de Autoriteit Consument en Markt met bevoegde nationale instanties in andere lidstaten maatregelen overeen komt aangaande grensoverschrijdende samenwerking bij de handhaving van hoofdstuk 11 waarbij grensoverschrijdende gegevensstromen betrokken zijn, verstrekt de Autoriteit Consument en Markt de Europese Commissie ruime tijd voordat die maatregelen worden vastgelegd een samenvatting van de redenen voor optreden, de geplande afspraken en de voorgestelde aanpak.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
-                        <al>Bij het vastleggen van de maatregelen houdt het college zoveel mogelijk rekening met de door de Europese Commissie gemaakte opmerkingen en aanbevelingen.</al>
+                        <al>Bij het vastleggen van de maatregelen houdt de Autoriteit Consument en Markt zoveel mogelijk rekening met de door de Europese Commissie gemaakte opmerkingen en aanbevelingen.</al>
                      </lid>
                   </artikel></paragraaf>
     <paragraaf>
@@ -6342,8 +6329,7 @@ zesde lid.</al></li></lijst>
                 <lid>
                   <lidnr status="officieel">1</lidnr>
                   <al>Aan een aanbieder van een openbaar elektronisch communicatienetwerk en
-een aanbieder van een openbare elektronische communicatiedienst kan door het
-college ontheffing worden verleend van de verplichtingen die voortvloeien
+een aanbieder van een openbare elektronische communicatiedienst kan door de Autoriteit Consument en Markt ontheffing worden verleend van de verplichtingen die voortvloeien
 uit de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.4">artikelen 11.4, eerste lid, onderdeel b</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=11.9">11.9 tot en met 11.11</intref>.</al>
                 </lid>
                 <lid>
@@ -6518,8 +6504,8 @@ consument voor zover het geschil verplichtingen betreft die bij of
 krachtens deze wet zijn
 opgelegd dan wel betrekking heeft op krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.4">artikel 4.4</intref> aangewezen gedragingen voor zover het een nummer betreft waarvoor die aanwijzing geldt.</al></lid></artikel></paragraaf>
 <paragraaf><kop><label>&#xA7;</label>
-                <nr>12.2</nr>
-                <titel>Geschilbeslechting door het college</titel></kop><sub-paragraaf><kop><label>&#xA7;</label>
+                <nr status="officieel">12.2</nr>
+                <titel status="officieel">Geschilbeslechting door de Autoriteit Consument en Markt</titel></kop><sub-paragraaf><kop><label>&#xA7;</label>
                 <nr>12.2.1</nr>
                 <titel>Geschillen tussen marktpartijen</titel></kop><artikel status="goed">
                   <kop>
@@ -6536,8 +6522,7 @@ bijbehorende faciliteiten, openbare
 elektronische communicatiediensten of
 programmadiensten aanbiedt
 op grond van een bij of krachtens deze wet of bij de
-roamingverordening rustende verplichting, kan het
-college op aanvraag van een bij dat geschil betrokken partij het geschil beslechten,
+roamingverordening rustende verplichting, kan de Autoriteit Consument en Markt op aanvraag van een bij dat geschil betrokken partij het geschil beslechten,
 tenzij de beslechting van dat geschil op grond van deze wet aan een andere
 instantie is opgedragen.</al>
                   </lid>
@@ -6558,7 +6543,7 @@ wet bepaalde.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">4</lidnr>
-                        <al>Indien een geschil is gerezen over de redelijkheid van een vergoeding voor medegebruik als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24, vierde lid, derde volzin</intref>, draagt het college er zorg voor dat de vergoeding voldoet aan de in dat lid gestelde vereisten. Het college is daarbij gehouden om de bij het geschil betrokken partijen te raadplegen over de mate waarin met de vergoeding aan de vereisten wordt voldaan. Indien naar het oordeel van het college niet of onvoldoende aan de vereisten wordt voldaan, raadpleegt het college de geschilpartijen opnieuw en geeft het, met inachtneming van de door de geschilpartijen verschafte informatie, aanwijzingen voor het alsnog voldoen aan de vereisten. Het college houdt nadien toezicht op de naleving van de gegeven aanwijzingen. Het kan de aanbieder verplichten periodiek een rapportage over te leggen waarmee de blijvende effici&#xEB;ntie van de tarieven kan worden gecontroleerd.</al>
+                        <al>Indien een geschil is gerezen over de redelijkheid van een vergoeding voor medegebruik als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.24">artikel 3.24, vierde lid, derde volzin</intref>, draagt de Autoriteit Consument en Markt er zorg voor dat de vergoeding voldoet aan de in dat lid gestelde vereisten. De Autoriteit Consument en Markt is daarbij gehouden om de bij het geschil betrokken partijen te raadplegen over de mate waarin met de vergoeding aan de vereisten wordt voldaan. Indien naar het oordeel van de Autoriteit Consument en Markt niet of onvoldoende aan de vereisten wordt voldaan, raadpleegt de Autoriteit Consument en Markt de geschilpartijen opnieuw en geeft het, met inachtneming van de door de geschilpartijen verschafte informatie, aanwijzingen voor het alsnog voldoen aan de vereisten. De Autoriteit Consument en Markt houdt nadien toezicht op de naleving van de gegeven aanwijzingen. Het kan de aanbieder verplichten periodiek een rapportage over te leggen waarmee de blijvende effici&#xEB;ntie van de tarieven kan worden gecontroleerd.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">5</lidnr>
@@ -6567,20 +6552,19 @@ wet bepaalde.</al>
                      
                      <lid>
                         <lidnr status="officieel">6</lidnr>
-                        <al>Indien nummerhouders als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2b">artikel 4.2b</intref> geen overeenstemming kunnen bereiken over de voorwaarden waaronder de aan hen in gebruik gegeven nummers gezamenlijk in gebruik zullen worden genomen, kan het college op aanvraag van een of meer van hen, voorschriften geven inzake het tot stand brengen van een overeenkomst als bedoeld in artikel 4.2b.</al>
+                        <al>Indien nummerhouders als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=4.2b">artikel 4.2b</intref> geen overeenstemming kunnen bereiken over de voorwaarden waaronder de aan hen in gebruik gegeven nummers gezamenlijk in gebruik zullen worden genomen, kan de Autoriteit Consument en Markt op aanvraag van een of meer van hen, voorschriften geven inzake het tot stand brengen van een overeenkomst als bedoeld in artikel 4.2b.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">7</lidnr>
-                        <al>Op aanvraag van de gezamenlijke nummerhouders kan het college een besluit als bedoeld in het vijfde lid intrekken.</al>
+                        <al>Op aanvraag van de gezamenlijke nummerhouders kan de Autoriteit Consument en Markt een besluit als bedoeld in het vijfde lid intrekken.</al>
                      </lid></artikel>
                 <artikel status="goed">
                   <kop>
                     <label>Artikel</label>
                     <nr status="officieel">12.3</nr>
                   </kop>
-                  <al>Het college is onbevoegd tot het beslechten van een op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.2">artikel
-12.2</intref> voorgelegd geschil, indien de bij dat geschil betrokken partijen het
-college verzoeken het geschil niet langer te behandelen.</al>
+                  <al>De Autoriteit Consument en Markt is onbevoegd tot het beslechten van een op grond van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.2">artikel
+12.2</intref> voorgelegd geschil, indien de bij dat geschil betrokken partijen de Autoriteit Consument en Markt verzoeken het geschil niet langer te behandelen.</al>
                 </artikel>
                 <artikel status="goed">
                   <kop>
@@ -6589,15 +6573,15 @@ college verzoeken het geschil niet langer te behandelen.</al>
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Op vordering van het college verstrekken de bij een geschil betrokken
-partijen binnen twee weken dan wel binnen een andere door het college te bepalen
-redelijke termijn, aan het college alle gegevens die relevant zijn voor de
+                    <al>Op vordering van de Autoriteit Consument en Markt verstrekken de bij een geschil betrokken
+partijen binnen twee weken dan wel binnen een andere door de Autoriteit Consument en Markt te bepalen
+redelijke termijn, aan de Autoriteit Consument en Markt alle gegevens die relevant zijn voor de
 beoordeling van het geschil.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
                     <al>De bij het geschil betrokken partijen zijn verplicht onverwijld, maar
-in elk geval binnen de door het college gestelde redelijke termijn, alle medewerking
+in elk geval binnen de door de Autoriteit Consument en Markt gestelde redelijke termijn, alle medewerking
 te verlenen die deze redelijkerwijs kan vorderen ten behoeve van de beoordeling
 van het geschil.</al>
                   </lid>
@@ -6609,20 +6593,20 @@ van het geschil.</al>
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Het college beslist op een aanvraag als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.2">artikel 12.2</intref> binnen
+                    <al>De Autoriteit Consument en Markt beslist op een aanvraag als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.2">artikel 12.2</intref> binnen
 zeventien weken na ontvangst van die aanvraag.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
-                    <al>Onverminderd het eerste lid, kan het college in spoedeisende gevallen
+                    <al>Onverminderd het eerste lid, kan de Autoriteit Consument en Markt in spoedeisende gevallen
 een voorlopig besluit nemen dat tussen de betrokken aanbieders geldt tot het
-definitieve besluit van het college.</al>
+definitieve besluit van de Autoriteit Consument en Markt.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">3</lidnr>
-                    <al>In uitzonderlijke gevallen kan het college de termijn, bedoeld in het
-eerste lid, verlengen. Het college stelt de desbetreffende aanbieders daarvan
-in kennis en geeft de termijn aan waarbinnen het college het geschil zal beslechten,
+                    <al>In uitzonderlijke gevallen kan de Autoriteit Consument en Markt de termijn, bedoeld in het
+eerste lid, verlengen. De Autoriteit Consument en Markt stelt de desbetreffende aanbieders daarvan
+in kennis en geeft de termijn aan waarbinnen de Autoriteit Consument en Markt het geschil zal beslechten,
 met dien verstande dat die termijn niet langer is dan acht weken na afloop
 van de termijn, bedoeld in het eerste lid.</al>
                   </lid>
@@ -6632,8 +6616,8 @@ van de termijn, bedoeld in het eerste lid.</al>
                     <label>Artikel</label>
                     <nr status="officieel">12.6</nr>
                   </kop>
-                  <al>Een bij een geschil betrokken partij volgt de door het college op grond
-van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.2">artikel 12.2</intref> genomen besluit op. Het college kan daarbij termijnen stellen.</al>
+                  <al>Een bij een geschil betrokken partij volgt de door de Autoriteit Consument en Markt op grond
+van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.2">artikel 12.2</intref> genomen besluit op. De Autoriteit Consument en Markt kan daarbij termijnen stellen.</al>
                 </artikel>
                 <artikel status="goed">
                   <kop>
@@ -6651,22 +6635,22 @@ c, van de Wet openbaarheid van bestuur</extref> wordt geen mededeling gedaan.</a
                   </kop>
                   <lid>
                     <lidnr status="officieel">1</lidnr>
-                    <al>Het college overlegt met de desbetreffende nationale regelgevende instantie
+                    <al>De Autoriteit Consument en Markt overlegt met de desbetreffende nationale regelgevende instantie
 aan wie de bevoegdheid tot het beslechten van geschillen is opgedragen, over
 de beslechting van een geschil dat landsgrensoverschrijdende aspecten heeft
-en dat overeenkomstig deze paragraaf aan het college is voorgelegd, dan wel
+en dat overeenkomstig deze paragraaf aan de Autoriteit Consument en Markt is voorgelegd, dan wel
 aan de desbetreffende nationale regelgevende instantie is voorgelegd en door
-die instantie aan het college is voorgelegd.</al>
+die instantie aan de Autoriteit Consument en Markt is voorgelegd.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
-                    <al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.5">artikel 12.5, eerste lid</intref>, beslist het college op een
+                    <al>In afwijking van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.5">artikel 12.5, eerste lid</intref>, beslist de Autoriteit Consument en Markt op een
 aanvraag als bedoeld in het eerste lid, binnen 24 weken na ontvangst van die
 aanvraag.</al>
                   </lid>
                 <lid>
                         <lidnr status="officieel">3</lidnr>
-                        <al>Indien het college of de desbetreffende nationale regelgevende instantie, bedoeld in het eerste lid, advies van BEREC heeft gevraagd over de beslechting van een geschil als bedoeld in het eerste lid, neemt het college het besluit niet dan nadat BEREC het advies heeft gegeven. In afwachting van het advies van BEREC schorst het college de termijn van 24 weken, bedoeld in het tweede lid, op.</al>
+                        <al>Indien de Autoriteit Consument en Markt of de desbetreffende nationale regelgevende instantie, bedoeld in het eerste lid, advies van BEREC heeft gevraagd over de beslechting van een geschil als bedoeld in het eerste lid, neemt de Autoriteit Consument en Markt het besluit niet dan nadat BEREC het advies heeft gegeven. In afwachting van het advies van BEREC schorst de Autoriteit Consument en Markt de termijn van 24 weken, bedoeld in het tweede lid, op.</al>
                      </lid></artikel></sub-paragraaf><sub-paragraaf><kop><label>&#xA7;</label>
                 <nr>12.2.2</nr>
                 <titel>Geschillen tussen consumenten en aanbieders of ondernemingen</titel></kop><artikel status="goed">
@@ -6683,19 +6667,18 @@ onderneming van bij of krachtens deze wet gestelde regels ter uitvoering van
 <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref>, niet zijnde een geschil als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=12.1">artikel 12.1</intref>, of inzake de schending door
 die aanbieder of onderneming van de
 roamingverordening
-kan het college op aanvraag van de desbetreffende consument, het geschil beslechten.</al>
+kan de Autoriteit Consument en Markt op aanvraag van de desbetreffende consument, het geschil beslechten.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">2</lidnr>
-                    <al>Indien een consument door het college in het gelijk wordt gesteld en hij
+                    <al>Indien een consument door de Autoriteit Consument en Markt in het gelijk wordt gesteld en hij
 voor het beslechten van een geschil bij of krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=16.1">artikel 16.1</intref> een vergoeding
-aan het college verschuldigd is, kan het college bepalen dat die vergoeding
+aan de Autoriteit Consument en Markt verschuldigd is, kan de Autoriteit Consument en Markt bepalen dat die vergoeding
 door een aanbieder of onderneming als bedoeld in het eerste lid wordt vergoed.</al>
                   </lid>
                   <lid>
                     <lidnr status="officieel">3</lidnr>
-                    <al>Een bij een geschil betrokken aanbieder of onderneming volgt de door het
-college op grond van het eerste lid gegeven voorschriften op. Het college
+                    <al>Een bij een geschil betrokken aanbieder of onderneming volgt de door de Autoriteit Consument en Markt op grond van het eerste lid gegeven voorschriften op. De Autoriteit Consument en Markt
 kan daarbij termijnen stellen.</al>
                   </lid>
                   <lid>
@@ -7432,7 +7415,7 @@ zover het bevoegdheden betreft van Onze Minister, <intref status="actief" doc="1
               <lid>
                 <lidnr status="officieel">2</lidnr>
                 <al>Met het toezicht op de naleving van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.20">artikel 6a.20, derde lid</intref>, zijn belast
-de bij besluit van de raad van bestuur van de mededingingsautoriteit
+de bij besluit van de Autoriteit Consument en Markt
 aangewezen ambtenaren.</al>
               </lid>
               <lid>
@@ -7441,7 +7424,7 @@ aangewezen ambtenaren.</al>
 bepalingen van deze wet dan bedoeld in het eerste en tweede lid en met het toezicht op
 de naleving van de bepalingen van de
 roamingverordening zijn belast
-de bij besluit van het college aangewezen ambtenaren. De vorige
+de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren. De vorige
 volzin is niet van toepassing op het bepaalde bij of krachtens de
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.1">artikelen 5.1</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.4">5.4</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.5">5.5</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.6">5.6, tweede, derde lid, vierde en vijfde lid</intref>,
 <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.7">5.7</intref>, <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.13">5.13</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=5.14">5.14</intref> van deze
@@ -7468,15 +7451,14 @@ mededeling gedaan door plaatsing in de Staatscourant.</al>
     </lid>
     <lid>
         <lidnr status="officieel">2</lidnr>
-        <al>Het college is bevoegd tot oplegging van een last onder bestuursdwang ter
+        <al>De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder bestuursdwang ter
             handhaving van de verplichtingen, gesteld bij of krachtens
             de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.1">artikel 15.1, derde
             lid</intref>, bedoelde bepalingen.  </al>
     </lid>
 <lid>
                            <lidnr status="officieel">3</lidnr>
-                           <al>De raad
-van bestuur van de mededingingsautoriteit is bevoegd tot oplegging van
+                           <al>De Autoriteit Consument en Markt is bevoegd tot oplegging van
 een last onder dwangsom ter zake van overtreding van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.20">artikel 6a.20,
 derde lid</intref>. <extref status="actief" doc="1.0:v:BWBR0008691&amp;artikel=58" compleet="nee">Artikel 58 van de Mededingingswet</extref> is van overeenkomstige
 toepassing.</al>
@@ -7519,11 +7501,11 @@ communicatienetwerken of -diensten aan te bieden.</al>
               </lid>
               <lid>
                 <lidnr status="officieel">2</lidnr>
-                <al>Het college is bevoegd een aanbieder van openbare elektronische communicatienetwerken
+                <al>De Autoriteit Consument en Markt is bevoegd een aanbieder van openbare elektronische communicatienetwerken
 of -diensten bij ernstig en herhaaldelijk niet-nakomen van de verplichtingen
 gesteld bij of krachtens de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.1">artikel 15.1, derde lid</intref>, bedoelde bepalingen,
 wanneer de krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.2">artikel 15.2</intref> of&#xA0;<intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.4">15.4</intref> opgelegde maatregelen tot naleving
-van de bedoelde verplichtingen hebben gefaald, voor een door het college te
+van de bedoelde verplichtingen hebben gefaald, voor een door de Autoriteit Consument en Markt te
 bepalen redelijke termijn te verbieden nog langer elektronische communicatienetwerken
 of -diensten aan te bieden.</al>
               </lid>
@@ -7562,7 +7544,7 @@ openbare elektronische communicatiedienst.</al></li></lijst>
               <lid>
                 <lidnr status="officieel">4</lidnr>
                 <al>Van een besluit als bedoeld in het eerste of tweede lid wordt door Onze
-Minister, onderscheidenlijk het college, mededeling gedaan in de Staatscourant.
+Minister, onderscheidenlijk de Autoriteit Consument en Markt, mededeling gedaan in de Staatscourant.
 Het treedt niet eerder in werking dan twee weken na die mededeling.</al>
               </lid>
             </artikel><artikel status="goed">
@@ -7602,7 +7584,7 @@ bestuursrecht</extref>.</al>
                         </lid>
               <lid>
                 <lidnr status="officieel">2</lidnr>
-                <al>Het college kan aan een onderneming een bestuurlijke boete opleggen van ten hoogste &#x20AC;&#xA0;450&#xA0;000,
+                <al>De Autoriteit Consument en Markt kan aan een onderneming een bestuurlijke boete opleggen van ten hoogste &#x20AC;&#xA0;450&#xA0;000,
 of, indien dat meer is, 10% van de relevante omzet van de onderneming in Nederland,
 ter zake van:</al>
                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
@@ -7624,15 +7606,14 @@ aanmerkelijke marktmacht en betrekking heeft op een bij of krachtens <intref sta
               </lid>
               <lid>
                 <lidnr status="officieel">3</lidnr>
-                <al>De raad van bestuur van de mededingingsautoriteit kan aan
+                <al>De Autoriteit Consument en Markt kan aan
 een onderneming een bestuurlijke boete opleggen van ten hoogste &#x20AC;&#xA0;450&#xA0;000,
 of, indien dat meer is, 10% van de relevante omzet van de onderneming in Nederland,
 ter zake van overtreding van <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.20">artikel 6a.20</intref>.</al>
               </lid>
               <lid>
                            <lidnr status="officieel">4</lidnr>
-                           <al>Het
-college kan een bestuurlijke boete opleggen van ten hoogste
+                           <al>De Autoriteit Consument en Markt kan een bestuurlijke boete opleggen van ten hoogste
 &#x20AC;&#xA0;450&#xA0;000 ter zake van overtreding van de bij of
 krachtens de in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=15.1">artikel 15.1, derde lid</intref>, bedoelde regels, niet zijnde
 regels bedoeld in het tweede lid, alsmede van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A20" compleet="nee">artikel 5:20 van de
@@ -7642,7 +7623,7 @@ Algemene wet bestuursrecht</extref>.</al>
                            <lidnr status="officieel">5</lidnr>
                            <al>Indien op
 grond van <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A1" compleet="nee">artikel 5:1, derde lid, van de Algemene wet bestuursrecht</extref>
-toepassing is gegeven aan <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=51" compleet="nee">artikel 51, tweede lid, onder 2&#xB0;, van
+toepassing is gegeven aan <extref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=51" compleet="nee">artikel 51, tweede lid, onder 2&#xB0;, van
 het Wetboek van Strafrecht</extref>, bedraagt voor de daar bedoelde overtreder
 de bestuurlijke boete, bedoeld in het tweede en derde lid, ten hoogste
 &#x20AC;&#xA0;450&#xA0;000.</al>
@@ -7793,10 +7774,10 @@ roamingverordening ten
         <lidnr status="officieel">3</lidnr>
         <al>Voorzover de regels, bedoeld in het eerste lid, betrekking
             hebben op de vaststelling van de hoogte van de vergoeding
-            van de kosten van door het college te verrichten
-            werkzaamheden of diensten, betrekt Onze Minister het college
+            van de kosten van door de Autoriteit Consument en Markt te verrichten
+            werkzaamheden of diensten, betrekt Onze Minister de Autoriteit Consument en Markt
             bij die vaststelling. De betreffende vergoeding wordt
-            opgelegd door het college en voldaan aan het college. </al>
+            opgelegd door de Autoriteit Consument en Markt en voldaan aan de Autoriteit Consument en Markt. </al>
     </lid>
     <lid>
         <lidnr status="officieel">4</lidnr>
@@ -7858,7 +7839,7 @@ van de Europese Gemeenschap en die betrekking hebben op de elektronische communi
                 </li></lijst>
 </artikel>
     <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">18.2a</nr></kop>
-<al>Het college is de nationale regelgevende instantie, bedoeld in de
+<al>De Autoriteit Consument en Markt is de nationale regelgevende instantie, bedoeld in de
 roamingverordening.</al></artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -7869,36 +7850,18 @@ roamingverordening.</al></artikel><artikel status="goed">
     
     <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Onze Minister stelt het college in de gelegenheid hem advies uit te brengen over een voornemen om krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.16">artikel 3.16, tweede lid onder b</intref>, een of meer aanbieders van het verkrijgen van een vergunning uit te sluiten, indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is, of over het ontwerp van een besluit tot weigering, intrekking of wijziging van een vergunning voor zover dit verband houdt met het in aanzienlijke mate beperken van de daadwerkelijke mededinging op de relevante markt, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.18">artikelen 3.18, tweede lid, onder c</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.19">3.19, tweede lid, onder f</intref>.</al>
-                     </lid><lid>
-                        <lidnr status="officieel">2</lidnr>
-                        <al>Het
-college en de raad van bestuur van de mededingingsautoriteit maken in
-het belang van een effectieve en effici&#xEB;nte besluitvorming
-gezamenlijk afspraken over de wijze van behandeling van aangelegenheden
-van wederzijds belang. Daartoe stellen zij een samenwerkingsprotocol
-op. Het samenwerkingsprotocol wordt gepubliceerd in de
-Staatscourant.</al>
-                     </lid>
-                     <lid>
-                        <lidnr status="officieel">3</lidnr>
-                        <al>Het
-samenwerkingsprotocol bevat afspraken over de uitleg van begrippen die
-worden gehanteerd bij de toepassing van de <extref status="actief" doc="1.0:v:BWBR0008691&amp;artikel=24" compleet="nee">artikelen 24</extref> en <extref status="actief" doc="1.0:v:BWBR0008691&amp;artikel=88" compleet="nee">88 van de
-Mededingingswet</extref>, indien het college die begrippen hanteert bij de
-uitoefening van zijn
-bevoegdheden.</al>
+                        <al>Onze Minister stelt de Autoriteit Consument en Markt in de gelegenheid hem advies uit te brengen over een voornemen om krachtens <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.16">artikel 3.16, tweede lid onder b</intref>, een of meer aanbieders van het verkrijgen van een vergunning uit te sluiten, indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is, of over het ontwerp van een besluit tot weigering, intrekking of wijziging van een vergunning voor zover dit verband houdt met het in aanzienlijke mate beperken van de daadwerkelijke mededinging op de relevante markt, bedoeld in de <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.18">artikelen 3.18, tweede lid, onder c</intref>, en <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=3.19">3.19, tweede lid, onder f</intref>.</al>
                      </lid>
 <lid>
-                <lidnr status="officieel">4</lidnr>
-                <al>Het college en het Commissariaat voor de Media, bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=7.1" compleet="nee">artikel 7.1
+                <lidnr status="officieel">2</lidnr>
+                <al>De Autoriteit Consument en Markt en het Commissariaat voor de Media, bedoeld in <extref status="actief" doc="1.0:v:BWBR0025028&amp;artikel=7.1" compleet="nee">artikel 7.1
 van de Mediawet
 2008</extref>, maken in het belang van een effectieve en effici&#xEB;nte besluitvorming
 afspraken over de wijze van behandeling van aangelegenheden van wederzijds
 belang.</al>
               </lid><lid>
-                        <lidnr status="officieel">5</lidnr>
-                        <al>Onze Minister en het College bescherming persoonsgegevens, bedoeld in <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=51" compleet="nee">artikel 51 van de Wet bescherming persoonsgegevens</extref>, onderscheidenlijk het college en het College bescherming persoonsgegevens, maken in het belang van een effectief en effici&#xEB;nt toezicht op het verwerken van persoonsgegevens overeenkomstig de <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=11">hoofdstukken 11</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=13">13</intref> van deze wet afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang. Daartoe stellen zij een samenwerkingsprotocol vast. Het samenwerkingsprotocol wordt bekendgemaakt in de Staatscourant.</al>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Onze Minister en het College bescherming persoonsgegevens, bedoeld in <extref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=51" compleet="nee">artikel 51 van de Wet bescherming persoonsgegevens</extref>, onderscheidenlijk de Autoriteit Consument en Markt en het College bescherming persoonsgegevens, maken in het belang van een effectief en effici&#xEB;nt toezicht op het verwerken van persoonsgegevens overeenkomstig de <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=11">hoofdstukken 11</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=13">13</intref> van deze wet afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang. Daartoe stellen zij een samenwerkingsprotocol vast. Het samenwerkingsprotocol wordt bekendgemaakt in de Staatscourant.</al>
                      </lid></artikel>
     <artikel status="goed">
                      <kop>
@@ -7907,11 +7870,11 @@ belang.</al>
                      </kop>
                      <lid>
                         <lidnr status="officieel">1</lidnr>
-                        <al>Onze Minister, onderscheidenlijk het college, verstrekken elkaar en andere bestuursorganen de gegevens betreffende aanbieders van elektronische communicatiediensten en de door hen verwerkte persoonsgegevens welke zij behoeven ter uitvoering van hun taak.</al>
+                        <al>Onze Minister, onderscheidenlijk de Autoriteit Consument en Markt, verstrekken elkaar en andere bestuursorganen de gegevens betreffende aanbieders van elektronische communicatiediensten en de door hen verwerkte persoonsgegevens welke zij behoeven ter uitvoering van hun taak.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">2</lidnr>
-                        <al>Andere bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd Onze Minister onderscheidenlijk het college de gegevens te verstrekken die noodzakelijk zijn voor de uitvoering en het toezicht op de naleving van deze wet.</al>
+                        <al>Andere bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd Onze Minister onderscheidenlijk de Autoriteit Consument en Markt de gegevens te verstrekken die noodzakelijk zijn voor de uitvoering en het toezicht op de naleving van deze wet.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">3</lidnr>
@@ -8006,11 +7969,11 @@ elektronische communicatiediensten die in Nederland of in een
               </kop>
               <lid>
                 <lidnr status="officieel">1</lidnr>
-                <al>Onze Minister, onderscheidenlijk het college, is bevoegd voor een juiste
+                <al>Onze Minister, onderscheidenlijk de Autoriteit Consument en Markt, is bevoegd voor een juiste
 uitvoering van het bepaalde bij of krachtens deze wet of bij de
 roamingverordening van een ieder te allen
 tijde inlichtingen te vorderen voor zover dit redelijkerwijs voor de vervulling
-van zijn taak nodig is.</al>
+van zijn, onderscheidenlijk haar, taak nodig is.</al>
               </lid>
               <lid>
                         <lidnr status="officieel">2</lidnr>
@@ -8026,7 +7989,7 @@ verwerken.</al>
                 <lidnr status="officieel">3</lidnr>
                 <al>Degene van wie krachtens het eerste lid inlichtingen zijn gevorderd, is
 verplicht deze onverwijld te geven, maar in elk geval binnen de daartoe door
-Onze Minister, onderscheidenlijk het college, te stellen termijn.</al>
+Onze Minister, onderscheidenlijk de Autoriteit Consument en Markt, te stellen termijn.</al>
               </lid>
               <lid>
                 <lidnr status="officieel">4</lidnr>
@@ -8047,18 +8010,17 @@ gegeven en</al></li>
               <lid>
                 <lidnr status="officieel">5</lidnr>
                 <al>Degene van wie de verstrekking van inlichtingen is gevorderd, is verplicht
-binnen de door Onze Minister, onderscheidenlijk het college, te bepalen redelijke
+binnen de door Onze Minister, onderscheidenlijk de Autoriteit Consument en Markt, te bepalen redelijke
 termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen
-bij het uitoefenen van zijn bevoegdheden. <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A20" compleet="nee">Artikel 5:20, tweede lid, van de
+bij het uitoefenen van zijn, onderscheidenlijk haar, bevoegdheden. <extref status="actief" doc="1.0:v:BWBR0005537&amp;artikel=5%3A20" compleet="nee">Artikel 5:20, tweede lid, van de
 Algemene wet bestuursrecht</extref> is van toepassing.</al>
               </lid>
               <lid>
                 <lidnr status="officieel">6</lidnr>
                 <al>Met het oog op het bevorderen van een open en concurrerende markt in de
-elektronische communicatiesector maakt het college informatie met betrekking
+elektronische communicatiesector maakt de Autoriteit Consument en Markt informatie met betrekking
 tot aanbieders van openbare elektronische communicatienetwerken, bijbehorende
-faciliteiten of openbare elektronische communicatiediensten op een door het
-college te bepalen wijze bekend voor zover die informatie verband houdt met
+faciliteiten of openbare elektronische communicatiediensten op een door de Autoriteit Consument en Markt te bepalen wijze bekend voor zover die informatie verband houdt met
 bij of krachtens de <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=4">hoofdstukken 4 tot en met 9</intref> en <intref status="actief" doc="1.0:v:BWBR0009950&amp;hoofdstuk=11">11</intref> van deze wet opgelegde
 verplichtingen. Van gegevens als bedoeld in <extref status="actief" doc="1.0:v:BWBR0005252&amp;artikel=10" compleet="nee">artikel 10, eerste
 lid, onderdeel c, van de Wet openbaarheid van bestuur</extref> wordt geen mededeling
@@ -8185,8 +8147,7 @@ elektronische communicatiediensten als gevolg van
     <lid>
         <lidnr status="officieel">2</lidnr>
         <al>Bij de regels, bedoeld in het eerste lid, kunnen taken
-            worden opgedragen en bevoegdheden worden verleend aan het
-            college. </al>
+            worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt. </al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -8353,25 +8314,7 @@ nakomt.</al></lid></artikel><artikel status="goed">
 d</intref>, is be&#xEB;indigd verboden
 					 gekwalificeerde certificaten aan het publiek aan te bieden of af te geven
 					 zolang hij niet opnieuw is geregistreerd.</al>
-				</artikel><artikel status="goed">
-              <kop>
-                <label>Artikel</label>
-                <nr status="officieel">18.19</nr>
-              </kop>
-              <al>In afwijking van <extref status="actief" doc="1.0:v:BWBR0008807&amp;artikel=24" compleet="nee">artikel 24 van de Wet Onafhankelijke post- en telecommunicatieautoriteit</extref>,
-onderscheidenlijk <extref status="actief" doc="1.0:v:BWBR0008691&amp;artikel=91" compleet="nee">artikel 91 van de Mededingingswet</extref>, verstrekken het college
-en de raad van bestuur van de mededingingsautoriteit elkaar
-op verzoek de gegevens of inlichtingen die van betekenis zijn of kunnen zijn
-voor de uitoefening van de taken en bevoegdheden die bij of krachtens de Telecommunicatiewet
-aan het college zijn opgedragen, respectievelijk zijn verleend, mits:</al>
-              <lijst level="single" nr-sluiting="" start="1" type="expliciet"><li><li.nr>a.</li.nr>
-                  <al>de geheimhouding van de gegevens of inlichtingen in voldoende mate
-is gewaarborgd, en</al>
-                </li><li><li.nr>b.</li.nr>
-                  <al>voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen
-worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.</al>
-                </li></lijst>
-            </artikel>
+				</artikel>
             <artikel status="goed">
               <kop>
                 <label>Artikel</label>
@@ -8379,12 +8322,12 @@ worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.</al>
               </kop>
               <lid>
                 <lidnr status="officieel">1</lidnr>
-                <al>Het college verstrekt na een daartoe strekkend verzoek van de Europese Commissie, van BEREC dan wel van een nationale regelgevende instantie, de gegevens of inlichtingen die de Europese Commissie, respectievelijk BEREC en het Bureau, respectievelijk die nationale regelgevende instantie nodig heeft voor de uitoefening van haar taken uit hoofde van het recht van de Europese Unie mits:</al>
+                <al>De Autoriteit Consument en Markt verstrekt na een daartoe strekkend verzoek van de Europese Commissie, van BEREC dan wel van een nationale regelgevende instantie, de gegevens of inlichtingen die de Europese Commissie, respectievelijk BEREC en het Bureau, respectievelijk die nationale regelgevende instantie nodig heeft voor de uitoefening van haar taken uit hoofde van het recht van de Europese Unie mits:</al>
                 <lijst level="single" nr-sluiting="." start="1" type="expliciet">
               <li>
                 <li.nr>a.</li.nr>
                 
-              <al>de geheimhouding, voor zover er naar het oordeel van het college sprake
+              <al>de geheimhouding, voor zover er naar het oordeel van de Autoriteit Consument en Markt sprake
 is van bedrijfsvertrouwelijke gegevens of inlichtingen, van de gegevens of
 inlichtingen in voldoende mate is gewaarborgd,</al></li>
             <li>
@@ -8394,25 +8337,25 @@ inlichtingen in voldoende mate is gewaarborgd,</al></li>
 worden gebruikt voor een ander doel dan waarvoor deze zijn verstrekt, en</al></li><li>
                 <li.nr>c.</li.nr>
                 
-              <al>het verzoek gegevens of inlichtingen betreft die het college uit hoofde
-van zijn taken en bevoegdheden op grond van deze wet heeft verkregen.</al></li></lijst>
+              <al>het verzoek gegevens of inlichtingen betreft die de Autoriteit Consument en Markt uit hoofde
+van haar taken en bevoegdheden op grond van deze wet heeft verkregen.</al></li></lijst>
                 
                 
               </lid>
               <lid>
                 <lidnr status="officieel">2</lidnr>
-                <al>Indien het college van oordeel is dat er sprake is van bedrijfsvertrouwelijke
-gegevens of inlichtingen, vermeldt het college bij het verstrekken van die
+                <al>Indien de Autoriteit Consument en Markt van oordeel is dat er sprake is van bedrijfsvertrouwelijke
+gegevens of inlichtingen, vermeldt de Autoriteit Consument en Markt bij het verstrekken van die
 gegevens of inlichtingen aan de Commissie van de Europese Gemeenschappen, BEREC en het Bureau onderscheidenlijk
 de nationale regelgevende instantie, uitdrukkelijk en met redenen omkleed
 dat die informatie niet aan derden ter beschikking mag worden gesteld.</al>
               </lid>
               <lid>
                 <lidnr status="officieel">3</lidnr>
-                <al>Indien het college aan de Commissie van de Europese Gemeenschappen gegevens
-of inlichtingen verstrekt die het college heeft verkregen van een aanbieder
+                <al>Indien de Autoriteit Consument en Markt aan de Commissie van de Europese Gemeenschappen gegevens
+of inlichtingen verstrekt die de Autoriteit Consument en Markt heeft verkregen van een aanbieder
 van een openbaar elektronisch communicatienetwerk, een openbare elektronische
-communicatiedienst of bijbehorende faciliteiten, stelt het college de betreffende
+communicatiedienst of bijbehorende faciliteiten, stelt de Autoriteit Consument en Markt de betreffende
 aanbieder daarvan op de hoogte.</al>
               </lid>
             </artikel>
@@ -8495,7 +8438,7 @@ gedaan door:</al>
                 <li.nr>a.</li.nr>
                 
               <al>degene die voor de inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees
-regelgevingskader voor de elektronische communicatiesector 2002</extref> door het college
+regelgevingskader voor de elektronische communicatiesector 2002</extref> door de Autoriteit Consument en Markt
 is geregistreerd;</al></li>
             <li>
                 <li.nr>b.</li.nr>
@@ -8518,23 +8461,28 @@ als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">a
                   <al>Een vergunning voor het gebruik van frequentieruimte die bestemd is voor
 het aanbieden van een openbaar elektronisch communicatienetwerk of een openbare
 elektronische communicatiedienst, wordt aangemerkt als een mededeling als
-bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, eerste lid</intref>. Onze Minister verstrekt het college de
+bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.1">artikel 2.1, eerste lid</intref>. Onze Minister verstrekt de Autoriteit Consument en Markt de
 daarvoor benodigde gegevens.</al>
                 </lid>
                 <lid>
                   <lidnr status="officieel">4</lidnr>
                   <al>Een op grond van het tweede of derde lid geregistreerde rechtspersoon
 kan tot uiterlijk zes maanden na de inwerkingtreding van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie
-Europees regelgevingskader voor de elektronische communicatiesector 2002</extref> het
-college verzoeken om een verklaring als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.4">artikel 2.4, eerste lid</intref>.</al>
+Europees regelgevingskader voor de elektronische communicatiesector 2002</extref> de Autoriteit Consument en Markt verzoeken om een verklaring als bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.4">artikel 2.4, eerste lid</intref>.</al>
                 </lid>
               </artikel>
-              <artikel status="goed"><kop><label>Artikel</label><nr>19.3</nr></kop><al>De in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, tweede lid</intref>, bedoelde relevante markten die nodig zijn
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">19.3</nr>
+                </kop>
+                <al>De in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=6a.1">artikel 6a.1, tweede lid</intref>, bedoelde relevante markten die nodig zijn
 voor de in de artikelen 27 van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/21/EG</extref>, 7, derde lid, van
 <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/19/EG</extref> of&#xA0;16, derde lid, van <extref doc="" label="richtlijn" reeks="Celex" compleet="nee">richtlijn nr. 2002/22/EG</extref>,
-bedoelde marktanalyses, worden door het college zo spoedig mogelijk na inwerkingtreding
+bedoelde marktanalyses, worden door de Autoriteit Consument en Markt zo spoedig mogelijk na inwerkingtreding
 van de <extref status="actief" doc="1.0:v:BWBR0016635" compleet="nee">Wet implementatie Europees regelgevingskader voor de elektronische
-communicatiesector 2002</extref> bepaald.</al></artikel>
+communicatiesector 2002</extref> bepaald.</al>
+              </artikel>
               
               
               
@@ -8964,8 +8912,8 @@ ondersteuningswerken.</al></lid></artikel>
 een certificatiedienstverlener voorafgaand aan het tijdstip van
 inwerkingtreding van de ministeri&#xEB;le regeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel
 2.3, derde lid, </intref>reeds geregistreerd is, vindt verstrekking van de
-krachtens artikel 2.3, vierde lid, aan het college te overleggen
-gegevens plaats binnen een door het college zo spoedig mogelijk na
+krachtens artikel 2.3, vierde lid, aan de Autoriteit Consument en Markt te overleggen
+gegevens plaats binnen een door de Autoriteit Consument en Markt zo spoedig mogelijk na
 inwerkingtreding van de regeling te bepalen redelijke
 termijn.</al>
                      </lid>
@@ -8974,8 +8922,7 @@ termijn.</al>
                         <al>Indien de
 certificatiedienstverlener aantoont redelijkerwijs niet binnen de
 gestelde termijn, bedoeld in het eerste lid, alsnog de gegevens,
-bedoeld in dat lid, aan het college te kunnen verstrekken, kan het
-college de termijn verlengen.</al>
+bedoeld in dat lid, aan de Autoriteit Consument en Markt te kunnen verstrekken, kan de Autoriteit Consument en Markt de termijn verlengen.</al>
                      </lid>
                      <lid>
                         <lidnr status="officieel">3</lidnr>
@@ -8994,8 +8941,8 @@ voorafgaand aan het tijdstip van inwerkingtreding van de
 ministeri&#xEB;le regeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel 2.3, derde lid</intref>, is
 ingediend, en die aanvraag op of na het tijdstip van inwerkingtreding
 van die regeling tot een registratie leidt, vindt verstrekking van de
-krachtens artikel 2.3, vierde lid, aan het college te overleggen
-gegevens plaats binnen een door het college te bepalen redelijke
+krachtens artikel 2.3, vierde lid, aan de Autoriteit Consument en Markt te overleggen
+gegevens plaats binnen een door de Autoriteit Consument en Markt te bepalen redelijke
 termijn, die zo spoedig mogelijk na die registratie aanvangt. Het
 tweede en derde lid zijn van overeenkomstige toepassing.</al>
                      </lid>
@@ -9013,8 +8960,8 @@ aanvraag niet van toepassing.</al>
                         <lidnr status="officieel">6</lidnr>
                         <al>De
 ministeri&#xEB;le regeling, bedoeld in <intref status="actief" doc="1.0:v:BWBR0009950&amp;artikel=2.3">artikel 2.3, derde lid</intref>, heeft
-jegens het college geen werking ten aanzien van de verplichting voor
-het college in het register gegevens op te nemen, die krachtens artikel
+jegens de Autoriteit Consument en Markt geen werking ten aanzien van de verplichting voor
+de Autoriteit Consument en Markt in het register gegevens op te nemen, die krachtens artikel
 2.3, vierde lid, door een certificaatdienstverlener verstrekt dienen te
 worden binnen een termijn als bedoeld in het eerste, tweede of vijfde
 lid, totdat die termijn verstreken
