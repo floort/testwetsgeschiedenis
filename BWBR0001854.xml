@@ -19049,19 +19049,7 @@ categorie.</al>
         <nr>IX</nr>
         <titel status="officieel">Scheepvaartovertredingen</titel>
     </kop>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>469</nr>
-    </kop>
     
-    <al>De schipper van een Nederlands vaartuig die naar zee vertrekt
-        alvorens hij de in <extref status="actief" doc="1.0:v:BWBR0001838&amp;artikel=451" compleet="nee">artikel 451 van het Wetboek van
-        Koophandel</extref> vereiste monsterrol heeft opgemaakt
-        of bijgesteld, heeft ondertekend en heeft gezonden aan de inspecteur-generaal
-van de Inspectie Verkeer en Waterstaat, wordt gestraft met geldboete van de
-        tweede categorie.</al>
-</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -19074,18 +19062,7 @@ van de Inspectie Verkeer en Waterstaat, wordt gestraft met geldboete van de
         andere gegevensdragers aan boord heeft, wordt gestraft met
         geldboete van de eerste categorie.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>470a</nr>
-    </kop>
     
-    <al>De schipper van een Nederlands vaartuig die daarmede een reis
-        onderneemt zonder dat voor zijn schip een, door <extref status="actief" doc="1.0:v:BWBR0001838&amp;artikel=407" compleet="nee">artikel 407 van het Wetboek van
-        Koophandel</extref> vereist, certificaat voor de
-        verblijven is afgegeven en nog geldig is, wordt gestraft met
-        hechtenis van ten hoogste een maand of geldboete van de tweede categorie.</al>
-</artikel>
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
@@ -19181,30 +19158,15 @@ van de Inspectie Verkeer en Waterstaat, wordt gestraft met geldboete van de
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>475</nr>
+        <nr status="officieel">475</nr>
     </kop>
     
-    <al>De eigenaar zowel als de rompbevrachter, die de hem in
-            <extref status="actief" doc="1.0:v:BWBR0001838&amp;artikel=451e" compleet="nee">het derde lid van artikel 451<nadruk type="cur">e</nadruk> van het Wetboek van
-        Koophandel</extref> opgelegde verplichting, en de
-        schipper die een der hem in <extref status="actief" doc="1.0:v:BWBR0001838&amp;artikel=451e" compleet="nee">het eerste en derde lid van dat
-        artikel</extref> opgelegde verplichtingen niet nakomt,
-        worden gestraft met geldboete van de tweede categorie.</al>
+    <al>Degene die in strijd handelt met de hem in <extref status="actief" doc="1.0:v:BWBR0009124&amp;artikel=38a" compleet="nee">artikel
+38a Wet zeevarenden</extref> opgelegde verplichtingen, wordt gestraft met een
+geldboete van de tweede
+categorie.</al>
 </artikel>
-    <artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>476</nr>
-    </kop>
     
-    
-    <al>De eigenaar, de rompbevrachter en de schipper van een Nederlands
-        vaartuig aan boord waarvan personen als schepelingen werkzaam
-        zijn in strijd met het verbod van <extref status="actief" doc="1.0:v:BWBR0001838&amp;artikel=406" compleet="nee">artikel 406</extref> of
-            <extref status="actief" doc="1.0:v:BWBR0001838&amp;artikel=452s" compleet="nee">artikel 452<nadruk type="cur">s</nadruk> van het Wetboek van
-        Koophandel</extref>, worden gestraft met geldboete van
-        de eerste categorie voor iedere persoon die aldus werkzaam is.</al>
-</artikel>
     
     
 </titeldeel>
