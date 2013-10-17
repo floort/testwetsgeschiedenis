@@ -7374,10 +7374,11 @@ komen.</al></lid><lid>
     <paragraaf>
     <kop>
         <label>&#xA7;</label>
-        <nr>15.1</nr>
-        <titel>Algemeen  </titel>
+        <nr status="officieel">15.1</nr>
+        <titel status="officieel">Algemeen  </titel>
     </kop>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
                 <label>Artikel</label>
                 <nr status="officieel">15.1</nr>
@@ -7436,7 +7437,8 @@ wet en voor zover Onze Minister de geadresseerde is.</al>
 mededeling gedaan door plaatsing in de Staatscourant.</al>
               </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">15.2</nr>
@@ -7484,7 +7486,8 @@ elektronische communicatiedienst of bijbehorende faciliteiten of voor gebruikers
 van een openbaar elektronisch communicatienetwerk, of een openbare elektronische
 communicatiedienst.</al>
               </lid></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
               <kop>
                 <label>Artikel</label>
                 <nr status="officieel">15.2a</nr>
@@ -7547,7 +7550,8 @@ openbare elektronische communicatiedienst.</al></li></lijst>
 Minister, onderscheidenlijk de Autoriteit Consument en Markt, mededeling gedaan in de Staatscourant.
 Het treedt niet eerder in werking dan twee weken na die mededeling.</al>
               </lid>
-            </artikel><artikel status="goed">
+            </artikel>
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">15.3</nr>
@@ -7559,7 +7563,13 @@ Het treedt niet eerder in werking dan twee weken na die mededeling.</al>
         van een desbetreffend radiozendapparaat een geheel of
         gedeeltelijk zendverbod op te leggen. </al>
 </artikel>
-</paragraaf>
+<artikel status="goed">
+                  <kop>
+                     <label>Artikel</label>
+                     <nr status="officieel">15.3a</nr>
+                  <al><redactie type="extra">Treedt in werking per 01-01-2014</redactie></al></kop>
+                  <al>Ingeval bij of krachtens deze wet regels worden gesteld ter uitvoering van het Internationaal Telecommunicatieverdrag dan wel ter uitvoering van verordeningen, richtlijnen of besluiten als bedoeld in artikel 288 van het Verdrag inzake de werking van de Europese Unie op het gebied van openbare elektronische communicatienetwerken en -diensten, kan overtreding van die regels ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze regels in de Engelse taal zijn gesteld en bekend gemaakt.</al>
+               </artikel></paragraaf>
     <paragraaf>
     <kop>
                            <label>&#xA7;</label>
