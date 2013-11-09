@@ -2145,10 +2145,11 @@ wet</extref> van toepassing.</al>
     <paragraaf>
     <kop>
         <label>Paragraaf</label>
-        <nr>1</nr>
-        <titel>Het College bescherming persoonsgegevens</titel>
+        <nr status="officieel">1</nr>
+        <titel status="officieel">Het College bescherming persoonsgegevens</titel>
     </kop>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>51</nr>
@@ -2173,7 +2174,8 @@ wet</extref> van toepassing.</al>
             verwerking van persoonsgegevens.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>52</nr>
@@ -2188,7 +2190,8 @@ wet</extref> van toepassing.</al>
         <al>Het College vervult zijn taken in onafhankelijkheid.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">53</nr>
@@ -2233,7 +2236,8 @@ wet</extref> van toepassing.</al>
             kosten aan de leden vastgesteld.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">54</nr>
@@ -2274,7 +2278,8 @@ wet</extref> van toepassing.</al>
         </lijst>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>55</nr>
@@ -2297,7 +2302,8 @@ wet</extref> van toepassing.</al>
             hun werkzaamheden voor het College. </al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>56</nr>
@@ -2332,7 +2338,8 @@ wet</extref> van toepassing.</al>
             spoedig mogelijk gezonden aan Onze Minister en behoeft diens goedkeuring.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>57</nr>
@@ -2349,7 +2356,8 @@ wet</extref> van toepassing.</al>
             hierbij zoveel mogelijk de buitengewone leden.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>58</nr>
@@ -2363,7 +2371,8 @@ wet</extref> van toepassing.</al>
         gegevensbescherming als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=62">artikel 62</intref> toegezonden en
         algemeen verkrijgbaar gesteld.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>59</nr>
@@ -2384,7 +2393,21 @@ wet</extref> van toepassing.</al>
             dat het geheime karakter daarvan wordt gehandhaafd.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">59a</nr>
+                        <al><redactie type="extra">Treedt in werking per 01-01-2014</redactie></al></kop>
+                        <lid>
+                           <lidnr status="officieel">1</lidnr>
+                           <al>De <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=21" compleet="nee">artikelen 21</extref> en <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=22" compleet="nee">22 van de Kaderwet</extref> zijn niet van toepassing op het College.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2</lidnr>
+                           <al><extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=23" compleet="nee">Artikel 23 van de Kaderwet</extref> vindt slechts toepassing ten aanzien van het door het College gevoerde financi&#xEB;le beheer en de administratieve organisatie.</al>
+                        </lid>
+                     </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>60</nr>
@@ -2420,7 +2443,8 @@ wet</extref> van toepassing.</al>
             de belanghebbende zodanig bericht als hem geraden voorkomt.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">61</nr>
