@@ -5725,7 +5725,8 @@ is.</al></lid></artikel>
         <nr status="officieel">VIII A</nr>
         <titel status="officieel">Bijzondere bepalingen voor jeugdige personen</titel>
     </kop>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77a</nr>
@@ -5738,7 +5739,8 @@ is.</al></lid></artikel>
         niet van toepassing. In de plaats daarvan treden de bijzondere
         bepalingen vervat in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77d">artikelen 77d tot en met 77gg</intref>.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77b</nr>
@@ -5756,7 +5758,8 @@ is.</al></lid></artikel>
 <lidnr status="officieel">2</lidnr><al>Bij toepassing van het eerste lid kan levenslange
 gevangenisstraf niet worden
 opgelegd.</al></lid></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77c</nr>
@@ -5773,7 +5776,8 @@ opgelegd.</al></lid></artikel>
         overeenkomstig <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37a">artikel
 37a</intref>.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77d</nr>
@@ -5801,7 +5805,8 @@ bereikt.</al>
                         <al>Het recht tot strafvordering voor misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld, en de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=243">243</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=245">245</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=246">246</intref> voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, verjaart in twintig jaren.</al>
                      </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>77e</nr>
@@ -5868,7 +5873,8 @@ bereikt.</al>
             voltooide deelneming.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77f</nr>
@@ -5897,7 +5903,8 @@ identiteitsbewijs als bedoeld in <extref status="actief" doc="1.0:v:BWBR0006297&
 identificatieplicht</extref> ter inzage
 aanbiedt.</al>
                      </lid></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77g</nr>
@@ -5917,7 +5924,9 @@ met andere maatregelen worden
 opgelegd.</al></lid>
 </artikel>
     
-    <artikel status="goed">
+
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77h</nr>
@@ -6005,7 +6014,9 @@ maatregel.</al>
     </lid>
 </artikel>
     
-    <artikel status="goed">
+
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>77i</nr>
@@ -6040,7 +6051,8 @@ maatregel.</al>
             veroordeling tot jeugddetentie van overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>77j</nr>
@@ -6089,7 +6101,8 @@ maatregel.</al>
             77ee</intref> zijn van overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77k</nr>
@@ -6104,7 +6117,8 @@ maatregel.</al>
         bereikt en deze naar het oordeel van de rechter niet meer voor
         een zodanige straf in aanmerking komt.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77l</nr>
@@ -6178,7 +6192,8 @@ jeugddetentie.</al></lid>
             van overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed"> 
+    
+<artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr status="officieel">77m</nr> 
@@ -6247,7 +6262,31 @@ hij ongeoorloofd afwezig
 is.</al> 
   </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">77ma</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-04-2014</redactie></al></kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Een taakstraf wordt niet opgelegd in geval van veroordeling voor:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld en dat een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>een van de misdrijven omschreven in de <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=240b">artikelen 240b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248a">248a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248b">248b</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=248c">248c</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=250">250</intref>.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Van het eerste lid kan worden afgeweken indien naast de taakstraf, jeugddetentie, de maatregel betreffende het gedrag of de maatregel plaatsing in een inrichting voor jeugdigen wordt opgelegd.</al>
+                     </lid>
+                  </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>77n</nr>
@@ -6281,7 +6320,8 @@ is.</al>
             plaats tot het naaste aantal gehele dagen.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77o</nr>
@@ -6340,7 +6380,8 @@ strafbeschikking kan of heeft
             wijzigen. Het tweede lid is van overeenkomstige toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77p</nr>
@@ -6380,7 +6421,8 @@ wordt de vervangende jeugddetentie ten uitvoer gelegd als vervangende
 hechtenis, tenzij in het vonnis is bepaald dat de veroordeelde ook in het geval hij de leeftijd van achttien jaren heeft
 bereikt in aanmerking komt voor vervangende
 jeugddetentie.</al></lid></artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>77q</nr></kop><lid><lidnr>1</lidnr><al>Het openbaar ministerie kan slechts een beslissing nemen of
+    
+<artikel status="goed"><kop><label>Artikel</label><nr>77q</nr></kop><lid><lidnr>1</lidnr><al>Het openbaar ministerie kan slechts een beslissing nemen of
             een bevel
 geven krachtens <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">artikel 77o, tweede
             lid</intref>, onderscheidenlijk <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77p">artikel 77p, eerste
@@ -6390,7 +6432,8 @@ geven krachtens <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">
                 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77m">artikel 77m</intref>.</al></lid><lid><lidnr>2</lidnr><al> Indien naar het oordeel van het openbaar ministerie de
             opgelegde taakstraf naar behoren is uitgevoerd, stelt het zo
             spoedig mogelijk de veroordeelde hiervan in kennis.</al></lid></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>77r</nr>
@@ -6404,7 +6447,8 @@ geven krachtens <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77o">
         motorrijtuigen</extref> (<nadruk type="cur">Stb.</nadruk> 1963, 228). Die artikelen zijn dan van
         overeenkomstige toepassing.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77s</nr>
@@ -6524,7 +6568,9 @@ be&#xEB;indigen.</al>
                      </lid>
 </artikel>
     
-    <artikel status="goed">
+
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77t</nr>
@@ -6596,7 +6642,8 @@ a, worden verlengd indien
             worden uitgebracht.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">77ta</nr>
@@ -6646,7 +6693,8 @@ voldoet, wordt het openbaar ministerie door de stichting, de reclasseringsinstel
                         <al>Een jaar nadat de maatregel voorwaardelijk is ge&#xEB;indigd als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77s">artikel 77s, zesde lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77t">artikel 77t, tweede lid</intref>, eindigt de maatregel van rechtswege onvoorwaardelijk, tenzij de voorwaardelijke be&#xEB;indiging wordt verlengd op de wijze als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77tb">artikel 77tb</intref>. In de gevallen waarin de voorwaardelijke be&#xEB;indiging is verlengd, eindigt de maatregel onvoorwaardelijk nadat de maximale duur van de voorwaardelijke be&#xEB;indiging is bereikt.</al>
                      </lid>
                   </artikel>
-                  <artikel status="goed">
+                  
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">77tb</nr>
@@ -6708,7 +6756,53 @@ vordering tot voorlopige tenuitvoerlegging in bij de
 rechter-commissaris en een vordering als bedoeld in het derde lid bij
 de
 rechter.</al>
-                     </lid></artikel><artikel status="goed">
+                     </lid></artikel>
+<artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">77tc</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-04-2014</redactie></al></kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>De maatregel tot plaatsing in een inrichting voor jeugdigen die is verlengd tot de in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77t">artikel 77t, tweede lid</intref>, bedoelde duur van zeven jaren, kan door de rechter ambtshalve of op vordering van het openbaar ministerie worden omgezet in de maatregel, bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37a">artikel 37a</intref>, indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen de omzetting in die maatregel eist.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>De beslissing tot omzetting geldt als een last als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37a">artikel 37a</intref>. De rechter geeft daarbij het bevel, bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37b">artikel 37b</intref>. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=37">artikelen 37, tweede en derde lid</intref>, en 37a zijn van overeenkomstige toepassing.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al>Met de omzetting eindigt de maatregel tot plaatsing in een inrichting voor jeugdigen onvoorwaardelijk.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>De beslissing, bedoeld in het eerste lid, wordt genomen:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>voordat de maatregel voorwaardelijk eindigt op de wijze, bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77t">artikel 77t, tweede lid</intref>;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>tijdens de voorwaardelijke be&#xEB;indiging, bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77tb">77tb, eerste en tweede lid</intref>.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">5</lidnr>
+                        <al>Bij de beslissing betrekt de rechter:</al>
+                        <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>een recent opgemaakt, met redenen omkleed en ondertekend advies afkomstig van het hoofd van de inrichting, en</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>een afschrift van de aantekeningen omtrent de lichamelijke en geestelijke gesteldheid van de veroordeelde.</al>
+                           </li>
+                        </lijst>
+                     </lid>
+                  </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77u</nr>
@@ -6728,7 +6822,8 @@ lid</intref>,
         toepassing, onverminderd de <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=502" compleet="nee">artikelen 502</extref> en
             <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=503" compleet="nee">503 van het Wetboek van Strafvordering</extref>.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77v</nr>
@@ -6765,7 +6860,8 @@ gevallen,
             kinderbescherming inwinnen omtrent de plaats van de tenuitvoerlegging.</al>
     </lid>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">77w</nr></kop>
+    
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">77w</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>De maatregel betreffende het gedrag van de
 jeugdige kan slechts worden opgelegd,
 indien:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><li>
@@ -6821,7 +6917,8 @@ lid</intref>.</al></lid><lid><lidnr status="officieel">7</lidnr><al>De termijn v
 de maatregel loopt niet gedurende de tijd dat aan de veroordeelde uit
 anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd
 dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig
-is.</al></lid></artikel><artikel status="goed"><kop>
+is.</al></lid></artikel>
+<artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">77wa</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>De rechter kan bepalen dat het in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77w">artikel
 77w, derde lid</intref>, bedoelde programma geheel of ten dele komt te bestaan
@@ -6841,7 +6938,8 @@ zorg als bedoeld in het eerste
 lid.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien de rechter toepassing
 heeft gegeven aan het bepaalde in het tweede lid, doet de raad daarvan
 onverwijld mededeling aan de stichting als bedoeld in <extref status="actief" doc="1.0:v:BWBR0016637&amp;artikel=1" compleet="nee">artikel 1, onder
-f, van de Wet op de jeugdzorg</extref>.</al></lid></artikel><artikel status="goed"><kop>
+f, van de Wet op de jeugdzorg</extref>.</al></lid></artikel>
+<artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">77wb</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Indien het gedrag van de veroordeelde daartoe
 aanleiding geeft of wijziging van de maatregel in het belang is van de
@@ -6854,7 +6952,8 @@ overleggen van de raad voor de
 kinderbescherming.</al></lid><lid><lidnr status="officieel">3</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77w">Artikel 77w,
 tweede lid, eerste volzin, derde, vierde, zesde en zevende
 lid</intref>, is van overeenkomstige toepassing op de beslissing tot wijziging
-van de maatregel.</al></lid></artikel><artikel status="goed"><kop>
+van de maatregel.</al></lid></artikel>
+<artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">77wc</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>In het vonnis waarbij de maatregel
 betreffende het gedrag van de jeugdige wordt opgelegd, beveelt de
@@ -6869,7 +6968,8 @@ maand.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Wanneer een gedeelt
 maatregel ten uitvoer is gelegd, vermindert de duur van de vervangende
 jeugddetentie naar
 evenredigheid.</al></lid><lid><lidnr status="officieel">4</lidnr><al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77p">Artikel 77p</intref> is van
-overeenkomstige toepassing.</al></lid></artikel><artikel status="goed"><kop>
+overeenkomstige toepassing.</al></lid></artikel>
+<artikel status="goed"><kop>
 <label>Artikel</label><nr status="officieel">77wd</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Indien het gedrag van de veroordeelde daartoe
 aanleiding geeft en verlenging in het belang is van de ontwikkeling van
@@ -6906,7 +7006,8 @@ organisatie.</al></lid><lid>
 <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wa">artikelen 77wa</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wb">77wb</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77wc">77wc</intref> zijn van overeenkomstige
 toepassing.</al>
                      </lid></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">77we</nr>
@@ -6925,7 +7026,8 @@ geval niet aan de maatregel wordt voldaan.</al>
 lid</intref>, zijn van overeenkomstige toepassing.</al>
                      </lid>
                   </artikel>
-                  <artikel status="goed">
+                  
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">77wf</nr>
@@ -6965,7 +7067,8 @@ de vordering. De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=14i"
 Strafvordering</extref>, zijn van overeenkomstige
 toepassing.</al>
                      </lid>
-                  </artikel><artikel status="goed"> 
+                  </artikel>
+<artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr status="officieel">77x</nr> 
@@ -6975,7 +7078,8 @@ jeugddetentie daaronder niet begrepen, tot taakstraf, tot geldboete of tot ontze
 bevoegdheid motorrijtuigen te besturen, kan de rechter bepalen dat deze
 geheel of gedeeltelijk niet ten uitvoer zal worden gelegd.</al></lid>
 <lid><lidnr status="officieel">2</lidnr><al>In geval van een veroordeling tot plaatsing in een inrichting voor jeugdigen kan de rechter bepalen dat deze niet ten uitvoer zal worden gelegd.</al></lid></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77y</nr>
@@ -7021,7 +7125,8 @@ zijn vrijheid is ontnomen of de veroordeelde uit zodanige
 vrijheidsontneming ongeoorloofd afwezig
 is.</al></lid>
 </artikel>
-    <artikel status="goed"> 
+    
+<artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr status="officieel">77z</nr> 
@@ -7039,7 +7144,8 @@ bijzondere voorwaarden beperken tot een bij de uitspraak te bepalen
 tijdsduur binnen de
 proeftijd.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">77za</nr>
@@ -7065,7 +7171,8 @@ van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op
 vordering van het openbaar ministerie, worden
 opgeheven.</al>
                      </lid>
-                  </artikel><artikel status="goed">
+                  </artikel>
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77aa</nr>
@@ -7110,7 +7217,8 @@ van Justitie en van Volksgezondheid, Welzijn en Sport, kunnen regels worden
 gesteld omtrent de aard en de omvang van de hulp en steun, bedoeld in het
 tweede en derde lid.</al>
                   </lid></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>77bb</nr>
@@ -7123,7 +7231,8 @@ tweede en derde lid.</al>
             <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77x">artikel 77x</intref> en
             <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77z">77z</intref> zijn toegepast. </al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77cc</nr>
@@ -7147,7 +7256,8 @@ tweede en derde lid.</al>
             bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77">artikel 77aa</intref>, tweede lid, geven, wijzigen of opheffen.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">77cca</nr>
@@ -7221,7 +7331,8 @@ oordelen over de vordering tot tenuitvoerlegging ambtshalve, op verzoek
 van de veroordeelde of op vordering van het openbaar ministerie, worden
 opgeheven.</al>
                      </lid>
-                  </artikel><artikel status="goed">
+                  </artikel>
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77dd</nr>
@@ -7289,7 +7400,8 @@ lid, en zesde lid</extref>, <extref status="actief" doc="1.0:v:BWBR0001903&amp;a
 overeenkomstige
 toepassing.</al>
                      </lid></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77ee</nr>
@@ -7324,7 +7436,8 @@ lid</intref>,
             bereikt, dan is tevens <extref status="actief" doc="1.0:v:BWBR0001903&amp;artikel=503" compleet="nee">artikel 503</extref> van toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">77ff</nr>
@@ -7376,7 +7489,8 @@ b</intref>.</al></li></lijst>
             het leerproject daartoe aanleiding geeft.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>77gg</nr>
@@ -7397,7 +7511,8 @@ b</intref>.</al></li></lijst>
             met betrekking tot straffen van toepassing.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
                   <kop>
                     <label>Artikel</label>
                     <nr status="officieel">77hh</nr>
@@ -7417,8 +7532,11 @@ kinderbescherming de stichting inschakelen voor vrijwillige begeleiding
 van een
 jeugdige.</al></lid></artikel>
     
+
     
+
     
+
 </titeldeel><titeldeel status="goed">
     <kop>
         <label>Titel</label>
@@ -7426,7 +7544,8 @@ jeugdige.</al></lid></artikel>
         <titel status="officieel">Betekenis van sommige in het wetboek
             voorkomende uitdrukkingen</titel>
     </kop>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>78</nr>
@@ -7438,7 +7557,8 @@ jeugdige.</al></lid></artikel>
         poging tot en voorbereiding van dat misdrijf begrepen, voorzover
         niet uit enige bepaling het tegendeel volgt.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr status="officieel">78a</nr></kop>
+    
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">78a</nr></kop>
 <lid><lidnr status="officieel">1</lidnr><al>Waar in dit wetboek de bevoegdheid wordt
 gegeven tot het horen, verhoren of ondervragen van personen, wordt
 daaronder, met uitzondering van bij algemene maatregel van bestuur te
@@ -7462,11 +7582,13 @@ omtrent:</al><lijst level="single" nr-sluiting="." start="1" type="expliciet"><l
 dient te voldoen, onder meer met het oog op de onschendbaarheid van
 vastgelegde waarnemingen;</al></li><li> <li.nr>b.</li.nr><al>de
 controle op de naleving van de eisen, bedoeld onder
-a.</al></li></lijst></lid></artikel><artikel status="goed"><kop><label>Artikel</label><nr status="officieel">78b</nr></kop>
+a.</al></li></lijst></lid></artikel>
+<artikel status="goed"><kop><label>Artikel</label><nr status="officieel">78b</nr></kop>
 <al>Waar van veroordeling wordt gesproken wordt daaronder een
 strafbeschikking begrepen, voorzover niet uit enige bepaling het
 tegendeel
-volgt.</al></artikel><artikel status="goed">
+volgt.</al></artikel>
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">78c</nr>
@@ -7477,7 +7599,8 @@ verstaan een voorafgegane of vroegere onherroepelijke veroordeling door
 een strafrechter in een andere lidstaat van de Europese
 Unie wegens soortgelijke
 feiten.</al>
-                  </artikel><artikel status="goed">
+                  </artikel>
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>79</nr>
@@ -7487,9 +7610,11 @@ feiten.</al>
         zich door een begin van uitvoering, in de zin van
             <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=45">artikel 45</intref>, heeft geopenbaard.</al>
 </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>80</nr></kop><al>Samenspanning bestaat zodra twee of meer personen overeengekomen
+    
+<artikel status="goed"><kop><label>Artikel</label><nr>80</nr></kop><al>Samenspanning bestaat zodra twee of meer personen overeengekomen
         zijn om het misdrijf te plegen.</al></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>80bis</nr>
@@ -7499,7 +7624,8 @@ feiten.</al>
         wijze veranderen van de grondwettige regeringsvorm of de orde
         van troonopvolging.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>80ter</nr>
@@ -7508,7 +7634,8 @@ feiten.</al>
     <al>Onder verboden plaats wordt verstaan iedere plaats die als
         verboden plaats is aangewezen ingevolge de <extref status="actief" doc="1.0:v:BWBR0002074" compleet="nee">Wet bescherming staatsgeheimen</extref>.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>80quater</nr>
@@ -7522,7 +7649,8 @@ feiten.</al>
             <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=68" compleet="nee">artikel 68 van de
         Kernenergiewet</extref> gestelde regelen gelden.</al>
 </artikel>
-    <artikel status="goed"> 
+    
+<artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr>80quinquies</nr> 
@@ -7531,7 +7659,8 @@ feiten.</al>
 	 instructies, op een overeengekomen wijze, geschikt voor overdracht,
 	 interpretatie of verwerking door personen of geautomatiseerde werken.</al>
 </artikel>
-    <artikel status="goed"> 
+    
+<artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr>80sexies</nr> 
@@ -7540,7 +7669,8 @@ feiten.</al>
 	 om langs elektronische weg gegevens op te slaan, te verwerken en over te
 dragen.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>81</nr>
@@ -7549,7 +7679,8 @@ dragen.</al>
     <al>Met het plegen van geweld wordt gelijkgesteld het brengen in een
         staat van bewusteloosheid of onmacht.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>82</nr>
@@ -7570,7 +7701,8 @@ dragen.</al>
             geduurd heeft.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>82a</nr>
@@ -7580,7 +7712,8 @@ dragen.</al>
         redelijkerwijs verwacht mag worden in staat is buiten het
         moederlichaam in leven te blijven.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
               <kop>
                 <label>Artikel</label>
                 <nr status="officieel">83</nr>
@@ -7604,12 +7737,14 @@ munitie</extref>, <extref status="actief" doc="1.0:v:BWBR0002063&amp;artikel=6" 
 gebruik</extref> en <extref status="actief" doc="1.0:v:BWBR0002402&amp;artikel=79" compleet="nee">artikel 79 van de Kernenergiewet</extref>.</al>
                 </li></lijst>
             </artikel>
-    <artikel status="goed"><kop><label>Artikel</label><nr>83a</nr></kop><al>Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking
+    
+<artikel status="goed"><kop><label>Artikel</label><nr>83a</nr></kop><al>Onder terroristisch oogmerk wordt verstaan het oogmerk om de bevolking
 of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel
 een overheid of internationale organisatie wederrechtelijk te dwingen iets
 te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele,
 economische of sociale structuren van een land of een internationale organisatie
-ernstig te ontwrichten of te vernietigen.</al></artikel><artikel status="goed">
+ernstig te ontwrichten of te vernietigen.</al></artikel>
+<artikel status="goed">
                      <kop>
                         <label>Artikel</label>
                         <nr status="officieel">83b</nr>
@@ -7622,7 +7757,9 @@ onderdeel 6&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;a
 jo. <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=312">312, tweede lid, onder 5&#xB0;</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=318">318, tweede lid</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=322a">322a</intref>, <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=326">326, tweede
 lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a">354a, eerste lid</intref>.</al>
                   </artikel>
-    <artikel status="goed">
+
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>84</nr>
@@ -7645,7 +7782,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
             ambtenaar beschouwd.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>84bis</nr>
@@ -7654,7 +7792,9 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
     <al>Onder koopman wordt verstaan ieder die een bedrijf uitoefent.</al>
 </artikel>
     
-    <artikel status="goed">
+
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>85</nr>
@@ -7683,7 +7823,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
             vaartuigen of schepen aangemerkt.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>86</nr>
@@ -7695,7 +7836,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
         vergunningen tot het voeren van de Nederlandse vlag als
         zeeschepen worden aangemerkt.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>86a</nr>
@@ -7740,7 +7882,14 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
             tweede lid.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">86b</nr>
+                     <al><redactie type="extra">Treedt in werking per 01-07-2014</redactie></al></kop>
+                     <al>Voor de toepassing van <intref status="actief" doc="1.0:v:BWBR0001854&amp;titeldeel=I">Titel I van dit Boek</intref> wordt onder het hebben van een vaste woon- of verblijfplaats in Nederland verstaan het rechtmatig verblijven in Nederland gedurende een onafgebroken periode van vijf jaar of langer.</al>
+                  </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>87</nr>
@@ -7763,7 +7912,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
             dienst worden gehouden.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>87a</nr>
@@ -7772,7 +7922,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
     <al>Onder een bevriende staat wordt verstaan een buitenlandse
         mogendheid waarmede Nederland niet in een gewapend conflict is gewikkeld.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">87b</nr>
@@ -7807,7 +7958,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
             het tweede lid genoemde verdrag.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>88</nr>
@@ -7818,7 +7970,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
         behoudens voor de toepassing van de <extref status="actief" doc="1.0:v:BWBR0002448" compleet="nee">Algemene
         termijnenwet</extref>, een tijd van vierentwintig uren.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>89</nr>
@@ -7827,7 +7980,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
     <al>Onder inklimming wordt begrepen ondergraving, alsmede het
         overschrijden van sloten of grachten tot afsluiting dienende.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90</nr>
@@ -7836,7 +7990,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
     <al>Onder valse sleutels worden begrepen alle tot opening van het
         slot niet bestemde werktuigen.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90bis</nr>
@@ -7854,7 +8009,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
             genaamd, waarmede kennelijk hetzelfde wordt beoogd.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90ter</nr>
@@ -7873,7 +8029,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
             en telefoonwerken.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90quater</nr>
@@ -7887,7 +8044,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
         economisch, sociaal of cultureel terrein of op andere terreinen
         van het maatschappelijk leven, wordt teniet gedaan of aangetast.</al>
 </artikel>
-    <artikel status="goed"> 
+    
+<artikel status="goed"> 
   <kop> 
 	 <label>Artikel</label> 
 	 <nr status="officieel">90quinquies</nr> 
@@ -7910,7 +8068,8 @@ lid</intref>, en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=354a
 		Ministerie van Justitie komen.</al> 
   </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90sexies</nr>
@@ -7933,7 +8092,8 @@ pati&#xEB;nten;</al>
         </li>
     </lijst>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90septies</nr>
@@ -7942,7 +8102,8 @@ pati&#xEB;nten;</al>
     <al>Onder psychiater wordt verstaan een arts die bevoegd is de titel
         van psychiater of zenuwarts te voeren.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>90octies</nr>
