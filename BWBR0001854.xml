@@ -2393,12 +2393,12 @@ strafbeschikking of het vonnis of
         <lidnr status="officieel">4</lidnr>
         <al>Er zijn zes
 categorie&#xEB;n:</al><al>de eerste categorie,
-&#x20AC; 335 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;390.</redactie>;</al><al>de tweede categorie,
-&#x20AC; 3 350 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;3&#xA0;900.</redactie>;</al><al>de derde categorie,
-&#x20AC; 6 700 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;7&#xA0;800.</redactie>;</al><al>de vierde categorie,
-&#x20AC; 16 750 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;19&#xA0;500.</redactie>;</al><al>de vijfde categorie,
-&#x20AC; 67 000 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;78&#xA0;000.</redactie>;</al><al>de zesde categorie,
-&#x20AC; 670 000 <redactie type="extra">Per 1 januari 2012: &#x20AC;&#xA0;780&#xA0;000.</redactie>.</al>
+&#x20AC; 335 <redactie type="extra">Per 1 januari 2014: &#x20AC;&#xA0;405.</redactie>;</al><al>de tweede categorie,
+&#x20AC; 3 350 <redactie type="extra">Per 1 januari 2014: &#x20AC;&#xA0;4.050.</redactie>;</al><al>de derde categorie,
+&#x20AC; 6 700 <redactie type="extra">Per 1 januari 2014: &#x20AC;&#xA0;8.100.</redactie>;</al><al>de vierde categorie,
+&#x20AC; 16 750 <redactie type="extra">Per 1 januari 2014: &#x20AC;&#xA0;20.250.</redactie>;</al><al>de vijfde categorie,
+&#x20AC; 67 000 <redactie type="extra">Per 1 januari 2014: &#x20AC;&#xA0;81.000.</redactie>;</al><al>de zesde categorie,
+&#x20AC; 670 000 <redactie type="extra">Per 1 januari 2014: &#x20AC;&#xA0;810.000.</redactie>.</al>
     </lid>
     <lid>
         <lidnr status="officieel">5</lidnr>
@@ -3240,9 +3240,7 @@ betalingsverplichting.</al>
                      </lid><lid>
         <lidnr status="officieel">8</lidnr>
         <al> Bij de bepaling van de omvang van het bedrag waarop het
-            wederrechtelijk verkregen voordeel wordt geschat, worden aan
-            benadeelde derden in rechte toegekende vorderingen in
-            mindering gebracht.</al>
+            wederrechtelijk verkregen voordeel wordt geschat, worden aan benadeelde derden in rechte toegekende vorderingen alsmede de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer als bedoeld in <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=36f">artikel 36f</intref> voor zover die zijn voldaan, in mindering gebracht.</al>
     </lid>
     
     <lid>
@@ -3267,7 +3265,7 @@ betalingsverplichting.</al>
     <lid>
         <lidnr status="officieel">1</lidnr>
         <al>Aan degene die bij rechterlijke uitspraak wegens
-een strafbaar feit wordt veroordeeld of waarbij door de
+een strafbaar feit wordt veroordeeld tot een straf of aan wie bij rechterlijke uitspraak een maatregel of een last als bedoeld in artikel 37 wordt opgelegd, of waarbij door de
 rechter bij de strafoplegging rekening is gehouden met een strafbaar
 feit, waarvan in de dagvaarding is meegedeeld dat het door de verdachte
 is erkend en ter kennis van de rechtbank wordt
@@ -3295,21 +3293,23 @@ opgelegd indien en voor zover
             maatregelen worden opgelegd.</al>
     </lid>
     <lid>
-        <lidnr status="officieel">4</lidnr>
+                        <lidnr status="officieel">4</lidnr>
+                        <al>Betalingen door de veroordeelde aan de staat verricht, strekken in de eerste plaats tot voldoening van de maatregel en vervolgens tot voldoening van een opgelegde boete.</al>
+                     </lid><lid>
+        <lidnr status="officieel">5</lidnr>
         <al> De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24a">artikelen 24a</intref> en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24b">24b, eerste tot en met vierde
             lid</intref>, zijn van overeenkomstige toepassing,
             met dien verstande dat de verhoging van het ingevolge de
             maatregel verschuldigde bedrag vervalt aan de staat.</al>
     </lid>
     <lid>
-        <lidnr status="officieel">5</lidnr>
+        <lidnr status="officieel">6</lidnr>
         <al> Betalingen door de veroordeelde aan de staat verricht,
             strekken in de eerste plaats tot voldoening van de maatregel
-            en vervolgens tot voldoening van de krachtens het vierde lid
-            ingetreden verhogingen.</al>
+            en vervolgens tot voldoening van de krachtens het vijfde lid ingetreden verhogingen.</al>
     </lid>
     <lid>
-                     <lidnr status="officieel">6</lidnr>
+                     <lidnr status="officieel">7</lidnr>
                      <al> Indien
 de veroordeelde voor een misdrijf niet of niet volledig binnen acht
 maanden na de dag waarop het vonnis of arrest, waarbij de maatregel
@@ -3327,7 +3327,7 @@ bedrag, alsmede de krachtens het vierde lid ingetreden verhogingen, op
 de veroordeelde.</al>
                   </lid>
     <lid>
-        <lidnr status="officieel">7</lidnr>
+        <lidnr status="officieel">8</lidnr>
         <al>De <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=24c">artikelen 24c</intref>
             en <intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=77l">77l, tweede tot en met zesde
             lid</intref>, zijn van overeenkomstige toepassing,
