@@ -130,9 +130,9 @@
         </li>
         <li>
             <li.nr>o.</li.nr>
-            <al>verzamelen van persoonsgegevens: het verkrijgen van persoonsgegevens.</al>
+            <al>verzamelen van persoonsgegevens: het verkrijgen van persoonsgegevens;</al>
         </li>
-    </lijst>
+    <li><li.nr>p.</li.nr><al>de Kaderwet: de <extref status="actief" doc="1.0:v:BWBR0020495" compleet="nee">Kaderwet zelfstandige bestuursorganen</extref>.</al></li></lijst>
 </artikel>
     <artikel status="goed"> 
   <kop> 
@@ -2152,11 +2152,11 @@ wet</extref> van toepassing.</al>
 <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>51</nr>
+        <nr status="officieel">51</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Er is een College bescherming persoonsgegevens dat tot taak
             heeft toe te zien op de verwerking van persoonsgegevens
             overeenkomstig het bij en krachtens de wet bepaalde. Tevens
@@ -2167,13 +2167,16 @@ wet</extref> van toepassing.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>Het College wordt om advies gevraagd over voorstellen van
             wet en ontwerpen van algemene maatregelen van bestuur die
             geheel of voor een belangrijk deel betrekking hebben op de
             verwerking van persoonsgegevens.</al>
     </lid>
-</artikel>
+<lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al>De <extref status="actief" doc="1.0:v:BWBR0020495" compleet="nee">Kaderwet</extref> is van toepassing op het College, behoudens de in deze wet genoemde uitzonderingen.</al>
+                        </lid></artikel>
     
 <artikel status="goed">
     <kop>
@@ -2199,7 +2202,7 @@ wet</extref> van toepassing.</al>
     
     <lid>
         <lidnr status="officieel">1</lidnr>
-        <al>Het College bestaat uit een voorzitter en twee andere leden.
+        <al>Het College bestaat uit een voorzitter en ten hoogste twee andere leden.
             Bij het College kunnen voorts buitengewone leden worden
             benoemd. Bij de benoeming van buitengewone leden wordt
             spreiding over de onderscheidene sectoren van de
@@ -2213,15 +2216,9 @@ wet</extref> van toepassing.</al>
             gestelde vereisten voor benoembaarheid tot rechter in een rechtbank.</al>
     </lid>
     <lid>
-        <lidnr status="officieel">3</lidnr>
-        <al>De voorzitter wordt bij koninklijk besluit, op voordracht
-            van Onze Minister, benoemd voor een tijdvak van zes jaar. De
-            andere twee leden en de buitengewone leden worden bij
-            koninklijk besluit, op voordracht van Onze Minister, benoemd
-            voor een tijdvak van vier jaar. De leden kunnen terstond
-            worden herbenoemd. Op eigen verzoek worden zij door Onze
-            Minister ontslagen.</al>
-    </lid>
+                           <lidnr status="officieel">3</lidnr>
+                           <al>De voorzitter, de andere leden en de buitengewone leden worden bij koninklijk besluit, op voordracht van Onze Minister, benoemd voor een tijdvak van vijf jaar. De leden kunnen eenmaal worden herbenoemd voor een tijdvak van vijf jaar. Op eigen verzoek worden zij door Onze Minister ontslagen. <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=12" compleet="nee">Artikel 12 van de Kaderwet</extref> is niet van toepassing.</al>
+                        </lid>
     
     <lid>
         <lidnr status="officieel">4</lidnr>
@@ -2243,15 +2240,9 @@ wet</extref> van toepassing.</al>
         <nr status="officieel">54</nr>
     </kop>
     
-    <lid>
-        <lidnr status="officieel">1</lidnr>
-        <al>Aan een lid wordt bij koninklijk besluit, op voordracht van
-            Onze Minister, ontslag verleend met ingang van de eerste
-            maand volgend op die waarin hij de pensioengerechtigde leeftijd, bedoeld in <extref status="actief" doc="1.0:v:BWBR0002221&amp;artikel=7a" compleet="nee">artikel 7a, eerste lid, van de Algemene Ouderdomswet</extref>, bereikt.</al>
-    </lid>
-    <lid>
-        <lidnr status="officieel">2</lidnr>
-        <al>De <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=46c" compleet="nee">artikelen 46c</extref>,
+    
+    
+<al>De <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=46c" compleet="nee">artikelen 46c</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=46d" compleet="nee">46d, tweede lid</extref>,
                 <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=46f" compleet="nee">46f</extref>, <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=46g" compleet="nee">46g</extref>, <extref status="actief" doc="1.0:v:BWBR0008365&amp;artikel=46i" compleet="nee">46i, met uitzondering van het
                 eerste lid, onderdeel c</extref>,
@@ -2275,53 +2266,36 @@ wet</extref> van toepassing.</al>
                     inlichting of schriftelijk stuk van hen aan te nemen
                     niet op de leden van het College van toepassing is.</al>
             </li>
-        </lijst>
-    </lid>
+        </lijst><al><extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=12" compleet="nee">Artikel 12, tweede lid, van de Kaderwet</extref> is niet van toepassing.</al></artikel>
+    
+<artikel status="goed">
+    <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">55</nr>
+                        </kop>
+    
+    <al>De rechtspositie van de voorzitter, de andere leden en de buitengewone leden wordt geregeld bij ministeri&#xEB;le regeling.</al>
 </artikel>
     
 <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>55</nr>
+        <nr status="officieel">56</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>De voorzitter en de andere twee leden genieten een
-            bezoldiging voor hun werkzaamheden. De buitengewone leden
-            genieten een zittingsgeld. Hun rechtspositie wordt nader
-            geregeld bij algemene maatregel van bestuur.</al>
-    </lid>
-    
-    <lid>
-        <lidnr>2</lidnr>
-        <al>De voorzitter en de andere twee leden mogen zonder
-            toestemming van Onze Minister geen andere werkzaamheden
-            verrichten waarvoor een beloning wordt genoten indien deze
-            werkzaamheden door hun aard of omvang onverenigbaar zijn met
-            hun werkzaamheden voor het College. </al>
-    </lid>
-</artikel>
-    
-<artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>56</nr>
-    </kop>
-    
-    <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Het College heeft een secretariaat, waarvan de ambtenaren
             door Onze Minister, op voordracht van de voorzitter, worden
             benoemd, geschorst en ontslagen.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De voorzitter geeft leiding aan de werkzaamheden van het
             College en van het secretariaat.</al>
     </lid>
     <lid>
-        <lidnr>3</lidnr>
+        <lidnr status="officieel">3</lidnr>
         <al>Het College stelt een bestuursreglement vast. Dit bevat in
             ieder geval regels over het financi&#xEB;le beheer en de
             administratieve organisatie, alsmede over werkwijzen en
@@ -2332,26 +2306,22 @@ wet</extref> van toepassing.</al>
             College. Tevens kan het een nadere regeling geven van de
             Raad van advies, als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=53">artikel 53, vierde lid</intref>.</al>
     </lid>
-    <lid>
-        <lidnr>4</lidnr>
-        <al>Het reglement alsmede elke wijziging daarvan wordt zo
-            spoedig mogelijk gezonden aan Onze Minister en behoeft diens goedkeuring.</al>
-    </lid>
+    
 </artikel>
     
 <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>57</nr>
+        <nr status="officieel">57</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
+        <lidnr status="officieel">1</lidnr>
         <al>Het College wordt vertegenwoordigd door de voorzitter en de
-            twee andere leden, dan wel door een van hen.</al>
+            andere leden, dan wel door een van hen.</al>
     </lid>
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al>De leden stellen een verdeling van taken vast en betrekken
             hierbij zoveel mogelijk de buitengewone leden.</al>
     </lid>
@@ -2360,45 +2330,26 @@ wet</extref> van toepassing.</al>
 <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>58</nr>
+        <nr status="officieel">58</nr>
     </kop>
     
-    <al>Het College stelt jaarlijks v&#xF3;&#xF3;r 1 september een verslag op van
-        de werkzaamheden, het gevoerde beleid in het algemeen en de
-        doelmatigheid en doeltreffendheid van zijn werkwijze in het
-        bijzonder in het afgelopen kalenderjaar. Het verslag wordt aan
-        Onze Minister en aan de functionarissen voor de
-        gegevensbescherming als bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=62">artikel 62</intref> toegezonden en
-        algemeen verkrijgbaar gesteld.</al>
+    <al>Het jaarverslag, bedoeld in <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=18" compleet="nee">artikel 18 van de Kaderwet</extref>, wordt toegezonden aan de functionarissen voor de gegevensbescherming, bedoeld in <intref status="actief" doc="1.0:v:BWBR0011468&amp;artikel=62">artikel 62</intref>, en algemeen verkrijgbaar gesteld.</al>
 </artikel>
     
 <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>59</nr>
+        <nr status="officieel">59</nr>
     </kop>
     
-    <lid>
-        <lidnr>1</lidnr>
-        <al>Het College verstrekt desgevraagd aan Onze Minister de voor
-            de uitoefening van zijn taak benodigde inlichtingen. Onze
-            Minister kan inzage vorderen van zakelijke gegevens en
-            bescheiden, voor zover dat voor de vervulling van zijn taak
-            nodig is.</al>
-    </lid>
-    <lid>
-        <lidnr>2</lidnr>
-        <al>Het eerste lid is niet van toepassing indien het College de
-            informatie van derden heeft verkregen onder de voorwaarde
-            dat het geheime karakter daarvan wordt gehandhaafd.</al>
-    </lid>
+    <al><extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=20" compleet="nee">Artikel 20 van de Kaderwet</extref> is niet van toepassing indien het College de informatie van derden heeft verkregen onder de voorwaarde dat het geheime karakter daarvan wordt gehandhaafd.</al>
 </artikel>
     
 <artikel status="goed">
                         <kop>
                            <label>Artikel</label>
                            <nr status="officieel">59a</nr>
-                        <al><redactie type="extra">Treedt in werking per 01-01-2014</redactie></al></kop>
+                        </kop>
                         <lid>
                            <lidnr status="officieel">1</lidnr>
                            <al>De <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=21" compleet="nee">artikelen 21</extref> en <extref status="actief" doc="1.0:v:BWBR0020495&amp;artikel=22" compleet="nee">22 van de Kaderwet</extref> zijn niet van toepassing op het College.</al>
@@ -2631,14 +2582,6 @@ bepaalde.</al>
 boete wordt
         opgeschort totdat de bezwaartermijn is verstreken of, indien
         bezwaar is gemaakt, op het bezwaar is beslist.</al>
-</artikel><artikel status="goed">
-    <kop>
-        <label>Artikel</label>
-        <nr>74</nr>
-    </kop>
-    
-    <al>Onze Minister kan beleidsregels vaststellen over de uitoefening
-        van de bevoegdheid van het College tot de oplegging van boeten.</al>
 </artikel></paragraaf>
     <paragraaf>
     <kop>
