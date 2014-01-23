@@ -12749,26 +12749,26 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>231</nr>
+        <nr status="officieel">231</nr>
     </kop>
     
     <lid>
-        <lidnr>1</lidnr>
-        <al>Hij die een reisdocument valselijk opmaakt of vervalst, of
+        <lidnr status="officieel">1</lidnr>
+        <al>Hij die een reisdocument of Nederlandse identiteitskaart valselijk opmaakt of vervalst, of
             een zodanig stuk op grond van valse gegevens doet
             verstrekken dan wel een aan hem of een ander verstrekt
-            reisdocument ter beschikking stelt van een derde, met het
+            reisdocument of Nederlandse identiteitskaart ter beschikking stelt van een derde, met het
             oogmerk het door deze te doen gebruiken als ware het aan hem
             verstrekt, wordt gestraft met gevangenisstraf van ten
             hoogste zes jaren of geldboete van de vijfde categorie.</al>
     </lid>
     
     <lid>
-        <lidnr>2</lidnr>
+        <lidnr status="officieel">2</lidnr>
         <al> Met dezelfde straf wordt gestraft hij die in het bezit is
-            van een reisdocument waarvan hij weet of redelijkerwijs moet
+            van een reisdocument of Nederlandse identiteitskaart waarvan hij weet of redelijkerwijs moet
             vermoeden, dat het vals of vervalst is, dan wel opzettelijk
-            gebruik maakt van een niet op zijn naam gesteld reisdocument.</al>
+            gebruik maakt van een niet op zijn naam gesteld reisdocument of Nederlandse identiteitskaart.</al>
     </lid>
 </artikel>
     <artikel status="goed">
@@ -18642,14 +18642,14 @@ Maarten of een buitenlandse mogendheid
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>440</nr>
+        <nr status="officieel">440</nr>
     </kop>
     
     
     <al>Hij die drukwerken of andere voorwerpen in een vorm die ze op
         munt- of bankbiljetten, op muntspeci&#xEB;n, op van rijksmerken
         voorziene platina, gouden of zilveren werken, op postzegels of
-        op reisdocumenten doet gelijken, vervaardigt, ontvangt, zich
+        op reisdocumenten of Nederlandse identiteitskaarten doet gelijken, vervaardigt, ontvangt, zich
         verschaft, in voorraad heeft, vervoert, invoert, doorvoert of
         uitvoert, wordt gestraft met geldboete van de tweede categorie.</al>
 </artikel>
@@ -18898,11 +18898,11 @@ veiligheidsregio of de
     <artikel status="goed">
     <kop>
         <label>Artikel</label>
-        <nr>447b</nr>
+        <nr status="officieel">447b</nr>
     </kop>
     
     
-    <al>Hij die een reisdocument dat in zijn bezit is, maar waarvan hij
+    <al>Hij die een reisdocument of Nederlandse identiteitskaart dat in zijn bezit is, maar waarvan hij
         niet de houder is, of dat ingevolge een wettelijke bepaling moet
         worden ingeleverd, niet terstond wanneer hem dit mondeling door
         een daartoe bevoegde ambtenaar is bevolen, dan wel binnen
