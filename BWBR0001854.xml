@@ -12482,14 +12482,15 @@ Maarten, een buitenlandse
             en 4&#xB0;</intref>, vermelde rechten worden uitgesproken.</al>
 </artikel>
 </titeldeel>
-    <titeldeel>
+    <titeldeel status="goed">
     <kop>
         <label>Titel</label>
-        <nr>XII</nr>
+        <nr status="officieel">XII</nr>
         <titel status="officieel">Valsheid in geschriften, opgave van
             onware gegevens en schending van de verplichting gegevens te verstrekken</titel>
     </kop>
-    <artikel status="goed"><kop><label>Artikel</label><nr>225</nr></kop><lid><lidnr>1</lidnr><al>Hij die een geschrift dat bestemd is om tot bewijs van enig
+    
+<artikel status="goed"><kop><label>Artikel</label><nr>225</nr></kop><lid><lidnr>1</lidnr><al>Hij die een geschrift dat bestemd is om tot bewijs van enig
             feit te dienen, valselijk opmaakt of vervalst, met het
             oogmerk om het als echt en onvervalst te gebruiken of door
             anderen te doen gebruiken, wordt als schuldig aan valsheid
@@ -12502,7 +12503,8 @@ Maarten, een buitenlandse
             voor zodanig gebruik.</al></lid><lid><lidnr status="officieel">3</lidnr><al>Indien een feit, omschreven in het eerste of tweede lid, wordt gepleegd
 met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk
 te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.</al></lid></artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>226</nr>
@@ -12552,7 +12554,8 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
             geschrift bestemd is voor zodanig gebruik.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>227</nr>
@@ -12579,7 +12582,8 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
             zodanig gebruik.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>227a</nr>
@@ -12597,7 +12601,8 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
         gevangenis straf van ten hoogste vier jaren of geldboete van de
         vijfde categorie.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>227b</nr>
@@ -12614,7 +12619,8 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
         gestraft met gevangenisstraf van ten hoogste vier jaren of
         geldboete van de vijfde categorie.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>228</nr>
@@ -12644,7 +12650,8 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
             overeenstemming met de waarheid.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>229</nr>
@@ -12668,7 +12675,8 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
             als ware zij echt en onvervalst.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>230</nr>
@@ -12692,7 +12700,8 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
             vervalst getuigschrift als ware het echt en onvervalst.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">231</nr>
@@ -12717,7 +12726,31 @@ te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.<
             gebruik maakt van een niet op zijn naam gesteld reisdocument of Nederlandse identiteitskaart.</al>
     </lid>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">231a</nr>
+                     <al><redactie type="extra">Treedt in werking op een nader te bepalen tijdstip</redactie></al></kop>
+                     <lid>
+                        <lidnr status="officieel">1</lidnr>
+                        <al>Hij die biometrische kenmerken of biometrische persoonsgegevens valselijk opmaakt of vervalst met het oogmerk om deze als echt en onvervalst te gebruiken of te doen gebruiken in gevallen waarin die kenmerken of persoonsgegevens worden gebruikt voor het vaststellen van iemands identiteit, teneinde zijn identiteit te verhelen of de identiteit van een ander te verhelen of misbruiken, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">2</lidnr>
+                        <al>Met dezelfde straf wordt gestraft hij die in gevallen waarin biometrische kenmerken of biometrische persoonsgegevens worden gebruikt voor het vaststellen van iemands identiteit, opzettelijk gebruik maakt van valse of vervalste biometrische kenmerken of biometrische persoonsgegevens als waren deze echt en onvervalst met het oogmerk om zijn identiteit te verhelen of de identiteit van een ander te misbruiken of opzettelijk gebruik maakt van biometrische kenmerken of biometrische persoonsgegevens van een ander met het oogmerk om de verdenking van een strafbaar feit op de ander of niet op hem te doen ontstaan.</al>
+                     </lid>
+                     <lid>
+                        <lidnr status="officieel">3</lidnr>
+                        <al><intref status="actief" doc="1.0:v:BWBR0001854&amp;artikel=225">Artikel 225, derde lid</intref>, is van overeenkomstige toepassing.</al>
+                     </lid>
+                  </artikel><artikel status="goed">
+                     <kop>
+                        <label>Artikel</label>
+                        <nr status="officieel">231b</nr>
+                     <al><redactie type="extra">Treedt in werking op een nader te bepalen tijdstip</redactie></al></kop>
+                     <al>Hij die opzettelijk en wederrechtelijk identificerende persoonsgegevens, niet zijnde biometrische persoonsgegevens, van een ander gebruikt met het oogmerk om zijn identiteit te verhelen of de identiteit van de ander te verhelen of misbruiken, waardoor uit dat gebruik enig nadeel kan ontstaan, wordt gestraft met een gevangenisstraf van ten hoogste vijf jaren of geldboete van de vijfde categorie.</al>
+                  </artikel><artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">232</nr>
@@ -12746,7 +12779,9 @@ zodanig
 gebruik.</al></lid>
 </artikel>
     
-    <artikel status="goed">
+
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr>234</nr>
@@ -12759,7 +12794,8 @@ zijn tot het plegen van enig in <intref status="actief" doc="1.0:v:BWBR0001854&a
 wordt gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete
 van de vierde categorie.</al>
 </artikel>
-    <artikel status="goed">
+    
+<artikel status="goed">
     <kop>
         <label>Artikel</label>
         <nr status="officieel">235</nr>
